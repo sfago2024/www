@@ -5,7 +5,14 @@
   <title>AGO 2024 San Francisco</title>
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <style>
+html {
+  margin: 0;
+  padding: 0;
+}
 body {
+  margin: 0;
+  padding: 0;
+  line-height: 1;
   font-family: sans-serif;
   font-size: 1.4em;
   text-align: center;
@@ -22,12 +29,49 @@ header img {
   max-width: 100%;
   min-width: 1.5in;
 }
+footer {
+  color: #808080;
+  font-size: 0.8em;
+  padding-bottom: 1em;
+}
+summary {
+  cursor: pointer;
+}
+.flex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 100vh;
+}
+.more-info {
+  height: 40vh;
+}
+.land-ack {
+  font-size: 0.8em;
+  max-width: 30em;
+}
+.land-ack p {
+  text-align: left;
+  padding: 0 5px;
+}
   </style>
 </head>
 <body>
-  <header>
-    <img src="img/logo.png" alt="AGO 2024 San Francisco logo">
-  </header>
-  <p>More information coming soon.</p>
+  <div class="flex">
+    <header>
+      <img src="img/logo.png" alt="AGO 2024 San Francisco logo">
+    </header>
+    <div class="more-info">
+      <p>More information coming soon.</p>
+    </div>
+    <footer>
+      <details class="land-ack">
+        <summary>Land Acknowledgement</summary>
+        <p>The Steering Committee for the SF AGO convention acknowledges that we are on the unceded ancestral homeland of the Ramaytush Ohlone who are the original inhabitants of the San Francisco Peninsula. The Ramaytush Ohlone are the  indigenous stewards of this land and in accordance with their traditions, they have not forgotten their responsibilities as the caretakers of this place, as well as for all peoples who reside in their traditional territory. As guests, we recognize that we benefit from living and working on their traditional homeland. We pay our respects by acknowledging the ancestors, elders and relatives of the Ramaytush Community and by affirming their sovereign rights as First Peoples.</p>
+        <p>— Drafted by Gregg Castro/Jonathan Cordero (Ramaytush Ohlone); edited by the SF AGO Steering Committee</p>
+      </details>
+    </footer>
+  </div>
 </body>
 </html>
