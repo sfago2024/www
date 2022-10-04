@@ -1,0 +1,73 @@
+html, body, p {
+  margin: 0;
+  padding: 0;
+}
+body {
+  line-height: 1;
+  font-family: sans-serif;
+  font-size: 1.4em;
+  text-align: center;
+}
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: end;
+  height: 25vh;
+}
+header img {
+  width: auto;
+  max-width: 100%;
+  min-width: 1.5in;
+}
+nav {
+  display: flex;
+}
+nav a {
+  display: block;
+  margin: 0 1em;
+}
+footer {
+  color: #808080;
+  font-size: 0.8em;
+  padding-bottom: 1em;
+}
+summary {
+  cursor: pointer;
+}
+.flex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 100vh;
+  gap: 1em;
+}
+.more-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 50vh;
+}
+.links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 1em;
+  padding: 0.5em 0;
+  margin-bottom: 1em;
+}
+.links a {
+  fill: #808080;
+}
+.links a:hover {
+  fill: #1e97be;
+}
+.land-ack {
+  font-size: 0.8em;
+  max-width: 30em;
+}
+.land-ack p {
+  text-align: left;
+  padding: 0 5px;
+}
