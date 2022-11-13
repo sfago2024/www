@@ -1,0 +1,8 @@
+base_url = "https://www.sfago2024.org"
+title = "AGO 2024 San Francisco"
+default_language = "en"
+compile_sass = true
+output_dir = "docs"
+
+[markdown]
+smart_punctuation = true
