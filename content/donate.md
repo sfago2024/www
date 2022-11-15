@@ -21,8 +21,8 @@ Make a secure, online donation using PayPal or your credit or debit card:
 </div>
 
 To learn more or to make a donation, please contact [Brian
-Larsen](#brian-larsen). DAF gifts and gifts of appreciated stock are welcome.
-You can mail checks to [Bill X](#bill-x).
+Larsen<svg width=16 height=16 xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M169.4 470.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 370.8 224 64c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 306.7L54.6 265.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z"/></svg>](#brian-larsen). DAF gifts and gifts of appreciated stock are welcome.
+You can mail checks to [Bill X<svg width=16 height=16 xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M169.4 470.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 370.8 224 64c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 306.7L54.6 265.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z"/></svg>](#bill-x).
 
 Please <span class="todo">[click here](#)</span> to learn more about the
 significant donor benefits that accrue at all giving levels over $600.  You can
@@ -32,7 +32,7 @@ in honor or in memory of.
 There are special opportunities to sponsor New Music Commissions, Artists,
 Venues, Receptions, and other convention related experiences. For more
 information about sponsorship please see our sponsorship opportunities by
-<span class="todo">[clicking here](#)</span> or contact [Brian Larsen](#brian-larsen).  We are
+<span class="todo">[clicking here](#)</span> or contact [Brian Larsen<svg width=16 height=16 xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M169.4 470.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 370.8 224 64c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 306.7L54.6 265.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z"/></svg>](#brian-larsen).  We are
 seeking your partnership to make this convention a once-in-a-generation event.
 
 Many companies have matching gifts programs.  Please check with your employer to
