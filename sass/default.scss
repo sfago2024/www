@@ -143,6 +143,7 @@ summary {
       visibility: hidden;
 
       color: var(--link-dim);
+      fill: var(--link-dim);
       font-size: 0.8em;
       text-decoration: none;
     }
@@ -191,6 +192,7 @@ h3 {
   border: solid 1px rgb(9.25%,38.6%,0.77%);
   box-shadow: inset 0 1px 0 0 rgb(36.67%,57.87%,28.97%);
   color: #ffffff;
+  display: inline-block;
   font-family: inherit;
   font-size: 1em;
   line-height: 2.4;
