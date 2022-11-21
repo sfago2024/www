@@ -80,6 +80,7 @@ nav {
       max-width: 80vw;
       top: calc(100% + 0.5rem);
       right: -10vw;
+      z-index: 5;
 
       background: var(--bg);
       box-shadow: 0 2px 15px -2px black;
