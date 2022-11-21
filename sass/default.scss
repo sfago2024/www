@@ -57,10 +57,37 @@ nav {
   display: flex;
   padding: 1rem 0;
   margin: 1rem 0;
-}
-nav a {
-  display: block;
-  margin: 0 1em;
+
+  & > * {
+    display: block;
+    margin: 0 1em;
+  }
+
+  summary {
+    color: var(--link);
+    font-weight: bold;
+    fill: var(--link);
+    text-decoration: underline;
+    list-style: none;
+  }
+
+  details {
+    position: relative;
+
+    & > div {
+      position: absolute;
+      width: 600%;
+      max-width: 80vw;
+      top: calc(100% + 0.5rem);
+      right: -10vw;
+
+      background: var(--bg);
+      box-shadow: 0 2px 15px -2px black;
+      border-radius: 1rem;
+
+      padding: 1em 1rem;
+    }
+  }
 }
 footer {
   color: #808080;
@@ -101,12 +128,16 @@ summary {
   column-gap: 1em;
   padding: 0.5em 0;
   margin-bottom: 1em;
-}
-.links a {
-  fill: #808080;
-}
-.links a:hover {
-  fill: #1e97be;
+  a {
+    fill: #808080;
+  }
+  a:hover {
+    fill: #1e97be;
+  }
+  svg {
+    width: 2em;
+    height: 2em;
+  }
 }
 .land-ack {
   font-size: 0.8em;
@@ -144,7 +175,6 @@ summary {
 
       color: var(--link-dim);
       fill: var(--link-dim);
-      font-size: 0.8em;
       text-decoration: none;
     }
     &:hover .anchor {
@@ -176,6 +206,30 @@ h2 {
 h3 {
   font-size: 1em;
   font-weight: bold;
+}
+
+svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em;
+}
+
+dl {
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  column-gap: 1rem;
+  row-gap: 1em;
+  align-items: center;
+  dt {
+    grid-column: 1;
+    font-weight: bold;
+    text-align: right;
+  }
+  dd {
+    grid-column: 2;
+    margin: 0;
+  }
 }
 
 .todo {
