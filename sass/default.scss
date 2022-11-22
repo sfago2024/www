@@ -317,14 +317,24 @@ dl {
     background-color: var(--bg-secondary);
     font-size: 0.9em;
     padding: 0 0.5rem;
+    padding-bottom: 1em;
+    @media (max-width: $mobile-width) {
+      padding-bottom: 0;
+    }
   }
   .left {
     grid-column: 1;
     grid-row: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
   }
   .right {
     grid-column: 3;
     grid-row: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
   }
 
   h2 {
