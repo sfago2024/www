@@ -17,7 +17,7 @@ venues to life.
 Make a secure, online donation using PayPal or your credit or debit card:
 
 <div class="centered">
-<a class="fancy-button" href="https://secure.lglforms.com/form_engine/s/XehW4ih6j88pR9ezLqcsiA" rel="external">Donate now</a>
+<a class="fancy-button" href="https://secure.lglforms.com/form_engine/s/eeqTdDjnVWroSixHUABwOA" rel="external">Donate now</a>
 </div>
 
 To learn more or to make a donation, please contact
