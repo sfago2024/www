@@ -76,7 +76,7 @@ nav {
 
     & > div {
       position: absolute;
-      width: 600%;
+      width: 460px;
       max-width: 80vw;
       top: calc(100% + 0.5rem);
       right: -10vw;
@@ -349,4 +349,8 @@ dl {
     height: 1.25em;
     vertical-align: -0.25em;
   }
+}
+
+.spacer {
+    height: 40vh;
 }
