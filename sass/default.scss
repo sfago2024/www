@@ -163,11 +163,22 @@ summary {
     margin: 1rem;
 
     &:target {
+      @keyframes blink {
+        0% { background-color: var(--bg-active); border-color: var(--border-active); box-shadow: 0 0 15px -5px var(--border-active); }
+        10% { background-color: var(--bg-active); border-color: var(--border-active); box-shadow: 0 0 15px -5px var(--border-active); }
+        20% { background-color: var(--bg); border-color: var(--bg); box-shadow: none; }
+        40% { background-color: var(--bg); border-color: var(--bg); box-shadow: none; }
+        50% { background-color: var(--bg-active); border-color: var(--border-active); box-shadow: 0 0 15px -5px var(--border-active); }
+        60% { background-color: var(--bg-active); border-color: var(--border-active); box-shadow: 0 0 15px -5px var(--border-active); }
+        70% { background-color: var(--bg); border-color: var(--bg); box-shadow: none; }
+        90% { background-color: var(--bg); border-color: var(--bg); box-shadow: none; }
+        100% { background-color: var(--bg-active); border-color: var(--border-active); box-shadow: 0 0 15px -5px var(--border-active); }
+      }
+      animation-duration: 1.25s;
+      animation-name: blink;
       background-color: var(--bg-active);
       border-color: var(--border-active);
-      transition-property: background-color border-color;
-      transition-duration: .4s;
-      transition-timing-function: cubic-bezier(.2,2.5,.8,-2.0);
+      box-shadow: 0 0 15px -5px var(--border-active);
     }
 
     .anchor {
@@ -352,5 +363,5 @@ dl {
 }
 
 .spacer {
-    height: 40vh;
+    height: 20vh;
 }
