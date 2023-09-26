@@ -1,5 +1,35 @@
 $mobile-width: 800px;
 
+@font-face {
+  font-family: "Mukta";
+  font-weight: 200;
+  src: local("Mukta"), url("/font/Mukta-ExtraLight.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Mukta";
+  font-weight: 300;
+  src: local("Mukta"), url("/font/Mukta-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Mukta";
+  font-weight: 400;
+  src: local("Mukta"), url("/font/Mukta-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Mukta";
+  font-weight: 600;
+  src: local("Mukta"), url("/font/Mukta-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Mukta";
+  font-weight: 800;
+  src: local("Mukta"), url("/font/Mukta-ExtraBold.ttf") format("truetype");
+}
+
 html {
   --bg: #e8e8e8;
   --bg-active: #d8f0f8;
@@ -25,8 +55,9 @@ p {
 
 body {
   line-height: 1;
-  font-family: sans-serif;
-  font-size: 1.2em;
+  font-family: "Mukta", sans-serif;
+  font-weight: 300;
+  font-size: 1.2rem;
 }
 
 .logo-and-date {
@@ -59,7 +90,7 @@ body {
   .dates {
     color: rgb(40.75% 41.51% 43.02%);
     font-size: 3em;
-    font-weight: 600;
+    font-weight: 800;
     padding-top: 0.2em;
     text-transform: uppercase;
 
@@ -68,13 +99,13 @@ body {
     }
 
     @media (max-width: 600px) {
-      font-size: 1.2em;
-      font-weight: 900;
+      font-size: 1.3em;
+      font-weight: 800;
       padding-top: 0.5em;
     }
 
     @media (min-width: 601px) {
-      line-height: 0.85;
+      line-height: 0.8;
 
       time {
         vertical-align: middle;
@@ -84,8 +115,8 @@ body {
         text-align: center;
 
         span {
-          font-size: 0.45em;
-          font-weight: 900;
+          font-size: 0.6em;
+          font-weight: 800;
         }
       }
     }
@@ -105,7 +136,7 @@ body {
 
 .main-menu {
   background-color: var(--bg-dark);
-  padding: 0.25em;
+  padding: 0em;
   margin-bottom: 1rem;
 
   display: flex;
@@ -118,12 +149,18 @@ body {
     display: block;
     margin: 0;
     padding: 0.75em 0.75em;
+
+    transition: background-color 0.15s ease-out;
+
+    &:hover {
+      background-color: var(--bg-active);
+      transition-duration: 0s;
+    }
   }
 }
 
 footer {
   color: #808080;
-  font-size: 0.8em;
   padding-bottom: 1em;
   text-align: center;
   margin-top: 2rem;
@@ -296,12 +333,12 @@ a {
 
 h1 {
   font-size: 1.4em;
-  font-weight: bold;
+  font-weight: 800;
 }
 
 h2 {
   font-size: 1.2em;
-  font-weight: bold;
+  font-weight: 800;
 }
 
 h3 {
@@ -422,7 +459,6 @@ dl {
   .left,
   .right {
     background-color: var(--bg-secondary);
-    font-size: 0.9em;
     padding: 0 0.5rem;
     padding-bottom: 1em;
 
