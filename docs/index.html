@@ -118,5 +118,22 @@ environment unto itself.</p>
       </details>
     </footer>
   </div>
+  <script>
+    document.addEventListener(
+      "DOMContentLoaded",
+      (e) => {
+        let menu = document.querySelector(".main-menu");
+        document.querySelector(".menu-button").addEventListener("click",
+          (e) => {
+            if (menu.style.display != "flex") {
+              menu.style.display = "flex";
+            } else {
+              menu.style.display = "none";
+            }
+          }
+        )
+      }
+    )
+  </script>
 </body>
 </html>

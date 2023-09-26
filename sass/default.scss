@@ -125,13 +125,11 @@ body {
 
 .menu-button {
   background-color: var(--bg-dark);
+  cursor: pointer;
   display: none;
   padding: 0.25em;
+  font-weight: 400;
   line-height: 2em;
-
-  @media (max-width: 600px) {
-    display: block;
-  }
 }
 
 .main-menu {
@@ -150,12 +148,22 @@ body {
     margin: 0;
     padding: 0.75em 0.75em;
 
-    transition: background-color 0.15s ease-out;
-
     &:hover {
-      background-color: var(--bg-active);
-      transition-duration: 0s;
+      background-color: var(--bg);
     }
+  }
+}
+
+@media (max-width: 600px) {
+  .menu-button {
+    display: block;
+  }
+
+  .main-menu {
+    background-color: var(--bg);
+    display: none;
+    flex-direction: column;
+    flex-wrap: nowrap;
   }
 }
 
