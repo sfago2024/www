@@ -3,7 +3,7 @@ title = ""
 template = "page.html"
 +++
 
-Please refer to [**AGO 2024 San Francisco** (PDF)](/attachments/sfago24-tao.pdf) for details that are not yet available on this website.
+[Click here for a preview of our program and more! (PDF)](/attachments/sfago24-tao.pdf) Our full website will be available soon.
 
 <object class="embedded-pdf" type="application/pdf" data="/attachments/sfago24-tao.pdf">
 <div style="height: 2rem"></div>
