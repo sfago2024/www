@@ -22,16 +22,9 @@
     {% include "shortcodes/icon_hamburger.html" %} Menu
   </div>
   <nav class="main-menu">
-    <a href="{{ get_url(path="@/_index.md") }}">Home</a>
-    <a href="{{ get_url(path="@/donate.md") }}">Donate</a>
-    <a class="disabled">Register</a>
-    <a class="disabled">Advertise/Exhibit</a>
-    <a class="disabled">Schedule</a>
-    <a class="disabled">Performers</a>
-    <a class="disabled">Venues</a>
-    <a class="disabled">Travel</a>
+    {% include "shortcodes/menu_links.html" %}
   </nav>
-  <div class="main-flex">
+  <div class="main-flex{% if current_path == "/" %} wide{% endif %}">
     <div class="content">
 
 {{ obj.content | safe }}

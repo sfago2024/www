@@ -1,1 +1,0 @@
-<a class="contact-link" href="#{{ name | slugify }}">{{ name }} {% include "shortcodes/icon_contact.html" %}</a>
