@@ -25,6 +25,25 @@
     {% include "shortcodes/menu_links.html" %}
   </nav>
   <div class="main-flex{% if current_path == "/future/" %} wide{% endif %}">
+    {% if obj.extra.show_toc %}
+    <div class="toc">
+      <span>Contents</span>
+      <ul>
+        {% for h1 in page.toc %}
+        <li>
+          <a href="{{ h1.permalink | safe }}">{{ h1.title }}</a>
+          {% if h1.children %}
+          <ul>
+            {% for h2 in h1.children %}
+            <li><a href="{{ h2.permalink | safe }}">{{ h2.title }}</a></li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
     <div class="content">
 
 {{ obj.content | safe }}
