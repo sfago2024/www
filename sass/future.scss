@@ -378,14 +378,21 @@ h3 {
 .icon {
   width: 24px;
   height: 24px;
-  vertical-align: -6px;
+  vertical-align: -20%;
+
+  &.small {
+    width: 12px;
+    height: 12px;
+    vertical-align: 0;
+  }
+
+  &.super {
+    width: 12px;
+    height: 12px;
+    vertical-align: super;
+  }
 }
 
-.icon.small {
-  width: 12px;
-  height: 12px;
-  vertical-align: 0;
-}
 
 dl {
   margin: 0;

@@ -10,14 +10,16 @@ template = "future.html"
 
 # Travel By Air
 
-The Bay Area is served by two major airports, [San Francisco International (SFO)][SFO] and [Oakland
-International (OAK)][OAK]. [Bay Area Rapid Transit (BART)][BART] trains are available from both
-airports to downtown San Francisco. The nearest stop to the Marriott Marquis is Powell Street.
-Tickets can be purchased at each airport station.
+The Bay Area is served by two major airports,
+{% external_link(href="https://www.flysfo.com/") %}San Francisco International (SFO){% end %}
+and
+{% external_link(href="https://www.oaklandairport.com/") %}Oakland International (OAK){% end %}.
+{% external_link(href="https://www.bart.gov/") %}Bay Area Rapid Transit (BART){% end %}
+trains are available from both airports to downtown San Francisco. The nearest stop to the Marriott
+Marquis is Powell Street. Tickets can be purchased at each airport station.
 
-Details on alternative methods of transportation can be found here:
-<https://www.flysfo.com/passengers/ground-transportation>.
-
-[SFO]: https://www.flysfo.com/
-[OAK]: https://www.oaklandairport.com/
-[BART]: https://www.bart.gov/
+Details on alternative methods of transportation can be found on
+{% external_link(href="https://www.flysfo.com/passengers/ground-transportation") %}
+SFO's Ground Transporation
+{% end %}
+page.
