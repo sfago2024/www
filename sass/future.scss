@@ -559,3 +559,30 @@ table {
     font-weight: 600;
   }
 }
+
+.partner-organizations {
+  padding: 0 2rem;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  row-gap: 0.5em;
+  column-gap: 0.5em;
+
+  &>* {
+    background-color: var(--bg);
+    border-radius: 0.5em;
+    list-style: none;
+    padding: 0.2em 0.5em;
+  }
+}
+
+.ref {
+  font-size: 0.75em;
+  text-decoration: none;
+  vertical-align: super;
+
+  &::before {
+    content: "\202F";
+  }
+}
