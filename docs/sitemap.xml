@@ -4,12 +4,15 @@
         <loc>https://www.sfago2024.org/</loc>
     </url>
     <url>
-        <loc>https://www.sfago2024.org/donate/</loc>
+        <loc>https://www.sfago2024.org/future/</loc>
     </url>
     <url>
-        <loc>https://www.sfago2024.org/register/</loc>
+        <loc>https://www.sfago2024.org/future/donate/</loc>
     </url>
     <url>
-        <loc>https://www.sfago2024.org/travel/</loc>
+        <loc>https://www.sfago2024.org/future/register/</loc>
+    </url>
+    <url>
+        <loc>https://www.sfago2024.org/future/travel/</loc>
     </url>
 </urlset>

@@ -1,5 +1,6 @@
 +++
 title = "Donate"
+template = "future.html"
 +++
 
 The San Francisco AGO Steering Committee is pleased to partner with you to bring

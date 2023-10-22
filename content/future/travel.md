@@ -1,5 +1,6 @@
 +++
 title = "Travel"
+template = "future.html"
 +++
 
 # Hotel

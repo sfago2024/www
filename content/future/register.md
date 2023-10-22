@@ -1,5 +1,6 @@
 +++
 title = "Register"
+template = "future.html"
 +++
 
 # Online Registration

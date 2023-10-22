@@ -1,6 +1,6 @@
 +++
 title = ""
-template = "page.html"
+template = "future.html"
 +++
 
 <div class="main">
