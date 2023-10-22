@@ -11,3 +11,5 @@
       serve` (type Ctrl+C) and run `zola build` instead. This will reveal a
       more detailed error message. Once you resolve it, you can run `zola
       serve` again.
+5. Once your changes are ready, run `zola build` and commit all changes. The
+   contents of the `build/` directory is what will be deployed when you push.

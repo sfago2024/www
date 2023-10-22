@@ -8,23 +8,37 @@
   <meta name="description" content="{{ obj.description }}">
   {% endif -%}
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link rel="stylesheet" href="{{ get_url(path="future.css") }}">
+  <link rel="stylesheet" href="{{ get_url(path="default.css") }}">
   <link rel=stylesheet href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css" integrity="sha256-UK1EiopXIL+KVhfbFa8xrmAWPeBjMVdvYMYkTAEv/HI=" crossorigin=anonymous>
   <link rel=stylesheet href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css" integrity="sha256-4hqlsNP9KM6+2eA8VUT0kk4RsMRTeS7QGHIM+MZ5sLY=" crossorigin=anonymous>
 </head>
 <body>
-  <header class="logo-and-date">
-    <img class="logo" src="{{ get_url(path="img/logo.png") }}" alt="AGO 2024 San Francisco logo">
-    <div class="line"></div>
-    <p class="dates"><time datetime="2024-06-30"><span>June</span> 30</time>&thinsp;–&thinsp;<time datetime="2024-07-04"><span>July</span> 04</time></p>
-  </header>
-  <div class="menu-button">
-    {% include "shortcodes/icon_hamburger.html" %} Menu
-  </div>
-  <nav class="main-menu">
-    {% include "shortcodes/menu_links.html" %}
-  </nav>
-  <div class="main-flex{% if current_path == "/" %} wide{% endif %}">
+  <div class="main-flex">
+    <header>
+      <div>
+        <img src="{{ get_url(path="img/logo.png") }}" alt="AGO 2024 San Francisco logo">
+        <div class="line"></div>
+        <p class="dates"><time datetime="2024-06-30">June 30</time> – <time datetime="2024-07-04">July 4, 2024</time></p>
+      </div>
+    </header>
+    <nav>
+      <a href="{{ get_url(path="@/_index.md") }}">Home</a>
+      <a href="{{ get_url(path="@/donate.md") }}">Donate now!</a>
+      <details>
+        <summary>
+          Hotel
+          {% include "shortcodes/icon_caret_down.html" %}
+        </summary>
+        <div>
+          <dl>
+            <dt>Hotel</dt>
+            <dd><a href="https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/overview/" rel="external" target="_blank">San Francisco Marriott Marquis {% include "shortcodes/icon_external_link.html" %}</a></dd>
+            <dt>Convention Rate</dt>
+            <dd>$169/night – <a href="https://book.passkey.com/e/50643191" rel="external" target="_blank">Book now {% include "shortcodes/icon_external_link.html" %}</a></dd>
+          </dl>
+        </div>
+      </details>
+    </nav>
     <div class="content">
 
 {{ obj.content | safe }}
@@ -54,22 +68,5 @@
       {%- endif %}
     </footer>
   </div>
-  <script>
-    document.addEventListener(
-      "DOMContentLoaded",
-      (e) => {
-        let menu = document.querySelector(".main-menu");
-        document.querySelector(".menu-button").addEventListener("click",
-          (e) => {
-            if (menu.style.display != "flex") {
-              menu.style.display = "flex";
-            } else {
-              menu.style.display = "none";
-            }
-          }
-        )
-      }
-    )
-  </script>
 </body>
 </html>

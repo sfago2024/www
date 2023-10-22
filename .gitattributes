@@ -1,1 +1,2 @@
-docs/** linguist-generated -diff
+build/** linguist-generated -diff
+*.md linguist-detectable
