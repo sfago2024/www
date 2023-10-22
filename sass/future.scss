@@ -246,6 +246,7 @@ summary {
   }
 }
 
+b,
 strong {
   font-weight: 550;
 }
@@ -361,7 +362,7 @@ a {
 
 h1 {
   font-size: 1.4em;
-  font-weight: 600;
+  font-weight: 680;
 }
 
 h2 {
@@ -434,6 +435,14 @@ dl {
   touch-action: manipulation;
   white-space: nowrap;
   -webkit-appearance: button;
+
+  &.disabled {
+    background: #7c8e74;
+    box-shadow: none;
+    border-color: #707070;
+    color: #a0a0a0;
+    text-decoration: none;
+  }
 }
 
 .main {
@@ -543,7 +552,7 @@ table {
   }
 
   th {
-    font-weight: 600;
+    font-weight: inherit;
   }
 }
 

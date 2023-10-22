@@ -10,7 +10,7 @@ Our online registration is handled by Cvent. Click this button to get started:
 <div class="centered">
 <a class="fancy-button disabled"><!--href="https://cvent.me/xdER8R?rt=NADRUV8wnEW6fR5Niy5H6g&RefId=sfago2024.org%2Fregister" rel="external" target="_blank"-->Register online</a><br>
 </div>
-<div class="todo" style="padding: 1rem 0;">
+<div class="centered todo" style="padding: 1rem 0;">
 <strong>TESTING:</strong>
 <a class="fancy-button button-orange" href="https://cvent.me/Kevv22?locale=en-US&tm=9BdqUUCeZ-SjtfPQEGVpw9oovq163Pnf5Fb6mdSpLbg" rel="external" target="_blank">Open test-mode registration</a>
 </div>
