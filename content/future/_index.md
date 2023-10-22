@@ -7,27 +7,7 @@ template = "future.html"
 
 <div class="center">
 
-<aside class="carousel">
-  <img alt="" data-lazy="img/skyline.jpg">
-  <img alt="" data-lazy="img/marriott-marquis.jpg">
-  <img alt="" data-lazy="img/north-beach.jpg">
-  <img alt="" data-lazy="img/st-marys.jpg">
-  <img alt="" data-lazy="img/streetcar.jpg">
-  <img alt="" data-lazy="img/davies.jpg">
-  <img alt="" data-lazy="img/castro.jpg">
-  <img alt="" data-lazy="img/houses.jpg">
-</aside>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin=anonymous></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js" integrity="sha256-NXRS8qVcmZ3dOv3LziwznUHPegFhPZ1F/4inU7uC8h0=" crossorigin=anonymous></script>
-<script>
-$(document).ready(function() {
-  $('.carousel').slick({
-    autoplay: true,
-    autoplaySpeed: 4000,
-    speed: 200,
-  });
-});
-</script>
+<img alt="" src="/img/streetcar.jpg">
 
 A musical encounter with an enchanting city.
 
