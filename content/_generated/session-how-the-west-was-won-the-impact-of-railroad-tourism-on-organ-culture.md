@@ -4,6 +4,12 @@ path = '''/future/sessions/how-the-west-was-won-the-impact-of-railroad-tourism-o
 template = "future.html"
 +++
 
+<p class="todo">
+<strong>NOTE:</strong> This page is automatically generated based on data from Cvent.
+But, I'm aware of several issues with the generated pages at the moment:
+many dates & times are wrong, and some sessions & speakers are missing altogether!
+</p>
+
 <h1>How the West was Won: The Impact of Railroad Tourism on Organ Culture</h1>
 <h2>Date/Time</h2>
 <p>Sunday, June 30, 2024<br>

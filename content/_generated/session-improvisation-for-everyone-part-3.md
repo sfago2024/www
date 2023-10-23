@@ -4,6 +4,12 @@ path = '''/future/sessions/improvisation-for-everyone-part-3/'''
 template = "future.html"
 +++
 
+<p class="todo">
+<strong>NOTE:</strong> This page is automatically generated based on data from Cvent.
+But, I'm aware of several issues with the generated pages at the moment:
+many dates & times are wrong, and some sessions & speakers are missing altogether!
+</p>
+
 <h1>Improvisation for Everyone, Part 3</h1>
 <h2>Date/Time</h2>
 <p>Wednesday, July 03, 2024<br>

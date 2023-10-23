@@ -1,8 +1,14 @@
 +++
 title = '''Monica Czausz Berney'''
-path = '''/future/speakers/monica-czausz-berney/'''
+path = '''/future/performers/monica-czausz-berney/'''
 template = "future.html"
 +++
+
+<p class="todo">
+<strong>NOTE:</strong> This page is automatically generated based on data from Cvent.
+But, I'm aware of several issues with the generated pages at the moment:
+many dates & times are wrong, and some sessions & speakers are missing altogether!
+</p>
 
 <h1>Monica Czausz Berney</h1>
 <h2>Biography</h2>

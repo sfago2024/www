@@ -4,6 +4,12 @@ path = '''/future/sessions/from-bamboo-to-bourdon-stories-from-china/'''
 template = "future.html"
 +++
 
+<p class="todo">
+<strong>NOTE:</strong> This page is automatically generated based on data from Cvent.
+But, I'm aware of several issues with the generated pages at the moment:
+many dates & times are wrong, and some sessions & speakers are missing altogether!
+</p>
+
 <h1>From Bamboo to Bourdon: Stories from China</h1>
 <h2>Date/Time</h2>
 <p>Sunday, June 30, 2024<br>
@@ -21,5 +27,5 @@ Rather than focusing on the history of the pipe organ in China, this session wil
 
 Attendees will not only walk away from this session with an increased knowledge of Chinese music and culture, but also an increased desire to diversify their repertoire. We will delve into how YOU can expand the organ literature. Both the stories you’ll hear and your personal stories have the power to shake the world.
 <h2>Speakers</h2>
-<ul><li><a href="/future/speakers/renee-chiu-gastelum/">Renee Chiu Gastelum</a></li>
+<ul><li><a href="/future/performers/renee-chiu-gastelum/">Renee Chiu Gastelum</a></li>
 

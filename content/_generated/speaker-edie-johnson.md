@@ -4,6 +4,12 @@ path = '''/future/speakers/edie-johnson/'''
 template = "future.html"
 +++
 
+<p class="todo">
+<strong>NOTE:</strong> This page is automatically generated based on data from Cvent.
+But, I'm aware of several issues with the generated pages at the moment:
+many dates & times are wrong, and some sessions & speakers are missing altogether!
+</p>
+
 <h1>Edie Johnson</h1>
 <h2>Biography</h2>
 <p>Edie Johnson is the Organist and Music Associate at Church Street United Methodist Church in Knoxville, TN. She is also an adjunct faculty member in the Colllege of Music at University of Tennessee, Knoxville where she teaches private organ, harpsichord, and courses in organ literature and sacred music. Ms. Johnson previously served as Assistant Organist/Choir Director at St. Paul’s Episcopal Church and Seminary Organist and Affiliate Professor of Church Music at Christian Theological Seminary in Indianapolis, IN. 

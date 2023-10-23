@@ -4,6 +4,12 @@ path = '''/future/sessions/befriending-the-butterflies-techniques-for-embracing-
 template = "future.html"
 +++
 
+<p class="todo">
+<strong>NOTE:</strong> This page is automatically generated based on data from Cvent.
+But, I'm aware of several issues with the generated pages at the moment:
+many dates & times are wrong, and some sessions & speakers are missing altogether!
+</p>
+
 <h1>Befriending the Butterflies: Techniques for Embracing Performance Anxiety</h1>
 <h2>Date/Time</h2>
 <p>Sunday, June 30, 2024<br>

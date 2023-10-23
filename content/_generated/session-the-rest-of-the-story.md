@@ -4,6 +4,12 @@ path = '''/future/sessions/the-rest-of-the-story/'''
 template = "future.html"
 +++
 
+<p class="todo">
+<strong>NOTE:</strong> This page is automatically generated based on data from Cvent.
+But, I'm aware of several issues with the generated pages at the moment:
+many dates & times are wrong, and some sessions & speakers are missing altogether!
+</p>
+
 <h1>"The Rest of the Story...."</h1>
 <h2>Date/Time</h2>
 <p>Sunday, June 30, 2024<br>
@@ -15,5 +21,5 @@ Anecdotal stories!  Dr. Freese discusses her commissioning of "The Freese Collec
 
 Anecdotal stories!  Dr. Freese discusses her commissioning of The Freese Collection by Pamela Decker and Nall artwork, the inspiration for The Freese Collection.
 <h2>Speakers</h2>
-<ul><li><a href="/future/speakers/faythe-freese/">Faythe Freese</a></li>
+<ul><li><a href="/future/performers/faythe-freese/">Faythe Freese</a></li>
 

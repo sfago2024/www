@@ -1,8 +1,14 @@
 +++
 title = '''Diane Meredith Belcher'''
-path = '''/future/speakers/diane-meredith-belcher/'''
+path = '''/future/performers/diane-meredith-belcher/'''
 template = "future.html"
 +++
+
+<p class="todo">
+<strong>NOTE:</strong> This page is automatically generated based on data from Cvent.
+But, I'm aware of several issues with the generated pages at the moment:
+many dates & times are wrong, and some sessions & speakers are missing altogether!
+</p>
 
 <h1>Diane Meredith Belcher</h1>
 <h2>Biography</h2>

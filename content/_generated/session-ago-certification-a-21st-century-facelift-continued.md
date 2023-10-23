@@ -4,6 +4,12 @@ path = '''/future/sessions/ago-certification-a-21st-century-facelift-continued/'
 template = "future.html"
 +++
 
+<p class="todo">
+<strong>NOTE:</strong> This page is automatically generated based on data from Cvent.
+But, I'm aware of several issues with the generated pages at the moment:
+many dates & times are wrong, and some sessions & speakers are missing altogether!
+</p>
+
 <h1>AGO Certification: A 21st Century Facelift Continued</h1>
 <h2>Date/Time</h2>
 <p>Sunday, June 30, 2024<br>

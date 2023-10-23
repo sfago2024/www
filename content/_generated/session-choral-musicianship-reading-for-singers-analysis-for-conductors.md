@@ -4,6 +4,12 @@ path = '''/future/sessions/choral-musicianship-reading-for-singers-analysis-for-
 template = "future.html"
 +++
 
+<p class="todo">
+<strong>NOTE:</strong> This page is automatically generated based on data from Cvent.
+But, I'm aware of several issues with the generated pages at the moment:
+many dates & times are wrong, and some sessions & speakers are missing altogether!
+</p>
+
 <h1>Choral Musicianship: Reading for Singers; Analysis for Conductors</h1>
 <h2>Date/Time</h2>
 <p>Sunday, June 30, 2024<br>

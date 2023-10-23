@@ -4,6 +4,12 @@ path = '''/future/sessions/to-please-and-to-astonish-creative-programming/'''
 template = "future.html"
 +++
 
+<p class="todo">
+<strong>NOTE:</strong> This page is automatically generated based on data from Cvent.
+But, I'm aware of several issues with the generated pages at the moment:
+many dates & times are wrong, and some sessions & speakers are missing altogether!
+</p>
+
 <h1>"To please and to astonish:" Creative programming</h1>
 <h2>Date/Time</h2>
 <p>Sunday, June 30, 2024<br>
@@ -21,5 +27,5 @@ Another vital consideration is the variety of style and genre in the program. To
 
 This workshop will explore creative principles of programming with specific examples designed to help organists as they design concerts to both please and astonish their audiences. Kimberly Marshall will use this opportunity to describe how she formulated her program for the final concert of the convention, on the Murray Harris and Fisk organs at Stanford's Memorial Church.
 <h2>Speakers</h2>
-<ul><li><a href="/future/speakers/kimberly-marshall/">Kimberly Marshall</a></li>
+<ul><li><a href="/future/performers/kimberly-marshall/">Kimberly Marshall</a></li>
 

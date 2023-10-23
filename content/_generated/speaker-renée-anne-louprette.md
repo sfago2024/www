@@ -1,8 +1,14 @@
 +++
 title = '''Renée Anne Louprette'''
-path = '''/future/speakers/renée-anne-louprette/'''
+path = '''/future/performers/renée-anne-louprette/'''
 template = "future.html"
 +++
+
+<p class="todo">
+<strong>NOTE:</strong> This page is automatically generated based on data from Cvent.
+But, I'm aware of several issues with the generated pages at the moment:
+many dates & times are wrong, and some sessions & speakers are missing altogether!
+</p>
 
 <h1>Renée Anne Louprette</h1>
 <h2>Biography</h2>

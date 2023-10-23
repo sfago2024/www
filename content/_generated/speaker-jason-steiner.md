@@ -4,6 +4,12 @@ path = '''/future/speakers/jason-steiner/'''
 template = "future.html"
 +++
 
+<p class="todo">
+<strong>NOTE:</strong> This page is automatically generated based on data from Cvent.
+But, I'm aware of several issues with the generated pages at the moment:
+many dates & times are wrong, and some sessions & speakers are missing altogether!
+</p>
+
 <h1>Jason Steiner</h1>
 <h2>Biography</h2>
 <p>Jason Steiner serves as the Organist at Covenant Church in Houston, Texas. Concurrently, he is a first-year candidate for the M.M. in Sacred Music degree at the University of Houston, where he studies organ with Daryl Robinson, conducting with Alex Koppel, and holds a graduate assistantship in the Musicology department. 

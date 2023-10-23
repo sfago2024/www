@@ -4,6 +4,12 @@ path = '''/future/sessions/organ-concerts-at-san-francisco-s-world-s-fair/'''
 template = "future.html"
 +++
 
+<p class="todo">
+<strong>NOTE:</strong> This page is automatically generated based on data from Cvent.
+But, I'm aware of several issues with the generated pages at the moment:
+many dates & times are wrong, and some sessions & speakers are missing altogether!
+</p>
+
 <h1>Organ Concerts at San Francisco’s World’s Fair</h1>
 <h2>Date/Time</h2>
 <p>Sunday, June 30, 2024<br>
@@ -19,5 +25,5 @@ In this period of history, the pipe organ stood at the intersection of industry,
 
 Drawing on archival research in UCLA Berkeley’s Bancroft Library and publications by Austin Opus 500 expert Justin Kielty, this presentation will share the fascinating story of the PPIE organ series while placing it in the larger context of world’s fair scholarship and the history of the pipe organ in the U.S.
 <h2>Speakers</h2>
-<ul><li><a href="/future/speakers/anne-laver/">Anne Laver</a></li>
+<ul><li><a href="/future/performers/anne-laver/">Anne Laver</a></li>
 
