@@ -13,5 +13,5 @@ template = "future.html"
 <h2>Description</h2>
 
 <h2>Speakers</h2>
-<ul><li><bound method Speaker.link of Speaker(data=SpeakerData(presenter_at=['C6633C75-1468-44EE-834C-FC70A8A83C80'], speaker_biography='', speaker_display_name='Mary Beth Bennett', speaker_first_name='Mary Beth', speaker_last_name='Bennett', speaker_stub='55DF11D2-79E4-4394-BACB-4C42CD238A08', speaker_title='', updated_date=datetime.date(2023, 9, 4)), updated=False, deleted=False)></li>
+<ul><li><a href="/future/speakers/mary-beth-bennett/">Mary Beth Bennett</a></li>
 
