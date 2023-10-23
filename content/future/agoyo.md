@@ -27,10 +27,10 @@ The Suzanne and Mark Anderson Convention Housing Scholarships for Young Professi
 costs for young professionals staying at the convention hotel during the SF 2024 AGO National
 Convention.
 
-Individuals ages 18–35 who are studying organ and/or have graduated from an accredited, degree-
-granting institution within the past 10 years are invited to apply. Five individuals will be awarded
-housing for the duration of the San Francisco 2024 AGO National Convention (five nights). Recipients
-will be assigned a roommate with whom they will share a double-occupancy room.
+Individuals ages 18–35 who are studying organ and/or have graduated from an accredited,
+degree-granting institution within the past 10 years are invited to apply. Five individuals will be
+awarded housing for the duration of the San Francisco 2024 AGO National Convention (five nights).
+Recipients will be assigned a roommate with whom they will share a double-occupancy room.
 
 ### Application requirements
 
@@ -39,8 +39,8 @@ will be assigned a roommate with whom they will share a double-occupancy room.
 * A 250 word essay on the following topics:
     * Briefly describe your past and current organ studies.
     * Explain why you wish to attend the AGO National Convention.
-    * Provide an explanation of your financial need and the rationale behind requesting a need-
-      based scholarship.
+    * Provide an explanation of your financial need and the rationale behind requesting a
+      need-based scholarship.
 
 Essays will be evaluated anonymously. The five individuals with the highest-ranking essays will be
 awarded the scholarship.
@@ -48,13 +48,13 @@ awarded the scholarship.
 <div class="apply-now-box">
 <a class="fancy-button" href="" rel="external">Apply now</a>
 
-**Application deadline: February 15th, 2024.**
+**Application deadline: February 15, 2024.**
 
 </div>
 
 
 
-Scholarship winners will be notified on March 7th, 2024, and will have until March 15th, 2024, to
+Scholarship winners will be notified on March 7, 2024, and will have until March 15, 2024, to
 accept. Declined scholarships will be offered to the next highest-ranking applicants.
 
 ## Houston Chapter Young Organists Scholarship for Conventions {#houston-chapter-scholarship}
@@ -79,11 +79,11 @@ awarded the scholarship.
 <div class="apply-now-box">
 <a class="fancy-button" href="" rel="external">Apply now</a>
 
-**Application deadline: February 15th, 2024.**
+**Application deadline: February 15, 2024.**
 
 </div>
 
-Scholarship winners will be notified on March 7th, 2024, and will have until March 15th, 2024, to
+Scholarship winners will be notified on March 7, 2024, and will have until March 15, 2024, to
 accept. Declined scholarships will be offered to the next highest-ranking applicants.
 
 # Scholarship FAQ

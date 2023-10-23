@@ -11,6 +11,12 @@
   <link rel="stylesheet" href="{{ get_url(path="future.css") }}">
 </head>
 <body>
+  <div class="future-banner">
+    <p>
+      <strong>[TESTING]</strong> This is the <em>future version</em> (note <tt>/future/</tt> in the URL) of the website!
+      [<a href="/">View&nbsp;the&nbsp;currently&NoBreak;-&NoBreak;public&nbsp;website&nbsp;instead</a>]
+    </p>
+  </div>
   <header class="logo-and-date">
     <img class="logo" src="{{ get_url(path="img/logo.png") }}" alt="AGO 2024 San Francisco logo">
     <div class="line"></div>
@@ -23,26 +29,26 @@
     {% include "shortcodes/menu_links.html" %}
   </nav>
   <div class="main-flex{% if current_path == "/future/" %} wide{% endif %}">
-    {% if obj.extra.show_toc %}
-    <div class="toc">
-      <span>Contents</span>
-      <ul>
-        {% for h1 in page.toc %}
-        <li>
-          <a href="{{ h1.permalink | safe }}">{{ h1.title }}</a>
-          {% if h1.children %}
-          <ul>
-            {% for h2 in h1.children %}
-            <li><a href="{{ h2.permalink | safe }}">{{ h2.title }}</a></li>
-            {% endfor %}
-          </ul>
-          {% endif %}
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
-    {% endif %}
     <div class="content">
+      {% if obj.extra.show_toc %}
+      <details class="toc" open>
+        <summary>Contents</summary>
+        <ul>
+          {% for h1 in page.toc %}
+          <li>
+            <a href="{{ h1.permalink | safe }}">{{ h1.title }}</a>
+            {% if h1.children %}
+            <ul>
+              {% for h2 in h1.children %}
+              <li><a href="{{ h2.permalink | safe }}">{{ h2.title }}</a></li>
+              {% endfor %}
+            </ul>
+            {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+      </details>
+      {% endif %}
 
 {{ obj.content | safe }}
 
