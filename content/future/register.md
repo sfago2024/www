@@ -34,7 +34,7 @@ Our online registration is handled by Cvent. Click this button to get started:
       <td>$695</td>
     </tr>
     <tr>
-      <td><strong>Member – Special</strong><br>(disabled &amp; age&thinsp;&ge;&thinsp;65)</td>
+      <td><strong>Member – Special</strong><br>(disabled or age&thinsp;&ge;&thinsp;65)</td>
       <td>$570</td>
       <td>$620</td>
       <td>$670</td>
@@ -47,9 +47,9 @@ Our online registration is handled by Cvent. Click this button to get started:
     </tr>
     <tr>
       <td><strong>Spouse/<wbr>Partner</strong></td>
-      <td>$570</td>
-      <td>$620</td>
-      <td>$670</td>
+      <td>$595</td>
+      <td>$645</td>
+      <td>$695</td>
     </tr>
     <tr>
       <td><strong>Non-member</strong></td>
@@ -98,10 +98,10 @@ The 2024 AGO National Convention hopes everyone who registers for the conference
 
 * Registration canceled **on or before May 15, 2024,** is refundable but subject to a $100 administrative fee.
 
-* Registration canceled **on or after May 16, 2024,** will *NOT* receive a refund. This policy will not be waived. *Registration fees may be transferred to another individual;* the invoice for the new registration will be revised to reflect the new registrant's membership status.
+* Registration canceled **on or after May 16, 2024,** will *NOT* receive a refund. *Registration fees may be transferred to another individual;* the invoice for the new registration will be revised to reflect the new registrant's membership status.
 
-Cancellation requests should be sent to <span class=todo>TODO</span>
+Cancellation requests should be sent to <a href="mailto:registrar@sfago2024.org">registrar@sfago2024.org</a>.
 
 # Offline Registration
 
-If you're unable to register online, please contact <span class=todo>TODO</span>
+If you're unable to register online, please contact <a href="mailto:registrar@sfago2024.org">registrar@sfago2024.org</a>.
