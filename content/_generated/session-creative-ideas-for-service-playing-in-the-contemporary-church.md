@@ -14,8 +14,6 @@ many dates & times are wrong, and some sessions & speakers are missing altogethe
 <h2>Date/Time</h2>
 <p>Sunday, June 30, 2024<br>
 01:00 PM – 02:00 PM (Pacific Time)</p>
-<h2>Location</h2>
-(not implemented yet)
 <h2>Description</h2>
 We will explore creative suggestions to enhance the elements in your service playing.
 
@@ -24,6 +22,6 @@ We will look at using other styles and creative ideas to:
 2. enhance hymn playing and sining
 3. selecting literature
 4. preludes, interludes, and postludes
-<h2>Speakers</h2>
-<ul><li><a href="/future/speakers/w-patrick-alston/">W. Patrick Alston</a></li>
+<h2>People</h2>
+<ul><li><a href="/future/performers/patrick-alston/">Patrick Alston</a></li></ul>
 

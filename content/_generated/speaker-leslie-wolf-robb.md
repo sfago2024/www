@@ -1,6 +1,6 @@
 +++
 title = '''Leslie Wolf Robb'''
-path = '''/future/speakers/leslie-wolf-robb/'''
+path = '''/future/performers/leslie-wolf-robb/'''
 template = "future.html"
 +++
 
@@ -14,5 +14,5 @@ many dates & times are wrong, and some sessions & speakers are missing altogethe
 <h2>Biography</h2>
 <p></p>
 <h2>Sessions</h2>
-<p>None yet</p>
+<ul><li><a href="/future/sessions/the-growing-sisterhood-of-organists-ago-task-force-for-gender-equity-society-for-women-organists/">The Growing Sisterhood of Organists: AGO Task Force for Gender Equity/Society for Women Organists</a></li>
 

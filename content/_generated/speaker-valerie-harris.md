@@ -16,5 +16,5 @@ many dates & times are wrong, and some sessions & speakers are missing altogethe
 
 She is passionate about teaching and engaging people in playing the organ. She has taught hundreds of organists and pianists, young and old, preparing many young people for auditions, competitions and scholarship programs and motivating them to share their skills and talents in church congregations and in concert.</p>
 <h2>Sessions</h2>
-<p>None yet</p>
+<ul><li><a href="/future/sessions/developing-the-next-generation-of-organists/">Developing the Next Generation of Organists</a></li><li><a href="/future/sessions/how-the-west-was-won-the-impact-of-railroad-tourism-on-organ-culture/">How the West was Won: The Impact of Railroad Tourism on Organ Culture</a></li>
 

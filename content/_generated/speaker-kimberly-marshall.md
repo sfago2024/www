@@ -20,5 +20,5 @@ In addition to her research into historical performance practice, she has invest
 
 See http://www.kimberlymarshall.com/ or visit https://www.facebook.com/KimberlyMarshall.organist.</p>
 <h2>Sessions</h2>
-<ul><li><a href="/future/sessions/to-please-and-to-astonish-creative-programming/">"To please and to astonish:" Creative programming</a></li>
+<ul><li><a href="/future/sessions/to-please-and-to-astonish-creative-programming/">“To Please and to Astonish”: Creative Programming</a></li>
 

@@ -14,5 +14,5 @@ many dates & times are wrong, and some sessions & speakers are missing altogethe
 <h2>Biography</h2>
 <p></p>
 <h2>Sessions</h2>
-<ul><li><a href="/future/sessions/peter-sykes/">Peter Sykes</a></li>
+<ul><li><a href="/future/sessions/group-d-peter-sykes-1-30-pm/">[GROUP D] Peter Sykes (1:30 PM)</a></li>
 

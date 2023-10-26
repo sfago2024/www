@@ -14,5 +14,5 @@ many dates & times are wrong, and some sessions & speakers are missing altogethe
 <h2>Biography</h2>
 <p></p>
 <h2>Sessions</h2>
-<ul><li><a href="/future/sessions/diane-meredith-belcher/">Diane Meredith Belcher</a></li><li><a href="/future/sessions/diane-meredith-belcher/">Diane Meredith Belcher</a></li>
+<ul><li><a href="/future/sessions/diane-meredith-belcher-9-00-am/">Diane Meredith Belcher (9:00 AM)</a></li><li><a href="/future/sessions/diane-meredith-belcher-10-45-am/">Diane Meredith Belcher (10:45 AM)</a></li>
 

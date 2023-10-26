@@ -14,10 +14,8 @@ many dates & times are wrong, and some sessions & speakers are missing altogethe
 <h2>Date/Time</h2>
 <p>Saturday, June 29, 2024<br>
 07:30 PM – 08:30 PM (Pacific Time)</p>
-<h2>Location</h2>
-(not implemented yet)
 <h2>Description</h2>
 
-<h2>Speakers</h2>
-<ul><li><a href="/future/performers/david-higgs/">David Higgs</a></li>
+<h2>People</h2>
+<ul><li><a href="/future/performers/david-higgs/">David Higgs</a></li></ul>
 

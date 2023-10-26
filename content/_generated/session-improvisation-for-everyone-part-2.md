@@ -14,8 +14,6 @@ many dates & times are wrong, and some sessions & speakers are missing altogethe
 <h2>Date/Time</h2>
 <p>Tuesday, July 02, 2024<br>
 10:00 AM – 10:45 AM (Pacific Time)</p>
-<h2>Location</h2>
-(not implemented yet)
 <h2>Description</h2>
 Learn ways to gain confidence in skill in improvisation and service playing.
 
@@ -24,6 +22,6 @@ Robert McCormick's workshops will focus on improvisation most especially in the 
 Many organists live in fear of improvising. Robert McCormick has extensive experience helping others to be less afraid of this mysterious art, and will share practical methods to become more confident, developing techniques to practice improvising, so that participants can both build skill and, in time, learn to trust their imaginations. 
 
 Each person has a distinctive musical language, and each musician can learn ways to tap into that language. This workshop is designed both for experienced improvisers and those who are very hesitant or reluctant.
-<h2>Speakers</h2>
-<ul><li><a href="/future/speakers/robert-mccormick/">Robert McCormick</a></li>
+<h2>People</h2>
+<ul><li><a href="/future/speakers/robert-mccormick/">Robert McCormick</a></li></ul>
 

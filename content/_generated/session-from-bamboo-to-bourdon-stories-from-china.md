@@ -14,8 +14,6 @@ many dates & times are wrong, and some sessions & speakers are missing altogethe
 <h2>Date/Time</h2>
 <p>Sunday, June 30, 2024<br>
 12:00 PM – 01:00 PM (Pacific Time)</p>
-<h2>Location</h2>
-(not implemented yet)
 <h2>Description</h2>
 The organ acts as a storyteller for 19th and 20th century Chinese composers
 
@@ -26,6 +24,6 @@ The organ will serve as a link between Eastern and Western traditions. Even thou
 Rather than focusing on the history of the pipe organ in China, this session will focus on 19th and 20th century Chinese composers and their stories. Attendees will learn about these composers and the forces that shaped their pieces, and after each piece is introduced, Ms. Chiu will perform it. 
 
 Attendees will not only walk away from this session with an increased knowledge of Chinese music and culture, but also an increased desire to diversify their repertoire. We will delve into how YOU can expand the organ literature. Both the stories you’ll hear and your personal stories have the power to shake the world.
-<h2>Speakers</h2>
-<ul><li><a href="/future/performers/renee-chiu-gastelum/">Renee Chiu Gastelum</a></li>
+<h2>People</h2>
+<ul><li><a href="/future/performers/renee-chiu-gastelum/">Renee Chiu Gastelum</a></li></ul>
 

@@ -14,5 +14,5 @@ many dates & times are wrong, and some sessions & speakers are missing altogethe
 <h2>Biography</h2>
 <p></p>
 <h2>Sessions</h2>
-<ul><li><a href="/future/sessions/shin-young-lee-olivier-latry/">Shin-Young Lee & Olivier Latry</a></li>
+<ul><li><a href="/future/sessions/recital-shin-young-lee-olivier-latry/">Recital: Shin-Young Lee & Olivier Latry</a></li>
 

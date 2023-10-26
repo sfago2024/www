@@ -1,6 +1,6 @@
 +++
 title = '''Maria Forsström'''
-path = '''/future/speakers/maria-forsström/'''
+path = '''/future/performers/maria-forsström/'''
 template = "future.html"
 +++
 
@@ -18,7 +18,7 @@ Maria Forsström has performed, toured, and recorded with among others Teodor Cu
 
 2019 Maria Forsström won 1.prize at the longstanding Varadin Baroque Festival, Croatia. She has recorded for Sony Classical, Chandos Records and BIS. 2021 she appeared on BIS Records with the Monteverdi ”L’Orfeo” as La Messaggera, with great reviews. In October 2021 Maria joined The Oxford Lieder Festival for the 6th time since 2014 and currently sings the Schubert Winterreise with the acclaimed pianist Bengt Forsberg. 
 
-During 2023-24 Maria sings chamber music, commissioning new music for her trio of vibraphone/organ and voice, collaborating with the Nobel Prize winner 2020 Louise Glück. She is also singing oratory and symphonic repertoire such as Mahler’s “Das Lied von der Erde” in Sweden, doing choral workshops in London and Bangalore, later in Spring returning to the French Radio Choir in Paris as a choir master. With her own choir in Sweden, she’s doing the Alfred Schnittke “Concert for Choir”.</p>
+During 2023–24 Maria sings chamber music, commissioning new music for her trio of vibraphone/organ and voice, collaborating with the Nobel Prize winner 2020 Louise Glück. She is also singing oratory and symphonic repertoire such as Mahler’s “Das Lied von der Erde” in Sweden, doing choral workshops in London and Bangalore, later in Spring returning to the French Radio Choir in Paris as a choir master. With her own choir in Sweden, she’s doing the Alfred Schnittke “Concert for Choir”.</p>
 <h2>Sessions</h2>
-<p>None yet</p>
+<ul><li><a href="/future/sessions/ask-and-it-shall-be-given-you/">“Ask, and it shall be given you!”</a></li><li><a href="/future/sessions/choral-workshop/">Choral Workshop</a></li>
 

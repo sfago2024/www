@@ -14,8 +14,6 @@ many dates & times are wrong, and some sessions & speakers are missing altogethe
 <h2>Date/Time</h2>
 <p>Sunday, June 30, 2024<br>
 12:00 PM – 01:00 PM (Pacific Time)</p>
-<h2>Location</h2>
-(not implemented yet)
 <h2>Description</h2>
 The 1915 Panama-Pacific International Exposition and the Golden Age of the American Pipe Organ 
 
@@ -24,6 +22,6 @@ From February to December 1915, San Francisco welcomed 18 million visitors to th
 In this period of history, the pipe organ stood at the intersection of industry, technology, culture, and commerce, and it epitomized the spirit of progress that was so intrinsic to U.S. world’s fairs. Organ series were an important feature of the music programs at the expositions in Chicago, Buffalo, and St. Louis, and San Francisco’s event followed those models. These events introduced the organ to a general audience and paved the way for a golden age of civic organ building and culture in this country. 
 
 Drawing on archival research in UCLA Berkeley’s Bancroft Library and publications by Austin Opus 500 expert Justin Kielty, this presentation will share the fascinating story of the PPIE organ series while placing it in the larger context of world’s fair scholarship and the history of the pipe organ in the U.S.
-<h2>Speakers</h2>
-<ul><li><a href="/future/performers/anne-laver/">Anne Laver</a></li>
+<h2>People</h2>
+<ul><li><a href="/future/performers/anne-laver/">Anne Laver</a></li></ul>
 

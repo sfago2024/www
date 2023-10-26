@@ -14,10 +14,8 @@ many dates & times are wrong, and some sessions & speakers are missing altogethe
 <h2>Date/Time</h2>
 <p>Sunday, June 30, 2024<br>
 12:00 PM – 01:00 PM (Pacific Time)</p>
-<h2>Location</h2>
-(not implemented yet)
 <h2>Description</h2>
 How to make your concert programs more creative and relevant in the 21st century
-<h2>Speakers</h2>
-<ul><li><a href="/future/performers/maria-gajraj/">Maria Gajraj</a></li>
+<h2>People</h2>
+<ul><li><a href="/future/performers/maria-gajraj/">Maria Gajraj</a></li></ul>
 

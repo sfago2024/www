@@ -12,14 +12,10 @@ many dates & times are wrong, and some sessions & speakers are missing altogethe
 
 <h1>AGO Competitions: What’s In It For You?</h1>
 <h2>Date/Time</h2>
-<p>Sunday, June 30, 2024<br>
-12:00 PM – 01:00 PM (Pacific Time)</p>
-<h2>Location</h2>
-(not implemented yet)
+<p>Tuesday, July 02, 2024<br>
+09:00 AM – 09:45 AM (Pacific Time)</p>
 <h2>Description</h2>
-This workshop will provide an overview of AGO’s seven performance and composition competitions.
-
-This workshop will provide an overview of AGO’s three performance and four new music composition competitions.  Testimonials from previous participants, winners, judges, and committee members will give a comprehensive look at AGO competitions, and the many benefits of throwing your hat in the ring.
-<h2>Speakers</h2>
-<ul><li><a href="/future/performers/m-jonathan-ryan/">M. Jonathan Ryan</a></li>
+This workshop will provide an overview of the AGO’s seven performance and composition competitions.
+<h2>People</h2>
+<ul><li><a href="/future/performers/molly-davey/">Molly Davey</a></li><li><a href="/future/performers/jonathan-ryan/">Jonathan Ryan</a></li></ul>
 

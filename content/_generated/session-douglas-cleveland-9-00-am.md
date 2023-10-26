@@ -1,0 +1,21 @@
++++
+title = '''Douglas Cleveland (9:00 AM)'''
+path = '''/future/sessions/douglas-cleveland-9-00-am/'''
+template = "future.html"
++++
+
+<p class="todo">
+<strong>NOTE:</strong> This page is automatically generated based on data from Cvent.
+But, I'm aware of several issues with the generated pages at the moment:
+many dates & times are wrong, and some sessions & speakers are missing altogether!
+</p>
+
+<h1>Douglas Cleveland (9:00 AM)</h1>
+<h2>Date/Time</h2>
+<p>Wednesday, July 03, 2024<br>
+09:00 AM – 09:45 AM (Pacific Time)</p>
+<h2>Description</h2>
+<div class="ag87-crtemvc-hsbk"><div class="css-vsf5of"><p class="carina-rte-public-DraftStyleDefault-block">Fantasy: Torah Song (<span style="font-style: italic;">Yisrael V’oraita</span>)—Craig Phillips (b. 1961)</p><p class="carina-rte-public-DraftStyleDefault-block">Suite Homage (2013)—David P. Dahl (b. 1937)</p><p class="carina-rte-public-DraftStyleDefault-block">&nbsp; &nbsp; <span style="font-style: italic;"> Praeludium</span>, homage to Dieterich Buxtehude</p><p class="carina-rte-public-DraftStyleDefault-block">&nbsp; &nbsp; &nbsp;<span style="font-style: italic;">Tierce en Taille</span>, homage to François Couperin</p><p class="carina-rte-public-DraftStyleDefault-block">&nbsp; &nbsp; &nbsp;<span style="font-style: italic;">Petite Offertoire</span>, homage to César Franck</p><p class="carina-rte-public-DraftStyleDefault-block">&nbsp; &nbsp; &nbsp;<span style="font-style: italic;">Grand Choeur</span>, homage to Théodore Dubois</p><p class="carina-rte-public-DraftStyleDefault-block">2024 Marilyn Mason Commission—Brooke Joyce (b. 1973)</p><p class="carina-rte-public-DraftStyleDefault-block">Variations uber das Niederlandische Lied—Samuel Scheidt (1587-1654)</p><p class="carina-rte-public-DraftStyleDefault-block">&nbsp; &nbsp; &nbsp;"Wehe, Windgen, wehe" (Blow Wind, Blow)</p><p class="carina-rte-public-DraftStyleDefault-block">Triptych (2023) Premiere—Jessica French (b. 1978)</p><p class="carina-rte-public-DraftStyleDefault-block">&nbsp;</p><p class="carina-rte-public-DraftStyleDefault-block">&nbsp;</p></div></div>
+<h2>People</h2>
+<ul><li><a href="/future/performers/douglas-cleveland/">Douglas Cleveland</a></li></ul>
+

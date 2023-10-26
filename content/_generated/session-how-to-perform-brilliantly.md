@@ -14,12 +14,10 @@ many dates & times are wrong, and some sessions & speakers are missing altogethe
 <h2>Date/Time</h2>
 <p>Monday, July 01, 2024<br>
 12:00 PM – 01:00 PM (Pacific Time)</p>
-<h2>Location</h2>
-(not implemented yet)
 <h2>Description</h2>
 Identifying successful practice and performance strategies
 
 Why do so many organists find it hard to perform brilliantly?  Whether the performance is spoiled by wayward limbs, habitual or new errors, self-doubt or distracting mind-games, the cause is probably the same: poorly chosen repertoire coupled with imperfect practice methods.  The workshop addresses all these performance problems in turn, showing how effective training of a well-chosen piece inspires the player, builds confidence and concentration and results in a reliable and brilliant performance.
-<h2>Speakers</h2>
-<ul><li><a href="/future/performers/anne-marsden-thomas/">Anne Marsden Thomas</a></li>
+<h2>People</h2>
+<ul><li><a href="/future/performers/anne-marsden-thomas/">Anne Marsden Thomas</a></li></ul>
 

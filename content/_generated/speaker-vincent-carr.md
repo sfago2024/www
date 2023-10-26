@@ -1,6 +1,6 @@
 +++
 title = '''Vincent Carr'''
-path = '''/future/speakers/vincent-carr/'''
+path = '''/future/performers/vincent-carr/'''
 template = "future.html"
 +++
 
@@ -20,5 +20,5 @@ After earning undergraduate degrees in Organ Performance and Spanish language fr
 
 Vince has served as musical director/conductor for the International Gilbert and Sullivan Festival in the United Kingdom, as well as the celebrity Irish singing group The Priests. His performance of Britten’s Rejoice in the Lamb with the Richard Alston Dance Company (London) garnered critical acclaim in both the UK as well as New York City’s Fall for Dance Festival (2016).</p>
 <h2>Sessions</h2>
-<p>None yet</p>
+<ul><li><a href="/future/sessions/ago-certification-a-21st-century-facelift-continued/">AGO Certification: A 21st-Century Facelift Continued</a></li>
 
