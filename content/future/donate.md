@@ -5,63 +5,57 @@ template = "future.html"
 
 The San Francisco AGO Steering Committee is pleased to partner with you to bring
 the 2024 convention to life. Producing a convention of this caliber is a
-collective effort, and our supporters play an essential role. Registration fees
-combined with support from AGO National and chapters cover 60% of convention
-costs. The balance is contributed by generous supporters who share our love for
-the organists, the music, and the instrument.
+collective effort, and our supporters play an essential role.
 
-Your contribution, at any level, helps cover substantial costs that exceed
-regular registration fees. Your partnership with us brings a stunning, diverse
-lineup of performers, new music, worship experiences, workshops, and world-class
-venues to life.
+Why Support your Convention:
 
-Make a secure, online donation using PayPal or your credit or debit card:
+<div style="margin-top: 0">
 
-<div class="centered">
+* Registration fees and other support only cover 60% of convention costs
+* Your contribution allows us to keep registration fees reasonable for all 
+* Your partnership brings a stunning, diverse lineup of performers, new music, worship experiences, workshops, and world-class venues to life.
+* Your impact underwrites eight new music commissions and diverse artist’s new work
+
+</div>
+
+Ways to Give:
+
+<div style="margin-top: 0">
+
+* Donate in honor or in memory of a special colleague, friend or family member
+* Receive donor benefits that enhance your convention experience 
+* Gifts can be made as a pledge 
+* Give via check, credit card, DAF, gift of stock, annuity and more
+
+</div>
+
+Please see our
+<a href="https://drive.google.com/file/d/14kNe9qi9ojNBFetzMak11KPYNGyfijXP/view" target="_blank">Donor Information Brochure</a>
+for more information.
+
+Make a secure, online donation:
 <a class="fancy-button" href="https://secure.lglforms.com/form_engine/s/eeqTdDjnVWroSixHUABwOA" rel="external">Donate now</a>
-</div>
 
-To learn more or to make a donation, please contact
-{{ contact(name="Brian Larsen") }}. DAF gifts and gifts of appreciated stock are
-welcome. You can mail checks to {{ contact(name="Bill Vaughan") }}.
+We have many opportunities for sponsorship that create amazing exposure for your company or
+organization. Please see our
+<a href="" target="_blank">sponsorship brochure (NEEDS LINK)</a>.
 
-Please
-<a href="https://drive.google.com/file/d/14kNe9qi9ojNBFetzMak11KPYNGyfijXP/view" rel="external" target="_blank">click here to learn about the significant donor benefits</a>
-that accrue at all giving levels over $600.  You can make your gifts with a
-pledge and pay over time.  You can also dedicate your gift in honor or in memory
-of.
+Need more information? Please contact our Gifts and Grants Chair.  
+**Brian Larsen** |
+<a href="mailto:donate@sfago2024.org">donate@sfago2024.org</a> |
+<a href="tel:+16504859179">650.485.9179</a>
 
-There are special opportunities to sponsor New Music Commissions, Artists,
-Venues, Receptions, and other convention related experiences. For more
-information about sponsorship opportunities, please contact
-{{ contact(name="Brian Larsen") }}. We are seeking your partnership to make this
-convention a once-in-a-generation event.
+Want to mail a check?  
+**Bill Vaughan** | *SF AGO 2024* | *PO Box 3546* | *San Leandro, CA 94578-0546*
 
-Many companies have matching gifts programs.  Please check with your employer to
-see if your workplace matches gifts to non-profit organizations and for
-information about how to make your gift so that it qualifies for matching.
+<p style="font-size: 0.9em; font-style: italic">
+Many companies have matching gifts programs. Please check with your employer to see if your
+workplace matches gifts to non-profit organizations and for information about how to make your gift
+so that it qualifies for matching.
+</p>
 
-*The AGO 2024 National Convention is a special Project of the San Francisco and
+<p style="font-size: 0.9em; font-style: italic">
+The AGO 2024 National Convention is a special Project of the San Francisco and
 Palo Alto Chapters of the American Guild of Organists, a 501(c)(3) organization.
-Contributions to this event are tax-deductible to the fullest extent of the law.*
-
-## Contacts
-
-<div class="contacts">
-
-{% contact_card(name="Brian Larsen", position="Giving Committee Chair") %}
-<a href="mailto:donate@sfago2024.org">donate@sfago2024.org</a><br>
-<a href="tel:+16504859179">(650) 485-9179</a>
-{% end %}
-
-{% contact_card(name="Bill Vaughan", position="Steering Committee Treasurer") %}
-<address>
-SF AGO 2024<br>
-PO Box 3546<br>
-San Leandro, CA 94578-0546
-</address>
-{% end %}
-
-</div>
-
-<div class="spacer"></div>
+Contributions to this event are tax-deductible to the fullest extent of the law.
+</p>

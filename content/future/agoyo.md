@@ -19,7 +19,7 @@ and the
 Houston Chapter Young Organists Scholarship for Conventions
 {% end %}.
 
-# Available Scholarships
+# Scholarships
 
 ## Suzanne and Mark Anderson Convention Housing Scholarship for Young Professionals {#suzanne-and-mark-anderson-scholarship}
 
@@ -86,7 +86,7 @@ awarded the scholarship.
 Scholarship winners will be notified on March 7, 2024, and will have until March 15, 2024, to
 accept. Declined scholarships will be offered to the next highest-ranking applicants.
 
-# Scholarship FAQ
+# FAQ
 
 **I am unable to share a double-occupancy room. Can I still apply?**
 

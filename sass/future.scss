@@ -63,6 +63,11 @@ p {
   padding: 0;
 }
 
+ul,
+ol {
+  margin: 0;
+}
+
 tt,
 code {
   font-family: "Source Code VF", monospace;
@@ -237,7 +242,7 @@ summary {
   }
 
   &>*+* {
-    margin-top: 1.3em;
+    margin-top: 1.25em;
   }
 }
 
@@ -286,95 +291,98 @@ strong {
   flex-direction: row;
   flex-wrap: wrap;
 
-  .card {
-    background-color: var(--bg);
-    border-radius: 0.8rem;
-    border: solid 1px var(--bg);
+  &>.contact-card {
     flex: 1 0 0;
-    padding: 0.5em 1rem;
-    margin: 1rem;
+  }
+}
 
-    &:target {
-      @keyframes blink {
-        0% {
-          background-color: var(--bg-active);
-          border-color: var(--border-active);
-          box-shadow: 0 0 15px -5px var(--border-active);
-        }
+.contact-card {
+  background-color: var(--bg);
+  border-radius: 0.8rem;
+  border: solid 1px var(--bg);
+  padding: 0.5em 1rem;
+  margin: 1rem;
 
-        10% {
-          background-color: var(--bg-active);
-          border-color: var(--border-active);
-          box-shadow: 0 0 15px -5px var(--border-active);
-        }
-
-        20% {
-          background-color: var(--bg);
-          border-color: var(--bg);
-          box-shadow: none;
-        }
-
-        40% {
-          background-color: var(--bg);
-          border-color: var(--bg);
-          box-shadow: none;
-        }
-
-        50% {
-          background-color: var(--bg-active);
-          border-color: var(--border-active);
-          box-shadow: 0 0 15px -5px var(--border-active);
-        }
-
-        60% {
-          background-color: var(--bg-active);
-          border-color: var(--border-active);
-          box-shadow: 0 0 15px -5px var(--border-active);
-        }
-
-        70% {
-          background-color: var(--bg);
-          border-color: var(--bg);
-          box-shadow: none;
-        }
-
-        90% {
-          background-color: var(--bg);
-          border-color: var(--bg);
-          box-shadow: none;
-        }
-
-        100% {
-          background-color: var(--bg-active);
-          border-color: var(--border-active);
-          box-shadow: 0 0 15px -5px var(--border-active);
-        }
+  &:target {
+    @keyframes blink {
+      0% {
+        background-color: var(--bg-active);
+        border-color: var(--border-active);
+        box-shadow: 0 0 15px -5px var(--border-active);
       }
 
-      animation-duration: 1.25s;
-      animation-name: blink;
-      background-color: var(--bg-active);
-      border-color: var(--border-active);
-      box-shadow: 0 0 15px -5px var(--border-active);
-    }
+      10% {
+        background-color: var(--bg-active);
+        border-color: var(--border-active);
+        box-shadow: 0 0 15px -5px var(--border-active);
+      }
 
-    .anchor {
-      float: right;
-      visibility: hidden;
+      20% {
+        background-color: var(--bg);
+        border-color: var(--bg);
+        box-shadow: none;
+      }
 
-      color: var(--link-dim);
-      fill: var(--link-dim);
-      text-decoration: none;
+      40% {
+        background-color: var(--bg);
+        border-color: var(--bg);
+        box-shadow: none;
+      }
 
-      &:hover {
-        color: var(--link);
-        fill: var(--link);
+      50% {
+        background-color: var(--bg-active);
+        border-color: var(--border-active);
+        box-shadow: 0 0 15px -5px var(--border-active);
+      }
+
+      60% {
+        background-color: var(--bg-active);
+        border-color: var(--border-active);
+        box-shadow: 0 0 15px -5px var(--border-active);
+      }
+
+      70% {
+        background-color: var(--bg);
+        border-color: var(--bg);
+        box-shadow: none;
+      }
+
+      90% {
+        background-color: var(--bg);
+        border-color: var(--bg);
+        box-shadow: none;
+      }
+
+      100% {
+        background-color: var(--bg-active);
+        border-color: var(--border-active);
+        box-shadow: 0 0 15px -5px var(--border-active);
       }
     }
 
-    &:hover .anchor {
-      visibility: visible;
+    animation-duration: 1.25s;
+    animation-name: blink;
+    background-color: var(--bg-active);
+    border-color: var(--border-active);
+    box-shadow: 0 0 15px -5px var(--border-active);
+  }
+
+  .anchor {
+    float: right;
+    visibility: hidden;
+
+    color: var(--link-dim);
+    fill: var(--link-dim);
+    text-decoration: none;
+
+    &:hover {
+      color: var(--link);
+      fill: var(--link);
     }
+  }
+
+  &:hover .anchor {
+    visibility: visible;
   }
 }
 
