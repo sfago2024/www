@@ -33,8 +33,10 @@ Please see our
 <a href="https://drive.google.com/file/d/14kNe9qi9ojNBFetzMak11KPYNGyfijXP/view" target="_blank">Donor Information Brochure</a>
 for more information.
 
+<p style="text-align: left">
 Make a secure, online donation:
 <a class="fancy-button" href="https://secure.lglforms.com/form_engine/s/eeqTdDjnVWroSixHUABwOA" rel="external">Donate now</a>
+</p>
 
 We have many opportunities for sponsorship that create amazing exposure for your company or
 organization. Please see our
