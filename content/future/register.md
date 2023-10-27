@@ -47,9 +47,9 @@ Our online registration is handled by Cvent. Click this button to get started:
     </tr>
     <tr>
       <td><strong>Spouse/<wbr>Partner</strong></td>
-      <td>$595</td>
-      <td>$645</td>
-      <td>$695</td>
+      <td>$570</td>
+      <td>$620</td>
+      <td>$670</td>
     </tr>
     <tr>
       <td><strong>Non-member</strong></td>
