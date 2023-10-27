@@ -42,13 +42,18 @@ We have many opportunities for sponsorship that create amazing exposure for your
 organization. Please see our
 <a href="" target="_blank">sponsorship brochure (NEEDS LINK)</a>.
 
-Need more information? Please contact our Gifts and Grants Chair.  
-**Brian Larsen** |
+<p style="text-align: left">
+Need more information? Please contact our Gifts and Grants Chair.<br>
+<strong>Brian Larsen</strong> |
 <a href="mailto:donate@sfago2024.org">donate@sfago2024.org</a> |
 <a href="tel:+16504859179">650.485.9179</a>
+</p>
 
-Want to mail a check?  
-**Bill Vaughan** | *SF AGO 2024* | *PO Box 3546* | *San Leandro, CA 94578-0546*
+<p style="text-align: left">
+Want to mail a check?<br>
+<strong>Bill Vaughan</strong> |
+<i>SF AGO 2024</i> | <i>PO Box 3546</i> | <i>San Leandro, CA 94578-0546</i>
+</p>
 
 <p style="font-size: 0.9em; font-style: italic">
 Many companies have matching gifts programs. Please check with your employer to see if your
