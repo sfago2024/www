@@ -10,14 +10,18 @@ more about their craft, build connections with colleagues, and have fun experien
 Francisco! Check back soon for a schedule of AGOYO-specific events including an excursion, artist
 meet-and-greets, and the biennial AGOYO reception hosted by AGO National Headquarters.
 
-We are proud to announce two scholarship opportunities: the
-{% anchor_link(href="#suzanne-and-mark-anderson-scholarship") %}
+We are proud to announce two scholarship opportunities:
+
+<div class="close">
+
+* {% anchor_link(href="#suzanne-and-mark-anderson-scholarship") %}
 Suzanne and Mark Anderson Convention Housing Scholarship for Young Professionals
 {% end %}
-and the
-{% anchor_link(href="#houston-chapter-scholarship") %}
+* {% anchor_link(href="#houston-chapter-scholarship") %}
 Houston Chapter Young Organists Scholarship for Conventions
-{% end %}.
+{% end %}
+
+</div>
 
 # Scholarships
 

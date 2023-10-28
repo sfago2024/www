@@ -3,17 +3,19 @@ title = ""
 template = "future.html"
 +++
 
+(There will be more content here soon)
+
 <div class="main">
 
-<div class="center">
+<div class="main-center">
 
 <img alt="" src="/img/streetcar.jpg">
 
-A musical encounter with an enchanting city.
+<p>A musical encounter with an enchanting city.</p>
 
 </div>
 
-<div class="left">
+<div class="main-left">
 
 <div style="--accent:#3AB5E6;">
 
@@ -44,7 +46,7 @@ environment unto itself.
 
 </div>
 
-<div class="right">
+<div class="main-right">
 
 <div style="--accent:#FF5624;">
 
