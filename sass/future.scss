@@ -753,10 +753,15 @@ table {
 .schedule {
   display: grid;
   grid-template-columns: 1fr 3fr;
+  column-gap: 1em;
+  row-gap: 1em;
   padding-left: 2rem;
 
+  @media (max-width: $mobile-width) {
+    padding-left: 0;
+  }
+
   line-height: 1;
-  row-gap: 1em;
 
   p {
     text-align: inherit;
