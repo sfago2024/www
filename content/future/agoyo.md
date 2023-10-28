@@ -34,6 +34,8 @@ Recipients will be assigned a roommate with whom they will share a double-occupa
 
 ### Application requirements
 
+<div class="close">
+
 * Proof of age (driver’s license or other government-issued ID)
 * Proof of eligibility (letter from a current organ teacher, current transcript, or diploma).
 * A 250 word essay on the following topics:
@@ -41,6 +43,8 @@ Recipients will be assigned a roommate with whom they will share a double-occupa
     * Explain why you wish to attend the AGO National Convention.
     * Provide an explanation of your financial need and the rationale behind requesting a
       need-based scholarship.
+
+</div>
 
 Essays will be evaluated anonymously. The five individuals with the highest-ranking essays will be
 awarded the scholarship.
@@ -66,12 +70,16 @@ assigned a roommate with whom they will share a double-occupancy room.
 
 ### Application requirements
 
+<div class="close">
+
 * Proof of age (driver’s license or other government-issued ID)
 * Proof of eligibility (photo of your student ID or current transcript).
 * A 250–500 word essay on the following topics:
     * Describe your past, current, and future interest in the organ.
     * Provide an explanation of your financial need and rationale for requesting a need-based
       scholarship.
+
+</div>
 
 Essays will be evaluated anonymously. The ten individuals with the highest-ranking essays will be
 awarded the scholarship.

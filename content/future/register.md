@@ -62,7 +62,7 @@ Our online registration is handled by Cvent. Click this button to get started:
 
 Bus transportation between convention events is **included** in all registration rates.
 
-## Partner organizations
+# Partner organizations
 
 Member registration rates are available to current members of the following organizations:
 
@@ -100,8 +100,17 @@ The 2024 AGO National Convention hopes everyone who registers for the conference
 
 * Registration canceled **on or after May 16, 2024,** will *NOT* receive a refund. *Registration fees may be transferred to another individual;* the invoice for the new registration will be revised to reflect the new registrant's membership status.
 
-Cancellation requests should be sent to <a href="mailto:registrar@sfago2024.org">registrar@sfago2024.org</a>.
+Cancellation requests should be sent to {{ contact(name="Paul Ellison") }}.
 
 # Offline Registration
 
-If you're unable to register online, please contact <a href="mailto:registrar@sfago2024.org">registrar@sfago2024.org</a>.
+If you're unable to register online, please contact {{ contact(name="Paul Ellison") }}.
+
+<div class="contacts">
+
+{% contact_card(name="Paul Ellison", position="Registrar") %}
+<a href="mailto:registrar@sfago2024.org">registrar@sfago2024.org</a><br>
+<a href="tel:+14152051241">415.205.1241</a>
+{% end %}
+
+</div>

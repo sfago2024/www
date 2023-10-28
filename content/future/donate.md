@@ -9,7 +9,7 @@ collective effort, and our supporters play an essential role.
 
 Why Support your Convention:
 
-<div style="margin-top: 0">
+<div class="close">
 
 * Registration fees and other support only cover 60% of convention costs
 * Your contribution allows us to keep registration fees reasonable for all 
@@ -20,7 +20,7 @@ Why Support your Convention:
 
 Ways to Give:
 
-<div style="margin-top: 0">
+<div class="close">
 
 * Donate in honor or in memory of a special colleague, friend or family member
 * Receive donor benefits that enhance your convention experience 
@@ -33,7 +33,7 @@ Please see our
 <a href="https://drive.google.com/file/d/14kNe9qi9ojNBFetzMak11KPYNGyfijXP/view" target="_blank">Donor Information Brochure</a>
 for more information.
 
-<p style="text-align: left">
+<p class="no-justify">
 Make a secure, online donation:
 <a class="fancy-button" href="https://secure.lglforms.com/form_engine/s/eeqTdDjnVWroSixHUABwOA" rel="external">Donate now</a>
 </p>
@@ -42,18 +42,21 @@ We have many opportunities for sponsorship that create amazing exposure for your
 organization. Please see our
 <a href="" target="_blank">sponsorship brochure (NEEDS LINK)</a>.
 
-<p style="text-align: left">
-Need more information? Please contact our Gifts and Grants Chair.<br>
+<p class="no-justify">
+Need more information? Please contact our Gifts and Grants Chair:<br>
 <strong>Brian Larsen</strong> |
 <a href="mailto:donate@sfago2024.org">donate@sfago2024.org</a> |
 <a href="tel:+16504859179">650.485.9179</a>
 </p>
 
-<p style="text-align: left">
-Want to mail a check?<br>
-<strong>Bill Vaughan</strong> |
-<i>SF AGO 2024</i> | <i>PO Box 3546</i> | <i>San Leandro, CA 94578-0546</i>
+<p class="no-justify">
+Want to mail a check? Please make it out to <em>SF AGO 2024</em> and mail it to:
 </p>
+<address class="close">
+SF AGO 2024<br>
+PO Box 3546<br>
+San Leandro, CA 94578-0546
+</address>
 
 <p style="font-size: 0.9em; font-style: italic">
 Many companies have matching gifts programs. Please check with your employer to see if your
