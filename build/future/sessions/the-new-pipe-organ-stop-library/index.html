@@ -20,14 +20,15 @@
     <div class="line"></div>
     <p class="dates"><time datetime="2024-06-30"><span>June</span> 30</time>&thinsp;–&thinsp;<time datetime="2024-07-04"><span>July</span> 04</time></p>
   </header>
-  <div class="menu-button">
-    <svg class="icon middle" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
+  <div class="menu-container">
+    <div class="menu-button">
+      <svg class="icon middle" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
   <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
 </svg>
  Menu
-  </div>
-  <nav class="main-menu">
-    <a href="https://www.sfago2024.org/future/">Home</a>
+    </div>
+    <nav class="main-menu">
+      <a href="https://www.sfago2024.org/future/">Home</a>
 <a href="https://www.sfago2024.org/future/donate/">Donate</a>
 <a href="https://www.sfago2024.org/future/advertise-exhibit/">Advertise/Exhibit</a>
 <a href="https://www.sfago2024.org/future/register/">Register</a>
@@ -40,7 +41,8 @@
 <a href="https://www.sfago2024.org/future/travel/">Travel</a>
 <a href="https://www.sfago2024.org/future/agoyo/">AGOYO</a>
 
-  </nav>
+    </nav>
+  </div>
   <div class="main-flex">
     <div class="content">
       
@@ -82,11 +84,14 @@ Learn how to find and compare sound files of historic and important organ stops 
     document.addEventListener(
       "DOMContentLoaded",
       (e) => {
+        let container = document.querySelector(".menu-container");
+        let button = document.querySelector(".menu-button");
         let menu = document.querySelector(".main-menu");
-        document.querySelector(".menu-button").addEventListener("click",
+        button.addEventListener("click",
           (e) => {
-            if (menu.style.display != "flex") {
+            if (button.classList.toggle("active")) {
               menu.style.display = "flex";
+              container.scrollIntoView({block: "nearest"});
             } else {
               menu.style.display = "none";
             }
