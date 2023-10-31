@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Chanticleer</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/e7eabffe353d4899a023fe3fcb125919.jpg">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/e7eabffe353d4899a023fe3fcb125919.jpg">
 <h2>Biography</h2>
 <p>The GRAMMY® Award-winning vocal ensemble Chanticleer is known around the world as “an orchestra of voices” for its wide-ranging repertoire and dazzling virtuosity.  Founded in San Francisco in 1978 by singer and musicologist Louis Botto, Chanticleer quickly took its place as one of the most prolific recording and touring ensembles in the world, selling over one million recordings and performing thousands of live concerts to audiences around the world.
 

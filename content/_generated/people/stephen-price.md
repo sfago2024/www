@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Stephen Price</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/1bea5b2058e0443eafe52696bb2e25a9.jpg">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/1bea5b2058e0443eafe52696bb2e25a9.jpg">
 <h2>Biography</h2>
 <p>Stephen C. Price recently joined the music faculty at the University of Washington (Seattle) as the inaugural Paul B. Fritts Faculty Fellow and Artist-in-Residence in organ performance. He previously held the position of Assistant Teaching Professor in music (organ) at Ball State University, Muncie, Indiana. In his previous post, he maintained an organ studio including undergraduate and graduate students, and also taught church music, music history, and music theory courses. 
 

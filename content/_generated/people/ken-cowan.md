@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Ken Cowan</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/765a3f472c954a4398d36b270cf7761b.jpg">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/765a3f472c954a4398d36b270cf7761b.jpg">
 <h2>Biography</h2>
 <p>Regarded as one of North America’s finest concert organists and praised for his dazzling artistry, impeccable technique, and imaginative programming by audiences and critics alike, Ken Cowan maintains a rigorous performing schedule that takes him to major concert venues in America, Canada, Europe, and Asia.  
 

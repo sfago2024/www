@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Robert McCormick</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/90aee8f511464ae894a470d767775520.jpg">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/90aee8f511464ae894a470d767775520.jpg">
 <h2>Biography</h2>
 <p>Described by Choir & Organ as “indomitable and immensely gifted” and by The Macon Telegraph as “an artist of rare sensitivity and passion”, Robert McCormick is widely heralded by his colleagues as one of the finest concert and church musicians of this era, and known for his creative and unique abilities in organ improvisation. Appearances across the United States include Grace Cathedral in San Francisco, the Summer Organ Festival at the Riverside Church (New York), the Pittsburgh Organ Artists Series, the East Texas Organ Festival, Basically Bach Festival at St. Peter’s Lutheran (New York), the Great Organists series at St. John’s Cathedral in Albuquerque (New Mexico), and the Atlanta Summer Organ Festival. His concerto appearances with orchestra include Samuel Barber’s Toccata Festiva, Camille Saint-Saëns’ “Organ” Symphony, and Joseph Jongen’s Symphonie Concertante. He has been a featured artist and clinician at numerous conventions and conferences of the AGO, the Association of Anglican Musicians, and the Royal School of Church Music in America. He also serves as an adjunct Assistant Professor of Organ at Westminster Choir College in New Jersey. 
 

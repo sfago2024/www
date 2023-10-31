@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Jason Steiner</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/a9447595ae3c47bbb56c2f7ca36cc221.jpg">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/a9447595ae3c47bbb56c2f7ca36cc221.jpg">
 <h2>Biography</h2>
 <p>Jason Steiner serves as the Organist at Covenant Church in Houston, Texas. Concurrently, he is a first-year candidate for the M.M. in Sacred Music degree at the University of Houston, where he studies organ with Daryl Robinson, conducting with Alex Koppel, and holds a graduate assistantship in the Musicology department. 
  

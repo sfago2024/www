@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Nicole Keller</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/7b8e5f416c7f493b84f71fdcef1dbc1c.jpg">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/7b8e5f416c7f493b84f71fdcef1dbc1c.jpg">
 <h2>Biography</h2>
 <p>Nicole Keller is in demand as a concert artist, adjudicator, and clinician. She has concertized in the States and abroad in venues such as St. Patrick Cathedral, New York; Cathédrale Notre-Dame, Paris; Dom St. Stephan, Passau; St. Patrick Cathedral, Armagh, Northern Ireland; and The Kazakh National University for the Arts, Astana, Kazakhstan.  Ms. Keller specializes in eclectic programs suited to instrument and audience with a desire to expand the listener’s horizons, pairing familiar sounds and genres with less familiar ones. Her performances with orchestras includes concertos, works for small chamber orchestra, and large works involving organ, harpsichord, and piano. She also has extensive experience as a chamber musician and continuo player. 
 

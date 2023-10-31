@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Dong-Ill Shin</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/69ff3d8eca96419fad43662240414d65.png">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/69ff3d8eca96419fad43662240414d65.png">
 <h2>Biography</h2>
 <p>Dong-Ill Shin has been hailed as "one of the world's most promising talents of his generation" (Echo Republicain, France) and as having "formidable discipline and considerable musicality" (Dallas Morning, USA) and "an amazing technique, sensibility, and talent" (ABC, Spain). He has been praised for his “impressive precision, brisk sense of purpose and deliberate avoidance of empty display” (The Straits Times, Singapore) and for having played “one of the best classical music concerts of the year” (Star Telegram, USA).
 

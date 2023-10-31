@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Olivier Latry</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/018c7679b8ab4ad88c274028be59acb0.png">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/018c7679b8ab4ad88c274028be59acb0.png">
 <h2>Biography</h2>
 <p>Olivier Latry is one of the most distinguished concert organists in the world today. Titular Organist at the Cathedral of Notre-Dame in Paris, he is also Professor of Organ at the Paris Conservatory of Music, Organist Emeritus of the Montreal Symphony Orchestra in Canada, and William T. Kemper Artist in Residence at the University of Kansas.
 

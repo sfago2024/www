@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>David Vogels</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/17f89224d1ed4a7e96916468debb67fd.jpg">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/17f89224d1ed4a7e96916468debb67fd.jpg">
 <h2>Biography</h2>
 <p>David Vogels, CAGO, writes the monthly Commentary for The American Organist magazine. His groundbreaking report on “The Birth of Messiaen’s Livre du Saint Sacrement” appeared in the January issue of that publication. He has recently translated the most comprehensive survey of Messiaen’s organ cycle, Olivier Messiaen’s Livre du Saint Sacrement: Mystery of the Eucharistic Presence by Dorothee Bauer, from the original German for publication by Brill | Schöningh (available from the publisher or Amazon).
 

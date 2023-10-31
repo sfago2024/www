@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Monica Czausz Berney</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/6a68aa0351da40d58725d85d6882b707.png">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/6a68aa0351da40d58725d85d6882b707.png">
 <h2>Biography</h2>
 <p>A true star among young classical musicians, Monica Berney, née Czausz, has made a name for herself as one of the finest organists on the scene today. Known for her technical mastery, effortless musicality, and engaging stage presence, she has been inspiring audiences from coast to coast with “artistic mastery far beyond her years” (The American Organist). 
 

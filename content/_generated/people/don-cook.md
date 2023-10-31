@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Don Cook</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/b64ea693fba9459799ae554a65714896.jpg">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/b64ea693fba9459799ae554a65714896.jpg">
 <h2>Biography</h2>
 <p>Don Cook joined the organ faculty of Brigham Young University (BYU) in 1991. In that capacity he coordinates the organ area, oversees an innovative group organ program, and serves as university carillonneur. Formerly he was carillonneur and associate organist at Christ Church Cranbrook, Bloomfield Hills, Michigan, and associate organist/choirmaster at First United Methodist Church, Lubbock, Texas.  
 

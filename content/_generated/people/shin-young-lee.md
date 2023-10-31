@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Shin-Young Lee</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/b855bc8d26f24f7fafcef6e4e73c4923.jpg">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/b855bc8d26f24f7fafcef6e4e73c4923.jpg">
 <h2>Biography</h2>
 <p>Shin-Young Lee is an international artist of profound distinction. In her performances she connects with her audience through her strong spiritual and musical commitment, and through the originality of her programming which often combines both organ repertoire and transcriptions.
 

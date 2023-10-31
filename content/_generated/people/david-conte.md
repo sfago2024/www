@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>David Conte</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/0488369658204d189983904c34fad3b6.png">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/0488369658204d189983904c34fad3b6.png">
 <h2>Biography</h2>
 <p>David Conte has received commissions from Chanticleer; the San Francisco, Dayton, Oakland, and Stockton Symphonies; the Raymond Brock Commission from the American Choral Directors Association; and for conventions of the AGO (2004, 2012, 2015, 2024). He has composed solo pieces for organists Ken Cowan, Michael Farris, David Higgs, and Alan Morrison. Since 1985 he has been Professor of Composition and since 2014 Chair of the Composition Department at the San Francisco Conservatory of Music. 
 

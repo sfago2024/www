@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Texu Kim</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/a50d223b539f440a872c86420c2c00ae.jpg">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/a50d223b539f440a872c86420c2c00ae.jpg">
 <h2>Biography</h2>
 <p>Texu Kim (김택수) is “one of the most active and visible composers of his generation” (San Francisco Classical Voice), writing fun, sophisticated, and culturally connected music. Drawing on his affinity for humor, his background in science, and his fascination with everyday experiences, Kim’s work radiates positivity, offering “major-league cuteness” (Broadway World) while demonstrating “surprising scope.” (San Diego Story) As a Korean-American, Kim explores the localization of imported traditions, incorporating cross-cultural elements into his work in “impressive and special” ways so that “many orchestras and conductors around the world are taking an interest in [his] music.” (KPBS) By highlighting the interaction between folk culture and external influences, Kim creates meaningful depth while maintaining playfulness and exuberance that is listener-friendly and engaging.
 

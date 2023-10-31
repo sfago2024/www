@@ -586,9 +586,6 @@ dl {
     }
 
     &>img {
-      border: solid 15px white;
-      box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
-      line-height: 0;
       margin: 0 1.5rem;
       margin-bottom: 1.5rem;
       width: 400px;
@@ -803,5 +800,13 @@ table {
 }
 
 .speaker-photo {
-  max-width: 30em;
+  max-width: 15em;
+  margin: 1rem auto;
+}
+
+.speaker-photo,
+.framed-photo {
+  border: solid 15px white;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+  line-height: 0;
 }

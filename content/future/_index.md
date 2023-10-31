@@ -9,7 +9,7 @@ template = "future.html"
 
 <div class="main-center">
 
-<img alt="" src="/img/streetcar.jpg">
+<img class="framed-photo" alt="" src="/img/streetcar.jpg">
 
 <p>A musical encounter with an enchanting city.</p>
 

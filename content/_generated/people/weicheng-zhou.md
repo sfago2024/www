@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Weicheng Zhou</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/efe5148c6c8f49e2802dd5a2f5aea86f.png">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/efe5148c6c8f49e2802dd5a2f5aea86f.png">
 <h2>Biography</h2>
 <p>Dr. Weicheng Zhao is the first Chinese native to win top prizes in international and US national organ competitions, with the added honor of receiving the Audience Prize each time. He was a featured recitalist at the American Guild of Organists West Regional Conventions in 2015 and 2019. At the invitation of Jean Guillou, Dr. Zhao played a solo recital in Paris at the Saint-Eustache Festival d'orgue, 2011. As an ensemble player, he has performed concerts with the Los Angeles Philharmonic under Gustavo Dudamel, Zubin Metha, Esa-Pekka Salonen, and others. He was also invited by the LA Phil to be a featured artist on their Chamber Music Series concerts at Walt Disney Concert Hall. His performances can be heard on National Public Radio (Pipedreams).
 

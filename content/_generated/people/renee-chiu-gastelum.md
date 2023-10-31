@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Renee Chiu Gastelum</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/dbff475ff2364fb584d284c2487b4fea.jpeg">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/dbff475ff2364fb584d284c2487b4fea.jpeg">
 <h2>Biography</h2>
 <p>Chinese Hispanic organist and Silicon Valley native Renee Chiu enjoys a blossoming career as a performer, educator, and speaker. She became a Colleague of the AGO at age 19 and an Associate at age 22. Ms. Chiu graduated Cum Laude with a Bachelor’s Degree of Organ Performance from Brigham Young University, which she earned under the tutelage of Drs. Don Cook and Neil Harmon. She is currently a Master’s candidate there. 
 

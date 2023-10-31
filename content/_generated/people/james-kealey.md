@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>James Kealey</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/febed9d411554a79a5784ac4aa104ec6.jpg">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/febed9d411554a79a5784ac4aa104ec6.jpg">
 <h2>Biography</h2>
 <p>Winner of the First Prize and Audience Prize at the 2022 American Guild of Organists’ National Young Artists Competition in Organ performance (NYACOP), James Kealey is a young artist of great distinction who has appeared in recital in England, the U.S.A., and in Europe.
 

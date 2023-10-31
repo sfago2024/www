@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Katelyn Emerson</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/55517dfdc89240bba8374b6af4e68d2c.jpeg">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/55517dfdc89240bba8374b6af4e68d2c.jpeg">
 <h2>Biography</h2>
 <p>A “star of the first rank” (Orgue Canada), organist and pedagogue Katelyn Emerson showcases repertoire spanning the 14th—21st centuries in concerts described as “thrilling from beginning to end” (Cleveland Classical). She both lectures and gives masterclasses on topics ranging from organ interpretation and healthy practice techniques to sacred music.
 

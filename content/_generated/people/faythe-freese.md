@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Faythe Freese</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/2ff6d01e3dac4868aaf7f1e17a35bb69.jpg">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/2ff6d01e3dac4868aaf7f1e17a35bb69.jpg">
 <h2>Biography</h2>
 <p>Dr. Faythe Freese, Professor Emeritus of Organ at the University of Alabama School of Music, is in demand as a recitalist throughout the United States, Europe, South Korea and Singapore.  Dr. Freese was the recipient of the Indiana University Oswald Ragatz Distinguished Alumni Award.  She is the only American woman to have recorded at L’Eglise de la Sainte-Trinité, Paris on the landmark instrument where Guilmant, Messiaen, and Hakim were titular organists.  
 

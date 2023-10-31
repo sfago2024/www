@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Anne Laver</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/2e2c11da59f44fdbb8e88accedb0214b.png">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/2e2c11da59f44fdbb8e88accedb0214b.png">
 <h2>Biography</h2>
 <p>Described by Fanfare magazine as a “complete musician, totally adept and utterly stylish in everything she plays,” Anne Laver maintains an active career as concert organist, scholar, and pedagogue. She has performed in Europe, Scandinavia, Africa and across the United States and has been a featured recitalist at conventions of the American Guild of Organists, the Organ Historical Society, the Westfield Center for Historical Keyboard Studies, and the Göteborg International Organ Academy (Sweden). In 2010, she was awarded second prize in the AGO National Young Artist Competition in Organ Performance (NYACOP). Anne’s debut recording, “Reflections of Light” (Loft, 2019) received favorable reviews and has been aired on nationally syndicated radio programs, including WXXI FM’s With Heart and Voice and American Public Media’s Pipedreams. 
 

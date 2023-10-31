@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Douglas Cleveland</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/4ee2bd2e09c345f1a40023a162b64aac.png">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/4ee2bd2e09c345f1a40023a162b64aac.png">
 <h2>Biography</h2>
 <p>Doug Cleveland was born in Tacoma, Washington and raised in Olympia. He received his bachelor’s degree from the Eastman School of Music where he studied with Russell Saunders, a master’s degree from Indiana University studying with Larry Smith and Marilyn Keiser, and a doctorate from the Graduate Theological Foundation, where he completed his course work and final doctoral project at the University of Oxford School of Theology. 
 

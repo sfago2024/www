@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Aaron Tan</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/57ab634677204d78be5ea2a2a49b4efa.png">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/57ab634677204d78be5ea2a2a49b4efa.png">
 <h2>Biography</h2>
 <p>Originally from the Philippines and Canada, Aaron Tan has won numerous noteworthy competitions and scholarships on both organ and piano, including the First Prize at the 2021 Canadian International Organ Competition, and the First Prize and Audience Prize at the AGO National Young Artists (NYACOP) competition in 2018.  Other competition prizes and awards include the Toronto RCCO Young Organists Competition, the Osborne Organ Competition of the Summer Institute of Church Music (Ontario), the RCCO’s National Organ Playing Competition, the Charlotte Hoyt Bagnall Scholarship for Church Musicians, the Lilian Forsyth Scholarship, the West Chester University Organ Competition, the Arthur Poister Scholarship Competition, the Sursa American Organ Competition, and the XVI Poland International Piano Festival Competition.  
 In 2004, under the auspices of the Barwell Scholarship (awarded to pianists interested in learning the organ), he began organ studies with John Tuttle while concurrently entering as a freshman in Engineering Science at the University of Toronto.  Since then, he has gone on to complete both Associate (ARCCO) and Fellowship (FRCCO) diplomas in organ from the Royal Canadian College of Organists (RCCO).  

@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Dr. Jonathan Bezdegian</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/4d19d3743bc94a02b95b18ed95039d74.jpg">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/4d19d3743bc94a02b95b18ed95039d74.jpg">
 <h2>Biography</h2>
 <p>Jonathan Bezdegian, a native of Paxton, Massachusetts began his music studies at the age of seven. In 2002, he began his intensive organ instruction with Dr. Frank Corbin at Assumption University in Worcester, MA. Jonathan then transferred to Oberlin College in 2004. While at Oberlin, he studied organ with the late David Boe, and harpsichord with Lisa Crawford, Brett Maguire, and Webb Wiggins.
 

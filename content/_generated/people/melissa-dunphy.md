@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Melissa Dunphy</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/55a862660b2041fabc15aad805c620c7.jpg">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/55a862660b2041fabc15aad805c620c7.jpg">
 <h2>Biography</h2>
 <p>Born in Australia and raised in an immigrant family, Melissa Dunphy herself immigrated to the United States in 2003 and has since become an award-winning and acclaimed composer specializing in vocal, political, and theatrical music. She first came to national attention when her large-scale work the Gonzales Cantata was featured in The Wall Street Journal, The Atlantic, National Review, Fox News, and on The Rachel Maddow Show. Other notable works include the song cycle Tesla's Pigeon, which won first place in the NATS Art Song Composition Award, and choral work What do you think I fought for at Omaha Beach? which won the Simon Carrington Chamber Singers Competition and has been performed nationally by ensembles including Chanticleer and Cantus.
  

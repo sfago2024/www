@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Edie Johnson</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/6b32a20849e54ef398096235d0e563af.jpg">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/6b32a20849e54ef398096235d0e563af.jpg">
 <h2>Biography</h2>
 <p>Edie Johnson is the Organist and Music Associate at Church Street United Methodist Church in Knoxville, TN. She is also an adjunct faculty member in the Colllege of Music at University of Tennessee, Knoxville where she teaches private organ, harpsichord, and courses in organ literature and sacred music. Ms. Johnson previously served as Assistant Organist/Choir Director at St. Paul’s Episcopal Church and Seminary Organist and Affiliate Professor of Church Music at Christian Theological Seminary in Indianapolis, IN. 
 

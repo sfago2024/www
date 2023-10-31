@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Joey Fala</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/d1fa4a2dd89f4ee88e3103620edcf914.jpg">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/d1fa4a2dd89f4ee88e3103620edcf914.jpg">
 <h2>Biography</h2>
 <p>Organist and church musician Joseph Fala is the Director of Music at University Presbyterian Church on the UNC Chapel Hill campus where he oversees an intergenerational program comprising four choral ensembles, a newly established concert series and growing collaborations with the university, including a choral scholar initiative and sacred music resident program. Joey is a graduate of Yale University where he studied organ with Martin Jean and Thomas Murray and subsequently undertook a two-year residency as organ scholar at Duke University Chapel where he also held the position of Chapel Carillonneur. He formerly served at the Episcopal Chapel of the Cross in Chapel Hill, NC and St. Paul’s Episcopal Church in Norwalk, CT. His teachers include Joseph Causby, Katherine Crosier, Alfred Fedak, Christopher Jacobson and Christian Lane.
 

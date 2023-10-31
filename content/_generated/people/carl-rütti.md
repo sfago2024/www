@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Carl Rütti</h1>
 
-<img src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/8f686a907acc4498b9bf6c39b928cfb5.jpg">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/8f686a907acc4498b9bf6c39b928cfb5.jpg">
 <h2>Biography</h2>
 <p>Carl Rütti (*1949) grew up in Zug, Switzerland. After graduating from the monastery school in Engelberg, he studied music at the Zurich Conservatory, graduating with a soloist's diploma in piano and organ. 
 
