@@ -11,6 +11,6 @@ template = "future.html"
 02:00 PM – 02:45 PM</p>
 <h2>Description</h2>
 
-A first for an AGO National Convention! Lightning talks are five-minute talks on any topic that could be of interest to organists. Seven young organists have been selected to speak on a variety of topics from (topic A, TBD, possibly "organs and aviation") to (topic B, TBD, possibly "Chromesthesia"). Hear from up-and-coming musicians about their unique interests and passions.
+A first for an AGO National Convention! Lightning talks are short, fast-paced talks on any interesting topic. Seven young organists will give 5-minute talks on a variety of topics ranging from Chromesthesia to "Organs and Aviation". Hear from these up-and-coming musicians about their unique interests and passions.
 
 

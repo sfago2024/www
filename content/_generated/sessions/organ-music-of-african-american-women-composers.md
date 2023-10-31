@@ -11,6 +11,6 @@ template = "future.html"
 11:00 AM – 11:45 AM</p>
 <h2>Description</h2>
 
-A brief overview of the life and works of a traditionally overlooked cohort of organ composers.
+<div class="ag87-crtemvc-hsbk"><div class="css-vsf5of"><p class="carina-rte-public-DraftStyleDefault-block">A brief overview of the life and works of a traditionally overlooked cohort of organ composers. <a href="https://www.sfago2024.org/future/sessions/organ-music-of-african-american-women-composers/" target="_blank">Read more</a></p></div></div>
 
 
