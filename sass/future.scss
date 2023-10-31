@@ -101,7 +101,7 @@ body {
   align-items: center;
   justify-content: center;
 
-  @media (max-width: 600px) {
+  @media (max-width: 800px) {
     flex-direction: column;
   }
 
@@ -126,16 +126,12 @@ body {
     text-transform: uppercase;
 
     @media (max-width: 800px) {
-      font-size: 2.5em;
-    }
-
-    @media (max-width: 600px) {
       font-size: 1.3em;
       font-weight: 800;
       padding-top: 0.5em;
     }
 
-    @media (min-width: 601px) {
+    @media (min-width: 801px) {
       line-height: 0.8;
 
       time {
@@ -146,8 +142,9 @@ body {
         text-align: center;
 
         span {
-          font-size: 0.5em;
-          font-weight: 800;
+          letter-spacing: -0.05em;
+          font-size: 0.45em;
+          font-weight: 900;
         }
       }
     }
@@ -758,9 +755,8 @@ table {
 .schedule {
   display: grid;
   grid-template-columns: 10em 1fr;
-  column-gap: 0.5em;
+  column-gap: 1em;
   row-gap: 1em;
-  padding-left: 2rem;
 
   @media (max-width: $mobile-width) {
     padding-left: 0;
@@ -776,6 +772,7 @@ table {
   &>.time {
     grid-column: 1;
     font-weight: 550;
+    text-align: right;
 
     &>i {
       font-style: normal;
