@@ -52,11 +52,12 @@ Need more information? Please contact our Gifts and Grants Chair:<br>
 <p class="no-justify">
 Want to mail a check? Please make it out to <em>SF AGO 2024</em> and mail it to:
 </p>
-<address class="close">
-SF AGO 2024<br>
+{% contact_card(name="SF AGO 2024") %}
+<address>
 PO Box 3546<br>
 San Leandro, CA 94578-0546
 </address>
+{% end %}
 
 <p style="font-size: 0.9em; font-style: italic">
 Many companies have matching gifts programs. Please check with your employer to see if your
