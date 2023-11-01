@@ -43,11 +43,12 @@ organization. Please see our
 <a href="" target="_blank">sponsorship brochure (NEEDS LINK)</a>.
 
 <p class="no-justify">
-Need more information? Please contact our Gifts and Grants Chair:<br>
-<strong>Brian Larsen</strong> |
-<a href="mailto:donate@sfago2024.org">donate@sfago2024.org</a> |
-<a href="tel:+16504859179">650.485.9179</a>
+Need more information? Please contact our Gifts and Grants Chair:
 </p>
+{% contact_card(name="Brian Larsen") %}
+<a href="mailto:donate@sfago2024.org">donate@sfago2024.org</a><br>
+<a href="tel:+16504859179">650.485.9179</a>
+{% end %}
 
 <p class="no-justify">
 Want to mail a check? Please make it out to <em>SF AGO 2024</em> and mail it to:
