@@ -4,6 +4,8 @@ template = "future.html"
 aliases = [
   "/future/travel/",
 ]
+[extra]
+show_toc = true
 +++
 
 # Hotel
@@ -36,7 +38,7 @@ The Bay Area is served by two major airports,
 and
 {% external_link(href="https://www.oaklandairport.com/") %}Oakland International (OAK){% end %}.
 
-# Pulic Transportation
+# Public Transportation
 
 {% external_link(href="https://www.bart.gov/") %}Bay Area Rapid Transit (BART){% end %}
 trains are available from both airports to downtown San Francisco. Riders purchase a reloadable
@@ -81,3 +83,7 @@ page.
 Here is the link to the
 {% external_link(href="https://www.sftravel.com/") %}SF Travel website{% end %}
 which includes an abundance of information on travel to and around San Francisco.
+
+<div class="bottom-ad">
+  <div class="bottom-ad-placeholder"></div>
+</div>
