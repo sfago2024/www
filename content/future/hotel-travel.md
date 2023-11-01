@@ -12,10 +12,6 @@ aliases = [
 <img class="framed-photo not-too-big" src="/img/marriott-marquis.jpg">
 </div>
 
-<p>
-{% external_link(href="https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/overview/") %}San Francisco Marriott Marquis{% end %}
-</p>
-
 Located in San Francisco’s exciting SoMa district, our convention hotel provides easy access to
 attractions such as Moscone Center, Chase Center, Oracle Park, Union Square shopping, and the
 museums in SoMa and Yerba Buena. Read the Marriott Marquis
