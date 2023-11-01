@@ -807,3 +807,10 @@ table {
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
   line-height: 0;
 }
+
+.framed-photo.not-too-big {
+  margin-left: auto;
+  margin-right: auto;
+  width: calc(100% - 30px - 2rem);
+  max-width: 600px;
+}

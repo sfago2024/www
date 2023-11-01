@@ -1,11 +1,25 @@
 +++
 title = "Register"
 template = "future.html"
+[extra]
+show_toc = true
 +++
 
-# Online Registration
+Consider extending your stay! The AGO group hotel rate of $169 per night is available both before
+and after the convention dates, from June 23 through July 10. Before and after the convention, take
+the opportunity to enjoy San Francisco sights, neighborhoods, and restaurants, as well as sports
+events, museums, shopping, and concerts. And this year SF Pride is June 29–30, 2024.
 
-Our online registration is handled by Cvent. Click this button to get started:
+Please note that registration fees include bus transportation from the hotel to most convention
+venues, a $150–$200 value. While door-to-door bus service is provided whenever possible, at
+times attendees will need to walk several blocks. **If you are unable to do so or if you need ADA
+transportation, be sure to check the special needs box when you register.**
+
+Not an AGO member? It's not too late to join and take advantage of member rates. Simply complete your
+{% external_link(href="https://www.agohq.org/membership/membership-comparisons-dues-rates/") %}membership or renewal{% end %}
+application to secure the reduced rate for the convention.
+
+Click this button to register for AGO 2024 San Francisco.
 
 <div class="centered">
 <a class="fancy-button disabled"><!--href="https://cvent.me/xdER8R?rt=NADRUV8wnEW6fR5Niy5H6g&RefId=sfago2024.org%2Fregister" rel="external" target="_blank"-->Register online</a><br>
