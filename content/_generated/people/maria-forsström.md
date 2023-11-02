@@ -6,7 +6,7 @@ template = "future.html"
 
 <h1>Maria Forsström</h1>
 
-<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/4d559a595e5f40ada0c6e118c7f7a028.jpg">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/18624ecc79f9433fb8dbf2ffcc1fe769.jpg">
 <h2>Biography</h2>
 <p>Maria Forsström is a singer and conductor, being equally at ease in the symphonic repertoire, at a Lieder recital or in front of a choir. First having studied church music, piano and conducting in Stockholm, London, and St. Petersburg, she wanted to be the instrument herself, starting singing at the age of 33. She is much appreciated for her intelligent musicianship and enjoyment of exploring different musical styles. The years 2014-2023 she was the head vocal coach of the Gothenburg Symphony Chorus. 
 

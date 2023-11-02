@@ -11,6 +11,6 @@ template = "future.html"
 09:00 AM – 11:30 AM</p>
 <h2>Description</h2>
 
-<div class="ag87-crtemvc-hsbk"><div class="css-vsf5of"><p class="carina-rte-public-DraftStyleDefault-block"><span style="background-color: rgb(255,253,157);">TODO: (description of Mission Dolores and the workshop)</span></p><p class="carina-rte-public-DraftStyleDefault-block"><span style="color: rgb(160,0,0);"><span style="font-weight: bold;">NOTE:</span> This is a 3-hour session. If you select this, you cannot select workshops at 9:00 AM, 10:00 AM, or 11:00 AM.</span></p></div></div>
+<div class="ag87-crtemvc-hsbk"><div class="css-vsf5of"><p class="carina-rte-public-DraftStyleDefault-block"><span style="color: rgb(160,0,0);"><span style="font-weight: bold;">NOTE:</span> This is a 3-hour session. If you select this, you cannot select workshops at 9:00 AM, 10:00 AM, or 11:00 AM.</span></p><p class="carina-rte-public-DraftStyleDefault-block"><span style="color: rgb(34,34,34);">This ninety-minute choral workshop is led by Swedish soprano Maria Forsström and will feature a choir of local SF chorister talent in the Mission Dolores Basilica (built in 1918).</span><span style="color: rgb(102,102,102);"> Additionally, you will visit Mission Dolores to learn about its unique historic, religious, and architectural significance as well as enjoy its tranquil garden and cemetery. This historic Mission is the oldest surviving building in San Francisco and was dedicated in 1791. </span></p></div></div>
 
 
