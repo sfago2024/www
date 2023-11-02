@@ -65,13 +65,13 @@ show_toc = true
 <span class="time">2:00&nbsp;<i>PM</i> – 2:45&nbsp;<i>PM</i></span>
 <span class="event"><span class="group">[Group A]</span> Dong-Il Shin - Cathedral of Christ the Light, Oakland<br>Commissioned piece: Texu Kim</span>
 <span class="event"><span class="group">[Group B]</span> choice of:</span>
-<span class="event">Concert: Nicole Keller - First Presbyterian Church, Oakland<br>Commissioned piece: Karl Rütti</span>
+<span class="event">Concert: Nicole Keller - First Presbyterian Church, Oakland<br>Commissioned piece: Carl Rütti</span>
 <span class="event">Concert: Chanticleer - St. Paul’s Episcopal Church, Oakland</span>
 <span class="event">Roman Catholic Worship Service: Jennifer Pascual - Our Lady of Lourdes, Oakland</span>
 <span class="time">3:30&nbsp;<i>PM</i> – 4:15&nbsp;<i>PM</i></span>
 <span class="event"><span class="group">[Group B]</span> Dong-Il Shin - Cathedral of Christ the Light, Oakland<br>Commissioned piece: Texu Kim</span>
 <span class="event"><span class="group">[Group A]</span> choice of:</span>
-<span class="event">Concert: Nicole Keller - First Presbyterian Church, Oakland<br>Commissioned piece: Karl Rütti</span>
+<span class="event">Concert: Nicole Keller - First Presbyterian Church, Oakland<br>Commissioned piece: Carl Rütti</span>
 <span class="event">Concert: Chanticleer - St. Paul’s Episcopal Church, Oakland</span>
 <span class="event">Roman Catholic Worship Service: Jennifer Pascual - Our Lady of Lourdes, Oakland</span>
 <span class="time">4:30&nbsp;<i>PM</i> – 7:30&nbsp;<i>PM</i></span>
