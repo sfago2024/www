@@ -25,14 +25,14 @@
     <p class="dates"><time datetime="2024-06-30"><span>June</span> 30</time>&thinsp;–&thinsp;<time datetime="2024-07-04"><span>July</span> 04</time></p>
   </header>
   <div class="menu-container">
-    <div class="menu-button">
+    <div class="menu-button{% if obj.extra.menu_shadow %} shadow{% endif %}">
       {% include "shortcodes/icon_hamburger.html" %} Menu
     </div>
-    <nav class="main-menu">
+    <nav class="main-menu{% if obj.extra.menu_shadow %} shadow{% endif %}">
       {% include "shortcodes/menu_links.html" %}
     </nav>
   </div>
-  <div class="main-flex{% if current_path == "/future/" %} wide{% endif %}">
+  <div class="main-container{% if obj.extra.wide %} wide{% endif %}">
     <div class="content">
       {% if obj.extra.show_toc %}
       <details class="toc">
@@ -77,6 +77,24 @@
         <p>The Steering Committee for the SF AGO convention acknowledges that we are on the unceded ancestral homeland of the Ramaytush Ohlone who are the original inhabitants of the San Francisco Peninsula. The Ramaytush Ohlone are the  indigenous stewards of this land and in accordance with their traditions, they have not forgotten their responsibilities as the caretakers of this place, as well as for all peoples who reside in their traditional territory. As guests, we recognize that we benefit from living and working on their traditional homeland. We pay our respects by acknowledging the ancestors, elders and relatives of the Ramaytush Community and by affirming their sovereign rights as First Peoples.</p>
         <p>— Drafted by Gregg Castro/Jonathan Cordero (Ramaytush Ohlone); edited by the SF AGO Steering Committee</p>
       </details>
+      <script>
+        document.addEventListener(
+          "DOMContentLoaded",
+          (e) => {
+            let container = document.querySelector(".menu-container");
+            let button = document.querySelector(".menu-button");
+            let menu = document.querySelector(".main-menu");
+            let landack = document.querySelector(".land-ack");
+            landack.addEventListener("toggle",
+              (e) => {
+                if (landack.open) {
+                  landack.scrollIntoView({block: "nearest"});
+                }
+              }
+            )
+          }
+        )
+      </script>
       {%- endif %}
     </footer>
   </div>

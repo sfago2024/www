@@ -1,74 +1,65 @@
 +++
 title = ""
 template = "future.html"
+[extra]
+menu_shadow = true
+wide = true
 +++
 
-(There will be more content here soon)
+<div class="home-outer">
 
-<div class="main">
+<div class="home-title">
+<div>
 
-<div class="main-center">
-
+<p class="title">A Musical Encounter with an Enchanting City</p>
 <img class="framed-photo" alt="" src="/img/streetcar.jpg">
 
-<p>A musical encounter with an enchanting city.</p>
-
+</div>
 </div>
 
-<div class="main-left">
+<div class="home-below">
+<div>
 
-<div style="--accent:#3AB5E6;">
+<p class="values">
+<span style="color:#3AB5E6">Diversity</span> •
+<span style="color:#D02824">Technology</span> •
+<span style="color:#64963B">Environment</span> • 
+<span style="color:#FF5624">Artistry</span> • 
+<span style="color:#1E78C2">Inspiration</span> • 
+<span style="color:#4C2795">Community</span> 
+</p>
 
-## Diversity
-We celebrate the diversity reflected in the San Francisco Bay Area, among our
-composers creating newly commissioned work, and within our vibrant community of
-organists.
+# Featuring
 
-</div>
+* A rich menu of concerts, worship, and workshops.
 
-<div style="--accent:#D02824;">
+* 25 concert venues, plus thee additional pre- and post-convention options.
 
-## Technology
-We embrace the advances technology makes possible in composing and delivering
-music while ensuring that our traditional art form continues to thrive.
+* Internationally known performers from Canada, France, Korea, and the United States.
 
-</div>
+* Outstanding performances showcasing a variety of musical styles.
 
-<div style="--accent:#64963B;">
+* Nine new compositions commissioned especially for the convention, as well as three additional commissions from the national AGO.
 
-## Environment
-The region is famous for its natural beauty, multiple biomes of living plants
-and animals, and a robust food culture based on local agricultural products.
-Bounded by coastal mountains and situated right on the Bay — San Francisco is an
-environment unto itself.
+* The St. Cecilia recital performed by a woman for the first time in its history.
 
-</div>
+* A masterclass by David Higgs.
 
-</div>
+* 63 workshops covering a wide range of topics.
 
-<div class="main-right">
+* Walking tours of Chinatown and The Castro, as well as opportunity to visit the San Francisco Museum of Modern Art (SFMOMA) and Mission Dolores.
 
-<div style="--accent:#FF5624;">
+* Nine sessions presented by national AGO staff.
 
-## Artistry
-Enjoy outstanding performances and a variety of musical styles.
+* Five publisher reading sessions.
 
-</div>
+* Opportunity to enjoy old and new friends in unique and interesting venues.
 
-<div style="--accent:#1E78C2;">
+<a href="/attachments/sfago24-tao.pdf">Click here to download a convention preview&thinsp;{{ icon_filetype_pdf() }}</a>
 
-## Inspiration
-Experience a rich line-up of concerts, worship, and workshops.
+Ready to register? [View registration information](@/future/register.md)
 
 </div>
-
-<div style="--accent:#4C2795;">
-
-## Community
-Mingle with old and new friends in unique and interesting venues.
-
-</div>
-
 </div>
 
 </div>
