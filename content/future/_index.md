@@ -2,6 +2,7 @@
 title = ""
 template = "future.html"
 [extra]
+hide_top_ad = true
 menu_shadow = true
 wide = true
 +++

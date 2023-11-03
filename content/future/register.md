@@ -1,6 +1,9 @@
 +++
 title = "Register"
 template = "future.html"
+aliases = [
+  "/future/register-with-ads/",
+]
 [extra]
 show_toc = true
 +++

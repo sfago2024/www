@@ -3,6 +3,7 @@ title = "Travel"
 template = "future.html"
 aliases = [
   "/future/travel/",
+  "/future/hotel-travel-with-ads/",
 ]
 [extra]
 show_toc = true

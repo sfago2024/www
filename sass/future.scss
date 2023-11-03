@@ -747,6 +747,14 @@ table {
   max-width: 600px;
 }
 
+.ad {
+  display: none;
+
+  &.visible {
+    display: block;
+  }
+}
+
 .top-ad,
 .bottom-ad {
   text-align: center;
@@ -756,8 +764,13 @@ table {
   margin-bottom: 1.3rem;
 }
 
-.bottom-ad {
-  margin-top: 4rem;
+.header-ad {
+  margin-left: clamp(1rem, calc(100vw - 512px - 32rem), 5rem);
+
+  @media (max-width: $mobile-width) {
+    margin-left: 0;
+    margin-top: 1rem;
+  }
 }
 
 .ad-placeholder {
@@ -776,16 +789,16 @@ table {
 
   &.top {
     width: 100%;
-    max-width: 468px;
-    aspect-ratio: 468 / 60;
+    max-width: 600px;
+    aspect-ratio: 600 / 120;
     font-size: 24px;
   }
 
-  &.bottom {
+  &.header {
     width: 100%;
-    max-width: 800px;
-    aspect-ratio: 800 / 200;
-    font-size: 24px;
+    height: 120px;
+    aspect-ratio: 240 / 120;
+    font-size: 18px;
   }
 }
 

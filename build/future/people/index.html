@@ -11,14 +11,18 @@
 <body>
   <div class="future-banner">
     <p>
-      <strong>[TESTING]</strong> This is the <em>future version</em> (note <tt>/future/</tt> in the URL) of the website!
+      <strong>[TESTING]</strong> This is the <tt>/future/</tt> website!
       [<a href="/">View&nbsp;the&nbsp;currently&NoBreak;-&NoBreak;public&nbsp;website&nbsp;instead</a>]
+      <label for="show-ad-placeholders"><input id="show-ad-placeholders" name="show-ad-placeholders" type="checkbox"> Show ad placeholders</label>
     </p>
   </div>
   <header class="logo-and-date">
     <img class="logo" src="https://www.sfago2024.org/img/logo.png" alt="AGO 2024 San Francisco logo">
     <div class="line"></div>
     <p class="dates"><time datetime="2024-06-30"><span>June</span> 30</time>&thinsp;–&thinsp;<time datetime="2024-07-04"><span>July</span> 04</time></p>
+    <div class="ad header-ad">
+      <div class="ad-placeholder header"><span>header (240&thinsp;×&thinsp;120px)</span></div>
+    </div>
   </header>
   <div class="menu-container">
     <div class="menu-button">
@@ -44,6 +48,11 @@
 
     </nav>
   </div>
+  
+  <div class="ad top-ad">
+    <div class="ad-placeholder top"><span>top banner (600&thinsp;×&thinsp;120px)</span></div>
+  </div>
+  
   <div class="main-container">
     <div class="content">
       
@@ -175,7 +184,18 @@
               menu.style.display = "none";
             }
           }
-        )
+        );
+
+        let showads = document.querySelector("#show-ad-placeholders");
+        showads.addEventListener("input", (e) => {
+          document.querySelectorAll(".ad").forEach((item) => {
+            if (showads.checked) {
+              item.classList.add("visible");
+            } else {
+              item.classList.remove("visible");
+            }
+          });
+        });
       }
     )
   </script>
