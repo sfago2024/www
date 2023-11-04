@@ -2,7 +2,7 @@
 title = ""
 template = "future.html"
 [extra]
-hide_top_ad = true
+hide_ad = true
 menu_shadow = true
 wide = true
 +++
@@ -29,6 +29,10 @@ wide = true
 <span style="color:#1E78C2">Inspiration</span> • 
 <span style="color:#4C2795">Community</span> 
 </p>
+
+<div class="ad mobile midpage">
+  <div class="ad-container mobile"><img src="/img/premium-ad-space.png"></div>
+</div>
 
 # Featuring
 

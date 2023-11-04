@@ -9,19 +9,18 @@
   <link rel="preload" href="/font/SourceSans3VF-Italic.otf.woff2" as="font" type="font/woff2" crossorigin>
 </head>
 <body>
-  <div class="future-banner">
+  <div class="future-banner opaque">
     <p>
-      <strong>[TESTING]</strong> This is the <tt>/future/</tt> website!
-      [<a href="/">View&nbsp;the&nbsp;currently&NoBreak;-&NoBreak;public&nbsp;website&nbsp;instead</a>]
-      <label for="show-ad-placeholders"><input id="show-ad-placeholders" name="show-ad-placeholders" type="checkbox"> Show ad placeholders</label>
+      This is the <tt>/future/</tt> website!<br>
+      [<a href="/">View&nbsp;public&nbsp;website</a>]
     </p>
   </div>
   <header class="logo-and-date">
     <img class="logo" src="https://www.sfago2024.org/img/logo.png" alt="AGO 2024 San Francisco logo">
     <div class="line"></div>
     <p class="dates"><time datetime="2024-06-30"><span>June</span> 30</time>&thinsp;–&thinsp;<time datetime="2024-07-04"><span>July</span> 04</time></p>
-    <div class="ad header-ad">
-      <div class="ad-placeholder header"><span>header (240&thinsp;×&thinsp;120px)</span></div>
+    <div class="ad header">
+      <div class="ad-container header"><img src="/img/your-ad-could-be-here.png"></div>
     </div>
   </header>
   <div class="menu-container">
@@ -49,8 +48,8 @@
     </nav>
   </div>
   
-  <div class="ad top-ad">
-    <div class="ad-placeholder top"><span>top banner (600&thinsp;×&thinsp;120px)</span></div>
+  <div class="ad mobile">
+    <div class="ad-container mobile"><img src="/img/premium-ad-space.png"></div>
   </div>
   
   <div class="main-container">
@@ -101,16 +100,7 @@ Dr.  Johnson resides in Knoxville, TN, with her husband, Jason Overall, Precento
           }
         );
 
-        let showads = document.querySelector("#show-ad-placeholders");
-        showads.addEventListener("input", (e) => {
-          document.querySelectorAll(".ad").forEach((item) => {
-            if (showads.checked) {
-              item.classList.add("visible");
-            } else {
-              item.classList.remove("visible");
-            }
-          });
-        });
+        document.querySelector(".future-banner").classList.remove("opaque");
       }
     )
   </script>

@@ -1,6 +1,9 @@
 +++
 title = "Advertise/Exhibit"
 template = "future.html"
+aliases = [
+  "/advertise/",
+]
 +++
 
 #
