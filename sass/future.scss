@@ -487,13 +487,9 @@ a {
     text-decoration: underline dashed;
   }
 
-  &.stealth {
+  &.subtle {
     font-weight: inherit;
     text-decoration: none;
-
-    &:hover {
-      color: var(--link);
-    }
   }
 }
 
