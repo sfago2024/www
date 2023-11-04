@@ -3,6 +3,9 @@ title = "Advertise/Exhibit"
 template = "future.html"
 aliases = [
   "/advertise/",
+  "/future/advertise/",
+  "/exhibit/",
+  "/future/exhibit/",
 ]
 [extra]
 show_toc = true
@@ -38,6 +41,8 @@ View {% schedule_link(focus="exhibits") %}Exhibit hours{% end %} on the schedule
 # Exhibit Map
 
 <img class="full-width-image" src="/attachments/exhibits-map.png">
+
+Find more information in the {% pdf_link(href="/attachments/AGO 2024 Exhibits.pdf") %}Exhibitor Kit{% end %}.
 
 # Contact Us
 
