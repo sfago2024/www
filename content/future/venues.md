@@ -96,7 +96,7 @@ wide = true
 ) }}
 
 {{ venue(
-  name="Trinity&hairsp;+&hairsp;St. Peter’s Episcopal Church",
+  name="Trinity&thinsp;+&thinsp;St. Peter’s Episcopal Church",
   city="San&nbsp;Francisco",
   img="/img/venues/Trinity+St. Peter_s.jpeg",
   organ="Skinner, 1925",
