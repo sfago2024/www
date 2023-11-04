@@ -30,7 +30,7 @@ Ways to Give:
 </div>
 
 Please see our
-<a href="/attachments/AGO 2024 Donor Benefit.pdf">Donor Information Brochure&thinsp;{{ icon_filetype_pdf() }}</a>
+{% pdf_link(href="/attachments/AGO 2024 Donor Benefit.pdf") %}Donor Information Brochure{% end %}</a>
 for more information.
 
 <p class="no-justify">
@@ -40,7 +40,7 @@ Make a secure, online donation:
 
 We have many opportunities for sponsorship that create amazing exposure for your company or
 organization. Please see our
-<a href="/attachments/AGO 2024 Sponsor.pdf">Sponsorship Brochure&thinsp;{{ icon_filetype_pdf() }}</a>.
+{% pdf_link(href="/attachments/AGO 2024 Sponsor.pdf") %}Sponsorship Brochure{% end %}</a>.
 
 <p class="no-justify">
 Need more information? Please contact our Gifts and Grants Chair:

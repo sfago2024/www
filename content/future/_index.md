@@ -60,9 +60,13 @@ wide = true
 
 * Opportunity to enjoy old and new friends in unique and interesting venues.
 
-<a href="/attachments/sfago24-tao.pdf">Click here to download a convention preview&thinsp;{{ icon_filetype_pdf() }}</a>
+<p>
 
-Ready to register? [View registration information](@/future/register.md)
+{% pdf_link(href="/attachments/sfago24-tao.pdf") %}Click here to download a convention preview{% end %}
+
+</p>
+
+Ready to register? [Click here](@/future/register.md)
 
 </div>
 </div>

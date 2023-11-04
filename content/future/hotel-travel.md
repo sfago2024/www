@@ -28,9 +28,10 @@ The Marriott Marquis Hotel has the following ratings.
 * Audubon Green Lodging Program Certified
 * 2022 Gay Travel Award Winner
 
-**The specially discounted AGO Convention Rate is** $169/night.
+The specially discounted AGO Convention Rate is **$169/night**.
 {% external_link(href="https://book.passkey.com/e/50643191") %}Book your hotel room now{% end %}
-to take advantage of this special AGO Convention discount.
+to take advantage of this special AGO Convention discount. **Be sure to use only this link to book
+your room, to secure your reservation and avoid booking problems and extra charges.**
 
 # Travel by Air
 

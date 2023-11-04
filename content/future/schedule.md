@@ -1,6 +1,10 @@
 +++
 title = "Schedule"
 template = "future.html"
+aliases = [
+  "/calendar/",
+  "/future/calendar/",
+]
 [extra]
 show_toc = true
 +++
