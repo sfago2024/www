@@ -176,7 +176,7 @@ wide = true
 ) }}
 
 {{ venue(
-  name="St John’s Presbyterian Church",
+  name="St. John’s Presbyterian Church",
   city="Berkeley",
   img="/img/venues/St. John_s Pres Berkeley.webp",
   organ="Brombaugh, 1979",
@@ -192,7 +192,7 @@ wide = true
 ) }}
 
 {{ venue(
-  name="St Mark’s Episcopal Church",
+  name="St. Mark’s Episcopal Church",
   city="Berkeley",
   img="/img/venues/St. Mark_s Berkeley.jpeg",
   organ="Flentrop, 1972",
