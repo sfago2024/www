@@ -10,6 +10,7 @@ wide = true
 <div class="large">
 
 <div>
+<img src="/img/venues/St. Mary_s Cathedral.jpg">
 Cathedral of St. Mary
 </div>
 
@@ -19,6 +20,7 @@ Cathedral of Christ the Light
 </div>
 
 <div>
+<img src="/img/venues/Grace Cathedral.webp">
 Grace Cathedral
 </div>
 
@@ -27,7 +29,8 @@ Grace Cathedral
 <div class="small">
 
 <div>
-Congregation EmanuEl
+<img src="/img/venues/Emanu-El.jpeg">
+Congregation Emanu-El
 </div>
 
 <div>
@@ -36,6 +39,7 @@ St. Ignatius
 </div>
 
 <div>
+<img src="/img/venues/Stanford Mem Church.jpeg">
 Memorial Church (Stanford)
 </div>
 
@@ -69,6 +73,7 @@ St. Mark’s Lutheran SF
 </div>
 
 <div>
+<img src="/img/venues/Lakeside Pres.jpeg">
 Lakeside Presbyterian SF
 </div>
 
@@ -88,6 +93,7 @@ Our Lady of Lourdes
 </div>
 
 <div>
+<img src="/img/venues/First Pres Oakland.jpeg">
 First Pres Oakland
 </div>
 
@@ -97,10 +103,12 @@ St. Paul’s Episcopal Oakland
 </div>
 
 <div>
-First Scientist
+<img src="/img/venues/First Christ Scientist Berkeley.jpeg">
+First Church of Christ, Scientist, Berkeley
 </div>
 
 <div>
+<img src="/img/venues/First Congregational Berkeley.jpeg">
 First Congregational Berkeley
 </div>
 
@@ -120,10 +128,12 @@ St Mark’s Episcopal Berkeley
 </div>
 
 <div>
+<img src="/img/venues/All Saints PA.jpeg">
 All Saints Palo Alto 
 </div>
 
 <div>
+<img src="/img/venues/First Congregational PA.jpeg">
 First Congregational Palo Alto
 </div>
 
