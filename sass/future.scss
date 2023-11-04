@@ -486,6 +486,15 @@ a {
     cursor: default;
     text-decoration: underline dashed;
   }
+
+  &.stealth {
+    font-weight: inherit;
+    text-decoration: none;
+
+    &:hover {
+      color: var(--link);
+    }
+  }
 }
 
 h1,
@@ -912,7 +921,7 @@ table {
     background-color: var(--bg);
     border-radius: 1rem;
     overflow: hidden;
-    font-size: 0.85em;
+    font-size: 0.8em;
     font-weight: 400;
     padding-bottom: 0.25em;
     text-align: center;
@@ -920,7 +929,7 @@ table {
   }
 
   .large div {
-    font-size: 1em;
+    font-size: 0.9em;
   }
 
   img {
