@@ -1,6 +1,8 @@
 +++
 title = "Performers"
 template = "future.html"
+[extra]
+wide = true
 +++
 
 <div class="performers">
@@ -18,7 +20,12 @@ template = "future.html"
 ) }}
 
 {{ performer(
-  name="Olivier Latry & Shin-Young Lee",
+  name="Olivier Latry",
+  img=""
+) }}
+
+{{ performer(
+  name="Shin-Young Lee",
   img=""
 ) }}
 
@@ -31,6 +38,10 @@ template = "future.html"
   name="Kimberly Marshall",
   img=""
 ) }}
+
+</div>
+
+<div class="small">
 
 </div>
 

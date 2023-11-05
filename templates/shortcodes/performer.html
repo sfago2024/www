@@ -1,4 +1,4 @@
 <div class="performer" id="{{ name | slugify }}">
-<img src="{{ img }}">
-<strong>{{ name | safe }}</strong>
+<img src="/img/people/{{ name | slugify }}.jpg">
+<a href="/future/people/{{ name | slugify }}/">{{ name | safe }}</a>
 </div>
