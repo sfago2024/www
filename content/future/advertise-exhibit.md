@@ -36,7 +36,18 @@ show_toc = true
 
 # Exhibit Hours
 
-View {% schedule_link(focus="exhibits") %}Exhibit hours{% end %} on the schedule. <span class="inline-todo">(TODO: once the Schedule page supports filtering, this will link to it with the Exhibit items automatically highlighted)</span>
+<div class="schedule equal">
+<span class="time">Sunday, June 30</span>
+<span class="event">9:30 PM – 12:00 AM</span>
+<span class="time">Monday, July 1</span>
+<span class="event">9:00 AM – 12:00 PM,<br>10:00 PM – 12:00 AM</span>
+<span class="time">Tuesday, July 2</span>
+<span class="event">9:00 AM – 12:00 PM,<br>10:00 PM – 12:00 AM</span>
+<span class="time">Wednesday, July 3</span>
+<span class="event">12:00 PM – 4:00 PM</span>
+</div>
+
+You can also view {% schedule_link(focus="exhibits") %}Exhibit hours{% end %} in the schedule. <span class="inline-todo">(TODO: once the Schedule page supports filtering, this will link to it with the Exhibit items automatically highlighted)</span>
 
 # Exhibit Map
 

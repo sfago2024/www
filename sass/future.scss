@@ -733,6 +733,15 @@ table {
     grid-template-columns: 2fr 5fr;
   }
 
+  &.equal {
+    display: inline-grid;
+    grid-template-columns: 1fr 1fr;
+
+    @media (max-width: $mobile-width) {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
   line-height: 1;
 
   p {
