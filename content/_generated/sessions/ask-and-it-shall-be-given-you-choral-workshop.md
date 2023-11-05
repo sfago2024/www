@@ -2,6 +2,7 @@
 title = '''“Ask, and it shall be given you!” – Choral Workshop'''
 path = '''/future/sessions/ask-and-it-shall-be-given-you-choral-workshop/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>“Ask, and it shall be given you!” – Choral Workshop</h1>

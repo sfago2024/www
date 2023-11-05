@@ -2,6 +2,7 @@
 title = '''Creative Ideas for Service Playing in the Contemporary Church'''
 path = '''/future/sessions/creative-ideas-for-service-playing-in-the-contemporary-church/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Creative Ideas for Service Playing in the Contemporary Church</h1>

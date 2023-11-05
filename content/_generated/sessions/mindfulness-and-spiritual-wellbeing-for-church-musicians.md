@@ -2,6 +2,7 @@
 title = '''Mindfulness and Spiritual Wellbeing for Church Musicians'''
 path = '''/future/sessions/mindfulness-and-spiritual-wellbeing-for-church-musicians/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Mindfulness and Spiritual Wellbeing for Church Musicians</h1>

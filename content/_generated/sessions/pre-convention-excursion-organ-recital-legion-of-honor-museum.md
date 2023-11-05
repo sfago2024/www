@@ -2,6 +2,7 @@
 title = '''Pre-Convention Excursion & Organ Recital: Legion of Honor Museum'''
 path = '''/future/sessions/pre-convention-excursion-organ-recital-legion-of-honor-museum/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Pre-Convention Excursion & Organ Recital: Legion of Honor Museum</h1>

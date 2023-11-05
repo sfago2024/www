@@ -2,6 +2,7 @@
 title = '''Transylvanian Organ Landscape: Historic Organ Restoration in Romania'''
 path = '''/future/sessions/transylvanian-organ-landscape-historic-organ-restoration-in-romania/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Transylvanian Organ Landscape: Historic Organ Restoration in Romania</h1>

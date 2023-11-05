@@ -2,6 +2,7 @@
 title = '''Getting Your 21st-Century Congregation to Love the Organ in Worship'''
 path = '''/future/sessions/getting-your-21st-century-congregation-to-love-the-organ-in-worship/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Getting Your 21st-Century Congregation to Love the Organ in Worship</h1>

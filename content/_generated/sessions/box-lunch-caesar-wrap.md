@@ -2,6 +2,7 @@
 title = '''Box Lunch – Caesar Wrap'''
 path = '''/future/sessions/box-lunch-caesar-wrap/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Box Lunch – Caesar Wrap</h1>

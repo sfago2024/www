@@ -2,6 +2,7 @@
 title = '''Full STEAM Ahead: New World for New Organists'''
 path = '''/future/sessions/full-steam-ahead-new-world-for-new-organists/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Full STEAM Ahead: New World for New Organists</h1>

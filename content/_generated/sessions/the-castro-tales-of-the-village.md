@@ -2,6 +2,7 @@
 title = '''The Castro: Tales of the Village'''
 path = '''/future/sessions/the-castro-tales-of-the-village/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>The Castro: Tales of the Village</h1>

@@ -2,6 +2,7 @@
 title = '''Deliberate Practice for the Mind and Body of the Organist'''
 path = '''/future/sessions/deliberate-practice-for-the-mind-and-body-of-the-organist/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Deliberate Practice for the Mind and Body of the Organist</h1>

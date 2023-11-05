@@ -2,6 +2,7 @@
 title = '''GIA Reading Session – Organ Music of Black Composers'''
 path = '''/future/sessions/gia-reading-session-organ-music-of-black-composers/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>GIA Reading Session – Organ Music of Black Composers</h1>

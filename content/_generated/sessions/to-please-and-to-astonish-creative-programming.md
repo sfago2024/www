@@ -2,6 +2,7 @@
 title = '''“To Please and to Astonish”: Creative Programming'''
 path = '''/future/sessions/to-please-and-to-astonish-creative-programming/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>“To Please and to Astonish”: Creative Programming</h1>

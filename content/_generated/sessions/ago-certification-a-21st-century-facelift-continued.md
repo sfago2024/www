@@ -2,6 +2,7 @@
 title = '''AGO Certification: A 21st-Century Facelift Continued'''
 path = '''/future/sessions/ago-certification-a-21st-century-facelift-continued/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>AGO Certification: A 21st-Century Facelift Continued</h1>

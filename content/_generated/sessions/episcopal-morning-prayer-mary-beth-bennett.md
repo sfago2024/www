@@ -2,6 +2,7 @@
 title = '''Episcopal Morning Prayer - Mary Beth Bennett'''
 path = '''/future/sessions/episcopal-morning-prayer-mary-beth-bennett/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Episcopal Morning Prayer - Mary Beth Bennett</h1>

@@ -2,6 +2,7 @@
 title = '''Faythe Freese (Tuesday — No Registration)'''
 path = '''/future/sessions/faythe-freese-tuesday-no-registration/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Faythe Freese (Tuesday — No Registration)</h1>

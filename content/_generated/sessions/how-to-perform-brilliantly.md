@@ -2,6 +2,7 @@
 title = '''How to Perform Brilliantly'''
 path = '''/future/sessions/how-to-perform-brilliantly/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>How to Perform Brilliantly</h1>

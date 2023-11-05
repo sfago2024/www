@@ -2,6 +2,7 @@
 title = '''African American Baptist Worship Service - Stephen Price & Patrick Alston'''
 path = '''/future/sessions/african-american-baptist-worship-service-stephen-price-patrick-alston/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>African American Baptist Worship Service - Stephen Price & Patrick Alston</h1>

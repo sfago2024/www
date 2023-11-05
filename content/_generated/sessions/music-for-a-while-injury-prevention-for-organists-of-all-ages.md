@@ -2,6 +2,7 @@
 title = '''Music for a While: Injury Prevention for Organists of All Ages'''
 path = '''/future/sessions/music-for-a-while-injury-prevention-for-organists-of-all-ages/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Music for a While: Injury Prevention for Organists of All Ages</h1>

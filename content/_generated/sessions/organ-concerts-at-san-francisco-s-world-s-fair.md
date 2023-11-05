@@ -2,6 +2,7 @@
 title = '''Organ Concerts at San Francisco’s World’s Fair'''
 path = '''/future/sessions/organ-concerts-at-san-francisco-s-world-s-fair/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Organ Concerts at San Francisco’s World’s Fair</h1>

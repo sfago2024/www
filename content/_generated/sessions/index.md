@@ -2,6 +2,7 @@
 title = '''Sessions'''
 path = '''/future/sessions/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Sessions</h1>
@@ -82,8 +83,8 @@ template = "future.html"
 <li><a href="/future/sessions/oxford-university-press-choral-and-organ-reading-session/">Oxford University Press – Choral and Organ Reading Session</a></li>
 <li><a href="/future/sessions/pre-convention-excursion-organ-recital-legion-of-honor-museum/">Pre-Convention Excursion & Organ Recital: Legion of Honor Museum</a></li>
 <li><a href="/future/sessions/recital-kimberly-marshall/">Recital: Kimberly Marshall</a></li>
-<li><a href="/future/sessions/recital-shin-young-lee-olivier-latry/">Recital: Shin-Young Lee & Olivier Latry</a></li>
 <li><a href="/future/sessions/selah-choral-reading-session/">Selah — Choral Reading Session</a></li>
+<li><a href="/future/sessions/shin-young-lee-olivier-latry-with-the-berkeley-symphony-orchestra/">Shin-Young Lee & Olivier Latry with the Berkeley Symphony Orchestra</a></li>
 <li><a href="/future/sessions/st-cecilia-recital-dr-janette-fishell/">St. Cecilia Recital: Dr. Janette Fishell</a></li>
 <li><a href="/future/sessions/the-castro-tales-of-the-village/">The Castro: Tales of the Village</a></li>
 <li><a href="/future/sessions/the-dynamics-of-making-great-wine-and-great-chapter-leaders/">The Dynamics of Making Great Wine and Great Chapter Leaders</a></li>

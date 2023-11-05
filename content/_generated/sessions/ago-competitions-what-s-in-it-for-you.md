@@ -2,6 +2,7 @@
 title = '''AGO Competitions: What’s In It For You?'''
 path = '''/future/sessions/ago-competitions-what-s-in-it-for-you/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>AGO Competitions: What’s In It For You?</h1>

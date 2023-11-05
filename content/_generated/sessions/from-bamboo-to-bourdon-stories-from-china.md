@@ -2,6 +2,7 @@
 title = '''From Bamboo to Bourdon: Stories from China'''
 path = '''/future/sessions/from-bamboo-to-bourdon-stories-from-china/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>From Bamboo to Bourdon: Stories from China</h1>

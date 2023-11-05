@@ -2,6 +2,7 @@
 title = '''Vierne's Harmonic Language'''
 path = '''/future/sessions/vierne-s-harmonic-language/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Vierne's Harmonic Language</h1>

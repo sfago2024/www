@@ -2,6 +2,7 @@
 title = '''Carillon Performance'''
 path = '''/future/sessions/carillon-performance/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Carillon Performance</h1>

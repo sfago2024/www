@@ -2,6 +2,7 @@
 title = '''7 Steps to More Effective Hymn Playing'''
 path = '''/future/sessions/7-steps-to-more-effective-hymn-playing/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>7 Steps to More Effective Hymn Playing</h1>

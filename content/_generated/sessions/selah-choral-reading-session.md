@@ -2,6 +2,7 @@
 title = '''Selah — Choral Reading Session'''
 path = '''/future/sessions/selah-choral-reading-session/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Selah — Choral Reading Session</h1>

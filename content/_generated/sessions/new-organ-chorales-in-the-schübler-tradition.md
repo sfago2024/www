@@ -2,6 +2,7 @@
 title = '''“New” Organ Chorales in the Schübler Tradition'''
 path = '''/future/sessions/new-organ-chorales-in-the-schübler-tradition/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>“New” Organ Chorales in the Schübler Tradition</h1>

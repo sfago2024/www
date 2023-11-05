@@ -2,6 +2,7 @@
 title = '''The Tudor Organ at Stanford'''
 path = '''/future/sessions/the-tudor-organ-at-stanford/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>The Tudor Organ at Stanford</h1>

@@ -2,6 +2,7 @@
 title = '''Getting Organized with Technology'''
 path = '''/future/sessions/getting-organized-with-technology/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Getting Organized with Technology</h1>

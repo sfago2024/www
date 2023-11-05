@@ -2,6 +2,7 @@
 title = '''The Dynamics of Making Great Wine and Great Chapter Leaders'''
 path = '''/future/sessions/the-dynamics-of-making-great-wine-and-great-chapter-leaders/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>The Dynamics of Making Great Wine and Great Chapter Leaders</h1>

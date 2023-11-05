@@ -2,6 +2,7 @@
 title = '''[GROUP C] Ken Cowan (1:30 PM)'''
 path = '''/future/sessions/group-c-ken-cowan-1-30-pm/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>[GROUP C] Ken Cowan (1:30 PM)</h1>

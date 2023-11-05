@@ -2,6 +2,7 @@
 title = '''Hauptwerk as a Pedagogical Tool'''
 path = '''/future/sessions/hauptwerk-as-a-pedagogical-tool/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Hauptwerk as a Pedagogical Tool</h1>

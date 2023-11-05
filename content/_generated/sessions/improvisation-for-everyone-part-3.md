@@ -2,6 +2,7 @@
 title = '''Improvisation for Everyone, Part 3'''
 path = '''/future/sessions/improvisation-for-everyone-part-3/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Improvisation for Everyone, Part 3</h1>

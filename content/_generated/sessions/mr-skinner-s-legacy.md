@@ -2,6 +2,7 @@
 title = '''Mr. Skinner’s Legacy'''
 path = '''/future/sessions/mr-skinner-s-legacy/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Mr. Skinner’s Legacy</h1>

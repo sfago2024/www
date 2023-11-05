@@ -2,6 +2,7 @@
 title = '''Wayne Leupold – Organ Reading Session'''
 path = '''/future/sessions/wayne-leupold-organ-reading-session/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Wayne Leupold – Organ Reading Session</h1>

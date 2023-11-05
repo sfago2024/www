@@ -2,6 +2,7 @@
 title = '''David Higgs – Master Class'''
 path = '''/future/sessions/david-higgs-master-class/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>David Higgs – Master Class</h1>

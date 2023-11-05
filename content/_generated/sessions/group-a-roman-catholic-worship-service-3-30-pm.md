@@ -2,6 +2,7 @@
 title = '''[GROUP A] Roman Catholic Worship Service (3:30 PM)'''
 path = '''/future/sessions/group-a-roman-catholic-worship-service-3-30-pm/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>[GROUP A] Roman Catholic Worship Service (3:30 PM)</h1>

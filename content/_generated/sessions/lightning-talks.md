@@ -2,6 +2,7 @@
 title = '''Lightning Talks'''
 path = '''/future/sessions/lightning-talks/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Lightning Talks</h1>

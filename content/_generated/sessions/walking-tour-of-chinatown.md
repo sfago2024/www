@@ -2,6 +2,7 @@
 title = '''Walking tour of Chinatown'''
 path = '''/future/sessions/walking-tour-of-chinatown/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Walking tour of Chinatown</h1>

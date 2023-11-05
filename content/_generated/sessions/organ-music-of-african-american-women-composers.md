@@ -2,6 +2,7 @@
 title = '''Organ Music of African American Women Composers'''
 path = '''/future/sessions/organ-music-of-african-american-women-composers/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Organ Music of African American Women Composers</h1>

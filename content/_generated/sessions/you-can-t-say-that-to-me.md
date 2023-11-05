@@ -2,6 +2,7 @@
 title = '''You Can't Say That to Me!'''
 path = '''/future/sessions/you-can-t-say-that-to-me/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>You Can't Say That to Me!</h1>

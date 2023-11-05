@@ -2,6 +2,7 @@
 title = '''WIFFY—What's in it for You? How to Influence Prospects to Become Members.'''
 path = '''/future/sessions/wiffy-what-s-in-it-for-you-how-to-influence-prospects-to-become-members/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>WIFFY—What's in it for You? How to Influence Prospects to Become Members.</h1>

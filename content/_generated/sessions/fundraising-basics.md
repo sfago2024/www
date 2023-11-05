@@ -2,6 +2,7 @@
 title = '''Fundraising Basics'''
 path = '''/future/sessions/fundraising-basics/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Fundraising Basics</h1>

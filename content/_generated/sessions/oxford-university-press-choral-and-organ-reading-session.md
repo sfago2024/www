@@ -2,6 +2,7 @@
 title = '''Oxford University Press – Choral and Organ Reading Session'''
 path = '''/future/sessions/oxford-university-press-choral-and-organ-reading-session/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Oxford University Press – Choral and Organ Reading Session</h1>

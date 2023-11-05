@@ -2,6 +2,7 @@
 title = '''Body Awareness 101: Part 3'''
 path = '''/future/sessions/body-awareness-101-part-3/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Body Awareness 101: Part 3</h1>

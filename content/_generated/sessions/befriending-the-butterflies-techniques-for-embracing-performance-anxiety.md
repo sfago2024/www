@@ -2,6 +2,7 @@
 title = '''Befriending the Butterflies: Techniques for Embracing Performance Anxiety'''
 path = '''/future/sessions/befriending-the-butterflies-techniques-for-embracing-performance-anxiety/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Befriending the Butterflies: Techniques for Embracing Performance Anxiety</h1>

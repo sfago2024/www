@@ -2,6 +2,7 @@
 title = '''Choral Musicianship: Reading for Singers; Analysis for Conductors'''
 path = '''/future/sessions/choral-musicianship-reading-for-singers-analysis-for-conductors/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Choral Musicianship: Reading for Singers; Analysis for Conductors</h1>

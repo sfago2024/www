@@ -2,6 +2,7 @@
 title = '''Weicheng Zhou'''
 path = '''/future/sessions/weicheng-zhou/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>Weicheng Zhou</h1>

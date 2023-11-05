@@ -2,6 +2,7 @@
 title = '''A Great Host of Women Composers'''
 path = '''/future/sessions/a-great-host-of-women-composers/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>A Great Host of Women Composers</h1>

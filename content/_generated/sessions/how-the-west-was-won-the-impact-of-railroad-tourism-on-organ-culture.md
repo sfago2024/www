@@ -2,6 +2,7 @@
 title = '''How the West Was Won: The Impact of Railroad Tourism on Organ Culture'''
 path = '''/future/sessions/how-the-west-was-won-the-impact-of-railroad-tourism-on-organ-culture/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>How the West Was Won: The Impact of Railroad Tourism on Organ Culture</h1>

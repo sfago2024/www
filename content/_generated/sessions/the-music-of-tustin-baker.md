@@ -2,6 +2,7 @@
 title = '''The Music of Tustin Baker'''
 path = '''/future/sessions/the-music-of-tustin-baker/'''
 template = "future.html"
+aliases = []
 +++
 
 <h1>The Music of Tustin Baker</h1>
