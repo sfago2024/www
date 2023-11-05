@@ -977,7 +977,6 @@ table {
     background-color: var(--bg);
     border-radius: 1rem;
     overflow: hidden;
-    font-size: 0.9em;
     font-weight: 400;
     padding-bottom: 0.25em;
     text-align: center;
@@ -996,16 +995,22 @@ table {
     column-gap: 1rem;
     row-gap: 1rem;
 
+    font-size: 0.9em;
+
     @media (max-width: $mobile-width) {
       grid-template-columns: repeat(3, 1fr);
     }
   }
 
   .small {
+    margin-top: 1rem;
+
     display: grid;
     grid-template-columns: repeat(10, 1fr);
     column-gap: 1rem;
     row-gap: 1rem;
+
+    font-size: 0.8em;
 
     @media (max-width: $mobile-width) {
       grid-template-columns: repeat(5, 1fr);
