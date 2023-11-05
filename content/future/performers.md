@@ -1,8 +1,6 @@
 +++
 title = "Performers"
 template = "future.html"
-[extra]
-wide = true
 +++
 
 <div class="performers">
