@@ -1,11 +1,11 @@
 +++
-title = '''Rashaan Rory Allwood'''
-path = '''/future/performers/rashaan-rory-allwood/'''
+title = '''Rashaan Rori Allwood'''
+path = '''/future/performers/rashaan-rori-allwood/'''
 template = "future.html"
-aliases = ["/future/people/rashaan-rory-allwood/"]
+aliases = ["/future/people/rashaan-rori-allwood/"]
 +++
 
-<h1>Rashaan Rory Allwood</h1>
+<h1>Rashaan Rori Allwood</h1>
 
 <img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/d34c1386ea5a436db1da8c3e65e12603.jpg">
 <h2>Biography</h2>

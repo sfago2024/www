@@ -71,7 +71,7 @@ wide = true
 
 {{ performer(name="Peter Sykes") }}
 
-{{ performer(name="Rashaan Rory Allwood") }}
+{{ performer(name="Rashaan Rori Allwood") }}
 
 {{ performer(name="Robert Horton") }}
 

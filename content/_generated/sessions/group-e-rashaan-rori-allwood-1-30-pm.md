@@ -1,11 +1,11 @@
 +++
-title = '''[GROUP E] Rashaan Rory Allwood (1:30 PM)'''
-path = '''/future/sessions/group-e-rashaan-rory-allwood-1-30-pm/'''
+title = '''[GROUP E] Rashaan Rori Allwood (1:30 PM)'''
+path = '''/future/sessions/group-e-rashaan-rori-allwood-1-30-pm/'''
 template = "future.html"
 aliases = []
 +++
 
-<h1>[GROUP E] Rashaan Rory Allwood (1:30 PM)</h1>
+<h1>[GROUP E] Rashaan Rori Allwood (1:30 PM)</h1>
 
 <h2>Date/Time</h2>
 <p>Tuesday, July 02, 2024<br>
