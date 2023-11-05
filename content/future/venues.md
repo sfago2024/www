@@ -8,13 +8,12 @@ wide = true
 <div class="venues">
 
 <div class="large">
-
 {{ venue(
-  name="Cathedral of St. Mary of the Assumption",
+  name="Grace Cathedral",
   city="San&nbsp;Francisco",
-  img="/img/venues/St. Mary_s Cathedral.jpg",
-  organ="Ruffatti, 1971",
-  stoplist="https://smcsf.org/cathedral/ruffatti-organ/"
+  img="/img/venues/Grace Cathedral.webp",
+  organ="Aeolian-Skinner, 1933/1952",
+  stoplist="https://gracecathedral.org/organs/"
 ) }}
 
 {{ venue(
@@ -26,12 +25,13 @@ wide = true
 ) }}
 
 {{ venue(
-  name="Grace Cathedral",
+  name="Cathedral of St. Mary of the Assumption",
   city="San&nbsp;Francisco",
-  img="/img/venues/Grace Cathedral.webp",
-  organ="Aeolian-Skinner, 1933/1952",
-  stoplist="https://gracecathedral.org/organs/"
+  img="/img/venues/St. Mary_s Cathedral.jpg",
+  organ="Ruffatti, 1971",
+  stoplist="https://smcsf.org/cathedral/ruffatti-organ/"
 ) }}
+
 
 </div>
 
