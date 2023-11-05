@@ -7,7 +7,7 @@ echo >&2 "Using tempdir: $tmp"
 
 mkdir -p static/img/people
 
-for markdown in content/_generated/people/*.md; do
+for markdown in content/_generated/{people,composers,performers,presenters}/*.md; do
   basename=$(basename -s .md "$markdown")
   url=$(perl -ne 'if (/src="(.*)"/) {print "$1\n"}' "$markdown")
   if [[ ! $url ]]; then

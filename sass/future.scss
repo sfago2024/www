@@ -991,14 +991,14 @@ table {
 
   .featured {
     display: grid;
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     column-gap: 1rem;
     row-gap: 1rem;
 
     font-size: 0.9em;
 
     @media (max-width: $mobile-width) {
-      grid-template-columns: repeat(3, 1fr);
+      grid-template-columns: repeat(2, 1fr);
     }
   }
 
@@ -1006,14 +1006,14 @@ table {
     margin-top: 1rem;
 
     display: grid;
-    grid-template-columns: repeat(10, 1fr);
+    grid-template-columns: repeat(6, 1fr);
     column-gap: 1rem;
     row-gap: 1rem;
 
     font-size: 0.8em;
 
     @media (max-width: $mobile-width) {
-      grid-template-columns: repeat(5, 1fr);
+      grid-template-columns: repeat(4, 1fr);
     }
   }
 }
