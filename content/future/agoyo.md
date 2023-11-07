@@ -55,7 +55,7 @@ Essays will be evaluated anonymously. The five individuals with the highest-rank
 awarded the scholarship.
 
 <div class="apply-now-box">
-<a class="fancy-button" href="" rel="external">Apply now</a>
+<a class="fancy-button" href="https://forms.gle/WSt2HGWEG5YZbtpb6" rel="external" target="_blank">Apply now</a>
 
 **Application deadline: February 15, 2024.**
 
@@ -90,7 +90,7 @@ Essays will be evaluated anonymously. The ten individuals with the highest-ranki
 awarded the scholarship.
 
 <div class="apply-now-box">
-<a class="fancy-button" href="" rel="external">Apply now</a>
+<a class="fancy-button" href="https://forms.gle/DBk2DkAy17Tn6DP99" rel="external" target="_blank">Apply now</a>
 
 **Application deadline: February 15, 2024.**
 
