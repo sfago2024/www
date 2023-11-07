@@ -12,7 +12,7 @@ aliases = ["/future/sessions/hauptwerk-as-a-pedagogical-tool/"]
 02:00 PM – 02:45 PM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/dr-devon-howard/">Dr. Devon Howard</a></li>
+<li><a href="/future/presenters/devon-howard/">Devon Howard</a></li>
 </ul>
 <h2>Description</h2>
 

@@ -12,7 +12,7 @@ aliases = ["/future/sessions/body-awareness-101-part-3/"]
 02:00 PM – 02:45 PM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/dr-madeline-miskie/">Dr. Madeline Miskie</a></li>
+<li><a href="/future/presenters/madeline-miskie/">Madeline Miskie</a></li>
 </ul>
 <h2>Description</h2>
 

@@ -13,7 +13,7 @@ aliases = ["/future/sessions/full-steam-ahead-new-world-for-new-organists/"]
 <h2>Presenters</h2>
 <ul>
 <li><a href="/future/presenters/sue-mitchell-wallace/">Sue Mitchell-Wallace</a></li>
-<li><a href="/future/presenters/elizabeth-george-cmm/">Elizabeth George, CMM</a></li>
+<li><a href="/future/presenters/elizabeth-george/">Elizabeth George</a></li>
 </ul>
 <h2>Description</h2>
 

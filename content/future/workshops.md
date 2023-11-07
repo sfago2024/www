@@ -50,7 +50,9 @@ aliases = []
 {{ workshop(
   name="Transylvanian Organ Landscape: Historic Organ Restoration in Romania",
   presenter="Renée Anne Louprette",
-  presenter2="Árpád Magyar"
+  presenter_slug="renée-anne-louprette"
+  presenter2="Árpád Magyar",
+  presenter2_slug="árpád-magyar"
 ) }}
 
 {{ workshop(
@@ -60,7 +62,8 @@ aliases = []
 
 {{ workshop(
   name="“Ask, and it shall be given you!” – Choral Workshop",
-  presenter="Maria Forsström"
+  presenter="Maria Forsström",
+  presenter_slug="maria-forsström"
 ) }}
 
 {{ workshop(
@@ -75,7 +78,7 @@ aliases = []
 
 {{ workshop(
   name="Hauptwerk as a Pedagogical Tool",
-  presenter="Dr. Devon Howard"
+  presenter="Devon Howard"
 ) }}
 
 {{ workshop(
@@ -116,7 +119,7 @@ aliases = []
 {{ workshop(
   name="AGO Competitions: What’s In It For You?",
   presenter="Molly Davey",
-  presenter2="Jonathan Ryan"
+  presenter2="M. Jonathan Ryan"
 ) }}
 
 {{ workshop(
@@ -127,7 +130,7 @@ aliases = []
 {{ workshop(
   name="The Dynamics of Making Great Wine and Great Chapter Leaders",
   presenter="David Vogels",
-  presenter2="Elizabeth George, CMM"
+  presenter2="Elizabeth George"
 ) }}
 
 {{ workshop(
@@ -163,17 +166,17 @@ aliases = []
 
 {{ workshop(
   name="Body Awareness 101: Part 1",
-  presenter="Dr. Madeline Miskie"
+  presenter="Madeline Miskie"
 ) }}
 
 {{ workshop(
   name="Body Awareness 101: Part 2",
-  presenter="Dr. Madeline Miskie"
+  presenter="Madeline Miskie"
 ) }}
 
 {{ workshop(
   name="Body Awareness 101: Part 3",
-  presenter="Dr. Madeline Miskie"
+  presenter="Madeline Miskie"
 ) }}
 
 {{ workshop(
@@ -245,7 +248,7 @@ aliases = []
 
 {{ workshop(
   name="You Can't Say That to Me!",
-  presenter="Dr. Vicki J. Schaeffer"
+  presenter="Vicki J. Schaeffer"
 ) }}
 
 {{ workshop(
@@ -275,7 +278,8 @@ aliases = []
 
 {{ workshop(
   name="Mission Dolores Tour and Choral Workshop",
-  presenter="Maria Forsström"
+  presenter="Maria Forsström",
+  presenter_slug="maria-forsström"
 ) }}
 
 {{ workshop(

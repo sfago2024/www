@@ -13,7 +13,7 @@ aliases = ["/future/sessions/the-dynamics-of-making-great-wine-and-great-chapter
 <h2>Presenters</h2>
 <ul>
 <li><a href="/future/presenters/david-vogels/">David Vogels</a></li>
-<li><a href="/future/presenters/elizabeth-george-cmm/">Elizabeth George, CMM</a></li>
+<li><a href="/future/presenters/elizabeth-george/">Elizabeth George</a></li>
 </ul>
 <h2>Description</h2>
 

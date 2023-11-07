@@ -14,4 +14,8 @@ aliases = ["/future/sessions/ecs-choral-reading-session/"]
 <ul>
 <li><a href="/future/presenters/mark-lawson/">Mark Lawson</a></li>
 </ul>
+<h2>Description</h2>
+
+ECS Publishing Group, which encapsulates EC Schirmer, MorningStar, Galaxy, Aureole, Arsis Audio, and Canticle Distributing publishes music across all genres and instrumentation. Representing a large number of West Coast composers, this reading session will feature local works alongside other exciting choral pieces.
+
 

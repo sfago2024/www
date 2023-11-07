@@ -14,4 +14,8 @@ aliases = ["/future/sessions/oxford-university-press-choral-and-organ-reading-se
 <ul>
 <li><a href="/future/presenters/jeremy-edelstein/">Jeremy Edelstein</a></li>
 </ul>
+<h2>Description</h2>
+
+Oxford University Press (OUP) is the world's leading university press with the widest global presence. Our academic publishing programme serves scholars, teachers and researchers, publishing important and rigorous research and scholarship across subject areas stretching from History to Life Sciences to Economics. This choral reading session will feature some highlights from their catalogue that will be particularly useful in worship.
+
 

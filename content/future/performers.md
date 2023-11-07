@@ -81,7 +81,7 @@ template = "future.html"
 
 {{ performer(name="W. Patrick Alston, Sr.") }}
 
-{{ performer(name="Weicheng Zhou") }}
+{{ performer(name="Weicheng Zhao") }}
 
 </div>
 
