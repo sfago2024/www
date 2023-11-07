@@ -41,10 +41,8 @@ show_toc = true
 <span class="event">Organ Prelude: David Higgs - Congregation Emanu-El</span>
 <span class="time">7:30&nbsp;<i>PM</i> – 9:00&nbsp;<i>PM</i></span>
 <span class="event">Jewish Worship Service: David Higgs - Congregation Emanu-El<br>Commissioned piece: Melissa Dunphy</span>
-<span class="time">9:30&nbsp;<i>PM</i></span>
-<span class="event">Grand Opening of Exhibit Hub</span>
 <span class="time">9:30&nbsp;<i>PM</i> – 12:00&nbsp;<i>AM</i></span>
-<span class="event">Exhibits open - Marriott Marquis</span>
+<span class="event">Grand Opening of Exhibit Hub - Marriott Marquis</span>
 </div>
 
 # Monday, July 1
@@ -179,7 +177,7 @@ show_toc = true
 <span class="time">7:30&nbsp;<i>PM</i></span>
 <span class="event">Final bus departure from hotel to St. Mary’s Cathedral</span>
 <span class="time">8:00&nbsp;<i>PM</i> – 9:30&nbsp;<i>PM</i></span>
-<span class="event">St. Cecilia Recital: Janette Fishell - St. Mary’s Cathedral<br>Commissioned piece: Mason Bates</span>
+<span class="event">St. Cecilia Recital: Janette Fishell - St. Mary’s Cathedral</span>
 <span class="time">9:30&nbsp;<i>PM</i> – 11:30&nbsp;<i>PM</i></span>
 <span class="event">St. Cecilia Reception: St. Mary’s Cathedral</span>
 </div>
