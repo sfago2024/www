@@ -34,7 +34,8 @@ Convention.
 Individuals ages 18–35 who are studying organ and/or have graduated from an accredited,
 degree-granting institution within the past 10 years are invited to apply. Five individuals will be
 awarded housing for the duration of the San Francisco 2024 AGO National Convention (five nights).
-Recipients will be assigned a roommate with whom they will share a double-occupancy room.
+Recipients will be able to choose another scholarship recipient as a roommate with whom they will
+share a double-occupancy room.
 
 ### Application requirements
 
@@ -60,8 +61,6 @@ awarded the scholarship.
 
 </div>
 
-
-
 Scholarship winners will be notified on March 7, 2024, and will have until March 15, 2024, to
 accept. Declined scholarships will be offered to the next highest-ranking applicants.
 
@@ -69,8 +68,10 @@ accept. Declined scholarships will be offered to the next highest-ranking applic
 
 Full-time students ages 16–29 are invited to apply for the Houston Chapter Young Organists
 Scholarship for Conventions. Ten individuals will be awarded registration costs and housing for
-the duration of the San Francisco 2024 AGO National Convention (five nights). Recipients will be
-assigned a roommate with whom they will share a double-occupancy room.
+the duration of the San Francisco 2024 AGO National Convention (five nights). Recipients will
+be able to choose another scholarship recipient as a roommate with whom they will share a
+double-occupancy room. Please note that scholarship recipients under age 18 must be accompanied by a
+parent or guardian. This accompanying individual will receive complimentary registration.
 
 ### Application requirements
 
