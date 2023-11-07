@@ -242,7 +242,7 @@ aliases = []
 ) }}
 
 {{ workshop(
-  name="WIFFY—What's in it for You? How to Influence Prospects to Become Members.",
+  name="WIIFM — What's in it for Me? How to Influence Prospects to Become Members",
   presenter="Elizabeth George, CMM"
 ) }}
 
