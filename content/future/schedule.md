@@ -24,7 +24,7 @@ show_toc = true
 # Saturday, June 29
 
 <div class="schedule">
-<span class="time">(afternoon)</span>
+<span class="time">2:00&nbsp;<i>PM</i></span>
 <span class="event">Pre-convention excursion - Legion of Honor Museum<br>(organ concert at 4:00)</span>
 </div>
 
@@ -32,11 +32,9 @@ show_toc = true
 
 <div class="schedule">
 <span class="time">12:00&nbsp;<i>PM</i> – 12:00&nbsp;<i>AM</i></span>
-<span class="event">Registration/Hospitality open</span>
+<span class="event">Registration open</span>
 <span class="time">1:30&nbsp;<i>PM</i> – 5:30&nbsp;<i>PM</i></span>
 <span class="event">NYACOP Finals - Lakeside Presbyterian</span>
-<span class="time">6:30&nbsp;<i>PM</i></span>
-<span class="event">Final bus departure from hotel to Congregation Emanu-El</span>
 <span class="time">7:00&nbsp;<i>PM</i> – 7:30&nbsp;<i>PM</i></span>
 <span class="event">Organ Prelude: David Higgs - Congregation Emanu-El</span>
 <span class="time">7:30&nbsp;<i>PM</i> – 9:00&nbsp;<i>PM</i></span>
@@ -49,9 +47,7 @@ show_toc = true
 
 <div class="schedule">
 <span class="time">8:00&nbsp;<i>AM</i> – 7:00&nbsp;<i>PM</i></span>
-<span class="event">Registration/Hospitality open</span>
-<span class="time">8:30&nbsp;<i>AM</i> – 12:00&nbsp;<i>PM</i></span>
-<span class="event">Shuttle bus available between hotel and Trinity+St. Peter’s</span>
+<span class="event">Registration open</span>
 <span class="time">9:00&nbsp;<i>AM</i> – 12:00&nbsp;<i>PM</i></span>
 <span class="event">Exhibits open - Marriott Marquis</span>
 <span class="time">9:00&nbsp;<i>AM</i> – 12:00&nbsp;<i>PM</i></span>
@@ -64,8 +60,6 @@ show_toc = true
 <span class="event">Workshops 3 - Marriott Marquis and nearby venues</span>
 <span class="time">12:00&nbsp;<i>PM</i> – 1:30&nbsp;<i>PM</i></span>
 <span class="event">Lunch (on your own) and travel to Oakland</span>
-<span class="time">1:30&nbsp;<i>PM</i></span>
-<span class="event">Final bus departure from hotel to venues</span>
 <span class="time">2:00&nbsp;<i>PM</i> – 2:45&nbsp;<i>PM</i></span>
 <span class="event"><span class="group">[Group A]</span> Dong-Il Shin - Cathedral of Christ the Light, Oakland<br>Commissioned piece: Texu Kim</span>
 <span class="event"><span class="group">[Group B]</span> choice of:</span>
@@ -80,8 +74,6 @@ show_toc = true
 <span class="event">Roman Catholic Worship Service: Jennifer Pascual - Our Lady of Lourdes, Oakland</span>
 <span class="time">4:30&nbsp;<i>PM</i> – 7:30&nbsp;<i>PM</i></span>
 <span class="event">Dinner (on your own)</span>
-<span class="time">7:30&nbsp;<i>PM</i></span>
-<span class="event">Final bus departure from hotel to Grace Cathedral</span>
 <span class="time">8:00&nbsp;<i>PM</i> – 9:30&nbsp;<i>PM</i></span>
 <span class="event">Concert: Faythe Freese - Grace Cathedral</span>
 <span class="time">10:00&nbsp;<i>PM</i> – 12:00&nbsp;<i>AM</i></span>
@@ -91,12 +83,10 @@ show_toc = true
 # Tuesday, July 2
 
 <div class="schedule">
-<span class="time">8:30&nbsp;<i>AM</i> – 7:00&nbsp;<i>PM</i></span>
-<span class="event">Hospitality open</span>
 <span class="time">9:00&nbsp;<i>AM</i> – 12:00&nbsp;<i>PM</i></span>
 <span class="event">Exhibits open - Marriott Marquis</span>
 <span class="time">9:00&nbsp;<i>AM</i> – 11:45&nbsp;<i>AM</i></span>
-<span class="event">Tour and Choral Workshop Mission Dolores (buses from hotel)</span>
+<span class="event">Tour and Choral Workshop Mission Dolores</span>
 <span class="time">9:00&nbsp;<i>AM</i> – 9:45&nbsp;<i>AM</i></span>
 <span class="event">Workshops 4 - Marriott Marquis and nearby venues</span>
 <span class="time">10:00&nbsp;<i>AM</i> – 10:45&nbsp;<i>AM</i></span>
@@ -105,8 +95,6 @@ show_toc = true
 <span class="event">Workshops 6 - Marriott Marquis and nearby venues</span>
 <span class="time">11:45&nbsp;<i>AM</i> – 1:00&nbsp;<i>PM</i></span>
 <span class="event">Lunch (on your own) and travel to venues</span>
-<span class="time">1:00&nbsp;<i>PM</i></span>
-<span class="event">Final bus departure from hotel to venues</span>
 <span class="header">Afternoon concerts: Choose one Group; walk between venues.</span>
 <span class="time">1:30&nbsp;<i>PM</i> – 2:15&nbsp;<i>PM</i></span>
 <span class="event"><span class="group">[Group C]</span> Ken Cowan - Trinity+St Peter’s<br>Sponsored by Schoenstein & Co.</span>
@@ -128,8 +116,6 @@ show_toc = true
 <span class="event">National Business Meeting - Hotel</span>
 <span class="time">5:30&nbsp;<i>PM</i> – 7:30&nbsp;<i>PM</i></span>
 <span class="event">Dinner (on your own)</span>
-<span class="time">7:30&nbsp;<i>PM</i></span>
-<span class="event">Final bus departure from hotel to St. Ignatius</span>
 <span class="time">8:00&nbsp;<i>PM</i> – 9:30&nbsp;<i>PM</i></span>
 <span class="event">Concert: Olivier Latry, Shin-Young Lee, orchestra - St. Ignatius</span>
 <span class="time">10:00&nbsp;<i>PM</i> – 12:00&nbsp;<i>AM</i></span>
@@ -139,10 +125,6 @@ show_toc = true
 # Wednesday, July 3
 
 <div class="schedule">
-<span class="time">8:00&nbsp;<i>AM</i> – 7:00&nbsp;<i>PM</i></span>
-<span class="event">Hospitality open</span>
-<span class="time">8:15&nbsp;<i>AM</i></span>
-<span class="event">Final bus departure from hotel to venues</span>
 <span class="time">9:00&nbsp;<i>AM</i> – 9:45&nbsp;<i>AM</i></span>
 <span class="event">Concert: Abigail Crafton, Alexander Leonardi, and Owen Tellinghuisen [Rising Stars] - First Congregational Church, Berkeley</span>
 <span class="time">9:00&nbsp;<i>AM</i> – 9:45&nbsp;<i>AM</i></span>
@@ -174,8 +156,6 @@ show_toc = true
 <span class="event">Regional Meetings - Marriott Marquis</span>
 <span class="time">5:00&nbsp;<i>PM</i> – 7:30&nbsp;<i>PM</i></span>
 <span class="event">Dinner (on your own)</span>
-<span class="time">7:30&nbsp;<i>PM</i></span>
-<span class="event">Final bus departure from hotel to St. Mary’s Cathedral</span>
 <span class="time">8:00&nbsp;<i>PM</i> – 9:30&nbsp;<i>PM</i></span>
 <span class="event">St. Cecilia Recital: Janette Fishell - St. Mary’s Cathedral</span>
 <span class="time">9:30&nbsp;<i>PM</i> – 11:30&nbsp;<i>PM</i></span>
@@ -185,18 +165,12 @@ show_toc = true
 # Thursday, July 4
 
 <div class="schedule">
-<span class="time">8:00&nbsp;<i>AM</i> – 10:00&nbsp;<i>AM</i></span>
-<span class="event">Hospitality open</span>
-<span class="time">8:30&nbsp;<i>AM</i></span>
-<span class="event">Final bus departure from hotel to venues</span>
 <span class="time">9:00&nbsp;<i>AM</i> – 10:00&nbsp;<i>AM</i></span>
 <span class="event">Episcopal Worship Service: Mary Beth Bennett - Grace Cathedral<br>Commissioned Pieces: ECS Prize; David Conte</span>
 <span class="time">9:00&nbsp;<i>AM</i> – 10:00&nbsp;<i>AM</i></span>
 <span class="event">African&nbsp;American Baptist Worship Service: Stephen Price and Patrick Alston - Third Baptist Church<br>Commissioned piece: Eurydice Osterman</span>
 <span class="time">9:00&nbsp;<i>AM</i> – 10:00&nbsp;<i>AM</i></span>
 <span class="event">Concert: Weicheng Zhao - St. Luke’s Episcopal Church</span>
-<span class="time">10:00&nbsp;<i>AM</i></span>
-<span class="event">Final bus departure from venues and hotel to venues</span>
 <span class="time">11:30&nbsp;<i>AM</i> – 12:15&nbsp;<i>PM</i> </span>
 <span class="event">Concert: Annette Richards - All Saints Episcopal Church, Palo Alto</span>
 <span class="time">11:30&nbsp;<i>AM</i> – 12:15&nbsp;<i>PM</i></span>
@@ -214,7 +188,7 @@ show_toc = true
 <span class="time">2:30&nbsp;<i>PM</i> – 3:45&nbsp;<i>PM</i></span>
 <span class="event">Concert: Kimberly Marshall - Stanford Memorial Church<br>Sponsored by Ed and Mary Jennings<br>Commissioned piece: Errollyn Wallen<br>Underwritten by Ed and Mary Jennings</span>
 <span class="time">5:00&nbsp;<i>PM</i> – 7:30&nbsp;<i>PM</i></span>
-<span class="event">Dinner (on your own); hospitality open</span>
+<span class="event">Dinner (on your own)</span>
 <span class="time">7:30&nbsp;<i>PM</i> – 10:30&nbsp;<i>PM</i></span>
 <span class="event">Final reception - Marriott Marquis (entertainment at 8:00, 9:00, 10:00)</span>
 </div>
