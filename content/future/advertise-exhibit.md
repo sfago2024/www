@@ -30,7 +30,7 @@ show_toc = true
 * Pre-convention and onsite presence on mobile app
 * Months of visibility on convention website
 * Your logo spanning the globe when on the tote bag
-* See our {% pdf_link(disabled=true) %}Media Kit{% end %}<span class="inline-todo">(TODO)</span> for details
+* See our {% pdf_link(href="/attachments/AGO 2024 Media Kit.pdf") %}Media Kit{% end %} for details
 
 </div>
 
