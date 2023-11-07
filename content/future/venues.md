@@ -82,7 +82,7 @@ wide = true
 {{ venue(
   name="Mission Dolores Basilica",
   city="San&nbsp;Francisco",
-  img="",
+  img="/img/venues/Mission Dolores.webp",
   organ="",
   stoplist=""
 ) }}
