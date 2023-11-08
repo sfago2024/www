@@ -1,5 +1,6 @@
 +++
 title = "Donate"
+description = "Learn about the many benefits of contributing to SF AGO 2024."
 template = "future.html"
 +++
 

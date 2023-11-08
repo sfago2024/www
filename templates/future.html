@@ -4,8 +4,14 @@
 <head>
   <meta charset="utf-8">
   <title>{{ obj.title }}{% if obj.title %} | {% endif %}{{ config.title }}</title>
+  <meta property="og:title" content="{% if obj.title %}{{ obj.title }}{% else %}{{ config.title }}{% endif %}">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="{% if obj.extra.image %}{{ obj.extra.image }}{% else %}{{ get_url(path="img/logo.png") }}{% endif %}">
+  <meta property="og:url" content="{{ current_url | safe }}">
+  <meta property="og:locale" content="en_US">
   {% if obj.description -%}
   <meta name="description" content="{{ obj.description }}">
+  <meta property="og:description" content="{{ obj.description }}">
   {% endif -%}
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <link rel="stylesheet" href="{{ get_url(path="future.css") }}">

@@ -1,5 +1,6 @@
 +++
 title = "Workshops"
+description = "See the full lineup of workshops for SF AGO 2024."
 path = "/future/workshops/"
 template = "future.html"
 aliases = []

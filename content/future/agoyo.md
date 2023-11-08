@@ -1,5 +1,6 @@
 +++
 title = "AGOYO"
+description = "Learn about available scholorships for young organists looking to attend SF AGO 2024."
 template = "future.html"
 [extra]
 show_toc = true

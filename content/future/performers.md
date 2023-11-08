@@ -1,5 +1,6 @@
 +++
 title = "Performers"
+description = "Featured performers for SF AGO 2024"
 template = "future.html"
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Register"
+description = "Learn about registration rates and details for SF AGO 2024."
 template = "future.html"
 aliases = [
   "/future/register-with-ads/",

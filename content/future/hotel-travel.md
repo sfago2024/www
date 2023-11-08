@@ -1,5 +1,6 @@
 +++
 title = "Travel"
+description = "Learn about hotel and travel information for SF AGO 2024."
 template = "future.html"
 aliases = [
   "/future/travel/",

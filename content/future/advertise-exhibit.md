@@ -1,5 +1,6 @@
 +++
 title = "Advertise/Exhibit"
+description = "Learn about SF AGO 2024's innovative exhibiting and advertising options."
 template = "future.html"
 aliases = [
   "/advertise/",

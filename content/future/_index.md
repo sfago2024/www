@@ -1,5 +1,6 @@
 +++
 title = ""
+description = "A musical encounter with an enchanting city. Learn about the rich menu of concerts, worship, and workshops available at SF AGO 2024, as well as information about registration, donations, travel, advertising, and exhibiting."
 template = "future.html"
 [extra]
 hide_ad = true
