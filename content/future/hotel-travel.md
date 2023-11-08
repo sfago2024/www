@@ -16,31 +16,41 @@ events, museums, shopping, and concerts. And this year SF Pride is June 29–30,
 
 # Hotel
 
+<div class="action-panel" id="book-now">
+<a class="fancy-button" href="https://book.passkey.com/e/50643191" rel="external" target="_blank">Make hotel reservations</a>
+
+**Convention rate: $169/night**
+
+Be sure to use only this link to book your room, to secure your reservation and avoid booking
+problems and extra charges.
+
+</div>
+
 <div class="centered">
 <img class="framed-photo not-too-big" src="/img/marriott-marquis.jpg">
 </div>
 
-Located in San Francisco’s exciting SoMa district, our convention hotel provides easy access to
-attractions such as Moscone Center, Chase Center, Oracle Park, Union Square shopping, and the
-museums in SoMa and Yerba Buena. Read the Marriott Marquis
+<p></p>
+
+
+Located in San Francisco’s exciting SoMa district,
+{% external_link(href="https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/overview/") %}San Francisco Marriott Marquis{% end %}
+provides easy access to attractions such as Moscone Center, Chase Center, Oracle Park, Union Square
+shopping, and the museums in SoMa and Yerba Buena. Read the Marriott Marquis
 {% external_link(href="https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/overview/sustainability/") %}
 sustainability
 {% end %}
 page.
 
-The Marriott Marquis Hotel has the following ratings.
+The Marriott Marquis has the following ratings.
 * TripAdvisor Green Leaders Certified
 * Audubon Green Lodging Program Certified
 * 2022 Gay Travel Award Winner
 
 The specially discounted AGO Convention Rate is **$169/night**.
 {% external_link(href="https://book.passkey.com/e/50643191") %}Book your hotel room now{% end %}
-to take advantage of this special AGO Convention discount. **Be sure to use only this link to book
-your room, to secure your reservation and avoid booking problems and extra charges.**
-
-<div class="action-panel">
-<a class="fancy-button" href="https://book.passkey.com/e/50643191" rel="external" target="_blank">Make hotel reservations</a>
-</div>
+to take advantage of this special AGO Convention discount. Be sure to use only this link to book
+your room, to secure your reservation and avoid booking problems and extra charges.
 
 # Travel by Air
 

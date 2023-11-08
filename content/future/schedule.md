@@ -53,11 +53,11 @@ show_toc = true
 <span class="time">9:00&nbsp;<i>AM</i> – 12:00&nbsp;<i>PM</i></span>
 <span class="event">NCOI Finals – <span class="location">Trinity&thinsp;+&thinsp;St. Peter’s</span></span>
 <span class="time">9:00&nbsp;<i>AM</i> – 9:45&nbsp;<i>AM</i></span>
-<span class="event">Workshops 1 – <span class="location">Marriott Marquis and nearby venues</span></span>
+<span class="event">Workshops 1 – <span class="location">Marriott Marquis</span></span>
 <span class="time">10:00&nbsp;<i>AM</i> – 10:45&nbsp;<i>AM</i></span>
-<span class="event">Workshops 2 – <span class="location">Marriott Marquis and nearby venues</span></span>
+<span class="event">Workshops 2 – <span class="location">Marriott Marquis</span></span>
 <span class="time">11:00&nbsp;<i>AM</i> – 11:45&nbsp;<i>AM</i></span>
-<span class="event">Workshops 3 – <span class="location">Marriott Marquis and nearby venues</span></span>
+<span class="event">Workshops 3 – <span class="location">Marriott Marquis</span></span>
 <span class="time">12:00&nbsp;<i>PM</i> – 1:30&nbsp;<i>PM</i></span>
 <span class="event">Lunch (on your own) and travel to Oakland</span>
 <span class="time">2:00&nbsp;<i>PM</i> – 2:45&nbsp;<i>PM</i></span>
@@ -88,11 +88,11 @@ show_toc = true
 <span class="time">9:00&nbsp;<i>AM</i> – 11:45&nbsp;<i>AM</i></span>
 <span class="event">Tour and Choral Workshop Mission Dolores</span>
 <span class="time">9:00&nbsp;<i>AM</i> – 9:45&nbsp;<i>AM</i></span>
-<span class="event">Workshops 4 – <span class="location">Marriott Marquis and nearby venues</span></span>
+<span class="event">Workshops 4 – <span class="location">Marriott Marquis</span></span>
 <span class="time">10:00&nbsp;<i>AM</i> – 10:45&nbsp;<i>AM</i></span>
-<span class="event">Workshops 5 – <span class="location">Marriott Marquis and nearby venues</span></span>
+<span class="event">Workshops 5 – <span class="location">Marriott Marquis</span></span>
 <span class="time">11:00&nbsp;<i>AM</i> – 11:45&nbsp;<i>AM</i></span>
-<span class="event">Workshops 6 – <span class="location">Marriott Marquis and nearby venues</span></span>
+<span class="event">Workshops 6 – <span class="location">Marriott Marquis</span></span>
 <span class="time">11:45&nbsp;<i>AM</i> – 1:00&nbsp;<i>PM</i></span>
 <span class="event">Lunch (on your own) and travel to venues</span>
 <span class="header">Afternoon concerts: Choose one Group; walk between venues.</span>
@@ -148,9 +148,9 @@ show_toc = true
 <span class="time">12:00&nbsp;<i>PM</i> – 4:00&nbsp;<i>PM</i></span>
 <span class="event">Exhibits open – <span class="location">Marriott Marquis</span></span>
 <span class="time">2:00&nbsp;<i>PM</i> – 2:45&nbsp;<i>PM</i></span>
-<span class="event">Workshops 7 – <span class="location">Marriott Marquis and nearby venues</span></span>
+<span class="event">Workshops 7 – <span class="location">Marriott Marquis</span></span>
 <span class="time">3:00&nbsp;<i>PM</i> – 3:45&nbsp;<i>PM</i></span>
-<span class="event">Workshops 8 – <span class="location">Marriott Marquis and nearby venues</span></span>
+<span class="event">Workshops 8 – <span class="location">Marriott Marquis</span></span>
 <span class="time">4:00&nbsp;<i>PM</i> – 4:45&nbsp;<i>PM</i></span>
 <span class="event">Regional Meetings – <span class="location">Marriott Marquis</span></span>
 <span class="time">5:00&nbsp;<i>PM</i> – 7:30&nbsp;<i>PM</i></span>
