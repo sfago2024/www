@@ -23,15 +23,10 @@ Not an AGO member? It's not too late to join and take advantage of member rates.
 {% external_link(href="https://www.agohq.org/membership/membership-comparisons-dues-rates/") %}membership or renewal{% end %}
 application to secure the reduced rate for the convention.
 
-Click this button to register for AGO 2024 San Francisco:
 
 <div class="action-panel">
-<a class="fancy-button disabled"><!--href="https://cvent.me/xdER8R?rt=NADRUV8wnEW6fR5Niy5H6g&RefId=sfago2024.org%2Fregister" rel="external" target="_blank"-->Register online</a><br>
-</div>
-
-<div class="centered todo" style="padding: 1rem 0;">
-<strong>TESTING:</strong>
-<a class="fancy-button button-orange" href="https://cvent.me/Kevv22?locale=en-US&tm=9BdqUUCeZ-SjtfPQEGVpw9oovq163Pnf5Fb6mdSpLbg" rel="external" target="_blank">Open test-mode registration</a>
+<p><strong>Click this button to register for AGO 2024 San Francisco:</strong></p>
+<a class="fancy-button" href="https://cvent.me/xdER8R?rt=NADRUV8wnEW6fR5Niy5H6g&RefId=sfago2024.org%2Fregister" rel="external" target="_blank">Register online</a><br>
 </div>
 
 # Registration Rates
