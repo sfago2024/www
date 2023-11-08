@@ -14,7 +14,7 @@ wide = true
 <div>
 
 <p class="title">A Musical Encounter with an Enchanting City</p>
-<img class="framed-photo" alt="" src="/img/streetcar.jpg">
+<img class="framed-photo" alt="" src="/img/streetcar.jpg" style="aspect-ratio: 800 / 450">
 
 </div>
 </div>

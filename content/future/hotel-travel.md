@@ -28,7 +28,7 @@ problems and extra charges.
 </div>
 
 <div class="centered">
-<img class="framed-photo not-too-big" src="/img/marriott-marquis.jpg">
+<img class="framed-photo not-too-big" src="/img/marriott-marquis.jpg" style="aspect-ratio: 800 / 450">
 </div>
 
 <p></p>
