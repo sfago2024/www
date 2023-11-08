@@ -58,7 +58,7 @@ Find more information in the {% pdf_link(href="/attachments/AGO 2024 Exhibits.pd
 
 # Contact Us
 
-**Questions about exhibits or advertising?** Contact {{ contact(name="Maury A. Castro") }}:
+**Questions about exhibits or advertising?** Contact {{ contact(name="Maury A. Castro") }}.
 
 {% contact_card(name="Maury A. Castro", position="Advertising Manager") %}
 <a href="mailto:maury.castro@agohq.org">maury.castro@agohq.org</a>
