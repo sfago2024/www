@@ -16,7 +16,7 @@ events, museums, shopping, and concerts. And this year SF Pride is June 29–30,
 
 # Hotel
 
-<div class="action-panel" id="book-now">
+<div class="action-panel">
 <a class="fancy-button" href="https://book.passkey.com/e/50643191" rel="external" target="_blank">Make hotel reservations</a>
 
 **Convention rate: $169/night**

@@ -677,14 +677,22 @@ table {
 .action-panel {
   background-color: var(--bg);
   border-radius: 1rem;
-  padding: 1em;
+  padding: 0.5em 1rem;
   margin-left: 4rem;
   margin-right: 4rem;
 
   text-align: center;
 
+  &>p:first-child {
+    margin-top: 0;
+  }
+
   p {
     margin-top: 0.5em;
+  }
+
+  a.fancy-button {
+    margin: 0.5em 0;
   }
 }
 

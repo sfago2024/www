@@ -33,10 +33,10 @@ Please see our
 {% pdf_link(href="/attachments/AGO 2024 Donor Benefit.pdf") %}Donor Information Brochure{% end %}</a>
 for more information.
 
-<p class="no-justify">
-Make a secure, online donation:
+<div class="action-panel">
+<p><strong>Make a secure, online donation:</strong></p>
 <a class="fancy-button" href="https://secure.lglforms.com/form_engine/s/eeqTdDjnVWroSixHUABwOA" rel="external">Donate now</a>
-</p>
+</div>
 
 We have many opportunities for sponsorship that create amazing exposure for your company or
 organization. Please see our
