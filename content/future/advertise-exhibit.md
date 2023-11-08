@@ -47,7 +47,7 @@ show_toc = true
 <span class="event">12:00 PM – 4:00 PM</span>
 </div>
 
-You can also view {% schedule_link(focus="exhibits") %}Exhibit hours{% end %} in the schedule. <span class="inline-todo">(TODO: once the Schedule page supports filtering, this will link to it with the Exhibit items automatically highlighted)</span>
+You can also see exhibit hours in the <a href="/future/schedule/">schedule</a>.
 
 # Exhibit Map
 

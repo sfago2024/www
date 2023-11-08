@@ -283,13 +283,14 @@ aliases = []
 ) }}
 
 {{ workshop(
-  name="The Castro: Tales of the Village",
+  name="The Castro: Tales of the Village – Walking Tour",
   presenter=""
 ) }}
 
 {{ workshop(
   name="Wayne Leupold – Organ Reading Session",
-  presenter=""
+  presenter="Wayne Leupold",
+  presenter2="Dennis Janzer"
 ) }}
 
 {{ workshop(

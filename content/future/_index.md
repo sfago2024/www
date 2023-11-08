@@ -38,7 +38,7 @@ wide = true
 
 * A rich menu of concerts, worship, and workshops.
 
-* 25 concert venues, plus thee additional pre- and post-convention options.
+* 25 concert venues, plus three additional pre- and post-convention options.
 
 * Internationally known performers from Canada, France, Korea, and the United States.
 

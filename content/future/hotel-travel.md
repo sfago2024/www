@@ -38,6 +38,10 @@ The specially discounted AGO Convention Rate is **$169/night**.
 to take advantage of this special AGO Convention discount. **Be sure to use only this link to book
 your room, to secure your reservation and avoid booking problems and extra charges.**
 
+<div class="action-panel">
+<a class="fancy-button" href="https://book.passkey.com/e/50643191" rel="external" target="_blank">Make hotel reservations</a>
+</div>
+
 # Travel by Air
 
 The Bay Area is served by two major airports,
@@ -49,7 +53,7 @@ and
 
 {% external_link(href="https://www.bart.gov/") %}Bay Area Rapid Transit (BART){% end %}
 trains are available from both airports to downtown San Francisco. Riders purchase a reloadable
-travel card from machines in the stations, using cash or credit card. The nearest stop to the
+Clipper Card from machines in the stations, using cash or credit card. The nearest stop to the
 Marriott Marquis is **Powell Street**, which is a short walk from the hotel.
 
 For information on **public bus service**, here is a link to

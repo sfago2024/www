@@ -119,6 +119,11 @@ The 2024 AGO National Convention hopes everyone who registers for the conference
 
 Cancellation requests should be sent to {{ contact(name="Paul Ellison") }}.
 
+{% contact_card(name="Paul Ellison", position="Registrar") %}
+<a href="mailto:registrar@sfago2024.org">registrar@sfago2024.org</a><br>
+<a href="tel:+14152051241">415.205.1241</a>
+{% end %}
+
 # Check Payments
 
 If paying by check, please mail your check to:
@@ -133,8 +138,3 @@ San Leandro, CA 94578-0546
 # Offline Registration
 
 If you're unable to register online, please contact {{ contact(name="Paul Ellison") }}.
-
-{% contact_card(name="Paul Ellison", position="Registrar") %}
-<a href="mailto:registrar@sfago2024.org">registrar@sfago2024.org</a><br>
-<a href="tel:+14152051241">415.205.1241</a>
-{% end %}

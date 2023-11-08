@@ -13,7 +13,7 @@ wide = true
   city="San&nbsp;Francisco",
   img="/img/venues/Grace Cathedral.webp",
   organ="Aeolian-Skinner, 1933/1952",
-  stoplist="https://gracecathedral.org/organs/"
+  stoplist="https://pipeorgandatabase.org/organ/14"
 ) }}
 
 {{ venue(
@@ -21,7 +21,7 @@ wide = true
   city="Oakland",
   img="/img/venues/Oakland Cathedral.jpeg",
   organ="Létourneau, 2010",
-  stoplist="https://webcache.googleusercontent.com/search?q=cache:https://pipeorgandatabase.org/organ/46553"
+  stoplist="https://pipeorgandatabase.org/organ/46553"
 ) }}
 
 {{ venue(
@@ -29,7 +29,7 @@ wide = true
   city="San&nbsp;Francisco",
   img="/img/venues/St. Mary_s Cathedral.jpg",
   organ="Ruffatti, 1971",
-  stoplist="https://smcsf.org/cathedral/ruffatti-organ/"
+  stoplist="https://pipeorgandatabase.org/organ/24053"
 ) }}
 
 
@@ -42,7 +42,7 @@ wide = true
   city="San&nbsp;Francisco",
   img="/img/venues/Emanu-El.jpeg",
   organ="EM Skinner, 1924",
-  stoplist="https://webcache.googleusercontent.com/search?q=cache:https://pipeorgandatabase.org/organ/22967"
+  stoplist="https://pipeorgandatabase.org/organ/22967"
 ) }}
 
 {{ venue(
@@ -59,16 +59,16 @@ wide = true
   img="/img/venues/Stanford Mem Church.jpeg",
   organ="Murray Harris, 1901",
   organ2="C. B. Fisk, 1984",
-  stoplist="https://webcache.googleusercontent.com/search?q=cache:https://pipeorgandatabase.org/organ/2419",
-  stoplist2="https://webcache.googleusercontent.com/search?q=cache:https://pipeorgandatabase.org/organ/7322"
+  stoplist="https://pipeorgandatabase.org/organ/2419",
+  stoplist2="https://pipeorgandatabase.org/organ/7322"
 ) }}
 
 {{ venue(
   name="Legion of Honor",
   city="San&nbsp;Francisco",
   img="/img/venues/Legion of Honor.jpeg",
-  organ="Skinner, 1923",
-  stoplist="https://webcache.googleusercontent.com/search?q=cache:https://pipeorgandatabase.org/organ/6580"
+  organ="Skinner, 1924",
+  stoplist="https://pipeorgandatabase.org/organ/6580"
 ) }}
 
 {{ venue(
@@ -76,7 +76,7 @@ wide = true
   city="San&nbsp;Francisco",
   img="/img/venues/Sherith Israel.jpeg",
   organ="Murray Harris, 1904",
-  stoplist="https://webcache.googleusercontent.com/search?q=cache:https://pipeorgandatabase.org/organ/6570"
+  stoplist="https://pipeorgandatabase.org/organ/6570"
 ) }}
 
 {{ venue(
@@ -100,7 +100,7 @@ wide = true
   city="San&nbsp;Francisco",
   img="/img/venues/Trinity+St. Peter_s.jpeg",
   organ="Skinner, 1925",
-  stoplist="https://webcache.googleusercontent.com/search?q=cache:https://pipeorgandatabase.org/organ/22932"
+  stoplist="https://pipeorgandatabase.org/organ/22932"
 ) }}
 
 {{ venue(
@@ -112,7 +112,7 @@ wide = true
 ) }}
 
 {{ venue(
-  name="Lakeside Presbyterian <span class=inline-todo>(TODO: not in Cvent?)</span>",
+  name="Lakeside Presbyterian",
   city="San&nbsp;Francisco",
   img="/img/venues/Lakeside Pres.jpeg",
   organ="Pearson, 2003",
@@ -120,11 +120,11 @@ wide = true
 ) }}
 
 {{ venue(
-  name="Sunnyvale Presbyterian <span class=inline-todo>(TODO: not in Cvent?)</span>",
+  name="Sunnyvale Presbyterian",
   city="",
   img="/img/venues/Sunnyvale Pres.jpeg",
   organ="Balcom and Vaughan, 1986",
-  stoplist="https://webcache.googleusercontent.com/search?q=cache:https://pipeorgandatabase.org/organ/37822"
+  stoplist="https://pipeorgandatabase.org/organ/37822"
 ) }}
 
 {{ venue(
@@ -140,7 +140,7 @@ wide = true
   city="Oakland",
   img="/img/venues/Our Lady of Lourdes.jpeg",
   organ="Schoenstein, 1982",
-  stoplist="https://webcache.googleusercontent.com/search?q=cache:https://pipeorgandatabase.org/organ/36360"
+  stoplist="https://pipeorgandatabase.org/organ/36360"
 ) }}
 
 {{ venue(
@@ -164,7 +164,7 @@ wide = true
   city="Berkeley",
   img="/img/venues/First Christ Scientist Berkeley.jpeg",
   organ="Austin, 1953",
-  stoplist="https://webcache.googleusercontent.com/search?q=cache:https://pipeorgandatabase.org/organ/13819"
+  stoplist="https://pipeorgandatabase.org/organ/13819"
 ) }}
 
 {{ venue(
@@ -172,7 +172,7 @@ wide = true
   city="Berkeley",
   img="/img/venues/First Congregational Berkeley.jpeg",
   organ="Petty-Madden, 2007",
-  stoplist="https://webcache.googleusercontent.com/search?q=cache:https://pipeorgandatabase.org/organ/26112"
+  stoplist="https://pipeorgandatabase.org/organ/26112"
 ) }}
 
 {{ venue(
@@ -188,7 +188,7 @@ wide = true
   city="",
   img="/img/venues/UU Church of Berkeley.webp",
   organ="Aeolian-Skinner, 1958",
-  stoplist="https://webcache.googleusercontent.com/search?q=cache:https://pipeorgandatabase.org/organ/35674"
+  stoplist="https://pipeorgandatabase.org/organ/35674"
 ) }}
 
 {{ venue(
@@ -204,7 +204,7 @@ wide = true
   city="Palo&nbsp;Alto",
   img="/img/venues/All Saints PA.jpeg",
   organ="Flentrop, 1967",
-  stoplist="https://webcache.googleusercontent.com/search?q=cache:https://pipeorgandatabase.org/organ/37"
+  stoplist="https://pipeorgandatabase.org/organ/37"
 ) }}
 
 {{ venue(
@@ -212,7 +212,7 @@ wide = true
   city="",
   img="/img/venues/First Congregational PA.jpeg",
   organ="Létourneau, 2006",
-  stoplist="https://webcache.googleusercontent.com/search?q=cache:https://pipeorgandatabase.org/organ/52226"
+  stoplist="https://pipeorgandatabase.org/organ/52226"
 ) }}
 
 {{ venue(
@@ -220,7 +220,7 @@ wide = true
   city="Menlo&nbsp;Park",
   img="/img/venues/St. Bede_s MP.jpeg",
   organ="Beckerath, 1969",
-  stoplist="https://webcache.googleusercontent.com/search?q=cache:https://pipeorgandatabase.org/organ/1749"
+  stoplist="https://pipeorgandatabase.org/organ/1749"
 ) }}
 
 {{ venue(
@@ -228,7 +228,7 @@ wide = true
   city="Palo&nbsp;Alto",
   img="/img/venues/St. Mark_s PA.jpeg",
   organ="Casavant, 1957",
-  stoplist="https://webcache.googleusercontent.com/search?q=cache:https://pipeorgandatabase.org/organ/52795"
+  stoplist="https://pipeorgandatabase.org/organ/52795"
 ) }}
 
 </div>

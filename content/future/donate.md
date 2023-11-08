@@ -7,25 +7,25 @@ The San Francisco AGO Steering Committee is pleased to partner with you to bring
 the 2024 convention to life. Producing a convention of this caliber is a
 collective effort, and our supporters play an essential role.
 
-Why Support your Convention:
+**Why Support your Convention:**
 
 <div class="close">
 
-* Registration fees and other support only cover 60% of convention costs
-* Your contribution allows us to keep registration fees reasonable for all 
+* Registration fees and other support only cover 60% of convention costs.
+* Your contribution allows us to keep registration fees reasonable for all.
 * Your partnership brings a stunning, diverse lineup of performers, new music, worship experiences, workshops, and world-class venues to life.
-* Your impact underwrites eight new music commissions and diverse artist’s new work
+* Your impact underwrites eight new music commissions and diverse artists’ new work.
 
 </div>
 
-Ways to Give:
+**Ways to Give:**
 
 <div class="close">
 
-* Donate in honor or in memory of a special colleague, friend or family member
-* Receive donor benefits that enhance your convention experience 
-* Gifts can be made as a pledge 
-* Give via check, credit card, DAF, gift of stock, annuity and more
+* Donate in honor or in memory of a special colleague, friend or family member.
+* Receive donor benefits that enhance your convention experience.
+* Gifts can be made as a pledge.
+* Give via check, credit card, DAF, gift of stock, annuity and more.
 
 </div>
 
@@ -43,9 +43,9 @@ organization. Please see our
 {% pdf_link(href="/attachments/AGO 2024 Sponsor.pdf") %}Sponsorship Brochure{% end %}</a>.
 
 <p class="no-justify">
-Need more information? Please contact our Gifts and Grants Chair:
+Need more information? Please contact {{ contact(name="Brian Larsen") }}.
 </p>
-{% contact_card(name="Brian Larsen") %}
+{% contact_card(name="Brian Larsen", position="Gifts & Grants Chair") %}
 <a href="mailto:donate@sfago2024.org">donate@sfago2024.org</a><br>
 <a href="tel:+16504859179">650.485.9179</a>
 {% end %}
