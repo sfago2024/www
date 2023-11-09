@@ -1,8 +1,8 @@
 +++
 title = '''Diane Meredith Belcher (9:00 AM)'''
-path = '''/future/recitals/diane-meredith-belcher-9-00-am/'''
+path = '''/recitals/diane-meredith-belcher-9-00-am/'''
 template = "future.html"
-aliases = ["/future/sessions/diane-meredith-belcher-9-00-am/"]
+aliases = ["/future/recitals/diane-meredith-belcher-9-00-am/","/sessions/diane-meredith-belcher-9-00-am/","/future/sessions/diane-meredith-belcher-9-00-am/"]
 +++
 
 <h1>Diane Meredith Belcher (9:00 AM)</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/diane-meredith-belcher-9-00-am/"]
 09:00 AM – 09:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/performers/diane-meredith-belcher/">Diane Meredith Belcher</a></li>
+<li><a href="/performers/diane-meredith-belcher/">Diane Meredith Belcher</a></li>
 </ul>
 <h2>Description</h2>
 

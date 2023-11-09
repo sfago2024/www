@@ -1,8 +1,8 @@
 +++
 title = '''Jonathan Moyer'''
-path = '''/future/recitals/jonathan-moyer/'''
+path = '''/recitals/jonathan-moyer/'''
 template = "future.html"
-aliases = ["/future/sessions/jonathan-moyer/"]
+aliases = ["/future/recitals/jonathan-moyer/","/sessions/jonathan-moyer/","/future/sessions/jonathan-moyer/"]
 +++
 
 <h1>Jonathan Moyer</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/jonathan-moyer/"]
 11:30 AM – 12:15 PM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/performers/jonathan-moyer/">Jonathan Moyer</a></li>
+<li><a href="/performers/jonathan-moyer/">Jonathan Moyer</a></li>
 </ul>
 <h2>Description</h2>
 

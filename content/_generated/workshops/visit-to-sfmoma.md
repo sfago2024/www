@@ -1,8 +1,8 @@
 +++
 title = '''Visit to SFMOMA'''
-path = '''/future/workshops/visit-to-sfmoma/'''
+path = '''/workshops/visit-to-sfmoma/'''
 template = "future.html"
-aliases = ["/future/sessions/visit-to-sfmoma/"]
+aliases = ["/future/workshops/visit-to-sfmoma/","/sessions/visit-to-sfmoma/","/future/sessions/visit-to-sfmoma/"]
 +++
 
 <h1>Visit to SFMOMA</h1>

@@ -1,8 +1,8 @@
 +++
 title = '''Deliberate Practice for the Mind and Body of the Organist'''
-path = '''/future/workshops/deliberate-practice-for-the-mind-and-body-of-the-organist/'''
+path = '''/workshops/deliberate-practice-for-the-mind-and-body-of-the-organist/'''
 template = "future.html"
-aliases = ["/future/sessions/deliberate-practice-for-the-mind-and-body-of-the-organist/"]
+aliases = ["/future/workshops/deliberate-practice-for-the-mind-and-body-of-the-organist/","/sessions/deliberate-practice-for-the-mind-and-body-of-the-organist/","/future/sessions/deliberate-practice-for-the-mind-and-body-of-the-organist/"]
 +++
 
 <h1>Deliberate Practice for the Mind and Body of the Organist</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/deliberate-practice-for-the-mind-and-body-of-the-or
 11:00 AM – 11:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/katelyn-emerson/">Katelyn Emerson</a></li>
+<li><a href="/presenters/katelyn-emerson/">Katelyn Emerson</a></li>
 </ul>
 <h2>Description</h2>
 

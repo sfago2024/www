@@ -1,8 +1,8 @@
 +++
 title = '''Weicheng Zhao'''
-path = '''/future/performers/weicheng-zhao/'''
+path = '''/performers/weicheng-zhao/'''
 template = "future.html"
-aliases = ["/future/people/weicheng-zhao/"]
+aliases = ["/future/performers/weicheng-zhao/","/people/weicheng-zhao/","/future/people/weicheng-zhao/"]
 +++
 
 <h1>Weicheng Zhao</h1>

@@ -1,8 +1,8 @@
 +++
 title = '''AGO Task Force for Gender Equity'''
-path = '''/future/presenters/ago-task-force-for-gender-equity/'''
+path = '''/presenters/ago-task-force-for-gender-equity/'''
 template = "future.html"
-aliases = ["/future/people/ago-task-force-for-gender-equity/"]
+aliases = ["/future/presenters/ago-task-force-for-gender-equity/","/people/ago-task-force-for-gender-equity/","/future/people/ago-task-force-for-gender-equity/"]
 +++
 
 <h1>AGO Task Force for Gender Equity</h1>

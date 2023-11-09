@@ -1,8 +1,8 @@
 +++
 title = '''Diane Meredith Belcher'''
-path = '''/future/performers/diane-meredith-belcher/'''
+path = '''/performers/diane-meredith-belcher/'''
 template = "future.html"
-aliases = ["/future/people/diane-meredith-belcher/"]
+aliases = ["/future/performers/diane-meredith-belcher/","/people/diane-meredith-belcher/","/future/people/diane-meredith-belcher/"]
 +++
 
 <h1>Diane Meredith Belcher</h1>

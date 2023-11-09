@@ -1,8 +1,8 @@
 +++
 title = '''Mr. Skinner’s Legacy'''
-path = '''/future/workshops/mr-skinner-s-legacy/'''
+path = '''/workshops/mr-skinner-s-legacy/'''
 template = "future.html"
-aliases = ["/future/sessions/mr-skinner-s-legacy/"]
+aliases = ["/future/workshops/mr-skinner-s-legacy/","/sessions/mr-skinner-s-legacy/","/future/sessions/mr-skinner-s-legacy/"]
 +++
 
 <h1>Mr. Skinner’s Legacy</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/mr-skinner-s-legacy/"]
 10:00 AM – 10:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/jack-bethards/">Jack Bethards</a></li>
+<li><a href="/presenters/jack-bethards/">Jack Bethards</a></li>
 </ul>
 <h2>Description</h2>
 

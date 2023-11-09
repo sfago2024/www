@@ -1,8 +1,8 @@
 +++
 title = '''Meditations on the Nativity'''
-path = '''/future/workshops/meditations-on-the-nativity/'''
+path = '''/workshops/meditations-on-the-nativity/'''
 template = "future.html"
-aliases = ["/future/sessions/meditations-on-the-nativity/"]
+aliases = ["/future/workshops/meditations-on-the-nativity/","/sessions/meditations-on-the-nativity/","/future/sessions/meditations-on-the-nativity/"]
 +++
 
 <h1>Meditations on the Nativity</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/meditations-on-the-nativity/"]
 10:00 AM – 10:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/stella-o-neill/">Stella O'Neill</a></li>
+<li><a href="/presenters/stella-o-neill/">Stella O'Neill</a></li>
 </ul>
 <h2>Description</h2>
 

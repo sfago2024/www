@@ -1,8 +1,8 @@
 +++
 title = '''Wayne Leupold – Organ Reading Session'''
-path = '''/future/workshops/wayne-leupold-organ-reading-session/'''
+path = '''/workshops/wayne-leupold-organ-reading-session/'''
 template = "future.html"
-aliases = ["/future/sessions/wayne-leupold-organ-reading-session/"]
+aliases = ["/future/workshops/wayne-leupold-organ-reading-session/","/sessions/wayne-leupold-organ-reading-session/","/future/sessions/wayne-leupold-organ-reading-session/"]
 +++
 
 <h1>Wayne Leupold – Organ Reading Session</h1>

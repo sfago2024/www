@@ -1,8 +1,8 @@
 +++
 title = '''Episcopal Morning Prayer - Mary Beth Bennett'''
-path = '''/future/worship/episcopal-morning-prayer-mary-beth-bennett/'''
+path = '''/worship/episcopal-morning-prayer-mary-beth-bennett/'''
 template = "future.html"
-aliases = ["/future/sessions/episcopal-morning-prayer-mary-beth-bennett/"]
+aliases = ["/future/worship/episcopal-morning-prayer-mary-beth-bennett/","/sessions/episcopal-morning-prayer-mary-beth-bennett/","/future/sessions/episcopal-morning-prayer-mary-beth-bennett/"]
 +++
 
 <h1>Episcopal Morning Prayer - Mary Beth Bennett</h1>
@@ -12,8 +12,8 @@ aliases = ["/future/sessions/episcopal-morning-prayer-mary-beth-bennett/"]
 09:00 AM – 10:00 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/composers/david-conte/">David Conte</a></li>
-<li><a href="/future/performers/mary-beth-bennett/">Mary Beth Bennett</a></li>
+<li><a href="/composers/david-conte/">David Conte</a></li>
+<li><a href="/performers/mary-beth-bennett/">Mary Beth Bennett</a></li>
 </ul>
 <h2>Description</h2>
 

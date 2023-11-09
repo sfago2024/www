@@ -1,8 +1,8 @@
 +++
 title = '''[GROUP D] Peter Sykes (1:30 PM)'''
-path = '''/future/recitals/group-d-peter-sykes-1-30-pm/'''
+path = '''/recitals/group-d-peter-sykes-1-30-pm/'''
 template = "future.html"
-aliases = ["/future/sessions/group-d-peter-sykes-1-30-pm/"]
+aliases = ["/future/recitals/group-d-peter-sykes-1-30-pm/","/sessions/group-d-peter-sykes-1-30-pm/","/future/sessions/group-d-peter-sykes-1-30-pm/"]
 +++
 
 <h1>[GROUP D] Peter Sykes (1:30 PM)</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/group-d-peter-sykes-1-30-pm/"]
 01:30 PM – 02:15 PM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/performers/peter-sykes/">Peter Sykes</a></li>
+<li><a href="/performers/peter-sykes/">Peter Sykes</a></li>
 </ul>
 <h2>Description</h2>
 

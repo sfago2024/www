@@ -1,8 +1,8 @@
 +++
 title = '''Susan Jane Matthews'''
-path = '''/future/presenters/susan-jane-matthews/'''
+path = '''/presenters/susan-jane-matthews/'''
 template = "future.html"
-aliases = ["/future/people/susan-jane-matthews/"]
+aliases = ["/future/presenters/susan-jane-matthews/","/people/susan-jane-matthews/","/future/people/susan-jane-matthews/"]
 +++
 
 <h1>Susan Jane Matthews</h1>

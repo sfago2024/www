@@ -1,8 +1,8 @@
 +++
 title = '''Iain Farrington'''
-path = '''/future/composers/iain-farrington/'''
+path = '''/composers/iain-farrington/'''
 template = "future.html"
-aliases = ["/future/people/iain-farrington/"]
+aliases = ["/future/composers/iain-farrington/","/people/iain-farrington/","/future/people/iain-farrington/"]
 +++
 
 <h1>Iain Farrington</h1>

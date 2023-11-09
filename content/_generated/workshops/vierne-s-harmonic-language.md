@@ -1,8 +1,8 @@
 +++
 title = '''Vierne's Harmonic Language'''
-path = '''/future/workshops/vierne-s-harmonic-language/'''
+path = '''/workshops/vierne-s-harmonic-language/'''
 template = "future.html"
-aliases = ["/future/sessions/vierne-s-harmonic-language/"]
+aliases = ["/future/workshops/vierne-s-harmonic-language/","/sessions/vierne-s-harmonic-language/","/future/sessions/vierne-s-harmonic-language/"]
 +++
 
 <h1>Vierne's Harmonic Language</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/vierne-s-harmonic-language/"]
 10:00 AM – 10:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/jonathan-bezdegian/">Jonathan Bezdegian</a></li>
+<li><a href="/presenters/jonathan-bezdegian/">Jonathan Bezdegian</a></li>
 </ul>
 <h2>Description</h2>
 

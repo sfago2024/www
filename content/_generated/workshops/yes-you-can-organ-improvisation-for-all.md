@@ -1,8 +1,8 @@
 +++
 title = '''Yes, You Can: Organ Improvisation for All'''
-path = '''/future/workshops/yes-you-can-organ-improvisation-for-all/'''
+path = '''/workshops/yes-you-can-organ-improvisation-for-all/'''
 template = "future.html"
-aliases = ["/future/sessions/yes-you-can-organ-improvisation-for-all/"]
+aliases = ["/future/workshops/yes-you-can-organ-improvisation-for-all/","/sessions/yes-you-can-organ-improvisation-for-all/","/future/sessions/yes-you-can-organ-improvisation-for-all/"]
 +++
 
 <h1>Yes, You Can: Organ Improvisation for All</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/yes-you-can-organ-improvisation-for-all/"]
 03:00 PM – 03:45 PM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/jeffrey-brillhart/">Jeffrey Brillhart</a></li>
+<li><a href="/presenters/jeffrey-brillhart/">Jeffrey Brillhart</a></li>
 </ul>
 <h2>Description</h2>
 

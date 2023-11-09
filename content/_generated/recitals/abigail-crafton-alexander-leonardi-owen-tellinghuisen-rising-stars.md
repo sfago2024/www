@@ -1,8 +1,8 @@
 +++
 title = '''Abigail Crafton, Alexander Leonardi, & Owen Tellinghuisen (Rising Stars)'''
-path = '''/future/recitals/abigail-crafton-alexander-leonardi-owen-tellinghuisen-rising-stars/'''
+path = '''/recitals/abigail-crafton-alexander-leonardi-owen-tellinghuisen-rising-stars/'''
 template = "future.html"
-aliases = ["/future/sessions/abigail-crafton-alexander-leonardi-owen-tellinghuisen-rising-stars/"]
+aliases = ["/future/recitals/abigail-crafton-alexander-leonardi-owen-tellinghuisen-rising-stars/","/sessions/abigail-crafton-alexander-leonardi-owen-tellinghuisen-rising-stars/","/future/sessions/abigail-crafton-alexander-leonardi-owen-tellinghuisen-rising-stars/"]
 +++
 
 <h1>Abigail Crafton, Alexander Leonardi, & Owen Tellinghuisen (Rising Stars)</h1>
@@ -12,9 +12,9 @@ aliases = ["/future/sessions/abigail-crafton-alexander-leonardi-owen-tellinghuis
 09:00 AM – 09:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/performers/abigail-crafton/">Abigail Crafton</a></li>
-<li><a href="/future/performers/alexander-leonardi/">Alexander Leonardi</a></li>
-<li><a href="/future/performers/owen-tellinghuisen/">Owen Tellinghuisen</a></li>
+<li><a href="/performers/abigail-crafton/">Abigail Crafton</a></li>
+<li><a href="/performers/alexander-leonardi/">Alexander Leonardi</a></li>
+<li><a href="/performers/owen-tellinghuisen/">Owen Tellinghuisen</a></li>
 </ul>
 <h2>Description</h2>
 

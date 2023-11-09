@@ -1,8 +1,8 @@
 +++
 title = '''Rashaan Rori Allwood'''
-path = '''/future/performers/rashaan-rori-allwood/'''
+path = '''/performers/rashaan-rori-allwood/'''
 template = "future.html"
-aliases = ["/future/people/rashaan-rori-allwood/"]
+aliases = ["/future/performers/rashaan-rori-allwood/","/people/rashaan-rori-allwood/","/future/people/rashaan-rori-allwood/"]
 +++
 
 <h1>Rashaan Rori Allwood</h1>

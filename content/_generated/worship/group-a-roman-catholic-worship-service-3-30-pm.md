@@ -1,8 +1,8 @@
 +++
 title = '''[GROUP A] Roman Catholic Worship Service (3:30 PM)'''
-path = '''/future/worship/group-a-roman-catholic-worship-service-3-30-pm/'''
+path = '''/worship/group-a-roman-catholic-worship-service-3-30-pm/'''
 template = "future.html"
-aliases = ["/future/sessions/group-a-roman-catholic-worship-service-3-30-pm/"]
+aliases = ["/future/worship/group-a-roman-catholic-worship-service-3-30-pm/","/sessions/group-a-roman-catholic-worship-service-3-30-pm/","/future/sessions/group-a-roman-catholic-worship-service-3-30-pm/"]
 +++
 
 <h1>[GROUP A] Roman Catholic Worship Service (3:30 PM)</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/group-a-roman-catholic-worship-service-3-30-pm/"]
 03:30 PM – 04:15 PM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/performers/jennifer-pascual/">Jennifer Pascual</a></li>
+<li><a href="/performers/jennifer-pascual/">Jennifer Pascual</a></li>
 </ul>
 <h2>Description</h2>
 

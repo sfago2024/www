@@ -1,8 +1,8 @@
 +++
 title = '''How the West Was Won: The Impact of Railroad Tourism on Organ Culture'''
-path = '''/future/workshops/how-the-west-was-won-the-impact-of-railroad-tourism-on-organ-culture/'''
+path = '''/workshops/how-the-west-was-won-the-impact-of-railroad-tourism-on-organ-culture/'''
 template = "future.html"
-aliases = ["/future/sessions/how-the-west-was-won-the-impact-of-railroad-tourism-on-organ-culture/"]
+aliases = ["/future/workshops/how-the-west-was-won-the-impact-of-railroad-tourism-on-organ-culture/","/sessions/how-the-west-was-won-the-impact-of-railroad-tourism-on-organ-culture/","/future/sessions/how-the-west-was-won-the-impact-of-railroad-tourism-on-organ-culture/"]
 +++
 
 <h1>How the West Was Won: The Impact of Railroad Tourism on Organ Culture</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/how-the-west-was-won-the-impact-of-railroad-tourism
 11:00 AM – 11:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/valerie-harris/">Valerie Harris</a></li>
+<li><a href="/presenters/valerie-harris/">Valerie Harris</a></li>
 </ul>
 <h2>Description</h2>
 

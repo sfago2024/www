@@ -1,8 +1,8 @@
 +++
 title = '''Texu Kim'''
-path = '''/future/composers/texu-kim/'''
+path = '''/composers/texu-kim/'''
 template = "future.html"
-aliases = ["/future/people/texu-kim/"]
+aliases = ["/future/composers/texu-kim/","/people/texu-kim/","/future/people/texu-kim/"]
 +++
 
 <h1>Texu Kim</h1>

@@ -1,8 +1,8 @@
 +++
 title = '''Music for a While: Injury Prevention for Organists of All Ages'''
-path = '''/future/workshops/music-for-a-while-injury-prevention-for-organists-of-all-ages/'''
+path = '''/workshops/music-for-a-while-injury-prevention-for-organists-of-all-ages/'''
 template = "future.html"
-aliases = ["/future/sessions/music-for-a-while-injury-prevention-for-organists-of-all-ages/"]
+aliases = ["/future/workshops/music-for-a-while-injury-prevention-for-organists-of-all-ages/","/sessions/music-for-a-while-injury-prevention-for-organists-of-all-ages/","/future/sessions/music-for-a-while-injury-prevention-for-organists-of-all-ages/"]
 +++
 
 <h1>Music for a While: Injury Prevention for Organists of All Ages</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/music-for-a-while-injury-prevention-for-organists-o
 11:00 AM – 11:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/katelyn-emerson/">Katelyn Emerson</a></li>
+<li><a href="/presenters/katelyn-emerson/">Katelyn Emerson</a></li>
 </ul>
 <h2>Description</h2>
 

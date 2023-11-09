@@ -1,8 +1,8 @@
 +++
 title = '''Organ Music of African American Women Composers'''
-path = '''/future/workshops/organ-music-of-african-american-women-composers/'''
+path = '''/workshops/organ-music-of-african-american-women-composers/'''
 template = "future.html"
-aliases = ["/future/sessions/organ-music-of-african-american-women-composers/"]
+aliases = ["/future/workshops/organ-music-of-african-american-women-composers/","/sessions/organ-music-of-african-american-women-composers/","/future/sessions/organ-music-of-african-american-women-composers/"]
 +++
 
 <h1>Organ Music of African American Women Composers</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/organ-music-of-african-american-women-composers/"]
 11:00 AM – 11:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/paul-byssainthe-jr/">Paul Byssainthe, Jr.</a></li>
+<li><a href="/presenters/paul-byssainthe-jr/">Paul Byssainthe, Jr.</a></li>
 </ul>
 <h2>Description</h2>
 

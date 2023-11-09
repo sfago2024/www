@@ -1,8 +1,8 @@
 +++
 title = '''AGO Regional Meeting – Northeast'''
-path = '''/future/sessions/ago-regional-meeting-northeast/'''
+path = '''/sessions/ago-regional-meeting-northeast/'''
 template = "future.html"
-aliases = []
+aliases = ["/future/sessions/ago-regional-meeting-northeast/"]
 +++
 
 <h1>AGO Regional Meeting – Northeast</h1>

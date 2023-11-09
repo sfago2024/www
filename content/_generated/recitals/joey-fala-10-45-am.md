@@ -1,8 +1,8 @@
 +++
 title = '''Joey Fala (10:45 AM)'''
-path = '''/future/recitals/joey-fala-10-45-am/'''
+path = '''/recitals/joey-fala-10-45-am/'''
 template = "future.html"
-aliases = ["/future/sessions/joey-fala-10-45-am/"]
+aliases = ["/future/recitals/joey-fala-10-45-am/","/sessions/joey-fala-10-45-am/","/future/sessions/joey-fala-10-45-am/"]
 +++
 
 <h1>Joey Fala (10:45 AM)</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/joey-fala-10-45-am/"]
 10:45 AM – 11:30 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/performers/joey-fala/">Joey Fala</a></li>
+<li><a href="/performers/joey-fala/">Joey Fala</a></li>
 </ul>
 <h2>Description</h2>
 

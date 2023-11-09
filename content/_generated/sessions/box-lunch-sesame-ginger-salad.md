@@ -1,8 +1,8 @@
 +++
 title = '''Box Lunch – Sesame Ginger Salad'''
-path = '''/future/sessions/box-lunch-sesame-ginger-salad/'''
+path = '''/sessions/box-lunch-sesame-ginger-salad/'''
 template = "future.html"
-aliases = []
+aliases = ["/future/sessions/box-lunch-sesame-ginger-salad/"]
 +++
 
 <h1>Box Lunch – Sesame Ginger Salad</h1>

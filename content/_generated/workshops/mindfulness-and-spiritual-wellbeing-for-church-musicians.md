@@ -1,8 +1,8 @@
 +++
 title = '''Mindfulness and Spiritual Wellbeing for Church Musicians'''
-path = '''/future/workshops/mindfulness-and-spiritual-wellbeing-for-church-musicians/'''
+path = '''/workshops/mindfulness-and-spiritual-wellbeing-for-church-musicians/'''
 template = "future.html"
-aliases = ["/future/sessions/mindfulness-and-spiritual-wellbeing-for-church-musicians/"]
+aliases = ["/future/workshops/mindfulness-and-spiritual-wellbeing-for-church-musicians/","/sessions/mindfulness-and-spiritual-wellbeing-for-church-musicians/","/future/sessions/mindfulness-and-spiritual-wellbeing-for-church-musicians/"]
 +++
 
 <h1>Mindfulness and Spiritual Wellbeing for Church Musicians</h1>
@@ -12,8 +12,8 @@ aliases = ["/future/sessions/mindfulness-and-spiritual-wellbeing-for-church-musi
 11:00 AM – 11:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/laura-bottei/">Laura Bottei</a></li>
-<li><a href="/future/presenters/jason-steiner/">Jason Steiner</a></li>
+<li><a href="/presenters/laura-bottei/">Laura Bottei</a></li>
+<li><a href="/presenters/jason-steiner/">Jason Steiner</a></li>
 </ul>
 <h2>Description</h2>
 

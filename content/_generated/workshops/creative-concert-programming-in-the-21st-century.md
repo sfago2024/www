@@ -1,8 +1,8 @@
 +++
 title = '''Creative Concert Programming in the 21st Century'''
-path = '''/future/workshops/creative-concert-programming-in-the-21st-century/'''
+path = '''/workshops/creative-concert-programming-in-the-21st-century/'''
 template = "future.html"
-aliases = ["/future/sessions/creative-concert-programming-in-the-21st-century/"]
+aliases = ["/future/workshops/creative-concert-programming-in-the-21st-century/","/sessions/creative-concert-programming-in-the-21st-century/","/future/sessions/creative-concert-programming-in-the-21st-century/"]
 +++
 
 <h1>Creative Concert Programming in the 21st Century</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/creative-concert-programming-in-the-21st-century/"]
 11:00 AM – 11:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/maria-gajraj/">Maria Gajraj</a></li>
+<li><a href="/presenters/maria-gajraj/">Maria Gajraj</a></li>
 </ul>
 <h2>Description</h2>
 

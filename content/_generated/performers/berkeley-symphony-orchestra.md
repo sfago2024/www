@@ -1,8 +1,8 @@
 +++
 title = '''Berkeley Symphony Orchestra'''
-path = '''/future/performers/berkeley-symphony-orchestra/'''
+path = '''/performers/berkeley-symphony-orchestra/'''
 template = "future.html"
-aliases = ["/future/people/berkeley-symphony-orchestra/"]
+aliases = ["/future/performers/berkeley-symphony-orchestra/","/people/berkeley-symphony-orchestra/","/future/people/berkeley-symphony-orchestra/"]
 +++
 
 <h1>Berkeley Symphony Orchestra</h1>

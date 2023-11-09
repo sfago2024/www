@@ -1,8 +1,8 @@
 +++
 title = '''David Conte'''
-path = '''/future/composers/david-conte/'''
+path = '''/composers/david-conte/'''
 template = "future.html"
-aliases = ["/future/people/david-conte/"]
+aliases = ["/future/composers/david-conte/","/people/david-conte/","/future/people/david-conte/"]
 +++
 
 <h1>David Conte</h1>

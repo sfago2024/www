@@ -1,8 +1,8 @@
 +++
 title = '''Monica Czausz Berney'''
-path = '''/future/performers/monica-czausz-berney/'''
+path = '''/performers/monica-czausz-berney/'''
 template = "future.html"
-aliases = ["/future/people/monica-czausz-berney/"]
+aliases = ["/future/performers/monica-czausz-berney/","/people/monica-czausz-berney/","/future/people/monica-czausz-berney/"]
 +++
 
 <h1>Monica Czausz Berney</h1>

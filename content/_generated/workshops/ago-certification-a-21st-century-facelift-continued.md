@@ -1,8 +1,8 @@
 +++
 title = '''AGO Certification: A 21st-Century Facelift Continued'''
-path = '''/future/workshops/ago-certification-a-21st-century-facelift-continued/'''
+path = '''/workshops/ago-certification-a-21st-century-facelift-continued/'''
 template = "future.html"
-aliases = ["/future/sessions/ago-certification-a-21st-century-facelift-continued/"]
+aliases = ["/future/workshops/ago-certification-a-21st-century-facelift-continued/","/sessions/ago-certification-a-21st-century-facelift-continued/","/future/sessions/ago-certification-a-21st-century-facelift-continued/"]
 +++
 
 <h1>AGO Certification: A 21st-Century Facelift Continued</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/ago-certification-a-21st-century-facelift-continued
 10:00 AM – 10:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/vincent-carr/">Vincent Carr</a></li>
+<li><a href="/presenters/vincent-carr/">Vincent Carr</a></li>
 </ul>
 <h2>Description</h2>
 

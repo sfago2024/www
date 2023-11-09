@@ -1,8 +1,8 @@
 +++
 title = '''“The Rest of the Story…”'''
-path = '''/future/workshops/the-rest-of-the-story/'''
+path = '''/workshops/the-rest-of-the-story/'''
 template = "future.html"
-aliases = ["/future/sessions/the-rest-of-the-story/"]
+aliases = ["/future/workshops/the-rest-of-the-story/","/sessions/the-rest-of-the-story/","/future/sessions/the-rest-of-the-story/"]
 +++
 
 <h1>“The Rest of the Story…”</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/the-rest-of-the-story/"]
 02:00 PM – 02:45 PM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/performers/faythe-freese/">Faythe Freese</a></li>
+<li><a href="/performers/faythe-freese/">Faythe Freese</a></li>
 </ul>
 <h2>Description</h2>
 

@@ -1,8 +1,8 @@
 +++
 title = '''ECS — Choral Reading Session'''
-path = '''/future/workshops/ecs-choral-reading-session/'''
+path = '''/workshops/ecs-choral-reading-session/'''
 template = "future.html"
-aliases = ["/future/sessions/ecs-choral-reading-session/"]
+aliases = ["/future/workshops/ecs-choral-reading-session/","/sessions/ecs-choral-reading-session/","/future/sessions/ecs-choral-reading-session/"]
 +++
 
 <h1>ECS — Choral Reading Session</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/ecs-choral-reading-session/"]
 10:00 AM – 10:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/mark-lawson/">Mark Lawson</a></li>
+<li><a href="/presenters/mark-lawson/">Mark Lawson</a></li>
 </ul>
 <h2>Description</h2>
 

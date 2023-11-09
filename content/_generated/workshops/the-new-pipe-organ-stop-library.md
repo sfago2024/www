@@ -1,8 +1,8 @@
 +++
 title = '''The New Pipe Organ Stop Library'''
-path = '''/future/workshops/the-new-pipe-organ-stop-library/'''
+path = '''/workshops/the-new-pipe-organ-stop-library/'''
 template = "future.html"
-aliases = ["/future/sessions/the-new-pipe-organ-stop-library/"]
+aliases = ["/future/workshops/the-new-pipe-organ-stop-library/","/sessions/the-new-pipe-organ-stop-library/","/future/sessions/the-new-pipe-organ-stop-library/"]
 +++
 
 <h1>The New Pipe Organ Stop Library</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/the-new-pipe-organ-stop-library/"]
 11:00 AM – 11:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/don-cook/">Don Cook</a></li>
+<li><a href="/presenters/don-cook/">Don Cook</a></li>
 </ul>
 <h2>Description</h2>
 

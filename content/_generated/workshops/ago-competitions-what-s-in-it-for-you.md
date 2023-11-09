@@ -1,8 +1,8 @@
 +++
 title = '''AGO Competitions: What’s In It For You?'''
-path = '''/future/workshops/ago-competitions-what-s-in-it-for-you/'''
+path = '''/workshops/ago-competitions-what-s-in-it-for-you/'''
 template = "future.html"
-aliases = ["/future/sessions/ago-competitions-what-s-in-it-for-you/"]
+aliases = ["/future/workshops/ago-competitions-what-s-in-it-for-you/","/sessions/ago-competitions-what-s-in-it-for-you/","/future/sessions/ago-competitions-what-s-in-it-for-you/"]
 +++
 
 <h1>AGO Competitions: What’s In It For You?</h1>
@@ -12,8 +12,8 @@ aliases = ["/future/sessions/ago-competitions-what-s-in-it-for-you/"]
 09:00 AM – 09:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/molly-davey/">Molly Davey</a></li>
-<li><a href="/future/presenters/jonathan-ryan/">Jonathan Ryan</a></li>
+<li><a href="/presenters/molly-davey/">Molly Davey</a></li>
+<li><a href="/presenters/jonathan-ryan/">Jonathan Ryan</a></li>
 </ul>
 <h2>Description</h2>
 

@@ -1,8 +1,8 @@
 +++
 title = '''AGOYO Dinner & Reception'''
-path = '''/future/sessions/agoyo-dinner-reception/'''
+path = '''/sessions/agoyo-dinner-reception/'''
 template = "future.html"
-aliases = []
+aliases = ["/future/sessions/agoyo-dinner-reception/"]
 +++
 
 <h1>AGOYO Dinner & Reception</h1>

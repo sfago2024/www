@@ -1,8 +1,8 @@
 +++
 title = '''“To Please and to Astonish”: Creative Programming'''
-path = '''/future/workshops/to-please-and-to-astonish-creative-programming/'''
+path = '''/workshops/to-please-and-to-astonish-creative-programming/'''
 template = "future.html"
-aliases = ["/future/sessions/to-please-and-to-astonish-creative-programming/"]
+aliases = ["/future/workshops/to-please-and-to-astonish-creative-programming/","/sessions/to-please-and-to-astonish-creative-programming/","/future/sessions/to-please-and-to-astonish-creative-programming/"]
 +++
 
 <h1>“To Please and to Astonish”: Creative Programming</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/to-please-and-to-astonish-creative-programming/"]
 09:00 AM – 09:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/performers/kimberly-marshall/">Kimberly Marshall</a></li>
+<li><a href="/performers/kimberly-marshall/">Kimberly Marshall</a></li>
 </ul>
 <h2>Description</h2>
 

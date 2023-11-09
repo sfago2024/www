@@ -1,8 +1,8 @@
 +++
 title = '''James Kealey & Robert Horton (2022 NCOI & NYACOP Winners)'''
-path = '''/future/recitals/james-kealey-robert-horton-2022-ncoi-nyacop-winners/'''
+path = '''/recitals/james-kealey-robert-horton-2022-ncoi-nyacop-winners/'''
 template = "future.html"
-aliases = ["/future/sessions/james-kealey-robert-horton-2022-ncoi-nyacop-winners/"]
+aliases = ["/future/recitals/james-kealey-robert-horton-2022-ncoi-nyacop-winners/","/sessions/james-kealey-robert-horton-2022-ncoi-nyacop-winners/","/future/sessions/james-kealey-robert-horton-2022-ncoi-nyacop-winners/"]
 +++
 
 <h1>James Kealey & Robert Horton (2022 NCOI & NYACOP Winners)</h1>
@@ -12,9 +12,9 @@ aliases = ["/future/sessions/james-kealey-robert-horton-2022-ncoi-nyacop-winners
 09:30 AM – 11:15 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/performers/james-kealey/">James Kealey</a></li>
-<li><a href="/future/performers/robert-horton/">Robert Horton</a></li>
-<li><a href="/future/composers/iain-farrington/">Iain Farrington</a></li>
+<li><a href="/performers/james-kealey/">James Kealey</a></li>
+<li><a href="/performers/robert-horton/">Robert Horton</a></li>
+<li><a href="/composers/iain-farrington/">Iain Farrington</a></li>
 </ul>
 <h2>Description</h2>
 

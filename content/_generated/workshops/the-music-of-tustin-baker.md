@@ -1,8 +1,8 @@
 +++
 title = '''The Music of Tustin Baker'''
-path = '''/future/workshops/the-music-of-tustin-baker/'''
+path = '''/workshops/the-music-of-tustin-baker/'''
 template = "future.html"
-aliases = ["/future/sessions/the-music-of-tustin-baker/"]
+aliases = ["/future/workshops/the-music-of-tustin-baker/","/sessions/the-music-of-tustin-baker/","/future/sessions/the-music-of-tustin-baker/"]
 +++
 
 <h1>The Music of Tustin Baker</h1>
@@ -12,6 +12,6 @@ aliases = ["/future/sessions/the-music-of-tustin-baker/"]
 03:00 PM – 03:45 PM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/jeremy-filsell/">Jeremy Filsell</a></li>
+<li><a href="/presenters/jeremy-filsell/">Jeremy Filsell</a></li>
 </ul>
 

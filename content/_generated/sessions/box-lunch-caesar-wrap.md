@@ -1,8 +1,8 @@
 +++
 title = '''Box Lunch – Caesar Wrap'''
-path = '''/future/sessions/box-lunch-caesar-wrap/'''
+path = '''/sessions/box-lunch-caesar-wrap/'''
 template = "future.html"
-aliases = []
+aliases = ["/future/sessions/box-lunch-caesar-wrap/"]
 +++
 
 <h1>Box Lunch – Caesar Wrap</h1>

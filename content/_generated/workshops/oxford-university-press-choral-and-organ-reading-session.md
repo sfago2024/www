@@ -1,8 +1,8 @@
 +++
 title = '''Oxford University Press – Choral and Organ Reading Session'''
-path = '''/future/workshops/oxford-university-press-choral-and-organ-reading-session/'''
+path = '''/workshops/oxford-university-press-choral-and-organ-reading-session/'''
 template = "future.html"
-aliases = ["/future/sessions/oxford-university-press-choral-and-organ-reading-session/"]
+aliases = ["/future/workshops/oxford-university-press-choral-and-organ-reading-session/","/sessions/oxford-university-press-choral-and-organ-reading-session/","/future/sessions/oxford-university-press-choral-and-organ-reading-session/"]
 +++
 
 <h1>Oxford University Press – Choral and Organ Reading Session</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/oxford-university-press-choral-and-organ-reading-se
 09:00 AM – 09:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/jeremy-edelstein/">Jeremy Edelstein</a></li>
+<li><a href="/presenters/jeremy-edelstein/">Jeremy Edelstein</a></li>
 </ul>
 <h2>Description</h2>
 

@@ -1,8 +1,8 @@
 +++
 title = '''The Dynamics of Making Great Wine and Great Chapter Leaders'''
-path = '''/future/workshops/the-dynamics-of-making-great-wine-and-great-chapter-leaders/'''
+path = '''/workshops/the-dynamics-of-making-great-wine-and-great-chapter-leaders/'''
 template = "future.html"
-aliases = ["/future/sessions/the-dynamics-of-making-great-wine-and-great-chapter-leaders/"]
+aliases = ["/future/workshops/the-dynamics-of-making-great-wine-and-great-chapter-leaders/","/sessions/the-dynamics-of-making-great-wine-and-great-chapter-leaders/","/future/sessions/the-dynamics-of-making-great-wine-and-great-chapter-leaders/"]
 +++
 
 <h1>The Dynamics of Making Great Wine and Great Chapter Leaders</h1>
@@ -12,8 +12,8 @@ aliases = ["/future/sessions/the-dynamics-of-making-great-wine-and-great-chapter
 11:00 AM – 11:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/david-vogels/">David Vogels</a></li>
-<li><a href="/future/presenters/elizabeth-george/">Elizabeth George</a></li>
+<li><a href="/presenters/david-vogels/">David Vogels</a></li>
+<li><a href="/presenters/elizabeth-george/">Elizabeth George</a></li>
 </ul>
 <h2>Description</h2>
 

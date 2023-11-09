@@ -1,8 +1,8 @@
 +++
 title = '''You Can't Say That to Me!'''
-path = '''/future/workshops/you-can-t-say-that-to-me/'''
+path = '''/workshops/you-can-t-say-that-to-me/'''
 template = "future.html"
-aliases = ["/future/sessions/you-can-t-say-that-to-me/"]
+aliases = ["/future/workshops/you-can-t-say-that-to-me/","/sessions/you-can-t-say-that-to-me/","/future/sessions/you-can-t-say-that-to-me/"]
 +++
 
 <h1>You Can't Say That to Me!</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/you-can-t-say-that-to-me/"]
 03:00 PM – 03:45 PM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/vicki-j-schaeffer/">Vicki J. Schaeffer</a></li>
+<li><a href="/presenters/vicki-j-schaeffer/">Vicki J. Schaeffer</a></li>
 </ul>
 <h2>Description</h2>
 

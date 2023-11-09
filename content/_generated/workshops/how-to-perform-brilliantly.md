@@ -1,8 +1,8 @@
 +++
 title = '''How to Perform Brilliantly'''
-path = '''/future/workshops/how-to-perform-brilliantly/'''
+path = '''/workshops/how-to-perform-brilliantly/'''
 template = "future.html"
-aliases = ["/future/sessions/how-to-perform-brilliantly/"]
+aliases = ["/future/workshops/how-to-perform-brilliantly/","/sessions/how-to-perform-brilliantly/","/future/sessions/how-to-perform-brilliantly/"]
 +++
 
 <h1>How to Perform Brilliantly</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/how-to-perform-brilliantly/"]
 10:00 AM – 10:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/anne-marsden-thomas/">Anne Marsden Thomas</a></li>
+<li><a href="/presenters/anne-marsden-thomas/">Anne Marsden Thomas</a></li>
 </ul>
 <h2>Description</h2>
 

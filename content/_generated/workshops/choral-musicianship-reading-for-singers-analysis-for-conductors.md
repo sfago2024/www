@@ -1,8 +1,8 @@
 +++
 title = '''Choral Musicianship: Reading for Singers; Analysis for Conductors'''
-path = '''/future/workshops/choral-musicianship-reading-for-singers-analysis-for-conductors/'''
+path = '''/workshops/choral-musicianship-reading-for-singers-analysis-for-conductors/'''
 template = "future.html"
-aliases = ["/future/sessions/choral-musicianship-reading-for-singers-analysis-for-conductors/"]
+aliases = ["/future/workshops/choral-musicianship-reading-for-singers-analysis-for-conductors/","/sessions/choral-musicianship-reading-for-singers-analysis-for-conductors/","/future/sessions/choral-musicianship-reading-for-singers-analysis-for-conductors/"]
 +++
 
 <h1>Choral Musicianship: Reading for Singers; Analysis for Conductors</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/choral-musicianship-reading-for-singers-analysis-fo
 09:00 AM – 10:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/composers/david-conte/">David Conte</a></li>
+<li><a href="/composers/david-conte/">David Conte</a></li>
 </ul>
 <h2>Description</h2>
 

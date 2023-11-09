@@ -1,8 +1,8 @@
 +++
 title = '''Body Awareness 101: Part 1'''
-path = '''/future/workshops/body-awareness-101-part-1/'''
+path = '''/workshops/body-awareness-101-part-1/'''
 template = "future.html"
-aliases = ["/future/sessions/body-awareness-101-part-1/"]
+aliases = ["/future/workshops/body-awareness-101-part-1/","/sessions/body-awareness-101-part-1/","/future/sessions/body-awareness-101-part-1/"]
 +++
 
 <h1>Body Awareness 101: Part 1</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/body-awareness-101-part-1/"]
 07:30 AM – 08:15 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/madeline-miskie/">Madeline Miskie</a></li>
+<li><a href="/presenters/madeline-miskie/">Madeline Miskie</a></li>
 </ul>
 <h2>Description</h2>
 

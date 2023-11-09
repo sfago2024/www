@@ -1,8 +1,8 @@
 +++
 title = '''Young Organist Presenters'''
-path = '''/future/presenters/young-organist-presenters/'''
+path = '''/presenters/young-organist-presenters/'''
 template = "future.html"
-aliases = ["/future/people/young-organist-presenters/"]
+aliases = ["/future/presenters/young-organist-presenters/","/people/young-organist-presenters/","/future/people/young-organist-presenters/"]
 +++
 
 <h1>Young Organist Presenters</h1>

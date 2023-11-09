@@ -1,8 +1,8 @@
 +++
 title = '''Árpád Magyar'''
-path = '''/future/presenters/árpád-magyar/'''
+path = '''/presenters/árpád-magyar/'''
 template = "future.html"
-aliases = ["/future/people/árpád-magyar/"]
+aliases = ["/future/presenters/árpád-magyar/","/people/árpád-magyar/","/future/people/árpád-magyar/"]
 +++
 
 <h1>Árpád Magyar</h1>

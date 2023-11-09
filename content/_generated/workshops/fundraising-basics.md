@@ -1,8 +1,8 @@
 +++
 title = '''Fundraising Basics'''
-path = '''/future/workshops/fundraising-basics/'''
+path = '''/workshops/fundraising-basics/'''
 template = "future.html"
-aliases = ["/future/sessions/fundraising-basics/"]
+aliases = ["/future/workshops/fundraising-basics/","/sessions/fundraising-basics/","/future/sessions/fundraising-basics/"]
 +++
 
 <h1>Fundraising Basics</h1>
@@ -12,8 +12,8 @@ aliases = ["/future/sessions/fundraising-basics/"]
 11:00 AM – 11:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/f-anthony-thurman/">F. Anthony Thurman</a></li>
-<li><a href="/future/presenters/john-s-dixon/">John S. Dixon</a></li>
+<li><a href="/presenters/f-anthony-thurman/">F. Anthony Thurman</a></li>
+<li><a href="/presenters/john-s-dixon/">John S. Dixon</a></li>
 </ul>
 <h2>Description</h2>
 

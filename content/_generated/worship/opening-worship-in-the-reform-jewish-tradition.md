@@ -1,8 +1,8 @@
 +++
 title = '''Opening Worship in the Reform Jewish Tradition'''
-path = '''/future/worship/opening-worship-in-the-reform-jewish-tradition/'''
+path = '''/worship/opening-worship-in-the-reform-jewish-tradition/'''
 template = "future.html"
-aliases = ["/future/sessions/opening-worship-in-the-reform-jewish-tradition/"]
+aliases = ["/future/worship/opening-worship-in-the-reform-jewish-tradition/","/sessions/opening-worship-in-the-reform-jewish-tradition/","/future/sessions/opening-worship-in-the-reform-jewish-tradition/"]
 +++
 
 <h1>Opening Worship in the Reform Jewish Tradition</h1>
@@ -12,9 +12,9 @@ aliases = ["/future/sessions/opening-worship-in-the-reform-jewish-tradition/"]
 07:00 PM – 09:00 PM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/composers/melissa-dunphy/">Melissa Dunphy</a></li>
-<li><a href="/future/performers/sara-lemesh/">Sara LeMesh</a></li>
-<li><a href="/future/performers/david-higgs/">David Higgs</a></li>
+<li><a href="/composers/melissa-dunphy/">Melissa Dunphy</a></li>
+<li><a href="/performers/sara-lemesh/">Sara LeMesh</a></li>
+<li><a href="/performers/david-higgs/">David Higgs</a></li>
 </ul>
 <h2>Description</h2>
 

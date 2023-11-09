@@ -1,8 +1,8 @@
 +++
 title = '''WIIFM — What’s in it for Me? How to Influence Prospects to Become Members'''
-path = '''/future/workshops/wiifm-what-s-in-it-for-me-how-to-influence-prospects-to-become-members/'''
+path = '''/workshops/wiifm-what-s-in-it-for-me-how-to-influence-prospects-to-become-members/'''
 template = "future.html"
-aliases = ["/future/sessions/wiifm-what-s-in-it-for-me-how-to-influence-prospects-to-become-members/"]
+aliases = ["/future/workshops/wiifm-what-s-in-it-for-me-how-to-influence-prospects-to-become-members/","/sessions/wiifm-what-s-in-it-for-me-how-to-influence-prospects-to-become-members/","/future/sessions/wiifm-what-s-in-it-for-me-how-to-influence-prospects-to-become-members/"]
 +++
 
 <h1>WIIFM — What’s in it for Me? How to Influence Prospects to Become Members</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/wiifm-what-s-in-it-for-me-how-to-influence-prospect
 02:00 PM – 02:45 PM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/elizabeth-george/">Elizabeth George</a></li>
+<li><a href="/presenters/elizabeth-george/">Elizabeth George</a></li>
 </ul>
 <h2>Description</h2>
 

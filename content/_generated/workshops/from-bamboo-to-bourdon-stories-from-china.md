@@ -1,8 +1,8 @@
 +++
 title = '''From Bamboo to Bourdon: Stories from China'''
-path = '''/future/workshops/from-bamboo-to-bourdon-stories-from-china/'''
+path = '''/workshops/from-bamboo-to-bourdon-stories-from-china/'''
 template = "future.html"
-aliases = ["/future/sessions/from-bamboo-to-bourdon-stories-from-china/"]
+aliases = ["/future/workshops/from-bamboo-to-bourdon-stories-from-china/","/sessions/from-bamboo-to-bourdon-stories-from-china/","/future/sessions/from-bamboo-to-bourdon-stories-from-china/"]
 +++
 
 <h1>From Bamboo to Bourdon: Stories from China</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/from-bamboo-to-bourdon-stories-from-china/"]
 09:00 AM – 09:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/renee-chiu-gastelum/">Renee Chiu Gastelum</a></li>
+<li><a href="/presenters/renee-chiu-gastelum/">Renee Chiu Gastelum</a></li>
 </ul>
 <h2>Description</h2>
 

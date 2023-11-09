@@ -1,8 +1,8 @@
 +++
 title = '''“New” Organ Chorales in the Schübler Tradition'''
-path = '''/future/workshops/new-organ-chorales-in-the-schübler-tradition/'''
+path = '''/workshops/new-organ-chorales-in-the-schübler-tradition/'''
 template = "future.html"
-aliases = ["/future/sessions/new-organ-chorales-in-the-schübler-tradition/"]
+aliases = ["/future/workshops/new-organ-chorales-in-the-schübler-tradition/","/sessions/new-organ-chorales-in-the-schübler-tradition/","/future/sessions/new-organ-chorales-in-the-schübler-tradition/"]
 +++
 
 <h1>“New” Organ Chorales in the Schübler Tradition</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/new-organ-chorales-in-the-schübler-tradition/"]
 09:00 AM – 09:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/marilyn-perkins-biery/">Marilyn Perkins Biery</a></li>
+<li><a href="/presenters/marilyn-perkins-biery/">Marilyn Perkins Biery</a></li>
 </ul>
 <h2>Description</h2>
 

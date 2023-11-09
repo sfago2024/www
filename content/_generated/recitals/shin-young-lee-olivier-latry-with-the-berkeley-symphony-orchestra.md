@@ -1,8 +1,8 @@
 +++
 title = '''Shin-Young Lee & Olivier Latry with the Berkeley Symphony Orchestra'''
-path = '''/future/recitals/shin-young-lee-olivier-latry-with-the-berkeley-symphony-orchestra/'''
+path = '''/recitals/shin-young-lee-olivier-latry-with-the-berkeley-symphony-orchestra/'''
 template = "future.html"
-aliases = ["/future/sessions/shin-young-lee-olivier-latry-with-the-berkeley-symphony-orchestra/"]
+aliases = ["/future/recitals/shin-young-lee-olivier-latry-with-the-berkeley-symphony-orchestra/","/sessions/shin-young-lee-olivier-latry-with-the-berkeley-symphony-orchestra/","/future/sessions/shin-young-lee-olivier-latry-with-the-berkeley-symphony-orchestra/"]
 +++
 
 <h1>Shin-Young Lee & Olivier Latry with the Berkeley Symphony Orchestra</h1>
@@ -12,10 +12,10 @@ aliases = ["/future/sessions/shin-young-lee-olivier-latry-with-the-berkeley-symp
 08:00 PM – 09:30 PM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/performers/olivier-latry/">Olivier Latry</a></li>
-<li><a href="/future/performers/shin-young-lee/">Shin-Young Lee</a></li>
-<li><a href="/future/performers/berkeley-symphony-orchestra/">Berkeley Symphony Orchestra</a></li>
-<li><a href="/future/people/joseph-young/">Joseph Young</a></li>
+<li><a href="/performers/olivier-latry/">Olivier Latry</a></li>
+<li><a href="/performers/shin-young-lee/">Shin-Young Lee</a></li>
+<li><a href="/performers/berkeley-symphony-orchestra/">Berkeley Symphony Orchestra</a></li>
+<li><a href="/people/joseph-young/">Joseph Young</a></li>
 </ul>
 <h2>Description</h2>
 

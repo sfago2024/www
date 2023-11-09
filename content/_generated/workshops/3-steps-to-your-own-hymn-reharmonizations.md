@@ -1,8 +1,8 @@
 +++
 title = '''3 Steps to Your Own Hymn Reharmonizations'''
-path = '''/future/workshops/3-steps-to-your-own-hymn-reharmonizations/'''
+path = '''/workshops/3-steps-to-your-own-hymn-reharmonizations/'''
 template = "future.html"
-aliases = ["/future/sessions/3-steps-to-your-own-hymn-reharmonizations/"]
+aliases = ["/future/workshops/3-steps-to-your-own-hymn-reharmonizations/","/sessions/3-steps-to-your-own-hymn-reharmonizations/","/future/sessions/3-steps-to-your-own-hymn-reharmonizations/"]
 +++
 
 <h1>3 Steps to Your Own Hymn Reharmonizations</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/3-steps-to-your-own-hymn-reharmonizations/"]
 11:00 AM – 11:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/timothy-howard/">Timothy Howard</a></li>
+<li><a href="/presenters/timothy-howard/">Timothy Howard</a></li>
 </ul>
 <h2>Description</h2>
 

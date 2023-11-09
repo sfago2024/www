@@ -1,8 +1,8 @@
 +++
 title = '''Befriending the Butterflies: Techniques for Embracing Performance Anxiety'''
-path = '''/future/workshops/befriending-the-butterflies-techniques-for-embracing-performance-anxiety/'''
+path = '''/workshops/befriending-the-butterflies-techniques-for-embracing-performance-anxiety/'''
 template = "future.html"
-aliases = ["/future/sessions/befriending-the-butterflies-techniques-for-embracing-performance-anxiety/"]
+aliases = ["/future/workshops/befriending-the-butterflies-techniques-for-embracing-performance-anxiety/","/sessions/befriending-the-butterflies-techniques-for-embracing-performance-anxiety/","/future/sessions/befriending-the-butterflies-techniques-for-embracing-performance-anxiety/"]
 +++
 
 <h1>Befriending the Butterflies: Techniques for Embracing Performance Anxiety</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/befriending-the-butterflies-techniques-for-embracin
 10:00 AM – 10:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/edie-johnson/">Edie Johnson</a></li>
+<li><a href="/presenters/edie-johnson/">Edie Johnson</a></li>
 </ul>
 <h2>Description</h2>
 

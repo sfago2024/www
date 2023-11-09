@@ -1,8 +1,8 @@
 +++
 title = '''Organ Music by Women Composers'''
-path = '''/future/workshops/organ-music-by-women-composers/'''
+path = '''/workshops/organ-music-by-women-composers/'''
 template = "future.html"
-aliases = ["/future/sessions/organ-music-by-women-composers/"]
+aliases = ["/future/workshops/organ-music-by-women-composers/","/sessions/organ-music-by-women-composers/","/future/sessions/organ-music-by-women-composers/"]
 +++
 
 <h1>Organ Music by Women Composers</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/organ-music-by-women-composers/"]
 03:00 PM – 03:45 PM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/anne-marsden-thomas/">Anne Marsden Thomas</a></li>
+<li><a href="/presenters/anne-marsden-thomas/">Anne Marsden Thomas</a></li>
 </ul>
 <h2>Description</h2>
 

@@ -1,8 +1,8 @@
 +++
 title = '''Weicheng Zhao'''
-path = '''/future/recitals/weicheng-zhao/'''
+path = '''/recitals/weicheng-zhao/'''
 template = "future.html"
-aliases = ["/future/sessions/weicheng-zhao/"]
+aliases = ["/future/recitals/weicheng-zhao/","/sessions/weicheng-zhao/","/future/sessions/weicheng-zhao/"]
 +++
 
 <h1>Weicheng Zhao</h1>
@@ -12,6 +12,6 @@ aliases = ["/future/sessions/weicheng-zhao/"]
 09:00 AM – 10:00 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/performers/weicheng-zhao/">Weicheng Zhao</a></li>
+<li><a href="/performers/weicheng-zhao/">Weicheng Zhao</a></li>
 </ul>
 

@@ -1,8 +1,8 @@
 +++
 title = '''[GROUP A] Nicole Keller (3:30 PM)'''
-path = '''/future/recitals/group-a-nicole-keller-3-30-pm/'''
+path = '''/recitals/group-a-nicole-keller-3-30-pm/'''
 template = "future.html"
-aliases = ["/future/sessions/group-a-nicole-keller-3-30-pm/"]
+aliases = ["/future/recitals/group-a-nicole-keller-3-30-pm/","/sessions/group-a-nicole-keller-3-30-pm/","/future/sessions/group-a-nicole-keller-3-30-pm/"]
 +++
 
 <h1>[GROUP A] Nicole Keller (3:30 PM)</h1>
@@ -12,8 +12,8 @@ aliases = ["/future/sessions/group-a-nicole-keller-3-30-pm/"]
 03:30 PM – 04:15 PM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/performers/nicole-keller/">Nicole Keller</a></li>
-<li><a href="/future/composers/carl-rütti/">Carl Rütti</a></li>
+<li><a href="/performers/nicole-keller/">Nicole Keller</a></li>
+<li><a href="/composers/carl-rütti/">Carl Rütti</a></li>
 </ul>
 <h2>Description</h2>
 

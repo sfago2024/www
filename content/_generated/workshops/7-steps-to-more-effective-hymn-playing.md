@@ -1,8 +1,8 @@
 +++
 title = '''7 Steps to More Effective Hymn Playing'''
-path = '''/future/workshops/7-steps-to-more-effective-hymn-playing/'''
+path = '''/workshops/7-steps-to-more-effective-hymn-playing/'''
 template = "future.html"
-aliases = ["/future/sessions/7-steps-to-more-effective-hymn-playing/"]
+aliases = ["/future/workshops/7-steps-to-more-effective-hymn-playing/","/sessions/7-steps-to-more-effective-hymn-playing/","/future/sessions/7-steps-to-more-effective-hymn-playing/"]
 +++
 
 <h1>7 Steps to More Effective Hymn Playing</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/7-steps-to-more-effective-hymn-playing/"]
 10:00 AM – 10:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/timothy-howard/">Timothy Howard</a></li>
+<li><a href="/presenters/timothy-howard/">Timothy Howard</a></li>
 </ul>
 <h2>Description</h2>
 

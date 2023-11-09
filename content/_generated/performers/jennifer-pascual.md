@@ -1,8 +1,8 @@
 +++
 title = '''Jennifer Pascual'''
-path = '''/future/performers/jennifer-pascual/'''
+path = '''/performers/jennifer-pascual/'''
 template = "future.html"
-aliases = ["/future/people/jennifer-pascual/"]
+aliases = ["/future/performers/jennifer-pascual/","/people/jennifer-pascual/","/future/people/jennifer-pascual/"]
 +++
 
 <h1>Jennifer Pascual</h1>

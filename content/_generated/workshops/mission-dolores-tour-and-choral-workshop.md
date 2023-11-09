@@ -1,8 +1,8 @@
 +++
 title = '''Mission Dolores Tour and Choral Workshop'''
-path = '''/future/workshops/mission-dolores-tour-and-choral-workshop/'''
+path = '''/workshops/mission-dolores-tour-and-choral-workshop/'''
 template = "future.html"
-aliases = ["/future/sessions/mission-dolores-tour-and-choral-workshop/"]
+aliases = ["/future/workshops/mission-dolores-tour-and-choral-workshop/","/sessions/mission-dolores-tour-and-choral-workshop/","/future/sessions/mission-dolores-tour-and-choral-workshop/"]
 +++
 
 <h1>Mission Dolores Tour and Choral Workshop</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/mission-dolores-tour-and-choral-workshop/"]
 09:00 AM – 11:30 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/maria-forsström/">Maria Forsström</a></li>
+<li><a href="/presenters/maria-forsström/">Maria Forsström</a></li>
 </ul>
 <h2>Description</h2>
 

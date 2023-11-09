@@ -1,8 +1,8 @@
 +++
 title = '''Walking tour of Chinatown'''
-path = '''/future/workshops/walking-tour-of-chinatown/'''
+path = '''/workshops/walking-tour-of-chinatown/'''
 template = "future.html"
-aliases = ["/future/sessions/walking-tour-of-chinatown/"]
+aliases = ["/future/workshops/walking-tour-of-chinatown/","/sessions/walking-tour-of-chinatown/","/future/sessions/walking-tour-of-chinatown/"]
 +++
 
 <h1>Walking tour of Chinatown</h1>

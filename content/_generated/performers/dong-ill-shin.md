@@ -1,8 +1,8 @@
 +++
 title = '''Dong-Ill Shin'''
-path = '''/future/performers/dong-ill-shin/'''
+path = '''/performers/dong-ill-shin/'''
 template = "future.html"
-aliases = ["/future/people/dong-ill-shin/"]
+aliases = ["/future/performers/dong-ill-shin/","/people/dong-ill-shin/","/future/people/dong-ill-shin/"]
 +++
 
 <h1>Dong-Ill Shin</h1>

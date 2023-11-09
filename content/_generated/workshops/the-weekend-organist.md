@@ -1,8 +1,8 @@
 +++
 title = '''The Weekend Organist'''
-path = '''/future/workshops/the-weekend-organist/'''
+path = '''/workshops/the-weekend-organist/'''
 template = "future.html"
-aliases = ["/future/sessions/the-weekend-organist/"]
+aliases = ["/future/workshops/the-weekend-organist/","/sessions/the-weekend-organist/","/future/sessions/the-weekend-organist/"]
 +++
 
 <h1>The Weekend Organist</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/the-weekend-organist/"]
 09:00 AM – 09:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/j-w-arnold/">J.W. Arnold</a></li>
+<li><a href="/presenters/j-w-arnold/">J.W. Arnold</a></li>
 </ul>
 <h2>Description</h2>
 

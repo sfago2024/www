@@ -1,8 +1,8 @@
 +++
 title = '''“Ask, and it shall be given you!” – Choral Workshop'''
-path = '''/future/workshops/ask-and-it-shall-be-given-you-choral-workshop/'''
+path = '''/workshops/ask-and-it-shall-be-given-you-choral-workshop/'''
 template = "future.html"
-aliases = ["/future/sessions/ask-and-it-shall-be-given-you-choral-workshop/"]
+aliases = ["/future/workshops/ask-and-it-shall-be-given-you-choral-workshop/","/sessions/ask-and-it-shall-be-given-you-choral-workshop/","/future/sessions/ask-and-it-shall-be-given-you-choral-workshop/"]
 +++
 
 <h1>“Ask, and it shall be given you!” – Choral Workshop</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/ask-and-it-shall-be-given-you-choral-workshop/"]
 02:00 PM – 03:45 PM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/maria-forsström/">Maria Forsström</a></li>
+<li><a href="/presenters/maria-forsström/">Maria Forsström</a></li>
 </ul>
 <h2>Description</h2>
 

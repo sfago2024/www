@@ -1,8 +1,8 @@
 +++
 title = '''Nathan Elsbernd, Trevor Good, & Marshall Joos (Rising Stars)'''
-path = '''/future/recitals/nathan-elsbernd-trevor-good-marshall-joos-rising-stars/'''
+path = '''/recitals/nathan-elsbernd-trevor-good-marshall-joos-rising-stars/'''
 template = "future.html"
-aliases = ["/future/sessions/nathan-elsbernd-trevor-good-marshall-joos-rising-stars/"]
+aliases = ["/future/recitals/nathan-elsbernd-trevor-good-marshall-joos-rising-stars/","/sessions/nathan-elsbernd-trevor-good-marshall-joos-rising-stars/","/future/sessions/nathan-elsbernd-trevor-good-marshall-joos-rising-stars/"]
 +++
 
 <h1>Nathan Elsbernd, Trevor Good, & Marshall Joos (Rising Stars)</h1>
@@ -12,9 +12,9 @@ aliases = ["/future/sessions/nathan-elsbernd-trevor-good-marshall-joos-rising-st
 10:45 AM – 11:30 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/performers/marshall-joos/">Marshall Joos</a></li>
-<li><a href="/future/performers/trevor-good/">Trevor Good</a></li>
-<li><a href="/future/performers/nathan-elsbernd/">Nathan Elsbernd</a></li>
+<li><a href="/performers/marshall-joos/">Marshall Joos</a></li>
+<li><a href="/performers/trevor-good/">Trevor Good</a></li>
+<li><a href="/performers/nathan-elsbernd/">Nathan Elsbernd</a></li>
 </ul>
 <h2>Description</h2>
 

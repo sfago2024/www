@@ -1,8 +1,8 @@
 +++
 title = '''Renée Anne Louprette'''
-path = '''/future/presenters/renée-anne-louprette/'''
+path = '''/presenters/renée-anne-louprette/'''
 template = "future.html"
-aliases = ["/future/people/renée-anne-louprette/"]
+aliases = ["/future/presenters/renée-anne-louprette/","/people/renée-anne-louprette/","/future/people/renée-anne-louprette/"]
 +++
 
 <h1>Renée Anne Louprette</h1>

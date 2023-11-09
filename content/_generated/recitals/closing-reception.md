@@ -1,8 +1,8 @@
 +++
 title = '''Closing Reception'''
-path = '''/future/recitals/closing-reception/'''
+path = '''/recitals/closing-reception/'''
 template = "future.html"
-aliases = ["/future/sessions/closing-reception/"]
+aliases = ["/future/recitals/closing-reception/","/sessions/closing-reception/","/future/sessions/closing-reception/"]
 +++
 
 <h1>Closing Reception</h1>

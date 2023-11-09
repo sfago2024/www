@@ -1,8 +1,8 @@
 +++
 title = '''Errollyn Wallen'''
-path = '''/future/composers/errollyn-wallen/'''
+path = '''/composers/errollyn-wallen/'''
 template = "future.html"
-aliases = ["/future/people/errollyn-wallen/"]
+aliases = ["/future/composers/errollyn-wallen/","/people/errollyn-wallen/","/future/people/errollyn-wallen/"]
 +++
 
 <h1>Errollyn Wallen</h1>

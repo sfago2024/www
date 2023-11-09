@@ -1,8 +1,8 @@
 +++
 title = '''African American Baptist Worship Service - Stephen Price & Patrick Alston'''
-path = '''/future/worship/african-american-baptist-worship-service-stephen-price-patrick-alston/'''
+path = '''/worship/african-american-baptist-worship-service-stephen-price-patrick-alston/'''
 template = "future.html"
-aliases = ["/future/sessions/african-american-baptist-worship-service-stephen-price-patrick-alston/"]
+aliases = ["/future/worship/african-american-baptist-worship-service-stephen-price-patrick-alston/","/sessions/african-american-baptist-worship-service-stephen-price-patrick-alston/","/future/sessions/african-american-baptist-worship-service-stephen-price-patrick-alston/"]
 +++
 
 <h1>African American Baptist Worship Service - Stephen Price & Patrick Alston</h1>
@@ -12,9 +12,9 @@ aliases = ["/future/sessions/african-american-baptist-worship-service-stephen-pr
 09:00 AM – 10:00 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/composers/eurydice-osterman/">Eurydice Osterman</a></li>
-<li><a href="/future/performers/w-patrick-alston-sr/">W. Patrick Alston, Sr.</a></li>
-<li><a href="/future/performers/stephen-price/">Stephen Price</a></li>
+<li><a href="/composers/eurydice-osterman/">Eurydice Osterman</a></li>
+<li><a href="/performers/w-patrick-alston-sr/">W. Patrick Alston, Sr.</a></li>
+<li><a href="/performers/stephen-price/">Stephen Price</a></li>
 </ul>
 <h2>Description</h2>
 

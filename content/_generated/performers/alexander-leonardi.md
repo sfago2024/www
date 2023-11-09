@@ -1,8 +1,8 @@
 +++
 title = '''Alexander Leonardi'''
-path = '''/future/performers/alexander-leonardi/'''
+path = '''/performers/alexander-leonardi/'''
 template = "future.html"
-aliases = ["/future/people/alexander-leonardi/"]
+aliases = ["/future/performers/alexander-leonardi/","/people/alexander-leonardi/","/future/people/alexander-leonardi/"]
 +++
 
 <h1>Alexander Leonardi</h1>

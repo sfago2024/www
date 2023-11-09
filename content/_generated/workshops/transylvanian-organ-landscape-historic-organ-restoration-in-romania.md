@@ -1,8 +1,8 @@
 +++
 title = '''Transylvanian Organ Landscape: Historic Organ Restoration in Romania'''
-path = '''/future/workshops/transylvanian-organ-landscape-historic-organ-restoration-in-romania/'''
+path = '''/workshops/transylvanian-organ-landscape-historic-organ-restoration-in-romania/'''
 template = "future.html"
-aliases = ["/future/sessions/transylvanian-organ-landscape-historic-organ-restoration-in-romania/"]
+aliases = ["/future/workshops/transylvanian-organ-landscape-historic-organ-restoration-in-romania/","/sessions/transylvanian-organ-landscape-historic-organ-restoration-in-romania/","/future/sessions/transylvanian-organ-landscape-historic-organ-restoration-in-romania/"]
 +++
 
 <h1>Transylvanian Organ Landscape: Historic Organ Restoration in Romania</h1>
@@ -12,8 +12,8 @@ aliases = ["/future/sessions/transylvanian-organ-landscape-historic-organ-restor
 09:00 AM – 09:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/renée-anne-louprette/">Renée Anne Louprette</a></li>
-<li><a href="/future/presenters/árpád-magyar/">Árpád Magyar</a></li>
+<li><a href="/presenters/renée-anne-louprette/">Renée Anne Louprette</a></li>
+<li><a href="/presenters/árpád-magyar/">Árpád Magyar</a></li>
 </ul>
 <h2>Description</h2>
 

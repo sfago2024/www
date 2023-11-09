@@ -1,8 +1,8 @@
 +++
 title = '''Renee Chiu Gastelum'''
-path = '''/future/presenters/renee-chiu-gastelum/'''
+path = '''/presenters/renee-chiu-gastelum/'''
 template = "future.html"
-aliases = ["/future/people/renee-chiu-gastelum/"]
+aliases = ["/future/presenters/renee-chiu-gastelum/","/people/renee-chiu-gastelum/","/future/people/renee-chiu-gastelum/"]
 +++
 
 <h1>Renee Chiu Gastelum</h1>

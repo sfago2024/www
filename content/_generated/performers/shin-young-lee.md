@@ -1,8 +1,8 @@
 +++
 title = '''Shin-Young Lee'''
-path = '''/future/performers/shin-young-lee/'''
+path = '''/performers/shin-young-lee/'''
 template = "future.html"
-aliases = ["/future/people/shin-young-lee/"]
+aliases = ["/future/performers/shin-young-lee/","/people/shin-young-lee/","/future/people/shin-young-lee/"]
 +++
 
 <h1>Shin-Young Lee</h1>

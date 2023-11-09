@@ -1,8 +1,8 @@
 +++
 title = '''[GROUP A] Chanticleer (3:30 PM)'''
-path = '''/future/recitals/group-a-chanticleer-3-30-pm/'''
+path = '''/recitals/group-a-chanticleer-3-30-pm/'''
 template = "future.html"
-aliases = ["/future/sessions/group-a-chanticleer-3-30-pm/"]
+aliases = ["/future/recitals/group-a-chanticleer-3-30-pm/","/sessions/group-a-chanticleer-3-30-pm/","/future/sessions/group-a-chanticleer-3-30-pm/"]
 +++
 
 <h1>[GROUP A] Chanticleer (3:30 PM)</h1>
@@ -12,6 +12,6 @@ aliases = ["/future/sessions/group-a-chanticleer-3-30-pm/"]
 03:30 PM – 04:15 PM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/performers/chanticleer/">Chanticleer</a></li>
+<li><a href="/performers/chanticleer/">Chanticleer</a></li>
 </ul>
 

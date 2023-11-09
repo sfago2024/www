@@ -1,8 +1,8 @@
 +++
 title = '''Getting Your 21st-Century Congregation to Love the Organ in Worship'''
-path = '''/future/workshops/getting-your-21st-century-congregation-to-love-the-organ-in-worship/'''
+path = '''/workshops/getting-your-21st-century-congregation-to-love-the-organ-in-worship/'''
 template = "future.html"
-aliases = ["/future/sessions/getting-your-21st-century-congregation-to-love-the-organ-in-worship/"]
+aliases = ["/future/workshops/getting-your-21st-century-congregation-to-love-the-organ-in-worship/","/sessions/getting-your-21st-century-congregation-to-love-the-organ-in-worship/","/future/sessions/getting-your-21st-century-congregation-to-love-the-organ-in-worship/"]
 +++
 
 <h1>Getting Your 21st-Century Congregation to Love the Organ in Worship</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/getting-your-21st-century-congregation-to-love-the-
 03:00 PM – 03:45 PM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/performers/w-patrick-alston-sr/">W. Patrick Alston, Sr.</a></li>
+<li><a href="/performers/w-patrick-alston-sr/">W. Patrick Alston, Sr.</a></li>
 </ul>
 <h2>Description</h2>
 

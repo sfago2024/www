@@ -1,8 +1,8 @@
 +++
 title = '''Getting Organized with Technology'''
-path = '''/future/workshops/getting-organized-with-technology/'''
+path = '''/workshops/getting-organized-with-technology/'''
 template = "future.html"
-aliases = ["/future/sessions/getting-organized-with-technology/"]
+aliases = ["/future/workshops/getting-organized-with-technology/","/sessions/getting-organized-with-technology/","/future/sessions/getting-organized-with-technology/"]
 +++
 
 <h1>Getting Organized with Technology</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/getting-organized-with-technology/"]
 10:00 AM – 10:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/jacob-hofeling/">Jacob Hofeling</a></li>
+<li><a href="/presenters/jacob-hofeling/">Jacob Hofeling</a></li>
 </ul>
 <h2>Description</h2>
 

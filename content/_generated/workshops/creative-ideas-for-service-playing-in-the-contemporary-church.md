@@ -1,8 +1,8 @@
 +++
 title = '''Creative Ideas for Service Playing in the Contemporary Church'''
-path = '''/future/workshops/creative-ideas-for-service-playing-in-the-contemporary-church/'''
+path = '''/workshops/creative-ideas-for-service-playing-in-the-contemporary-church/'''
 template = "future.html"
-aliases = ["/future/sessions/creative-ideas-for-service-playing-in-the-contemporary-church/"]
+aliases = ["/future/workshops/creative-ideas-for-service-playing-in-the-contemporary-church/","/sessions/creative-ideas-for-service-playing-in-the-contemporary-church/","/future/sessions/creative-ideas-for-service-playing-in-the-contemporary-church/"]
 +++
 
 <h1>Creative Ideas for Service Playing in the Contemporary Church</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/creative-ideas-for-service-playing-in-the-contempor
 11:00 AM – 11:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/performers/w-patrick-alston-sr/">W. Patrick Alston, Sr.</a></li>
+<li><a href="/performers/w-patrick-alston-sr/">W. Patrick Alston, Sr.</a></li>
 </ul>
 <h2>Description</h2>
 

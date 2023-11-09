@@ -1,8 +1,8 @@
 +++
 title = '''[GROUP B] Dong-Ill Shin (3:30 PM)'''
-path = '''/future/recitals/group-b-dong-ill-shin-3-30-pm/'''
+path = '''/recitals/group-b-dong-ill-shin-3-30-pm/'''
 template = "future.html"
-aliases = ["/future/sessions/group-b-dong-ill-shin-3-30-pm/"]
+aliases = ["/future/recitals/group-b-dong-ill-shin-3-30-pm/","/sessions/group-b-dong-ill-shin-3-30-pm/","/future/sessions/group-b-dong-ill-shin-3-30-pm/"]
 +++
 
 <h1>[GROUP B] Dong-Ill Shin (3:30 PM)</h1>
@@ -12,8 +12,8 @@ aliases = ["/future/sessions/group-b-dong-ill-shin-3-30-pm/"]
 03:30 PM – 04:15 PM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/performers/dong-ill-shin/">Dong-Ill Shin</a></li>
-<li><a href="/future/composers/texu-kim/">Texu Kim</a></li>
+<li><a href="/performers/dong-ill-shin/">Dong-Ill Shin</a></li>
+<li><a href="/composers/texu-kim/">Texu Kim</a></li>
 </ul>
 <h2>Description</h2>
 

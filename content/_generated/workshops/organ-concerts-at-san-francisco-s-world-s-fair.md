@@ -1,8 +1,8 @@
 +++
 title = '''Organ Concerts at San Francisco’s World’s Fair'''
-path = '''/future/workshops/organ-concerts-at-san-francisco-s-world-s-fair/'''
+path = '''/workshops/organ-concerts-at-san-francisco-s-world-s-fair/'''
 template = "future.html"
-aliases = ["/future/sessions/organ-concerts-at-san-francisco-s-world-s-fair/"]
+aliases = ["/future/workshops/organ-concerts-at-san-francisco-s-world-s-fair/","/sessions/organ-concerts-at-san-francisco-s-world-s-fair/","/future/sessions/organ-concerts-at-san-francisco-s-world-s-fair/"]
 +++
 
 <h1>Organ Concerts at San Francisco’s World’s Fair</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/organ-concerts-at-san-francisco-s-world-s-fair/"]
 02:00 PM – 02:45 PM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/performers/anne-laver/">Anne Laver</a></li>
+<li><a href="/performers/anne-laver/">Anne Laver</a></li>
 </ul>
 <h2>Description</h2>
 

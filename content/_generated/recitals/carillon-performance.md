@@ -1,8 +1,8 @@
 +++
 title = '''Carillon Performance'''
-path = '''/future/recitals/carillon-performance/'''
+path = '''/recitals/carillon-performance/'''
 template = "future.html"
-aliases = ["/future/sessions/carillon-performance/"]
+aliases = ["/future/recitals/carillon-performance/","/sessions/carillon-performance/","/future/sessions/carillon-performance/"]
 +++
 
 <h1>Carillon Performance</h1>

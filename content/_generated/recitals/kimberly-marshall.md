@@ -1,8 +1,8 @@
 +++
 title = '''Kimberly Marshall'''
-path = '''/future/recitals/kimberly-marshall/'''
+path = '''/recitals/kimberly-marshall/'''
 template = "future.html"
-aliases = ["/future/sessions/kimberly-marshall/"]
+aliases = ["/future/recitals/kimberly-marshall/","/sessions/kimberly-marshall/","/future/sessions/kimberly-marshall/"]
 +++
 
 <h1>Kimberly Marshall</h1>
@@ -12,8 +12,8 @@ aliases = ["/future/sessions/kimberly-marshall/"]
 02:30 PM – 03:45 PM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/composers/errollyn-wallen/">Errollyn Wallen</a></li>
-<li><a href="/future/performers/kimberly-marshall/">Kimberly Marshall</a></li>
+<li><a href="/composers/errollyn-wallen/">Errollyn Wallen</a></li>
+<li><a href="/performers/kimberly-marshall/">Kimberly Marshall</a></li>
 </ul>
 <h2>Description</h2>
 

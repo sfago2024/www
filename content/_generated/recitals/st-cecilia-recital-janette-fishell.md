@@ -1,8 +1,8 @@
 +++
 title = '''St. Cecilia Recital: Janette Fishell'''
-path = '''/future/recitals/st-cecilia-recital-janette-fishell/'''
+path = '''/recitals/st-cecilia-recital-janette-fishell/'''
 template = "future.html"
-aliases = ["/future/sessions/st-cecilia-recital-janette-fishell/"]
+aliases = ["/future/recitals/st-cecilia-recital-janette-fishell/","/sessions/st-cecilia-recital-janette-fishell/","/future/sessions/st-cecilia-recital-janette-fishell/"]
 +++
 
 <h1>St. Cecilia Recital: Janette Fishell</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/st-cecilia-recital-janette-fishell/"]
 08:00 PM – 09:30 PM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/performers/janette-fishell/">Janette Fishell</a></li>
+<li><a href="/performers/janette-fishell/">Janette Fishell</a></li>
 </ul>
 <h2>Description</h2>
 

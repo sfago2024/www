@@ -1,8 +1,8 @@
 +++
 title = '''Annette Richards'''
-path = '''/future/recitals/annette-richards/'''
+path = '''/recitals/annette-richards/'''
 template = "future.html"
-aliases = ["/future/sessions/annette-richards/"]
+aliases = ["/future/recitals/annette-richards/","/sessions/annette-richards/","/future/sessions/annette-richards/"]
 +++
 
 <h1>Annette Richards</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/annette-richards/"]
 11:30 AM – 12:15 PM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/performers/annette-richards/">Annette Richards</a></li>
+<li><a href="/performers/annette-richards/">Annette Richards</a></li>
 </ul>
 <h2>Description</h2>
 

@@ -1,8 +1,8 @@
 +++
 title = '''Carl Rütti'''
-path = '''/future/composers/carl-rütti/'''
+path = '''/composers/carl-rütti/'''
 template = "future.html"
-aliases = ["/future/people/carl-rütti/"]
+aliases = ["/future/composers/carl-rütti/","/people/carl-rütti/","/future/people/carl-rütti/"]
 +++
 
 <h1>Carl Rütti</h1>

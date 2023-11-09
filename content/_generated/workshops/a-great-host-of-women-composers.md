@@ -1,8 +1,8 @@
 +++
 title = '''A Great Host of Women Composers'''
-path = '''/future/workshops/a-great-host-of-women-composers/'''
+path = '''/workshops/a-great-host-of-women-composers/'''
 template = "future.html"
-aliases = ["/future/sessions/a-great-host-of-women-composers/"]
+aliases = ["/future/workshops/a-great-host-of-women-composers/","/sessions/a-great-host-of-women-composers/","/future/sessions/a-great-host-of-women-composers/"]
 +++
 
 <h1>A Great Host of Women Composers</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/a-great-host-of-women-composers/"]
 09:00 AM – 09:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/susan-jane-matthews/">Susan Jane Matthews</a></li>
+<li><a href="/presenters/susan-jane-matthews/">Susan Jane Matthews</a></li>
 </ul>
 <h2>Description</h2>
 

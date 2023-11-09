@@ -1,8 +1,8 @@
 +++
 title = '''From iPad to Organ — Tech Tips'''
-path = '''/future/workshops/from-ipad-to-organ-tech-tips/'''
+path = '''/workshops/from-ipad-to-organ-tech-tips/'''
 template = "future.html"
-aliases = ["/future/sessions/from-ipad-to-organ-tech-tips/"]
+aliases = ["/future/workshops/from-ipad-to-organ-tech-tips/","/sessions/from-ipad-to-organ-tech-tips/","/future/sessions/from-ipad-to-organ-tech-tips/"]
 +++
 
 <h1>From iPad to Organ — Tech Tips</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/from-ipad-to-organ-tech-tips/"]
 10:00 AM – 10:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/jacob-hofeling/">Jacob Hofeling</a></li>
+<li><a href="/presenters/jacob-hofeling/">Jacob Hofeling</a></li>
 </ul>
 <h2>Description</h2>
 

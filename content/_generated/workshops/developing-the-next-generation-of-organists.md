@@ -1,8 +1,8 @@
 +++
 title = '''Developing the Next Generation of Organists'''
-path = '''/future/workshops/developing-the-next-generation-of-organists/'''
+path = '''/workshops/developing-the-next-generation-of-organists/'''
 template = "future.html"
-aliases = ["/future/sessions/developing-the-next-generation-of-organists/"]
+aliases = ["/future/workshops/developing-the-next-generation-of-organists/","/sessions/developing-the-next-generation-of-organists/","/future/sessions/developing-the-next-generation-of-organists/"]
 +++
 
 <h1>Developing the Next Generation of Organists</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/developing-the-next-generation-of-organists/"]
 11:00 AM – 11:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/valerie-harris/">Valerie Harris</a></li>
+<li><a href="/presenters/valerie-harris/">Valerie Harris</a></li>
 </ul>
 <h2>Description</h2>
 

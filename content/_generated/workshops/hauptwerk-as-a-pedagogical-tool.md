@@ -1,8 +1,8 @@
 +++
 title = '''Hauptwerk as a Pedagogical Tool'''
-path = '''/future/workshops/hauptwerk-as-a-pedagogical-tool/'''
+path = '''/workshops/hauptwerk-as-a-pedagogical-tool/'''
 template = "future.html"
-aliases = ["/future/sessions/hauptwerk-as-a-pedagogical-tool/"]
+aliases = ["/future/workshops/hauptwerk-as-a-pedagogical-tool/","/sessions/hauptwerk-as-a-pedagogical-tool/","/future/sessions/hauptwerk-as-a-pedagogical-tool/"]
 +++
 
 <h1>Hauptwerk as a Pedagogical Tool</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/hauptwerk-as-a-pedagogical-tool/"]
 02:00 PM – 02:45 PM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/devon-howard/">Devon Howard</a></li>
+<li><a href="/presenters/devon-howard/">Devon Howard</a></li>
 </ul>
 <h2>Description</h2>
 

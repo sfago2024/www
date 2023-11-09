@@ -1,8 +1,8 @@
 +++
 title = '''[GROUP F] Rashaan Rori Allwood (2:45 PM)'''
-path = '''/future/recitals/group-f-rashaan-rori-allwood-2-45-pm/'''
+path = '''/recitals/group-f-rashaan-rori-allwood-2-45-pm/'''
 template = "future.html"
-aliases = ["/future/sessions/group-f-rashaan-rori-allwood-2-45-pm/"]
+aliases = ["/future/recitals/group-f-rashaan-rori-allwood-2-45-pm/","/sessions/group-f-rashaan-rori-allwood-2-45-pm/","/future/sessions/group-f-rashaan-rori-allwood-2-45-pm/"]
 +++
 
 <h1>[GROUP F] Rashaan Rori Allwood (2:45 PM)</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/group-f-rashaan-rori-allwood-2-45-pm/"]
 02:45 PM – 03:30 PM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/performers/rashaan-rori-allwood/">Rashaan Rori Allwood</a></li>
+<li><a href="/performers/rashaan-rori-allwood/">Rashaan Rori Allwood</a></li>
 </ul>
 <h2>Description</h2>
 

@@ -1,8 +1,8 @@
 +++
 title = '''Full STEAM Ahead: New World for New Organists'''
-path = '''/future/workshops/full-steam-ahead-new-world-for-new-organists/'''
+path = '''/workshops/full-steam-ahead-new-world-for-new-organists/'''
 template = "future.html"
-aliases = ["/future/sessions/full-steam-ahead-new-world-for-new-organists/"]
+aliases = ["/future/workshops/full-steam-ahead-new-world-for-new-organists/","/sessions/full-steam-ahead-new-world-for-new-organists/","/future/sessions/full-steam-ahead-new-world-for-new-organists/"]
 +++
 
 <h1>Full STEAM Ahead: New World for New Organists</h1>
@@ -12,8 +12,8 @@ aliases = ["/future/sessions/full-steam-ahead-new-world-for-new-organists/"]
 09:00 AM – 09:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/sue-mitchell-wallace/">Sue Mitchell-Wallace</a></li>
-<li><a href="/future/presenters/elizabeth-george/">Elizabeth George</a></li>
+<li><a href="/presenters/sue-mitchell-wallace/">Sue Mitchell-Wallace</a></li>
+<li><a href="/presenters/elizabeth-george/">Elizabeth George</a></li>
 </ul>
 <h2>Description</h2>
 

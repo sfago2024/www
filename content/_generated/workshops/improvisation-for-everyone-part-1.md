@@ -1,8 +1,8 @@
 +++
 title = '''Improvisation for Everyone, Part 1'''
-path = '''/future/workshops/improvisation-for-everyone-part-1/'''
+path = '''/workshops/improvisation-for-everyone-part-1/'''
 template = "future.html"
-aliases = ["/future/sessions/improvisation-for-everyone-part-1/"]
+aliases = ["/future/workshops/improvisation-for-everyone-part-1/","/sessions/improvisation-for-everyone-part-1/","/future/sessions/improvisation-for-everyone-part-1/"]
 +++
 
 <h1>Improvisation for Everyone, Part 1</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/improvisation-for-everyone-part-1/"]
 09:00 AM – 09:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/robert-mccormick/">Robert McCormick</a></li>
+<li><a href="/presenters/robert-mccormick/">Robert McCormick</a></li>
 </ul>
 <h2>Description</h2>
 

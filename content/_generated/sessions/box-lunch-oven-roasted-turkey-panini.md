@@ -1,8 +1,8 @@
 +++
 title = '''Box Lunch – Oven-Roasted Turkey Panini'''
-path = '''/future/sessions/box-lunch-oven-roasted-turkey-panini/'''
+path = '''/sessions/box-lunch-oven-roasted-turkey-panini/'''
 template = "future.html"
-aliases = []
+aliases = ["/future/sessions/box-lunch-oven-roasted-turkey-panini/"]
 +++
 
 <h1>Box Lunch – Oven-Roasted Turkey Panini</h1>

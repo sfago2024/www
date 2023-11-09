@@ -1,8 +1,8 @@
 +++
 title = '''Devon Howard'''
-path = '''/future/presenters/devon-howard/'''
+path = '''/presenters/devon-howard/'''
 template = "future.html"
-aliases = ["/future/people/devon-howard/"]
+aliases = ["/future/presenters/devon-howard/","/people/devon-howard/","/future/people/devon-howard/"]
 +++
 
 <h1>Devon Howard</h1>

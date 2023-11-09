@@ -1,8 +1,8 @@
 +++
 title = '''The Growing Sisterhood of Organists: AGO Task Force for Gender Equity/Society for Women Organists'''
-path = '''/future/workshops/the-growing-sisterhood-of-organists-ago-task-force-for-gender-equity-society-for-women-organists/'''
+path = '''/workshops/the-growing-sisterhood-of-organists-ago-task-force-for-gender-equity-society-for-women-organists/'''
 template = "future.html"
-aliases = ["/future/sessions/the-growing-sisterhood-of-organists-ago-task-force-for-gender-equity-society-for-women-organists/"]
+aliases = ["/future/workshops/the-growing-sisterhood-of-organists-ago-task-force-for-gender-equity-society-for-women-organists/","/sessions/the-growing-sisterhood-of-organists-ago-task-force-for-gender-equity-society-for-women-organists/","/future/sessions/the-growing-sisterhood-of-organists-ago-task-force-for-gender-equity-society-for-women-organists/"]
 +++
 
 <h1>The Growing Sisterhood of Organists: AGO Task Force for Gender Equity/Society for Women Organists</h1>
@@ -12,7 +12,7 @@ aliases = ["/future/sessions/the-growing-sisterhood-of-organists-ago-task-force-
 10:00 AM – 10:45 AM</p>
 <h2>Presenters</h2>
 <ul>
-<li><a href="/future/presenters/ago-task-force-for-gender-equity/">AGO Task Force for Gender Equity</a></li>
+<li><a href="/presenters/ago-task-force-for-gender-equity/">AGO Task Force for Gender Equity</a></li>
 </ul>
 <h2>Description</h2>
 
