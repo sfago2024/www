@@ -2,6 +2,9 @@
 title = "Venues"
 description = "Featured venues for SF AGO 2024"
 template = "future.html"
+aliases = [
+  "/future/venues/",
+]
 [extra]
 wide = true
 +++

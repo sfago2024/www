@@ -1,5 +1,5 @@
 {% if not slug %}{% set slug = name | slugify %}{% endif %}
 <div class="performer" id="{{ slug }}">
 <img src="/img/people/{{ slug }}.jpg">
-<a href="/future/people/{{ slug }}/">{{ name | safe }}</a>
+<a href="/people/{{ slug }}/">{{ name | safe }}</a>
 </div>

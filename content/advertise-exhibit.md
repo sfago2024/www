@@ -3,6 +3,7 @@ title = "Advertise/Exhibit"
 description = "Learn about SF AGO 2024's innovative exhibiting and advertising options."
 template = "future.html"
 aliases = [
+  "/future/advertise-exhibit/",
   "/advertise/",
   "/future/advertise/",
   "/exhibit/",
@@ -48,7 +49,7 @@ show_toc = true
 <span class="event">12:00 PM – 4:00 PM</span>
 </div>
 
-You can also see exhibit hours in the <a href="/future/schedule/">schedule</a>.
+You can also see exhibit hours in the <a href="/schedule/">schedule</a>.
 
 # Exhibit Map
 

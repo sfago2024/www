@@ -129,7 +129,8 @@ body {
 
   .logo {
     flex: 0 1 auto;
-    max-width: 100%;
+    max-width: 512px;
+    aspect-ratio: 512 / 120;
     min-width: 1.5in;
   }
 

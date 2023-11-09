@@ -3,6 +3,7 @@ title = "Schedule"
 description = "See an overview of the schedule for SF AGO 2024."
 template = "future.html"
 aliases = [
+  "/future/schedule/",
   "/calendar/",
   "/future/calendar/",
 ]

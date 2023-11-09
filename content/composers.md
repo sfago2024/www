@@ -2,6 +2,9 @@
 title = "Composers"
 description = "Featured composers for SF AGO 2024"
 template = "future.html"
+aliases = [
+  "/future/composers/",
+]
 +++
 
 <div class="performers">

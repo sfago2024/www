@@ -1,6 +1,9 @@
 +++
 title = "Land Acknowledgement"
 template = "future.html"
+aliases = [
+  "/future/land-acknowledgement/",
+]
 +++
 
 # Land Acknowledgement

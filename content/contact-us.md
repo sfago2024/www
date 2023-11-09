@@ -1,6 +1,9 @@
 +++
 title="Contact Us"
 template="future.html"
+aliases = [
+  "/future/contact-us/",
+]
 +++
 
 # Contact Us
@@ -23,15 +26,15 @@ template="future.html"
 	</tr>
 	<tr>
 		<td>Registration</td>
-		<td>{{ contact(href="/future/register/", name="Paul Ellison") }}</td>
+		<td>{{ contact(href="/register/", name="Paul Ellison") }}</td>
 	</tr>
 	<tr>
 		<td>Donations</td>
-		<td>{{ contact(href="/future/donate/", name="Brian Larsen") }}</td>
+		<td>{{ contact(href="/donate/", name="Brian Larsen") }}</td>
 	</tr>
 	<tr>
 		<td>Advertising/Exhibits</td>
-		<td>{{ contact(href="/future/advertise-exhibit/", name="Maury A. Castro") }}</td>
+		<td>{{ contact(href="/advertise-exhibit/", name="Maury A. Castro") }}</td>
 	</tr>
 </tbody>
 </table>

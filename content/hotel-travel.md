@@ -3,8 +3,11 @@ title = "Travel"
 description = "Learn about hotel and travel information for SF AGO 2024."
 template = "future.html"
 aliases = [
+  "/future/hotel-travel/",
+  "/hotel/",
+  "/future/hotel/",
+  "/travel/",
   "/future/travel/",
-  "/future/hotel-travel-with-ads/",
 ]
 [extra]
 show_toc = true
