@@ -36,6 +36,13 @@ show_toc = true
 
 </div>
 
+<div class="action-panel">
+<a class="fancy-button" href="https://cvent.me/51d9XL?rt=6B6Nfs2wRkOnExmEXBYmYA&RefId=sfago2024.org%2Fexhibit" rel="external" target="_blank">Purchase Exhibit Space</a>
+
+Exhibit space is purchased through our online registration platform. You'll complete your complimentary personal registration at the same time. If your purchase entitles you to further complimentary registrations, you'll be contacted with discount codes to use for those.
+
+</div>
+
 # Exhibit Hours
 
 <div class="schedule equal">
