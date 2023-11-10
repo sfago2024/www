@@ -24,6 +24,16 @@ show_toc = true
 
 </div>
 
+<div class="action-panel">
+
+Exhibit space is purchased through our online registration platform. You'll complete your
+complimentary personal registration at the same time. If your purchase earns you more than one
+complimentary registration, you'll be contacted with discount codes to use for the additional
+registrations.
+
+<!----><a class="fancy-button" href="https://cvent.me/51d9XL?rt=6B6Nfs2wRkOnExmEXBYmYA&RefId=sfago2024.org%2Fexhibit" rel="external" target="_blank">Purchase exhibit space</a>
+</div>
+
 **Why advertise at SF AGO 2024?**
 
 <div class="close">
@@ -37,10 +47,11 @@ show_toc = true
 </div>
 
 <div class="action-panel">
-<a class="fancy-button" href="https://cvent.me/51d9XL?rt=6B6Nfs2wRkOnExmEXBYmYA&RefId=sfago2024.org%2Fexhibit" rel="external" target="_blank">Purchase Exhibit Space</a>
 
-Exhibit space is purchased through our online registration platform. You'll complete your complimentary personal registration at the same time. If your purchase entitles you to further complimentary registrations, you'll be contacted with discount codes to use for those.
+Advertising can be purchased during the registration process, or you
+can use this button to purchase advertising *without* convention registration:
 
+<!----><a class="fancy-button" href="https://cvent.me/ZnoZLw?rt=GJT4bzbOv0S-wVSLdNVddw&RefId=sfago2024.org%2Fadvertise" rel="external" target="_blank">Purchase advertising only</a>
 </div>
 
 # Exhibit Hours
