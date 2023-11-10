@@ -71,6 +71,7 @@ aliases = ["/future/sessions/"]
 <li><a href="/recitals/kimberly-marshall/">Kimberly Marshall</a></li>
 <li><a href="/workshops/let-s-make-an-organ-pipe/">Let's Make an Organ Pipe</a></li>
 <li><a href="/workshops/lightning-talks/">Lightning Talks</a></li>
+<li><a href="/workshops/lorenz-and-sacred-music-press-organ-repertoire-session-and-meet-the-composers/">Lorenz and Sacred Music Press – Organ Repertoire Session and Meet the Composers</a></li>
 <li><a href="/workshops/meditations-on-the-nativity/">Meditations on the Nativity</a></li>
 <li><a href="/workshops/mindfulness-and-spiritual-wellbeing-for-church-musicians/">Mindfulness and Spiritual Wellbeing for Church Musicians</a></li>
 <li><a href="/workshops/mission-dolores-tour-and-choral-workshop/">Mission Dolores Tour and Choral Workshop</a></li>

@@ -325,4 +325,9 @@ aliases = [
   presenter=""
 ) }}
 
+{{ workshop(
+  name="Lorenz and Sacred Music Press – Organ Repertoire Session and Meet the Composers",
+  presenter="Carson Cooman"
+) }}
+
 </div>

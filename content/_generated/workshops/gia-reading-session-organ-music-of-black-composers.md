@@ -9,7 +9,7 @@ aliases = ["/future/workshops/gia-reading-session-organ-music-of-black-composers
 
 <h2>Date/Time</h2>
 <p>Tuesday, July 02, 2024<br>
-09:00 AM – 09:45 AM</p>
+10:00 AM – 10:45 AM</p>
 <h2>Presenters</h2>
 <ul>
 <li><a href="/presenters/james-abbington/">James Abbington</a></li>

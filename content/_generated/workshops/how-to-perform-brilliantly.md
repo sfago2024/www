@@ -9,7 +9,7 @@ aliases = ["/future/workshops/how-to-perform-brilliantly/","/sessions/how-to-per
 
 <h2>Date/Time</h2>
 <p>Tuesday, July 02, 2024<br>
-10:00 AM – 10:45 AM</p>
+09:00 AM – 09:45 AM</p>
 <h2>Presenters</h2>
 <ul>
 <li><a href="/presenters/anne-marsden-thomas/">Anne Marsden Thomas</a></li>
