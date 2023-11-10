@@ -14,4 +14,8 @@ aliases = ["/future/workshops/selah-choral-reading-session/","/sessions/selah-ch
 <ul>
 <li><a href="/presenters/david-schaap/">David Schaap</a></li>
 </ul>
+<h2>Description</h2>
+
+Selah Publishing has been publishing high-quality choral music for a third-of-a-century, and this reading session will introduce some of the newest choral titles for varied voicings and use in churches. The session will include titles from the acclaimed Sarah MacDonald Choral Series, choral works composed by women.
+
 
