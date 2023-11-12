@@ -53,8 +53,6 @@ aliases = [
 
 {{ performer(name="Joey Fala") }}
 
-{{ performer(name="Jonathan Dimmock") }}
-
 {{ performer(name="Jonathan Moyer") }}
 
 {{ performer(name="Ken Cowan") }}

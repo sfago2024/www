@@ -101,7 +101,7 @@ near the hotel, which offers a $38 flat rate for twelve hours of parking.
 
 Details on alternative methods of transportation can be found on
 {% external_link(href="https://www.flysfo.com/passengers/ground-transportation") %}
-SFO's Ground Transporation
+SFO's Ground Transportation
 {% end %}
 page.
 
