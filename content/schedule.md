@@ -27,7 +27,7 @@ show_toc = true
 
 <div class="schedule">
 <span class="time">2:00&nbsp;<i>PM</i></span>
-<span class="event">Pre-convention excursion – <span class="location">Legion of Honor Museum</span><br>(organ concert at 4:00)</span>
+<span class="event">Pre-convention excursion – <span class="location">Legion of Honor Museum</span><br>(organ concert by the Legion's principal organist Jonathan Dimmock at 4:00)</span>
 </div>
 
 # Sunday, June 30
