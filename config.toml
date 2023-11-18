@@ -9,4 +9,5 @@ output_dir = "build"
 smart_punctuation = true
 
 [search]
+include_path = true
 index_format = "elasticlunr_json"
