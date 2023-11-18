@@ -11,7 +11,6 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <link rel="stylesheet" href="https://www.sfago2024.org/future.css">
   <link rel="preload" href="/font/SourceSans3VF-Upright.otf.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="preload" href="/font/SourceSans3VF-Italic.otf.woff2" as="font" type="font/woff2" crossorigin>
 </head>
 <body>
   <header class="logo-and-date">
@@ -44,7 +43,19 @@
 <a href="https:&#x2F;&#x2F;www.sfago2024.org/donate/">Donate</a>
 <a href="https:&#x2F;&#x2F;www.sfago2024.org/advertise-exhibit/">Advertise/Exhibit</a>
 
+      <a class="search-button"><svg class="icon medium" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+  <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
+</svg></a>
     </nav>
+    <div class="search">
+      <div class="text-container">
+        <h2>Search sfago2024.org</h2>
+        <input id="search-input" type="search" placeholder="🔎 Enter search term">
+        <div class="search-results">
+          <div class="search-results-items"></div>
+        </div>
+      </div>
+    </div>
   </div>
   
   <div class="ad mobile">
@@ -109,9 +120,22 @@
           }
         );
 
-        document.querySelector(".future-banner").classList.remove("opaque");
+        let searchButton = document.querySelector(".search-button");
+        let search = document.querySelector(".search");
+        searchButton.addEventListener("click",
+          (e) => {
+            if (searchButton.classList.toggle("search-active")) {
+              search.style.display = "block";
+              search.scrollIntoView({block: "nearest"});
+            } else {
+              search.style.display = "none";
+            }
+          }
+        );
       }
     )
   </script>
+  <script src="/elasticlunr.min.js"></script>
+  <script src="/search.js"></script>
 </body>
 </html>

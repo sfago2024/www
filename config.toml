@@ -7,3 +7,6 @@ output_dir = "build"
 
 [markdown]
 smart_punctuation = true
+
+[search]
+index_format = "elasticlunr_json"

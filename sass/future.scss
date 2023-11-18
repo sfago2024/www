@@ -1128,3 +1128,49 @@ table {
     }
   }
 }
+
+.search-button {
+  cursor: pointer;
+
+  &.search-active {
+    background-color: var(--bg);
+  }
+}
+
+.search {
+  display: none;
+
+  background-color: var(--bg-secondary);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  margin-top: -1.3rem;
+  margin-bottom: 1.3rem;
+  position: relative;
+  z-index: 5;
+
+  min-height: 20rem;
+
+  padding: 1.3rem 1rem;
+
+  .text-container {
+    max-width: var(--max-width);
+    margin: 0 auto;
+  }
+
+  h2 {
+    margin-bottom: 1.3rem;
+    text-align: center;
+  }
+
+  #search-input {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin: 0 auto;
+  }
+
+  .search-results {}
+
+  li {
+    list-style: none;
+    padding-top: 1rem;
+  }
+}

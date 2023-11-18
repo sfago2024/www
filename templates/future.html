@@ -16,7 +16,6 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <link rel="stylesheet" href="{{ get_url(path="future.css") }}">
   <link rel="preload" href="/font/SourceSans3VF-Upright.otf.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="preload" href="/font/SourceSans3VF-Italic.otf.woff2" as="font" type="font/woff2" crossorigin>
 </head>
 <body>
   <header class="logo-and-date">
@@ -33,7 +32,17 @@
     </div>
     <nav class="main-menu{% if obj.extra.menu_shadow %} shadow{% endif %}">
       {% include "shortcodes/menu_links.html" %}
+      <a class="search-button">{% include "shortcodes/icon_search.html" %}</a>
     </nav>
+    <div class="search">
+      <div class="text-container">
+        <h2>Search sfago2024.org</h2>
+        <input id="search-input" type="search" placeholder="🔎 Enter search term">
+        <div class="search-results">
+          <div class="search-results-items"></div>
+        </div>
+      </div>
+    </div>
   </div>
   {% if not obj.extra.hide_ad %}
   <div class="ad mobile">
@@ -104,9 +113,22 @@
           }
         );
 
-        document.querySelector(".future-banner").classList.remove("opaque");
+        let searchButton = document.querySelector(".search-button");
+        let search = document.querySelector(".search");
+        searchButton.addEventListener("click",
+          (e) => {
+            if (searchButton.classList.toggle("search-active")) {
+              search.style.display = "block";
+              search.scrollIntoView({block: "nearest"});
+            } else {
+              search.style.display = "none";
+            }
+          }
+        );
       }
     )
   </script>
+  <script src="/elasticlunr.min.js"></script>
+  <script src="/search.js"></script>
 </body>
 </html>
