@@ -132,7 +132,7 @@ function initSearch() {
   var $searchInput = document.getElementById("search-input");
   var $searchResults = document.querySelector(".search-results");
   var $searchResultsItems = document.querySelector(".search-results-items");
-  var MAX_ITEMS = 10;
+  var MAX_ITEMS = 500;
 
   var options = {
     bool: "AND",
@@ -157,7 +157,7 @@ function initSearch() {
     return res;
   }
 
-  $searchInput.addEventListener("keyup", debounce(async function() {
+  doTheSearch = debounce(async function() {
     var term = $searchInput.value.trim();
     if (term === currentTerm) {
       return;
@@ -180,15 +180,10 @@ function initSearch() {
       item.innerHTML = formatSearchResultItem(results[i], term.split(" "));
       $searchResultsItems.appendChild(item);
     }
-  }, 150));
-
-  window.addEventListener('click', function(e) {
-    if ($searchResults.style.display == "block" && !$searchResults.contains(e.target)) {
-      $searchResults.style.display = "none";
-    }
-  });
+  }, 150);
+  $searchInput.addEventListener("keyup", doTheSearch);
+  $searchInput.addEventListener("focus", doTheSearch);
 }
-
 
 if (document.readyState === "complete" ||
     (document.readyState !== "loading" && !document.documentElement.doScroll)

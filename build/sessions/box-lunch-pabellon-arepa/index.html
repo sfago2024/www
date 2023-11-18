@@ -115,13 +115,15 @@
           }
         );
 
-        let searchButton = document.querySelector(".search-button");
         let search = document.querySelector(".search");
+        let searchButton = document.querySelector(".search-button");
+        let searchInput = document.querySelector("#search-input");
         searchButton.addEventListener("click",
           (e) => {
             if (searchButton.classList.toggle("search-active")) {
               search.style.display = "block";
               search.scrollIntoView({block: "nearest"});
+              searchInput.focus();
             } else {
               search.style.display = "none";
             }
