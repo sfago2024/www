@@ -1130,6 +1130,7 @@ table {
 }
 
 .search-button {
+  display: none;
   cursor: pointer;
 
   &.search-active {
