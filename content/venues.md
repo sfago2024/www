@@ -184,7 +184,7 @@ wide = true
   city="Berkeley",
   img="/img/venues/St. John_s Pres Berkeley.webp",
   organ="Brombaugh, 1979",
-  stoplist="https://www.stjohnsberkeley.org/sunday/sunday-choir/organ"
+  stoplist="https://www.stjohnsberkeley.org/sunday-worship/sunday-music/%e2%ad%90organ/"
 ) }}
 
 {{ venue(
