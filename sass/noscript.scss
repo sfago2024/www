@@ -1,0 +1,21 @@
+.search-button,
+.search-button.mobile {
+	display: none;
+}
+
+.menu-button-container {
+	display: none;
+}
+
+.main-menu {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-top: 0;
+	box-shadow: none;
+	border: none;
+
+	&>a {
+		padding-left: 0.5em;
+	}
+}

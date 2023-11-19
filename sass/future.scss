@@ -187,21 +187,14 @@ body {
   }
 }
 
-.menu-button {
+.menu-button-container {
   background-color: var(--bg-dark);
-
-  &.active {
-    background-color: var(--bg);
-  }
 
   &.shadow {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
   }
 
-  cursor: pointer;
   display: none;
-  padding: 0.25em;
-  padding-left: 1rem;
   font-weight: 400;
   margin-bottom: 1.3rem;
 
@@ -213,7 +206,19 @@ body {
   font-weight: 550;
 
   @media (max-width: $mobile-width) {
-    display: block;
+    display: flex;
+  }
+
+  .menu-button {
+    flex-basis: 100%;
+
+    cursor: pointer;
+    padding: 0.25em;
+    padding-left: 1rem;
+
+    &.active {
+      background-color: var(--bg);
+    }
   }
 }
 
@@ -223,7 +228,6 @@ body {
   margin-bottom: 1.3rem;
 
   display: flex;
-  column-gap: 0.25em;
   flex-wrap: wrap;
   justify-content: center;
 
@@ -239,6 +243,7 @@ body {
     padding: 0.75em 0.5em;
 
     text-decoration: none;
+    font-size: 1.2rem;
 
     &:hover {
       background-color: var(--bg);
@@ -255,7 +260,7 @@ body {
   &>span {
     background-color: var(--line-gray);
     width: 1px;
-    margin: 0.5em;
+    margin: 0.5em 0.25em;
   }
 
   @media (max-width: $mobile-width) {
@@ -1134,6 +1139,22 @@ table {
 
   &.search-active {
     background-color: var(--bg);
+  }
+
+  &.desktop {
+    @media (max-width: $mobile-width) {
+      display: none;
+    }
+  }
+
+  &.mobile {
+    padding: 0.25em 1rem;
+
+    display: none;
+
+    @media (max-width: $mobile-width) {
+      display: block;
+    }
   }
 }
 

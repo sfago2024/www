@@ -12,6 +12,9 @@
   <meta property="og:description" content="Learn about registration rates and details for SF AGO 2024.">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <link rel="stylesheet" href="https://www.sfago2024.org/future.css">
+  <noscript>
+    <link rel="stylesheet" href="https://www.sfago2024.org/noscript.css">
+  </noscript>
   <link rel="preload" href="/font/SourceSans3VF-Upright.otf.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="icon" href="/pipes-favicon.png">
 </head>
@@ -25,11 +28,14 @@
     </div>
   </header>
   <div class="menu-container">
-    <div class="menu-button">
-      <svg class="icon middle" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
+    <div class="menu-button-container">
+      <div class="menu-button"><svg class="icon middle" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
   <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
 </svg>
- Menu
+ Menu</div>
+      <a class="search-button mobile"><svg class="icon medium" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+  <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
+</svg></a>
     </div>
     <nav class="main-menu">
       <a href="https:&#x2F;&#x2F;www.sfago2024.org">Home</a>
@@ -46,7 +52,7 @@
 <a href="https:&#x2F;&#x2F;www.sfago2024.org/donate/">Donate</a>
 <a href="https:&#x2F;&#x2F;www.sfago2024.org/advertise-exhibit/">Advertise/Exhibit</a>
 
-      <a class="search-button"><svg class="icon medium" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+      <a class="search-button desktop"><svg class="icon medium" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
   <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
 </svg></a>
     </nav>
@@ -271,19 +277,20 @@ San Leandro, CA 94578-0546
         );
 
         let search = document.querySelector(".search");
-        let searchButton = document.querySelector(".search-button");
         let searchInput = document.querySelector("#search-input");
-        searchButton.addEventListener("click",
-          (e) => {
-            if (searchButton.classList.toggle("search-active")) {
-              search.style.display = "block";
-              search.scrollIntoView({block: "nearest"});
-              searchInput.focus();
-            } else {
-              search.style.display = "none";
+        for (var searchButton of document.querySelectorAll(".search-button")) {
+          searchButton.addEventListener("click",
+            (e) => {
+              if (searchButton.classList.toggle("search-active")) {
+                search.style.display = "block";
+                search.scrollIntoView({block: "nearest"});
+                searchInput.focus();
+              } else {
+                search.style.display = "none";
+              }
             }
-          }
-        );
+          );
+        }
       }
     )
   </script>
