@@ -27,6 +27,8 @@ aliases = [
 
 {{ performer(name="David Conte") }}
 
+{{ performer(name="Mason Bates") }}
+
 </div>
 
 <div class="small">
