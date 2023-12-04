@@ -56,12 +56,35 @@ The specially discounted AGO Convention Rate is **$169/night**.
 to take advantage of this special AGO Convention discount. Be sure to use only this link to book
 your room, to secure your reservation and avoid booking problems and extra charges.
 
+## Looking for a roommate?
+
+If you are interested in sharing a hotel room at SF AGO 2024, please email {{ contact(name="Valerie Franzen") }}
+and include the word "roommate" in the subject line.
+
+{% contact_card(name="Valerie Franzen") %}
+<a href="mailto:vfranzen@agohq.org">vfranzen@agohq.org</a>
+{% end %}
+
 # Travel by Air
 
 The Bay Area is served by two major airports,
 {% external_link(href="https://www.flysfo.com/") %}San Francisco International (SFO){% end %}
 and
 {% external_link(href="https://www.oaklandairport.com/") %}Oakland International (OAK){% end %}.
+
+## Alaska Airlines 5% Discount
+
+SF AGO 2024 has partnered with Alaska Airlines to provide a 5% discount on airfare. To use the
+discount, visit
+{% external_link(href="https://www.alaskaair.com/planbook?lid=form:use-discount-code") %}alaskaair.com{% end %}
+and enter the Discount Code **`ECMK222`** when searching for flights. The discount will be applied
+to any flights meeting the contract parameters; click the **`?`** icon next to the discount
+code box to view a detailed description of the rules.
+
+If you have questions about the Discount Code, please contact the Group Desk at 800-445-4435. You
+and your guests may also use the Discount Code by calling Alaska Airlines Group Desk; however, a
+$15.00 per person service fee will apply. Alaska Airlines Group Desk hours of operation are Monday–
+Friday 6am–6pm PST, Saturday 7:30am–6pm PST, closed Sunday.
 
 # Public Transportation
 
@@ -71,8 +94,8 @@ Clipper Card from machines in the stations, using cash or credit card. The neare
 Marriott Marquis is **Powell Street**, which is a short walk from the hotel.
 
 For information on **public bus service**, here is a link to
-{% external_link(href="https://www.sfmta.com/") %}SFMTA{% end %}
-, the San Francisco Municipal Bus website.
+{% external_link(href="https://www.sfmta.com/") %}SFMTA{% end %},
+the San Francisco Municipal Bus website.
 
 # Hotel Parking
 

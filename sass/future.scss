@@ -16,13 +16,13 @@ $mobile-width: 800px;
   src: url("/font/SourceSans3VF-Italic.otf.woff2") format("woff2-variations");
 }
 
-// @font-face {
-//   font-family: "Source Code VF";
-//   font-style: normal;
-//   font-weight: 200 900;
-//   font-stretch: normal;
-//   src: url("/font/SourceCodeVF-Upright.otf.woff2") format("woff2-variations");
-// }
+@font-face {
+  font-family: "Source Code VF";
+  font-style: normal;
+  font-weight: 200 900;
+  font-stretch: normal;
+  src: url("/font/SourceCodeVF-Upright.otf.woff2") format("woff2-variations");
+}
 
 // @font-face {
 //   font-family: "Source Code VF";
@@ -96,8 +96,7 @@ ol {
 
 tt,
 code {
-  // font-family: "Source Code VF", monospace;
-  // font-weight: 350;
+  font-family: "Source Code VF", monospace;
 }
 
 address {
@@ -786,7 +785,7 @@ table {
     }
   }
 
-  line-height: 1;
+  line-height: 1.2;
 
   p {
     text-align: inherit;

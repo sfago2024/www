@@ -135,3 +135,26 @@ San Leandro, CA 94578-0546
 # Offline Registration
 
 If you're unable to register online, please contact {{ contact(name="Paul Ellison") }}.
+
+<!--
+
+# Volunteer
+
+Looking to connect with more people at SF AGO 2024? Opportunities exist before and after the
+convention. To learn more, please contact {{ contact(name="Rani Fischer") }}.
+
+{% contact_card(name="Rani Fischer", position="Volunteer Coordinator") %}
+<a href="mailto:volunteer@sfago2024.org">volunteer@sfago2024.org</a>
+{% end %}
+
+-->
+
+# Receptions – Alumni, Denominational, and Corporate
+
+Building community is integral to the AGO Mission. As such, opportunities are available to host
+receptions during the convention. For more information, please contact {{ contact(name="Valerie Franzen") }}
+and include the word "reception" in the subject line.
+
+{% contact_card(name="Valerie Franzen") %}
+<a href="mailto:vfranzen@agohq.org">vfranzen@agohq.org</a>
+{% end %}
