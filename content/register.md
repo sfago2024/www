@@ -76,6 +76,13 @@ application to secure the reduced rate for the convention.
 
 Bus transportation between convention events is **included** in all registration rates.
 
+## Model Financial Support Request Letter to Employer
+
+Asking your employer for funds to attend the convention? You may download and adapt our
+{% docx_link(href="/attachments/AGO 2024 Financial Support Request.docx") %}financial
+support request letter{% end %}
+for your use when requesting financial support to attend the 2024 AGO National Convention.
+
 # Partner organizations
 
 Member registration rates are available to current members of the following organizations:
