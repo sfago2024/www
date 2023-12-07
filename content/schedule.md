@@ -158,7 +158,7 @@ show_toc = true
 <span class="time">5:00&nbsp;<i>PM</i> – 7:30&nbsp;<i>PM</i></span>
 <span class="event">Dinner (on your own)</span>
 <span class="time">8:00&nbsp;<i>PM</i> – 9:30&nbsp;<i>PM</i></span>
-<span class="event">St. Cecilia Recital: Janette Fishell – {% location_link() %}St. Mary’s Cathedral{% end %}<br>Commisioned piece: Mason Bates</span>
+<span class="event">St. Cecilia Recital: Janette Fishell – {% location_link() %}St. Mary’s Cathedral{% end %}<br>Commissioned piece: Mason Bates</span>
 <span class="time">9:30&nbsp;<i>PM</i> – 11:30&nbsp;<i>PM</i></span>
 <span class="event">St. Cecilia Reception – {% location_link() %}St. Mary’s Cathedral{% end %}</span>
 </div>
