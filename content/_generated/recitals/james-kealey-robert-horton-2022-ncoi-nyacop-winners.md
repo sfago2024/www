@@ -9,7 +9,7 @@ aliases = ["/future/recitals/james-kealey-robert-horton-2022-ncoi-nyacop-winners
 
 <h2>Date/Time</h2>
 <p>Wednesday, July 03, 2024<br>
-09:30 AM – 11:15 AM</p>
+09:15 AM – 11:15 AM</p>
 <h2>Presenters</h2>
 <ul>
 <li><a href="/performers/james-kealey/">James Kealey</a></li>
