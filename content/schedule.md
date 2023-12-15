@@ -128,7 +128,7 @@ show_toc = true
 
 <div class="schedule">
 <span class="time">9:00&nbsp;<i>AM</i> – 9:45&nbsp;<i>AM</i></span>
-<span class="event">Concert: Abigail Crafton, Alexander Leonardi, and Owen Tellinghuisen [Rising Stars] – {% location_link() %}First Congregational Church, Berkeley{% end %}</span>
+<span class="event">Concert: Abigail Crafton, Alexander Leonardi, and Owen Tellinghuisen [Rising Stars] – {% location_link() %}First Congregational Church, Berkeley{% end %}<br>Made possible by a generous grant from Michael Quimby, President, Quimby Pipe Organs, Inc.</span>
 <span class="time">9:00&nbsp;<i>AM</i> – 9:45&nbsp;<i>AM</i></span>
 <span class="event">Concert: Doug Cleveland – {% location_link() %}St. Mark’s Episcopal Church, Berkeley{% end %}<br>Commissioned Piece: Mason Prize</span>
 <span class="time">9:00&nbsp;<i>AM</i> – 9:45&nbsp;<i>AM</i></span>
@@ -138,7 +138,7 @@ show_toc = true
 <span class="time">9:15&nbsp;<i>AM</i> – 11:15&nbsp;<i>AM</i></span>
 <span class="event">Concert: Robert Horton and James Kealey [2022 NCOI and NYACOP Winners] – {% location_link() %}UU Church of Berkeley{% end %}<br>Commissioned piece: Iain Farrington [played by James Kealey]</span>
 <span class="time">10:45&nbsp;<i>AM</i> – 11:30&nbsp;<i>AM</i></span>
-<span class="event">Concert: Nathan Elsbernd, Trevor Good, and Marshall Joos [Rising Stars] – {% location_link() %}First Congregational Church, Berkeley{% end %}</span>
+<span class="event">Concert: Nathan Elsbernd, Trevor Good, and Marshall Joos [Rising Stars] – {% location_link() %}First Congregational Church, Berkeley{% end %}<br>Made possible by a generous grant from Michael Quimby, President, Quimby Pipe Organs, Inc.</span>
 <span class="time">10:45&nbsp;<i>AM</i> – 11:30&nbsp;<i>AM</i></span>
 <span class="event">Concert: Doug Cleveland – {% location_link() %}St. Mark’s Episcopal Church, Berkeley{% end %}<br>Commissioned Piece: Mason Prize</span>
 <span class="time">10:45&nbsp;<i>AM</i> – 11:30&nbsp;<i>AM</i></span>
