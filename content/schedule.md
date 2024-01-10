@@ -119,7 +119,7 @@ show_toc = true
 <span class="time">5:30&nbsp;<i>PM</i> – 7:30&nbsp;<i>PM</i></span>
 <span class="event">Dinner (on your own)</span>
 <span class="time">8:00&nbsp;<i>PM</i> – 9:30&nbsp;<i>PM</i></span>
-<span class="event">Concert: Olivier Latry & Shin-Young Lee with the Berkeley Symphony Orchestra – {% location_link() %}St. Ignatius{% end %}</span>
+<span class="event">Concert: Olivier Latry & Shin-Young Lee with the Berkeley Symphony – {% location_link() %}St. Ignatius{% end %}</span>
 <span class="time">10:00&nbsp;<i>PM</i> – 12:00&nbsp;<i>AM</i></span>
 <span class="event">Exhibits open – {% location_link() %}Marriott Marquis{% end %}</span>
 </div>
