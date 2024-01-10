@@ -100,6 +100,7 @@ aliases = [
 
 {{ workshop(
   name="“New” Organ Chorales in the Schübler Tradition",
+  workshop_slug="new-organ-chorales-in-the-schübler-tradition",
   presenter="Marilyn Perkins Biery"
 ) }}
 

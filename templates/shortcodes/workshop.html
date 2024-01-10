@@ -1,5 +1,5 @@
 <div class="workshop" id="{{ name | slugify }}">
-<a class="title" href="/workshops/{{ name | slugify }}/">{{ name | safe }}</a>
+<a class="title" href="/workshops/{% if workshop_slug %}{{ workshop_slug }}{% else %}{{ name | slugify }}{% endif %}/">{{ name | safe }}</a>
 {% if presenter %}<a class="presenter" href="/people/{% if presenter_slug %}{{ presenter_slug }}{% else %}{{ presenter | slugify }}{% endif %}/">{{ presenter | safe }}</a>{% else %}<span class="presenter">&nbsp;</span>{% endif %}
 {% if presenter2 %}<a class="presenter" href="/people/{% if presenter2_slug %}{{ presenter2_slug }}{% else %}{{ presenter2 | slugify }}{% endif %}/">{{ presenter2 | safe }}</a>{% endif %}
 </div>
