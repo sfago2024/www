@@ -863,7 +863,7 @@ table {
     }
   }
 
-  &.header {
+  &.desktop {
     margin-left: clamp(1rem, calc(100vw - 512px - 32rem), 5rem);
 
     @media (max-width: $mobile-width) {
@@ -891,13 +891,18 @@ table {
     right: 0;
     bottom: 0;
     content: "";
+    pointer-events: none;
   }
 
-  &>img {
+  a {
+    display: block;
+  }
+
+  img {
     width: 100%;
   }
 
-  &.header {
+  &.desktop {
     max-width: 242px;
     aspect-ratio: 242 / 122;
   }
