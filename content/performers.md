@@ -37,7 +37,7 @@ aliases = [
 
 {{ performer(name="Annette Richards") }}
 
-{{ performer(name="Berkeley Symphony Orchestra") }}
+{{ performer(name="Berkeley Symphony") }}
 
 {{ performer(name="Chanticleer") }}
 
