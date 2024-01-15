@@ -122,7 +122,7 @@ aliases = [
 {{ workshop(
   name="AGO Competitions: What’s In It For You?",
   presenter="Molly Davey",
-  presenter2="M. Jonathan Ryan"
+  presenter2="Jonathan Ryan"
 ) }}
 
 {{ workshop(
@@ -164,7 +164,7 @@ aliases = [
 {{ workshop(
   name="Full STEAM Ahead: New World for New Organists",
   presenter="Sue Mitchell-Wallace",
-  presenter2="Elizabeth George, CMM"
+  presenter2="Elizabeth George"
 ) }}
 
 {{ workshop(
@@ -246,7 +246,8 @@ aliases = [
 
 {{ workshop(
   name="WIIFM — What's in it for Me? How to Influence Prospects to Become Members",
-  presenter="Elizabeth George, CMM"
+  presenter="Elizabeth George",
+  presenter2="Phylicia Ross"
 ) }}
 
 {{ workshop(
