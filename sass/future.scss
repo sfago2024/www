@@ -1051,19 +1051,15 @@ table {
     background-color: var(--bg);
     border-radius: 1rem;
     overflow: hidden;
-    font-weight: 400;
     padding-bottom: 0.25em;
     text-align: center;
     flex: 1 0 0;
+    text-decoration: none;
 
     img {
       width: 100%;
       aspect-ratio: 1/1;
       object-fit: cover;
-    }
-
-    a {
-      text-decoration: none;
     }
   }
 
@@ -1123,7 +1119,7 @@ table {
       padding: 1rem 0;
 
       color: inherit;
-      text-decoration: none;
+      text-decoration: underline;
       font-weight: 400;
     }
 
