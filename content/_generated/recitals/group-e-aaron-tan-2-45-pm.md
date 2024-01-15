@@ -2,7 +2,7 @@
 title = '''[GROUP E] Aaron Tan (2:45 PM)'''
 path = '''/recitals/group-e-aaron-tan-2-45-pm/'''
 template = "future.html"
-aliases = ["/future/recitals/group-e-aaron-tan-2-45-pm/","/sessions/group-e-aaron-tan-2-45-pm/","/future/sessions/group-e-aaron-tan-2-45-pm/"]
+aliases = ["/sessions/group-e-aaron-tan-2-45-pm/","/future/recitals/group-e-aaron-tan-2-45-pm/","/future/sessions/group-e-aaron-tan-2-45-pm/"]
 +++
 
 <h1>[GROUP E] Aaron Tan (2:45 PM)</h1>

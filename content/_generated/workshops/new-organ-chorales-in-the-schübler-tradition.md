@@ -2,7 +2,7 @@
 title = '''“New” Organ Chorales in the Schübler Tradition'''
 path = '''/workshops/new-organ-chorales-in-the-schübler-tradition/'''
 template = "future.html"
-aliases = ["/future/workshops/new-organ-chorales-in-the-schübler-tradition/","/sessions/new-organ-chorales-in-the-schübler-tradition/","/future/sessions/new-organ-chorales-in-the-schübler-tradition/"]
+aliases = ["/sessions/new-organ-chorales-in-the-schübler-tradition/","/future/workshops/new-organ-chorales-in-the-schübler-tradition/","/future/sessions/new-organ-chorales-in-the-schübler-tradition/"]
 +++
 
 <h1>“New” Organ Chorales in the Schübler Tradition</h1>

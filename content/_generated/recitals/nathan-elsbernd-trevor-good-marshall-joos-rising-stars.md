@@ -2,7 +2,7 @@
 title = '''Nathan Elsbernd, Trevor Good, & Marshall Joos (Rising Stars)'''
 path = '''/recitals/nathan-elsbernd-trevor-good-marshall-joos-rising-stars/'''
 template = "future.html"
-aliases = ["/future/recitals/nathan-elsbernd-trevor-good-marshall-joos-rising-stars/","/sessions/nathan-elsbernd-trevor-good-marshall-joos-rising-stars/","/future/sessions/nathan-elsbernd-trevor-good-marshall-joos-rising-stars/"]
+aliases = ["/sessions/nathan-elsbernd-trevor-good-marshall-joos-rising-stars/","/future/recitals/nathan-elsbernd-trevor-good-marshall-joos-rising-stars/","/future/sessions/nathan-elsbernd-trevor-good-marshall-joos-rising-stars/"]
 +++
 
 <h1>Nathan Elsbernd, Trevor Good, & Marshall Joos (Rising Stars)</h1>

@@ -2,7 +2,7 @@
 title = '''From iPad to Organ — Tech Tips'''
 path = '''/workshops/from-ipad-to-organ-tech-tips/'''
 template = "future.html"
-aliases = ["/future/workshops/from-ipad-to-organ-tech-tips/","/sessions/from-ipad-to-organ-tech-tips/","/future/sessions/from-ipad-to-organ-tech-tips/"]
+aliases = ["/sessions/from-ipad-to-organ-tech-tips/","/future/workshops/from-ipad-to-organ-tech-tips/","/future/sessions/from-ipad-to-organ-tech-tips/"]
 +++
 
 <h1>From iPad to Organ — Tech Tips</h1>

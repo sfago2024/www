@@ -2,7 +2,7 @@
 title = '''Organ Music by Women Composers'''
 path = '''/workshops/organ-music-by-women-composers/'''
 template = "future.html"
-aliases = ["/future/workshops/organ-music-by-women-composers/","/sessions/organ-music-by-women-composers/","/future/sessions/organ-music-by-women-composers/"]
+aliases = ["/sessions/organ-music-by-women-composers/","/future/workshops/organ-music-by-women-composers/","/future/sessions/organ-music-by-women-composers/"]
 +++
 
 <h1>Organ Music by Women Composers</h1>

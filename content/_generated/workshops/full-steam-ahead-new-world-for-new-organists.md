@@ -2,7 +2,7 @@
 title = '''Full STEAM Ahead: New World for New Organists'''
 path = '''/workshops/full-steam-ahead-new-world-for-new-organists/'''
 template = "future.html"
-aliases = ["/future/workshops/full-steam-ahead-new-world-for-new-organists/","/sessions/full-steam-ahead-new-world-for-new-organists/","/future/sessions/full-steam-ahead-new-world-for-new-organists/"]
+aliases = ["/sessions/full-steam-ahead-new-world-for-new-organists/","/future/workshops/full-steam-ahead-new-world-for-new-organists/","/future/sessions/full-steam-ahead-new-world-for-new-organists/"]
 +++
 
 <h1>Full STEAM Ahead: New World for New Organists</h1>

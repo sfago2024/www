@@ -2,7 +2,7 @@
 title = '''Mason Bates'''
 path = '''/composers/mason-bates/'''
 template = "future.html"
-aliases = ["/future/composers/mason-bates/","/people/mason-bates/","/future/people/mason-bates/"]
+aliases = ["/people/mason-bates/","/future/composers/mason-bates/","/future/people/mason-bates/"]
 +++
 
 <h1>Mason Bates</h1>

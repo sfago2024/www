@@ -2,7 +2,7 @@
 title = '''Melissa Dunphy'''
 path = '''/composers/melissa-dunphy/'''
 template = "future.html"
-aliases = ["/future/composers/melissa-dunphy/","/people/melissa-dunphy/","/future/people/melissa-dunphy/"]
+aliases = ["/people/melissa-dunphy/","/future/composers/melissa-dunphy/","/future/people/melissa-dunphy/"]
 +++
 
 <h1>Melissa Dunphy</h1>

@@ -2,7 +2,7 @@
 title = '''Meditations on the Nativity'''
 path = '''/workshops/meditations-on-the-nativity/'''
 template = "future.html"
-aliases = ["/future/workshops/meditations-on-the-nativity/","/sessions/meditations-on-the-nativity/","/future/sessions/meditations-on-the-nativity/"]
+aliases = ["/sessions/meditations-on-the-nativity/","/future/workshops/meditations-on-the-nativity/","/future/sessions/meditations-on-the-nativity/"]
 +++
 
 <h1>Meditations on the Nativity</h1>

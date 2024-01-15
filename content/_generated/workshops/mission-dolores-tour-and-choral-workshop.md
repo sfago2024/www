@@ -2,7 +2,7 @@
 title = '''Mission Dolores Tour and Choral Workshop'''
 path = '''/workshops/mission-dolores-tour-and-choral-workshop/'''
 template = "future.html"
-aliases = ["/future/workshops/mission-dolores-tour-and-choral-workshop/","/sessions/mission-dolores-tour-and-choral-workshop/","/future/sessions/mission-dolores-tour-and-choral-workshop/"]
+aliases = ["/sessions/mission-dolores-tour-and-choral-workshop/","/future/workshops/mission-dolores-tour-and-choral-workshop/","/future/sessions/mission-dolores-tour-and-choral-workshop/"]
 +++
 
 <h1>Mission Dolores Tour and Choral Workshop</h1>

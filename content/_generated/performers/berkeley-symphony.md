@@ -1,11 +1,11 @@
 +++
-title = '''Berkeley Symphony Orchestra'''
-path = '''/performers/berkeley-symphony-orchestra/'''
+title = '''Berkeley Symphony'''
+path = '''/performers/berkeley-symphony/'''
 template = "future.html"
-aliases = ["/future/performers/berkeley-symphony-orchestra/","/people/berkeley-symphony-orchestra/","/future/people/berkeley-symphony-orchestra/"]
+aliases = ["/performers/berkeley-symphony-orchestra/","/people/berkeley-symphony/","/people/berkeley-symphony-orchestra/","/future/performers/berkeley-symphony-orchestra/","/future/people/berkeley-symphony-orchestra/"]
 +++
 
-<h1>Berkeley Symphony Orchestra</h1>
+<h1>Berkeley Symphony</h1>
 
 <img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/98f6e0b5c52e4fdd82ae5358d527f36f.jpeg">
 <h2>Biography</h2>

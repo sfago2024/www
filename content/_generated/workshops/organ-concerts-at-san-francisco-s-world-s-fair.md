@@ -2,7 +2,7 @@
 title = '''Organ Concerts at San Francisco’s World’s Fair'''
 path = '''/workshops/organ-concerts-at-san-francisco-s-world-s-fair/'''
 template = "future.html"
-aliases = ["/future/workshops/organ-concerts-at-san-francisco-s-world-s-fair/","/sessions/organ-concerts-at-san-francisco-s-world-s-fair/","/future/sessions/organ-concerts-at-san-francisco-s-world-s-fair/"]
+aliases = ["/sessions/organ-concerts-at-san-francisco-s-world-s-fair/","/future/workshops/organ-concerts-at-san-francisco-s-world-s-fair/","/future/sessions/organ-concerts-at-san-francisco-s-world-s-fair/"]
 +++
 
 <h1>Organ Concerts at San Francisco’s World’s Fair</h1>

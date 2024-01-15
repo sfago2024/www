@@ -2,7 +2,7 @@
 title = '''AGO Certification: A 21st-Century Facelift Continued'''
 path = '''/workshops/ago-certification-a-21st-century-facelift-continued/'''
 template = "future.html"
-aliases = ["/future/workshops/ago-certification-a-21st-century-facelift-continued/","/sessions/ago-certification-a-21st-century-facelift-continued/","/future/sessions/ago-certification-a-21st-century-facelift-continued/"]
+aliases = ["/sessions/ago-certification-a-21st-century-facelift-continued/","/future/workshops/ago-certification-a-21st-century-facelift-continued/","/future/sessions/ago-certification-a-21st-century-facelift-continued/"]
 +++
 
 <h1>AGO Certification: A 21st-Century Facelift Continued</h1>

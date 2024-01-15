@@ -2,7 +2,7 @@
 title = '''Yes, You Can: Organ Improvisation for All'''
 path = '''/workshops/yes-you-can-organ-improvisation-for-all/'''
 template = "future.html"
-aliases = ["/future/workshops/yes-you-can-organ-improvisation-for-all/","/sessions/yes-you-can-organ-improvisation-for-all/","/future/sessions/yes-you-can-organ-improvisation-for-all/"]
+aliases = ["/sessions/yes-you-can-organ-improvisation-for-all/","/future/workshops/yes-you-can-organ-improvisation-for-all/","/future/sessions/yes-you-can-organ-improvisation-for-all/"]
 +++
 
 <h1>Yes, You Can: Organ Improvisation for All</h1>

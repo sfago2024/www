@@ -2,7 +2,7 @@
 title = '''Organ Music of African American Women Composers'''
 path = '''/workshops/organ-music-of-african-american-women-composers/'''
 template = "future.html"
-aliases = ["/future/workshops/organ-music-of-african-american-women-composers/","/sessions/organ-music-of-african-american-women-composers/","/future/sessions/organ-music-of-african-american-women-composers/"]
+aliases = ["/sessions/organ-music-of-african-american-women-composers/","/future/workshops/organ-music-of-african-american-women-composers/","/future/sessions/organ-music-of-african-american-women-composers/"]
 +++
 
 <h1>Organ Music of African American Women Composers</h1>

@@ -2,7 +2,7 @@
 title = '''Mindfulness and Spiritual Wellbeing for Church Musicians'''
 path = '''/workshops/mindfulness-and-spiritual-wellbeing-for-church-musicians/'''
 template = "future.html"
-aliases = ["/future/workshops/mindfulness-and-spiritual-wellbeing-for-church-musicians/","/sessions/mindfulness-and-spiritual-wellbeing-for-church-musicians/","/future/sessions/mindfulness-and-spiritual-wellbeing-for-church-musicians/"]
+aliases = ["/sessions/mindfulness-and-spiritual-wellbeing-for-church-musicians/","/future/workshops/mindfulness-and-spiritual-wellbeing-for-church-musicians/","/future/sessions/mindfulness-and-spiritual-wellbeing-for-church-musicians/"]
 +++
 
 <h1>Mindfulness and Spiritual Wellbeing for Church Musicians</h1>

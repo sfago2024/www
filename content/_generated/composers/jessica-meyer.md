@@ -2,7 +2,7 @@
 title = '''Jessica Meyer'''
 path = '''/composers/jessica-meyer/'''
 template = "future.html"
-aliases = ["/future/composers/jessica-meyer/","/people/jessica-meyer/","/future/people/jessica-meyer/"]
+aliases = ["/people/jessica-meyer/","/future/composers/jessica-meyer/","/future/people/jessica-meyer/"]
 +++
 
 <h1>Jessica Meyer</h1>

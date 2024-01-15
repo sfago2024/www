@@ -2,7 +2,7 @@
 title = '''The Dynamics of Making Great Wine and Great Chapter Leaders'''
 path = '''/workshops/the-dynamics-of-making-great-wine-and-great-chapter-leaders/'''
 template = "future.html"
-aliases = ["/future/workshops/the-dynamics-of-making-great-wine-and-great-chapter-leaders/","/sessions/the-dynamics-of-making-great-wine-and-great-chapter-leaders/","/future/sessions/the-dynamics-of-making-great-wine-and-great-chapter-leaders/"]
+aliases = ["/sessions/the-dynamics-of-making-great-wine-and-great-chapter-leaders/","/future/workshops/the-dynamics-of-making-great-wine-and-great-chapter-leaders/","/future/sessions/the-dynamics-of-making-great-wine-and-great-chapter-leaders/"]
 +++
 
 <h1>The Dynamics of Making Great Wine and Great Chapter Leaders</h1>

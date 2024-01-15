@@ -2,7 +2,7 @@
 title = '''GIA Reading Session – Organ Music of Black Composers'''
 path = '''/workshops/gia-reading-session-organ-music-of-black-composers/'''
 template = "future.html"
-aliases = ["/future/workshops/gia-reading-session-organ-music-of-black-composers/","/sessions/gia-reading-session-organ-music-of-black-composers/","/future/sessions/gia-reading-session-organ-music-of-black-composers/"]
+aliases = ["/sessions/gia-reading-session-organ-music-of-black-composers/","/future/workshops/gia-reading-session-organ-music-of-black-composers/","/future/sessions/gia-reading-session-organ-music-of-black-composers/"]
 +++
 
 <h1>GIA Reading Session – Organ Music of Black Composers</h1>

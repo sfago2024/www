@@ -2,7 +2,7 @@
 title = '''Marilyn Perkins Biery'''
 path = '''/presenters/marilyn-perkins-biery/'''
 template = "future.html"
-aliases = ["/future/presenters/marilyn-perkins-biery/","/people/marilyn-perkins-biery/","/future/people/marilyn-perkins-biery/"]
+aliases = ["/people/marilyn-perkins-biery/","/future/presenters/marilyn-perkins-biery/","/future/people/marilyn-perkins-biery/"]
 +++
 
 <h1>Marilyn Perkins Biery</h1>

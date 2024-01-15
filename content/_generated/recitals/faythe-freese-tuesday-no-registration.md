@@ -2,7 +2,7 @@
 title = '''Faythe Freese (Tuesday — No Registration)'''
 path = '''/recitals/faythe-freese-tuesday-no-registration/'''
 template = "future.html"
-aliases = ["/future/recitals/faythe-freese-tuesday-no-registration/","/sessions/faythe-freese-tuesday-no-registration/","/future/sessions/faythe-freese-tuesday-no-registration/"]
+aliases = ["/sessions/faythe-freese-tuesday-no-registration/","/future/recitals/faythe-freese-tuesday-no-registration/","/future/sessions/faythe-freese-tuesday-no-registration/"]
 +++
 
 <h1>Faythe Freese (Tuesday — No Registration)</h1>

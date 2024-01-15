@@ -2,7 +2,7 @@
 title = '''Befriending the Butterflies: Techniques for Embracing Performance Anxiety'''
 path = '''/workshops/befriending-the-butterflies-techniques-for-embracing-performance-anxiety/'''
 template = "future.html"
-aliases = ["/future/workshops/befriending-the-butterflies-techniques-for-embracing-performance-anxiety/","/sessions/befriending-the-butterflies-techniques-for-embracing-performance-anxiety/","/future/sessions/befriending-the-butterflies-techniques-for-embracing-performance-anxiety/"]
+aliases = ["/sessions/befriending-the-butterflies-techniques-for-embracing-performance-anxiety/","/future/workshops/befriending-the-butterflies-techniques-for-embracing-performance-anxiety/","/future/sessions/befriending-the-butterflies-techniques-for-embracing-performance-anxiety/"]
 +++
 
 <h1>Befriending the Butterflies: Techniques for Embracing Performance Anxiety</h1>

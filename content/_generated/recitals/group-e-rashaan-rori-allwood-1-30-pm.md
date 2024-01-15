@@ -2,7 +2,7 @@
 title = '''[GROUP E] Rashaan Rori Allwood (1:30 PM)'''
 path = '''/recitals/group-e-rashaan-rori-allwood-1-30-pm/'''
 template = "future.html"
-aliases = ["/future/recitals/group-e-rashaan-rori-allwood-1-30-pm/","/sessions/group-e-rashaan-rori-allwood-1-30-pm/","/future/sessions/group-e-rashaan-rori-allwood-1-30-pm/"]
+aliases = ["/sessions/group-e-rashaan-rori-allwood-1-30-pm/","/future/recitals/group-e-rashaan-rori-allwood-1-30-pm/","/future/sessions/group-e-rashaan-rori-allwood-1-30-pm/"]
 +++
 
 <h1>[GROUP E] Rashaan Rori Allwood (1:30 PM)</h1>

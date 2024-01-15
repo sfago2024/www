@@ -2,7 +2,7 @@
 title = '''How the West Was Won: The Impact of Railroad Tourism on Organ Culture'''
 path = '''/workshops/how-the-west-was-won-the-impact-of-railroad-tourism-on-organ-culture/'''
 template = "future.html"
-aliases = ["/future/workshops/how-the-west-was-won-the-impact-of-railroad-tourism-on-organ-culture/","/sessions/how-the-west-was-won-the-impact-of-railroad-tourism-on-organ-culture/","/future/sessions/how-the-west-was-won-the-impact-of-railroad-tourism-on-organ-culture/"]
+aliases = ["/sessions/how-the-west-was-won-the-impact-of-railroad-tourism-on-organ-culture/","/future/workshops/how-the-west-was-won-the-impact-of-railroad-tourism-on-organ-culture/","/future/sessions/how-the-west-was-won-the-impact-of-railroad-tourism-on-organ-culture/"]
 +++
 
 <h1>How the West Was Won: The Impact of Railroad Tourism on Organ Culture</h1>

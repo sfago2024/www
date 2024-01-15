@@ -2,7 +2,7 @@
 title = '''David Higgs'''
 path = '''/performers/david-higgs/'''
 template = "future.html"
-aliases = ["/future/performers/david-higgs/","/people/david-higgs/","/future/people/david-higgs/"]
+aliases = ["/people/david-higgs/","/future/performers/david-higgs/","/future/people/david-higgs/"]
 +++
 
 <h1>David Higgs</h1>

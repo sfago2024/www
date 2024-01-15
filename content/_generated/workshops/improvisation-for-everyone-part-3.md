@@ -2,7 +2,7 @@
 title = '''Improvisation for Everyone, Part 3'''
 path = '''/workshops/improvisation-for-everyone-part-3/'''
 template = "future.html"
-aliases = ["/future/workshops/improvisation-for-everyone-part-3/","/sessions/improvisation-for-everyone-part-3/","/future/sessions/improvisation-for-everyone-part-3/"]
+aliases = ["/sessions/improvisation-for-everyone-part-3/","/future/workshops/improvisation-for-everyone-part-3/","/future/sessions/improvisation-for-everyone-part-3/"]
 +++
 
 <h1>Improvisation for Everyone, Part 3</h1>

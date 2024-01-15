@@ -2,7 +2,7 @@
 title = '''Weicheng Zhao'''
 path = '''/recitals/weicheng-zhao/'''
 template = "future.html"
-aliases = ["/future/recitals/weicheng-zhao/","/sessions/weicheng-zhao/","/future/sessions/weicheng-zhao/"]
+aliases = ["/sessions/weicheng-zhao/","/future/recitals/weicheng-zhao/","/future/sessions/weicheng-zhao/"]
 +++
 
 <h1>Weicheng Zhao</h1>

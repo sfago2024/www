@@ -2,7 +2,7 @@
 title = '''“The Rest of the Story…”'''
 path = '''/workshops/the-rest-of-the-story/'''
 template = "future.html"
-aliases = ["/future/workshops/the-rest-of-the-story/","/sessions/the-rest-of-the-story/","/future/sessions/the-rest-of-the-story/"]
+aliases = ["/sessions/the-rest-of-the-story/","/future/workshops/the-rest-of-the-story/","/future/sessions/the-rest-of-the-story/"]
 +++
 
 <h1>“The Rest of the Story…”</h1>

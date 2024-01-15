@@ -2,7 +2,7 @@
 title = '''David Higgs – Master Class'''
 path = '''/workshops/david-higgs-master-class/'''
 template = "future.html"
-aliases = ["/future/workshops/david-higgs-master-class/","/sessions/david-higgs-master-class/","/future/sessions/david-higgs-master-class/"]
+aliases = ["/sessions/david-higgs-master-class/","/future/workshops/david-higgs-master-class/","/future/sessions/david-higgs-master-class/"]
 +++
 
 <h1>David Higgs – Master Class</h1>

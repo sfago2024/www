@@ -2,7 +2,7 @@
 title = '''“Ask, and it shall be given you!” – Choral Workshop'''
 path = '''/workshops/ask-and-it-shall-be-given-you-choral-workshop/'''
 template = "future.html"
-aliases = ["/future/workshops/ask-and-it-shall-be-given-you-choral-workshop/","/sessions/ask-and-it-shall-be-given-you-choral-workshop/","/future/sessions/ask-and-it-shall-be-given-you-choral-workshop/"]
+aliases = ["/sessions/ask-and-it-shall-be-given-you-choral-workshop/","/future/workshops/ask-and-it-shall-be-given-you-choral-workshop/","/future/sessions/ask-and-it-shall-be-given-you-choral-workshop/"]
 +++
 
 <h1>“Ask, and it shall be given you!” – Choral Workshop</h1>

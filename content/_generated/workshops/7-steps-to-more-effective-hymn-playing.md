@@ -2,7 +2,7 @@
 title = '''7 Steps to More Effective Hymn Playing'''
 path = '''/workshops/7-steps-to-more-effective-hymn-playing/'''
 template = "future.html"
-aliases = ["/future/workshops/7-steps-to-more-effective-hymn-playing/","/sessions/7-steps-to-more-effective-hymn-playing/","/future/sessions/7-steps-to-more-effective-hymn-playing/"]
+aliases = ["/sessions/7-steps-to-more-effective-hymn-playing/","/future/workshops/7-steps-to-more-effective-hymn-playing/","/future/sessions/7-steps-to-more-effective-hymn-playing/"]
 +++
 
 <h1>7 Steps to More Effective Hymn Playing</h1>

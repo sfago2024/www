@@ -2,7 +2,7 @@
 title = '''Episcopal Morning Prayer - Mary Beth Bennett'''
 path = '''/worship/episcopal-morning-prayer-mary-beth-bennett/'''
 template = "future.html"
-aliases = ["/future/worship/episcopal-morning-prayer-mary-beth-bennett/","/sessions/episcopal-morning-prayer-mary-beth-bennett/","/future/sessions/episcopal-morning-prayer-mary-beth-bennett/"]
+aliases = ["/sessions/episcopal-morning-prayer-mary-beth-bennett/","/future/worship/episcopal-morning-prayer-mary-beth-bennett/","/future/sessions/episcopal-morning-prayer-mary-beth-bennett/"]
 +++
 
 <h1>Episcopal Morning Prayer - Mary Beth Bennett</h1>

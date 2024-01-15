@@ -2,7 +2,7 @@
 title = '''Pre-Convention Excursion & Organ Recital: Legion of Honor Museum'''
 path = '''/recitals/pre-convention-excursion-organ-recital-legion-of-honor-museum/'''
 template = "future.html"
-aliases = ["/future/recitals/pre-convention-excursion-organ-recital-legion-of-honor-museum/","/sessions/pre-convention-excursion-organ-recital-legion-of-honor-museum/","/future/sessions/pre-convention-excursion-organ-recital-legion-of-honor-museum/"]
+aliases = ["/sessions/pre-convention-excursion-organ-recital-legion-of-honor-museum/","/future/recitals/pre-convention-excursion-organ-recital-legion-of-honor-museum/","/future/sessions/pre-convention-excursion-organ-recital-legion-of-honor-museum/"]
 +++
 
 <h1>Pre-Convention Excursion & Organ Recital: Legion of Honor Museum</h1>

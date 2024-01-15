@@ -2,7 +2,7 @@
 title = '''A Great Host of Women Composers'''
 path = '''/workshops/a-great-host-of-women-composers/'''
 template = "future.html"
-aliases = ["/future/workshops/a-great-host-of-women-composers/","/sessions/a-great-host-of-women-composers/","/future/sessions/a-great-host-of-women-composers/"]
+aliases = ["/sessions/a-great-host-of-women-composers/","/future/workshops/a-great-host-of-women-composers/","/future/sessions/a-great-host-of-women-composers/"]
 +++
 
 <h1>A Great Host of Women Composers</h1>

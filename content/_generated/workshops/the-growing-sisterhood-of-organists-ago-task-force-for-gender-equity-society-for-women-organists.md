@@ -2,7 +2,7 @@
 title = '''The Growing Sisterhood of Organists: AGO Task Force for Gender Equity/Society for Women Organists'''
 path = '''/workshops/the-growing-sisterhood-of-organists-ago-task-force-for-gender-equity-society-for-women-organists/'''
 template = "future.html"
-aliases = ["/future/workshops/the-growing-sisterhood-of-organists-ago-task-force-for-gender-equity-society-for-women-organists/","/sessions/the-growing-sisterhood-of-organists-ago-task-force-for-gender-equity-society-for-women-organists/","/future/sessions/the-growing-sisterhood-of-organists-ago-task-force-for-gender-equity-society-for-women-organists/"]
+aliases = ["/sessions/the-growing-sisterhood-of-organists-ago-task-force-for-gender-equity-society-for-women-organists/","/future/workshops/the-growing-sisterhood-of-organists-ago-task-force-for-gender-equity-society-for-women-organists/","/future/sessions/the-growing-sisterhood-of-organists-ago-task-force-for-gender-equity-society-for-women-organists/"]
 +++
 
 <h1>The Growing Sisterhood of Organists: AGO Task Force for Gender Equity/Society for Women Organists</h1>

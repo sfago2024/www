@@ -1,11 +1,11 @@
 +++
-title = '''Shin-Young Lee & Olivier Latry with the Berkeley Symphony Orchestra'''
-path = '''/recitals/shin-young-lee-olivier-latry-with-the-berkeley-symphony-orchestra/'''
+title = '''Shin-Young Lee & Olivier Latry with the Berkeley Symphony'''
+path = '''/recitals/shin-young-lee-olivier-latry-with-the-berkeley-symphony/'''
 template = "future.html"
-aliases = ["/future/recitals/shin-young-lee-olivier-latry-with-the-berkeley-symphony-orchestra/","/sessions/shin-young-lee-olivier-latry-with-the-berkeley-symphony-orchestra/","/future/sessions/shin-young-lee-olivier-latry-with-the-berkeley-symphony-orchestra/"]
+aliases = ["/recitals/shin-young-lee-olivier-latry-with-the-berkeley-symphony-orchestra/","/sessions/shin-young-lee-olivier-latry-with-the-berkeley-symphony/","/sessions/shin-young-lee-olivier-latry-with-the-berkeley-symphony-orchestra/","/future/recitals/shin-young-lee-olivier-latry-with-the-berkeley-symphony-orchestra/","/future/sessions/shin-young-lee-olivier-latry-with-the-berkeley-symphony-orchestra/"]
 +++
 
-<h1>Shin-Young Lee & Olivier Latry with the Berkeley Symphony Orchestra</h1>
+<h1>Shin-Young Lee & Olivier Latry with the Berkeley Symphony</h1>
 
 <h2>Date/Time</h2>
 <p>Tuesday, July 02, 2024<br>
@@ -14,7 +14,7 @@ aliases = ["/future/recitals/shin-young-lee-olivier-latry-with-the-berkeley-symp
 <ul>
 <li><a href="/performers/olivier-latry/">Olivier Latry</a></li>
 <li><a href="/performers/shin-young-lee/">Shin-Young Lee</a></li>
-<li><a href="/performers/berkeley-symphony-orchestra/">Berkeley Symphony Orchestra</a></li>
+<li><a href="/performers/berkeley-symphony/">Berkeley Symphony</a></li>
 <li><a href="/performers/joseph-young/">Joseph Young</a></li>
 </ul>
 <h2>Description</h2>

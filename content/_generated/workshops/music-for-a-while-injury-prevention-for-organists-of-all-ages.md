@@ -2,7 +2,7 @@
 title = '''Music for a While: Injury Prevention for Organists of All Ages'''
 path = '''/workshops/music-for-a-while-injury-prevention-for-organists-of-all-ages/'''
 template = "future.html"
-aliases = ["/future/workshops/music-for-a-while-injury-prevention-for-organists-of-all-ages/","/sessions/music-for-a-while-injury-prevention-for-organists-of-all-ages/","/future/sessions/music-for-a-while-injury-prevention-for-organists-of-all-ages/"]
+aliases = ["/sessions/music-for-a-while-injury-prevention-for-organists-of-all-ages/","/future/workshops/music-for-a-while-injury-prevention-for-organists-of-all-ages/","/future/sessions/music-for-a-while-injury-prevention-for-organists-of-all-ages/"]
 +++
 
 <h1>Music for a While: Injury Prevention for Organists of All Ages</h1>

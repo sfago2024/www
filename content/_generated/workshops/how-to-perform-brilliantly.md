@@ -2,7 +2,7 @@
 title = '''How to Perform Brilliantly'''
 path = '''/workshops/how-to-perform-brilliantly/'''
 template = "future.html"
-aliases = ["/future/workshops/how-to-perform-brilliantly/","/sessions/how-to-perform-brilliantly/","/future/sessions/how-to-perform-brilliantly/"]
+aliases = ["/sessions/how-to-perform-brilliantly/","/future/workshops/how-to-perform-brilliantly/","/future/sessions/how-to-perform-brilliantly/"]
 +++
 
 <h1>How to Perform Brilliantly</h1>

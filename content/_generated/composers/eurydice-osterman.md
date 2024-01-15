@@ -2,7 +2,7 @@
 title = '''Eurydice Osterman'''
 path = '''/composers/eurydice-osterman/'''
 template = "future.html"
-aliases = ["/future/composers/eurydice-osterman/","/people/eurydice-osterman/","/future/people/eurydice-osterman/"]
+aliases = ["/people/eurydice-osterman/","/future/composers/eurydice-osterman/","/future/people/eurydice-osterman/"]
 +++
 
 <h1>Eurydice Osterman</h1>

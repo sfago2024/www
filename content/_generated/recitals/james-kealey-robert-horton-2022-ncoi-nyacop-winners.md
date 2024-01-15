@@ -2,7 +2,7 @@
 title = '''James Kealey & Robert Horton (2022 NCOI & NYACOP Winners)'''
 path = '''/recitals/james-kealey-robert-horton-2022-ncoi-nyacop-winners/'''
 template = "future.html"
-aliases = ["/future/recitals/james-kealey-robert-horton-2022-ncoi-nyacop-winners/","/sessions/james-kealey-robert-horton-2022-ncoi-nyacop-winners/","/future/sessions/james-kealey-robert-horton-2022-ncoi-nyacop-winners/"]
+aliases = ["/sessions/james-kealey-robert-horton-2022-ncoi-nyacop-winners/","/future/recitals/james-kealey-robert-horton-2022-ncoi-nyacop-winners/","/future/sessions/james-kealey-robert-horton-2022-ncoi-nyacop-winners/"]
 +++
 
 <h1>James Kealey & Robert Horton (2022 NCOI & NYACOP Winners)</h1>

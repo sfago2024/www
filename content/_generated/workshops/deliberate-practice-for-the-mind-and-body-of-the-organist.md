@@ -2,7 +2,7 @@
 title = '''Deliberate Practice for the Mind and Body of the Organist'''
 path = '''/workshops/deliberate-practice-for-the-mind-and-body-of-the-organist/'''
 template = "future.html"
-aliases = ["/future/workshops/deliberate-practice-for-the-mind-and-body-of-the-organist/","/sessions/deliberate-practice-for-the-mind-and-body-of-the-organist/","/future/sessions/deliberate-practice-for-the-mind-and-body-of-the-organist/"]
+aliases = ["/sessions/deliberate-practice-for-the-mind-and-body-of-the-organist/","/future/workshops/deliberate-practice-for-the-mind-and-body-of-the-organist/","/future/sessions/deliberate-practice-for-the-mind-and-body-of-the-organist/"]
 +++
 
 <h1>Deliberate Practice for the Mind and Body of the Organist</h1>

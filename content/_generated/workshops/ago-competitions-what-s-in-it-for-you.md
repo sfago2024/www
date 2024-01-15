@@ -2,7 +2,7 @@
 title = '''AGO Competitions: What’s In It For You?'''
 path = '''/workshops/ago-competitions-what-s-in-it-for-you/'''
 template = "future.html"
-aliases = ["/future/workshops/ago-competitions-what-s-in-it-for-you/","/sessions/ago-competitions-what-s-in-it-for-you/","/future/sessions/ago-competitions-what-s-in-it-for-you/"]
+aliases = ["/sessions/ago-competitions-what-s-in-it-for-you/","/future/workshops/ago-competitions-what-s-in-it-for-you/","/future/sessions/ago-competitions-what-s-in-it-for-you/"]
 +++
 
 <h1>AGO Competitions: What’s In It For You?</h1>

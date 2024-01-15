@@ -2,7 +2,7 @@
 title = '''The Music of Tustin Baker'''
 path = '''/workshops/the-music-of-tustin-baker/'''
 template = "future.html"
-aliases = ["/future/workshops/the-music-of-tustin-baker/","/sessions/the-music-of-tustin-baker/","/future/sessions/the-music-of-tustin-baker/"]
+aliases = ["/sessions/the-music-of-tustin-baker/","/future/workshops/the-music-of-tustin-baker/","/future/sessions/the-music-of-tustin-baker/"]
 +++
 
 <h1>The Music of Tustin Baker</h1>
@@ -14,4 +14,8 @@ aliases = ["/future/workshops/the-music-of-tustin-baker/","/sessions/the-music-o
 <ul>
 <li><a href="/presenters/jeremy-filsell/">Jeremy Filsell</a></li>
 </ul>
+<h2>Description</h2>
+
+Jeremy Filsell discusses the music of British composer and organist Reginald Tustin Baker (1900-1966).
+
 

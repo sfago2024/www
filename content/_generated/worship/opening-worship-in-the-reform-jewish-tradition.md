@@ -2,7 +2,7 @@
 title = '''Opening Worship in the Reform Jewish Tradition'''
 path = '''/worship/opening-worship-in-the-reform-jewish-tradition/'''
 template = "future.html"
-aliases = ["/future/worship/opening-worship-in-the-reform-jewish-tradition/","/sessions/opening-worship-in-the-reform-jewish-tradition/","/future/sessions/opening-worship-in-the-reform-jewish-tradition/"]
+aliases = ["/sessions/opening-worship-in-the-reform-jewish-tradition/","/future/worship/opening-worship-in-the-reform-jewish-tradition/","/future/sessions/opening-worship-in-the-reform-jewish-tradition/"]
 +++
 
 <h1>Opening Worship in the Reform Jewish Tradition</h1>

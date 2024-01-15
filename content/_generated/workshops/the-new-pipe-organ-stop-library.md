@@ -2,7 +2,7 @@
 title = '''The New Pipe Organ Stop Library'''
 path = '''/workshops/the-new-pipe-organ-stop-library/'''
 template = "future.html"
-aliases = ["/future/workshops/the-new-pipe-organ-stop-library/","/sessions/the-new-pipe-organ-stop-library/","/future/sessions/the-new-pipe-organ-stop-library/"]
+aliases = ["/sessions/the-new-pipe-organ-stop-library/","/future/workshops/the-new-pipe-organ-stop-library/","/future/sessions/the-new-pipe-organ-stop-library/"]
 +++
 
 <h1>The New Pipe Organ Stop Library</h1>

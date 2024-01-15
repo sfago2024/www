@@ -2,7 +2,7 @@
 title = '''Creative Concert Programming in the 21st Century'''
 path = '''/workshops/creative-concert-programming-in-the-21st-century/'''
 template = "future.html"
-aliases = ["/future/workshops/creative-concert-programming-in-the-21st-century/","/sessions/creative-concert-programming-in-the-21st-century/","/future/sessions/creative-concert-programming-in-the-21st-century/"]
+aliases = ["/sessions/creative-concert-programming-in-the-21st-century/","/future/workshops/creative-concert-programming-in-the-21st-century/","/future/sessions/creative-concert-programming-in-the-21st-century/"]
 +++
 
 <h1>Creative Concert Programming in the 21st Century</h1>

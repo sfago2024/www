@@ -2,7 +2,7 @@
 title = '''Transylvanian Organ Landscape: Historic Organ Restoration in Romania'''
 path = '''/workshops/transylvanian-organ-landscape-historic-organ-restoration-in-romania/'''
 template = "future.html"
-aliases = ["/future/workshops/transylvanian-organ-landscape-historic-organ-restoration-in-romania/","/sessions/transylvanian-organ-landscape-historic-organ-restoration-in-romania/","/future/sessions/transylvanian-organ-landscape-historic-organ-restoration-in-romania/"]
+aliases = ["/sessions/transylvanian-organ-landscape-historic-organ-restoration-in-romania/","/future/workshops/transylvanian-organ-landscape-historic-organ-restoration-in-romania/","/future/sessions/transylvanian-organ-landscape-historic-organ-restoration-in-romania/"]
 +++
 
 <h1>Transylvanian Organ Landscape: Historic Organ Restoration in Romania</h1>

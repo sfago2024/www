@@ -2,7 +2,7 @@
 title = '''Oxford University Press – Choral and Organ Reading Session'''
 path = '''/workshops/oxford-university-press-choral-and-organ-reading-session/'''
 template = "future.html"
-aliases = ["/future/workshops/oxford-university-press-choral-and-organ-reading-session/","/sessions/oxford-university-press-choral-and-organ-reading-session/","/future/sessions/oxford-university-press-choral-and-organ-reading-session/"]
+aliases = ["/sessions/oxford-university-press-choral-and-organ-reading-session/","/future/workshops/oxford-university-press-choral-and-organ-reading-session/","/future/sessions/oxford-university-press-choral-and-organ-reading-session/"]
 +++
 
 <h1>Oxford University Press – Choral and Organ Reading Session</h1>

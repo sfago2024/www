@@ -2,7 +2,7 @@
 title = '''3 Steps to Your Own Hymn Reharmonizations'''
 path = '''/workshops/3-steps-to-your-own-hymn-reharmonizations/'''
 template = "future.html"
-aliases = ["/future/workshops/3-steps-to-your-own-hymn-reharmonizations/","/sessions/3-steps-to-your-own-hymn-reharmonizations/","/future/sessions/3-steps-to-your-own-hymn-reharmonizations/"]
+aliases = ["/sessions/3-steps-to-your-own-hymn-reharmonizations/","/future/workshops/3-steps-to-your-own-hymn-reharmonizations/","/future/sessions/3-steps-to-your-own-hymn-reharmonizations/"]
 +++
 
 <h1>3 Steps to Your Own Hymn Reharmonizations</h1>

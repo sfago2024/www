@@ -2,7 +2,7 @@
 title = '''“To Please and to Astonish”: Creative Programming'''
 path = '''/workshops/to-please-and-to-astonish-creative-programming/'''
 template = "future.html"
-aliases = ["/future/workshops/to-please-and-to-astonish-creative-programming/","/sessions/to-please-and-to-astonish-creative-programming/","/future/sessions/to-please-and-to-astonish-creative-programming/"]
+aliases = ["/sessions/to-please-and-to-astonish-creative-programming/","/future/workshops/to-please-and-to-astonish-creative-programming/","/future/sessions/to-please-and-to-astonish-creative-programming/"]
 +++
 
 <h1>“To Please and to Astonish”: Creative Programming</h1>

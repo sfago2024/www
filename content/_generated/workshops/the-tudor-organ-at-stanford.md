@@ -2,7 +2,7 @@
 title = '''The Tudor Organ at Stanford'''
 path = '''/workshops/the-tudor-organ-at-stanford/'''
 template = "future.html"
-aliases = ["/future/workshops/the-tudor-organ-at-stanford/","/sessions/the-tudor-organ-at-stanford/","/future/sessions/the-tudor-organ-at-stanford/"]
+aliases = ["/sessions/the-tudor-organ-at-stanford/","/future/workshops/the-tudor-organ-at-stanford/","/future/sessions/the-tudor-organ-at-stanford/"]
 +++
 
 <h1>The Tudor Organ at Stanford</h1>

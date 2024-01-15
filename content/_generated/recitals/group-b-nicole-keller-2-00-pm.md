@@ -2,7 +2,7 @@
 title = '''[GROUP B] Nicole Keller (2:00 PM)'''
 path = '''/recitals/group-b-nicole-keller-2-00-pm/'''
 template = "future.html"
-aliases = ["/future/recitals/group-b-nicole-keller-2-00-pm/","/sessions/group-b-nicole-keller-2-00-pm/","/future/sessions/group-b-nicole-keller-2-00-pm/"]
+aliases = ["/sessions/group-b-nicole-keller-2-00-pm/","/future/recitals/group-b-nicole-keller-2-00-pm/","/future/sessions/group-b-nicole-keller-2-00-pm/"]
 +++
 
 <h1>[GROUP B] Nicole Keller (2:00 PM)</h1>

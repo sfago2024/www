@@ -2,7 +2,7 @@
 title = '''Mr. Skinner’s Legacy'''
 path = '''/workshops/mr-skinner-s-legacy/'''
 template = "future.html"
-aliases = ["/future/workshops/mr-skinner-s-legacy/","/sessions/mr-skinner-s-legacy/","/future/sessions/mr-skinner-s-legacy/"]
+aliases = ["/sessions/mr-skinner-s-legacy/","/future/workshops/mr-skinner-s-legacy/","/future/sessions/mr-skinner-s-legacy/"]
 +++
 
 <h1>Mr. Skinner’s Legacy</h1>

@@ -2,7 +2,7 @@
 title = '''The Weekend Organist'''
 path = '''/workshops/the-weekend-organist/'''
 template = "future.html"
-aliases = ["/future/workshops/the-weekend-organist/","/sessions/the-weekend-organist/","/future/sessions/the-weekend-organist/"]
+aliases = ["/sessions/the-weekend-organist/","/future/workshops/the-weekend-organist/","/future/sessions/the-weekend-organist/"]
 +++
 
 <h1>The Weekend Organist</h1>

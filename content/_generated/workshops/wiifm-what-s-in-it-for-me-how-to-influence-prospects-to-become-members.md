@@ -2,7 +2,7 @@
 title = '''WIIFM — What’s in it for Me? How to Influence Prospects to Become Members'''
 path = '''/workshops/wiifm-what-s-in-it-for-me-how-to-influence-prospects-to-become-members/'''
 template = "future.html"
-aliases = ["/future/workshops/wiifm-what-s-in-it-for-me-how-to-influence-prospects-to-become-members/","/sessions/wiifm-what-s-in-it-for-me-how-to-influence-prospects-to-become-members/","/future/sessions/wiifm-what-s-in-it-for-me-how-to-influence-prospects-to-become-members/"]
+aliases = ["/sessions/wiifm-what-s-in-it-for-me-how-to-influence-prospects-to-become-members/","/future/workshops/wiifm-what-s-in-it-for-me-how-to-influence-prospects-to-become-members/","/future/sessions/wiifm-what-s-in-it-for-me-how-to-influence-prospects-to-become-members/"]
 +++
 
 <h1>WIIFM — What’s in it for Me? How to Influence Prospects to Become Members</h1>

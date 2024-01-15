@@ -2,7 +2,7 @@
 title = '''Abigail Crafton, Alexander Leonardi, & Owen Tellinghuisen (Rising Stars)'''
 path = '''/recitals/abigail-crafton-alexander-leonardi-owen-tellinghuisen-rising-stars/'''
 template = "future.html"
-aliases = ["/future/recitals/abigail-crafton-alexander-leonardi-owen-tellinghuisen-rising-stars/","/sessions/abigail-crafton-alexander-leonardi-owen-tellinghuisen-rising-stars/","/future/sessions/abigail-crafton-alexander-leonardi-owen-tellinghuisen-rising-stars/"]
+aliases = ["/sessions/abigail-crafton-alexander-leonardi-owen-tellinghuisen-rising-stars/","/future/recitals/abigail-crafton-alexander-leonardi-owen-tellinghuisen-rising-stars/","/future/sessions/abigail-crafton-alexander-leonardi-owen-tellinghuisen-rising-stars/"]
 +++
 
 <h1>Abigail Crafton, Alexander Leonardi, & Owen Tellinghuisen (Rising Stars)</h1>

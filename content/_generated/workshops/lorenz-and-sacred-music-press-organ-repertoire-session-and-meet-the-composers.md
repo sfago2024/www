@@ -2,7 +2,7 @@
 title = '''Lorenz and Sacred Music Press – Organ Repertoire Session and Meet the Composers'''
 path = '''/workshops/lorenz-and-sacred-music-press-organ-repertoire-session-and-meet-the-composers/'''
 template = "future.html"
-aliases = ["/future/workshops/lorenz-and-sacred-music-press-organ-repertoire-session-and-meet-the-composers/","/sessions/lorenz-and-sacred-music-press-organ-repertoire-session-and-meet-the-composers/","/future/sessions/lorenz-and-sacred-music-press-organ-repertoire-session-and-meet-the-composers/"]
+aliases = ["/sessions/lorenz-and-sacred-music-press-organ-repertoire-session-and-meet-the-composers/","/future/workshops/lorenz-and-sacred-music-press-organ-repertoire-session-and-meet-the-composers/","/future/sessions/lorenz-and-sacred-music-press-organ-repertoire-session-and-meet-the-composers/"]
 +++
 
 <h1>Lorenz and Sacred Music Press – Organ Repertoire Session and Meet the Composers</h1>

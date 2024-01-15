@@ -2,7 +2,7 @@
 title = '''Lightning Talks'''
 path = '''/workshops/lightning-talks/'''
 template = "future.html"
-aliases = ["/future/workshops/lightning-talks/","/sessions/lightning-talks/","/future/sessions/lightning-talks/"]
+aliases = ["/sessions/lightning-talks/","/future/workshops/lightning-talks/","/future/sessions/lightning-talks/"]
 +++
 
 <h1>Lightning Talks</h1>

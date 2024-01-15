@@ -2,7 +2,7 @@
 title = '''Developing the Next Generation of Organists'''
 path = '''/workshops/developing-the-next-generation-of-organists/'''
 template = "future.html"
-aliases = ["/future/workshops/developing-the-next-generation-of-organists/","/sessions/developing-the-next-generation-of-organists/","/future/sessions/developing-the-next-generation-of-organists/"]
+aliases = ["/sessions/developing-the-next-generation-of-organists/","/future/workshops/developing-the-next-generation-of-organists/","/future/sessions/developing-the-next-generation-of-organists/"]
 +++
 
 <h1>Developing the Next Generation of Organists</h1>

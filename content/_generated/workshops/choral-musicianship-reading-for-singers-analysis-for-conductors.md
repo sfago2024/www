@@ -2,7 +2,7 @@
 title = '''Choral Musicianship: Reading for Singers; Analysis for Conductors'''
 path = '''/workshops/choral-musicianship-reading-for-singers-analysis-for-conductors/'''
 template = "future.html"
-aliases = ["/future/workshops/choral-musicianship-reading-for-singers-analysis-for-conductors/","/sessions/choral-musicianship-reading-for-singers-analysis-for-conductors/","/future/sessions/choral-musicianship-reading-for-singers-analysis-for-conductors/"]
+aliases = ["/sessions/choral-musicianship-reading-for-singers-analysis-for-conductors/","/future/workshops/choral-musicianship-reading-for-singers-analysis-for-conductors/","/future/sessions/choral-musicianship-reading-for-singers-analysis-for-conductors/"]
 +++
 
 <h1>Choral Musicianship: Reading for Singers; Analysis for Conductors</h1>

@@ -2,7 +2,7 @@
 title = '''Getting Your 21st-Century Congregation to Love the Organ in Worship'''
 path = '''/workshops/getting-your-21st-century-congregation-to-love-the-organ-in-worship/'''
 template = "future.html"
-aliases = ["/future/workshops/getting-your-21st-century-congregation-to-love-the-organ-in-worship/","/sessions/getting-your-21st-century-congregation-to-love-the-organ-in-worship/","/future/sessions/getting-your-21st-century-congregation-to-love-the-organ-in-worship/"]
+aliases = ["/sessions/getting-your-21st-century-congregation-to-love-the-organ-in-worship/","/future/workshops/getting-your-21st-century-congregation-to-love-the-organ-in-worship/","/future/sessions/getting-your-21st-century-congregation-to-love-the-organ-in-worship/"]
 +++
 
 <h1>Getting Your 21st-Century Congregation to Love the Organ in Worship</h1>

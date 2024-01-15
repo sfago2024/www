@@ -2,7 +2,7 @@
 title = '''You Can't Say That to Me!'''
 path = '''/workshops/you-can-t-say-that-to-me/'''
 template = "future.html"
-aliases = ["/future/workshops/you-can-t-say-that-to-me/","/sessions/you-can-t-say-that-to-me/","/future/sessions/you-can-t-say-that-to-me/"]
+aliases = ["/sessions/you-can-t-say-that-to-me/","/future/workshops/you-can-t-say-that-to-me/","/future/sessions/you-can-t-say-that-to-me/"]
 +++
 
 <h1>You Can't Say That to Me!</h1>

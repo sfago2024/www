@@ -2,7 +2,7 @@
 title = '''The Castro: Tales of the Village – Walking Tour'''
 path = '''/workshops/the-castro-tales-of-the-village-walking-tour/'''
 template = "future.html"
-aliases = ["/future/workshops/the-castro-tales-of-the-village-walking-tour/","/sessions/the-castro-tales-of-the-village-walking-tour/","/future/sessions/the-castro-tales-of-the-village-walking-tour/"]
+aliases = ["/sessions/the-castro-tales-of-the-village-walking-tour/","/future/workshops/the-castro-tales-of-the-village-walking-tour/","/future/sessions/the-castro-tales-of-the-village-walking-tour/"]
 +++
 
 <h1>The Castro: Tales of the Village – Walking Tour</h1>
