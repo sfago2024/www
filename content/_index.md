@@ -33,7 +33,7 @@ wide = true
 </p>
 
 <div class="ad mobile midpage">
-  <div class="ad-container mobile"><a class="ad-link" href="/advertise-exhibit/#maury-a-castro"><img src="/img/premium-ad-space.png"></a></div>
+  <div class="ad-container mobile"><a class="ad-link"><img></a></div>
 </div>
 
 # Featuring

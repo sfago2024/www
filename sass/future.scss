@@ -849,6 +849,8 @@ table {
 }
 
 .ad {
+  visibility: hidden;
+
   &.mobile {
     margin-bottom: 1.3rem;
 
