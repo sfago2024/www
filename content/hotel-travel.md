@@ -74,8 +74,8 @@ and
 
 ## Alaska Airlines 5% Discount
 
-SF AGO 2024 has partnered with Alaska Airlines to provide a 5% discount on airfare. To use the
-discount, visit
+SF AGO 2024 has partnered with Alaska Airlines to provide a 5% discount on most domestic flights
+to/from San Francisco. To use the discount, visit
 {% external_link(href="https://www.alaskaair.com/planbook?lid=form:use-discount-code") %}alaskaair.com{% end %}
 and enter the Discount Code **`ECMK222`** when searching for flights. The discount will be applied
 to any flights meeting the contract parameters; click the **`?`** icon next to the discount
