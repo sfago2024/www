@@ -16,22 +16,6 @@ $mobile-width: 800px;
   src: url("/font/SourceSans3VF-Italic.otf.woff2") format("woff2-variations");
 }
 
-@font-face {
-  font-family: "Source Code VF";
-  font-style: normal;
-  font-weight: 200 900;
-  font-stretch: normal;
-  src: url("/font/SourceCodeVF-Upright.otf.woff2") format("woff2-variations");
-}
-
-// @font-face {
-//   font-family: "Source Code VF";
-//   font-style: italic;
-//   font-weight: 200 900;
-//   font-stretch: normal;
-//   src: url("/font/SourceCodeVF-Italic.otf.woff2") format("woff2-variations");
-// }
-
 html {
   --bg: #e8e8e8;
   --bg-active: #d8f0f8;
@@ -92,11 +76,6 @@ p {
 ul,
 ol {
   margin: 0;
-}
-
-tt,
-code {
-  font-family: "Source Code VF", monospace;
 }
 
 address {
