@@ -7,7 +7,13 @@ function displayAdAndLogPageview() {
   let ad = ads[Math.floor(Math.random() * ads.length)];
   document.querySelectorAll('.ad.desktop img').forEach((img) => { img.src = `/a/${ad.name}-desktop.${ad.extension}`; });
   document.querySelectorAll('.ad.mobile img').forEach((img) => { img.src = `/a/${ad.name}-mobile.${ad.extension}`; });
-  document.querySelectorAll('.ad a').forEach((a) => { a.href = ad.url; });
+  document.querySelectorAll('.ad a').forEach((a) => {
+    a.href = ad.url;
+    if (ad.name != 'sfago2024-placeholder') {
+      a.rel = 'external';
+      a.target = '_blank';
+    }
+  });
   document.querySelectorAll('.ad').forEach((ad) => { ad.style.visibility = "visible"; });
 
   plausible('pageview', {props: {ad_displayed: ad.name}});
