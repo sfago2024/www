@@ -68,7 +68,41 @@ wide = true
 
 </p>
 
-Ready to register? [Click here](/register/)
+<p class="ready-to-register">
+  <a href="/register/">Ready to register? Click here.</a>
+</p>
+
+## SF AGO 2024 proudly recognizes our convention sponsors — we are very grateful for your support!
+
+**Corporate and Institutional Sponsors:**
+
+<ul class="sponsors">
+  <li><img src="/img/sponsors/letourneau.png" alt="Orgues Létourneau" style="aspect-ratio:300/113"></li>
+  <li>Schoenstein</li>
+</ul>
+
+**AGO Chapter Sponsors:**
+
+<ul class="sponsors">
+  <li>Houston</li>
+  <li>Orange County</li>
+  <li>Palomar</li>
+  <li>Hoston</li>
+  <li>Beaumont</li>
+  <li>Albuquerque</li>
+  <li>Piedmont, NC</li>
+  <li>Greater Lansing, MI</li>
+  <li>Long Beach</li>
+  <li>SE Minnesota</li>
+</ul>
+
+**San Francisco Select Circle Donors**
+
+**Generous Individual Donors at all levels of Giving**
+
+Your gifts, large and small, help us produce the convention and have a tremendous
+impact on the convention. We look forward to hosting you in San Francisco, with
+gratitude.
 
 </div>
 </div>

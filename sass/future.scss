@@ -948,7 +948,8 @@ table {
     text-align: center;
   }
 
-  h1 {
+  h1,
+  h2 {
     margin-top: 2rem;
   }
 
@@ -961,12 +962,35 @@ table {
   }
 
   p {
+    hyphens: none;
     margin-top: 1.3rem;
     text-align: center;
   }
 
-  p+p {
+  .ready-to-register {
     font-size: 1.25em;
+    margin-bottom: 3.9rem;
+  }
+
+  .sponsors {
+    padding: 0 2rem;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    row-gap: 0.5em;
+    column-gap: 0.5em;
+
+    &>* {
+      background-color: white;
+      border-radius: 0.5em;
+      list-style: none;
+      padding: 0.2em 0.5em;
+
+      display: flex;
+      align-items: center;
+    }
   }
 }
 
