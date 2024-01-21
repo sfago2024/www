@@ -185,10 +185,4 @@ function initSearch() {
   $searchInput.addEventListener("focus", doTheSearch);
 }
 
-if (document.readyState === "complete" ||
-    (document.readyState !== "loading" && !document.documentElement.doScroll)
-) {
-  initSearch();
-} else {
-  document.addEventListener("DOMContentLoaded", initSearch);
-}
+document.addEventListener("DOMContentLoaded", initSearch);
