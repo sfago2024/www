@@ -332,4 +332,9 @@ aliases = [
   presenter="Carson Cooman"
 ) }}
 
+{{ workshop(
+  name="Visionary Leadership: Chapter Officer Training",
+  presenter="Elizabeth George"
+) }}
+
 </div>
