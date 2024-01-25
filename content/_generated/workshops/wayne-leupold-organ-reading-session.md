@@ -12,6 +12,6 @@ aliases = ["/sessions/wayne-leupold-organ-reading-session/","/future/workshops/w
 09:00 AM – 09:45 AM</p>
 <h2>Description</h2>
 
-Come and hear what's new from the Leupold Foundation, with founder Wayne Leupold leading this reading session and Dennis Janzer at the organ.  From teaching methods, musical periodicals, scholarly editions of classics to exciting new releases, you will undoubtedly be introduced to music and resources you will want to add to your library.  Afterward you can head to the Leupold Editions booth at the Exhibit Hub to find it!
+Come and hear what's new from The Leupold Foundation with Dennis Janzer leading this reading session and at the organ. From  teaching methods, musical periodicals, scholarly editions of classics to exciting new releases of hymn-based service music, you will undoubtedly be introduced to music and resources you will want to add to your library.
 
 
