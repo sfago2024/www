@@ -78,7 +78,7 @@ wide = true
 
 <ul class="sponsors">
   <li><img src="/img/sponsors/letourneau.png" alt="Orgues Létourneau" style="aspect-ratio:300/113"></li>
-  <li>Schoenstein</li>
+  <li class="big" style="font-size: 1.3em; font-weight: 450; font-variant: small-caps;">Schoenstein & Co.</li>
 </ul>
 
 **AGO Chapter Sponsors:**
@@ -94,15 +94,15 @@ wide = true
   <li>Greater Lansing, MI</li>
   <li>Long Beach</li>
   <li>SE Minnesota</li>
+  <li>Portland</li>
 </ul>
 
 **San Francisco Select Circle Donors**
 
 **Generous Individual Donors at all levels of Giving**
 
-Your gifts, large and small, help us produce the convention and have a tremendous
-impact on the convention. We look forward to hosting you in San Francisco, with
-gratitude.
+Your gifts, large and small, help us produce the convention. Thank you for your impact and your
+generosity. We look forward to hosting you in San Francisco.
 
 </div>
 </div>

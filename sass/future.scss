@@ -973,23 +973,27 @@ table {
   }
 
   .sponsors {
-    padding: 0 2rem;
+    padding: 0.5rem 2rem 0;
 
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-    row-gap: 0.5em;
-    column-gap: 0.5em;
+    row-gap: 0.25em;
+    column-gap: 0.25em;
 
     &>* {
-      background-color: white;
+      background-color: #fff0dc;
       border-radius: 0.5em;
       list-style: none;
       padding: 0.2em 0.5em;
 
       display: flex;
       align-items: center;
+
+      &.big {
+        padding: 0.2em 1.25em;
+      }
     }
   }
 }
