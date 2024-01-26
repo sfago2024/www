@@ -145,8 +145,11 @@ If you're unable to register online, please contact {{ contact(name="Paul Elliso
 
 # Volunteer
 
-Looking to connect with more people at SF AGO 2024? Opportunities exist before and after the
-convention. To learn more, please contact {{ contact(name="Rani Fischer") }}.
+Looking to connect with more people at SF AGO 2024? Opportunities exist before, during, and after
+the convention. If you're interested in helping, please
+{% external_link(href="https://forms.gle/sTJAS18rVyu3R4me8") %}fill out our Volunteer Form{% end %}.
+If you have further questions or need help filling out the form, please contact
+{{ contact(name="Rani Fischer") }}.
 
 {% contact_card(name="Rani Fischer", position="Volunteer Coordinator") %}
 <a href="mailto:volunteer@sfago2024.org">volunteer@sfago2024.org</a>

@@ -36,5 +36,9 @@ aliases = [
 		<td>Advertising/Exhibits</td>
 		<td>{{ contact(href="/advertise-exhibit/", name="Maury A. Castro") }}</td>
 	</tr>
+	<tr>
+		<td>Volunteers</td>
+		<td>{% external_link(href="https://forms.gle/sTJAS18rVyu3R4me8") %}Sign up to volunteer{% end %} / {{ contact(href="/register/", name="Rani Fischer") }}</td>
+	</tr>
 </tbody>
 </table>
