@@ -293,8 +293,7 @@ aliases = [
 
 {{ workshop(
   name="Wayne Leupold – Organ Reading Session",
-  presenter="Wayne Leupold",
-  presenter2="Dennis Janzer"
+  presenter="Dennis Janzer"
 ) }}
 
 {{ workshop(
