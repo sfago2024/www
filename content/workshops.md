@@ -287,7 +287,7 @@ aliases = [
 ) }}
 
 {{ workshop(
-  name="The Castro: Tales of the Village – Walking Tour",
+  name="The Castro: Tales of the Village – Walking Tour – SOLD OUT",
   presenter=""
 ) }}
 
@@ -317,12 +317,12 @@ aliases = [
 ) }}
 
 {{ workshop(
-  name="Visit to SFMOMA",
+  name="Visit to SFMOMA – SOLD OUT",
   presenter=""
 ) }}
 
 {{ workshop(
-  name="Walking tour of Chinatown",
+  name="Walking tour of Chinatown – SOLD OUT",
   presenter=""
 ) }}
 
