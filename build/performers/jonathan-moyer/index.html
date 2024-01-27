@@ -143,6 +143,27 @@ Dr. Moyers holds degrees in organ and piano from the Oberlin Conservatory, the P
             }
           );
         }
+
+        document.querySelectorAll("details").forEach(
+          (details) => {
+            if (details.id) {
+              let key = `details-open-${details.id}`;
+              let value = sessionStorage.getItem(key);
+              if (value === "open") {
+                details.open = true;
+              }
+              details.addEventListener("toggle",
+                (e) => {
+                  if (details.open) {
+                    sessionStorage.setItem(key, "open");
+                  } else {
+                    sessionStorage.removeItem(key);
+                  }
+                }
+              );
+            }
+          }
+        );
       }
     )
   </script>
