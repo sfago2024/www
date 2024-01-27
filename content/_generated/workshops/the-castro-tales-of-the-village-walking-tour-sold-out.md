@@ -1,11 +1,11 @@
 +++
-title = '''The Castro: Tales of the Village – Walking Tour'''
-path = '''/workshops/the-castro-tales-of-the-village-walking-tour/'''
+title = '''The Castro: Tales of the Village – Walking Tour - SOLD OUT!'''
+path = '''/workshops/the-castro-tales-of-the-village-walking-tour-sold-out/'''
 template = "future.html"
-aliases = ["/sessions/the-castro-tales-of-the-village-walking-tour/","/future/workshops/the-castro-tales-of-the-village-walking-tour/","/future/sessions/the-castro-tales-of-the-village-walking-tour/"]
+aliases = ["/workshops/the-castro-tales-of-the-village-walking-tour/","/sessions/the-castro-tales-of-the-village-walking-tour-sold-out/","/sessions/the-castro-tales-of-the-village-walking-tour/","/future/workshops/the-castro-tales-of-the-village-walking-tour/","/future/sessions/the-castro-tales-of-the-village-walking-tour/"]
 +++
 
-<h1>The Castro: Tales of the Village – Walking Tour</h1>
+<h1>The Castro: Tales of the Village – Walking Tour - SOLD OUT!</h1>
 
 <h2>Date/Time</h2>
 <p>Tuesday, July 02, 2024<br>

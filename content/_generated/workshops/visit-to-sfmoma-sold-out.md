@@ -1,11 +1,11 @@
 +++
-title = '''Visit to SFMOMA'''
-path = '''/workshops/visit-to-sfmoma/'''
+title = '''Visit to SFMOMA - SOLD OUT!'''
+path = '''/workshops/visit-to-sfmoma-sold-out/'''
 template = "future.html"
-aliases = ["/sessions/visit-to-sfmoma/","/future/workshops/visit-to-sfmoma/","/future/sessions/visit-to-sfmoma/"]
+aliases = ["/workshops/visit-to-sfmoma/","/sessions/visit-to-sfmoma-sold-out/","/sessions/visit-to-sfmoma/","/future/workshops/visit-to-sfmoma/","/future/sessions/visit-to-sfmoma/"]
 +++
 
-<h1>Visit to SFMOMA</h1>
+<h1>Visit to SFMOMA - SOLD OUT!</h1>
 
 <h2>Date/Time</h2>
 <p>Wednesday, July 03, 2024<br>
