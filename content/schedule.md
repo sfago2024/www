@@ -102,13 +102,13 @@ show_toc = true
 <span class="time">12:00&nbsp;<i>PM</i> – 1:30&nbsp;<i>PM</i></span>
 <span class="event">Lunch (on your own) and travel to Oakland</span>
 <span class="time">2:00&nbsp;<i>PM</i> – 2:45&nbsp;<i>PM</i></span>
-<span class="event"><span class="group">[Group A]</span> {% session_link(url="/recitals/group-a-dong-ill-shin-2-00-pm/") %}Dong-Ill Shin{% end %} – {% location_link() %}Cathedral of Christ the Light, Oakland{% end %}<br>Commissioned piece: Texu Kim</span>
+<span class="event"><span class="group">[Group A]</span> {% session_link(url="/recitals/group-a-dong-ill-shin-2-00-pm/") %}Concert: Dong-Ill Shin{% end %} – {% location_link() %}Cathedral of Christ the Light, Oakland{% end %}<br>Commissioned piece: Texu Kim</span>
 <span class="event"><span class="group">[Group B]</span> choice of:</span>
 <span class="event">{% session_link(url="/recitals/group-b-nicole-keller-2-00-pm/") %}Concert: Nicole Keller{% end %} – {% location_link() %}First Presbyterian Church, Oakland{% end %}<br>Commissioned piece: Carl Rütti</span>
 <span class="event">{% session_link(url="/recitals/group-b-chanticleer-2-00-pm/") %}Concert: Chanticleer{% end %} – {% location_link() %}St. Paul’s Episcopal Church, Oakland{% end %}</span>
 <span class="event">{% session_link(url="/worship/group-b-roman-catholic-worship-service-2-00-pm/") %}Roman Catholic Worship Service: Jennifer Pascual{% end %} – {% location_link() %}Our Lady of Lourdes, Oakland{% end %}</span>
 <span class="time">3:30&nbsp;<i>PM</i> – 4:15&nbsp;<i>PM</i></span>
-<span class="event"><span class="group">[Group B]</span> {% session_link(url="/recitals/group-b-dong-ill-shin-3-30-pm/") %}Dong-Il Shin{% end %} – {% location_link() %}Cathedral of Christ the Light, Oakland{% end %}<br>Commissioned piece: Texu Kim</span>
+<span class="event"><span class="group">[Group B]</span> {% session_link(url="/recitals/group-b-dong-ill-shin-3-30-pm/") %}Concert: Dong-Ill Shin{% end %} – {% location_link() %}Cathedral of Christ the Light, Oakland{% end %}<br>Commissioned piece: Texu Kim</span>
 <span class="event"><span class="group">[Group A]</span> choice of:</span>
 <span class="event">{% session_link(url="/recitals/group-a-nicole-keller-3-30-pm/") %}Concert: Nicole Keller{% end %} – {% location_link() %}First Presbyterian Church, Oakland{% end %}<br>Commissioned piece: Carl Rütti</span>
 <span class="event">{% session_link(url="/recitals/group-a-chanticleer-3-30-pm/") %}Concert: Chanticleer{% end %} – {% location_link() %}St. Paul’s Episcopal Church, Oakland{% end %}</span>
