@@ -102,21 +102,21 @@ show_toc = true
 <span class="time">12:00&nbsp;<i>PM</i> – 1:30&nbsp;<i>PM</i></span>
 <span class="event">Lunch (on your own) and travel to Oakland</span>
 <span class="time">2:00&nbsp;<i>PM</i> – 2:45&nbsp;<i>PM</i></span>
-<span class="event"><span class="group">[Group A]</span> {% session_link(url="/recitals/group-a-dong-ill-shin-2-00-pm/") %}Concert: Dong-Ill Shin{% end %} – {% location_link() %}Cathedral of Christ the Light, Oakland{% end %}<br>Commissioned piece: Texu Kim</span>
+<span class="event"><span class="group">[Group A]</span> {% session_link(url="/recitals/group-a-dong-ill-shin-2-00-pm/") %}Dong-Ill Shin{% end %} – {% location_link() %}Cathedral of Christ the Light, Oakland{% end %}<br>Commissioned piece: Texu Kim</span>
 <span class="event"><span class="group">[Group B]</span> choice of:</span>
-<span class="event">{% session_link(url="/recitals/group-b-nicole-keller-2-00-pm/") %}Concert: Nicole Keller{% end %} – {% location_link() %}First Presbyterian Church, Oakland{% end %}<br>Commissioned piece: Carl Rütti</span>
-<span class="event">{% session_link(url="/recitals/group-b-chanticleer-2-00-pm/") %}Concert: Chanticleer{% end %} – {% location_link() %}St. Paul’s Episcopal Church, Oakland{% end %}</span>
+<span class="event">{% session_link(url="/recitals/group-b-nicole-keller-2-00-pm/") %}Nicole Keller{% end %} – {% location_link() %}First Presbyterian Church, Oakland{% end %}<br>Commissioned piece: Carl Rütti</span>
+<span class="event">{% session_link(url="/recitals/group-b-chanticleer-2-00-pm/") %}Chanticleer{% end %} – {% location_link() %}St. Paul’s Episcopal Church, Oakland{% end %}</span>
 <span class="event">{% session_link(url="/worship/group-b-roman-catholic-worship-service-2-00-pm/") %}Roman Catholic Worship Service: Jennifer Pascual{% end %} – {% location_link() %}Our Lady of Lourdes, Oakland{% end %}</span>
 <span class="time">3:30&nbsp;<i>PM</i> – 4:15&nbsp;<i>PM</i></span>
 <span class="event"><span class="group">[Group A]</span> choice of:</span>
-<span class="event">{% session_link(url="/recitals/group-a-nicole-keller-3-30-pm/") %}Concert: Nicole Keller{% end %} – {% location_link() %}First Presbyterian Church, Oakland{% end %}<br>Commissioned piece: Carl Rütti</span>
-<span class="event">{% session_link(url="/recitals/group-a-chanticleer-3-30-pm/") %}Concert: Chanticleer{% end %} – {% location_link() %}St. Paul’s Episcopal Church, Oakland{% end %}</span>
+<span class="event">{% session_link(url="/recitals/group-a-nicole-keller-3-30-pm/") %}Nicole Keller{% end %} – {% location_link() %}First Presbyterian Church, Oakland{% end %}<br>Commissioned piece: Carl Rütti</span>
+<span class="event">{% session_link(url="/recitals/group-a-chanticleer-3-30-pm/") %}Chanticleer{% end %} – {% location_link() %}St. Paul’s Episcopal Church, Oakland{% end %}</span>
 <span class="event">{% session_link(url="/worship/group-a-roman-catholic-worship-service-3-30-pm/") %}Roman Catholic Worship Service: Jennifer Pascual{% end %} – {% location_link() %}Our Lady of Lourdes, Oakland{% end %}</span>
-<span class="event"><span class="group">[Group B]</span> {% session_link(url="/recitals/group-b-dong-ill-shin-3-30-pm/") %}Concert: Dong-Ill Shin{% end %} – {% location_link() %}Cathedral of Christ the Light, Oakland{% end %}<br>Commissioned piece: Texu Kim</span>
+<span class="event"><span class="group">[Group B]</span> {% session_link(url="/recitals/group-b-dong-ill-shin-3-30-pm/") %}Dong-Ill Shin{% end %} – {% location_link() %}Cathedral of Christ the Light, Oakland{% end %}<br>Commissioned piece: Texu Kim</span>
 <span class="time">4:30&nbsp;<i>PM</i> – 7:30&nbsp;<i>PM</i></span>
 <span class="event">Dinner (on your own)</span>
 <span class="time">8:00&nbsp;<i>PM</i> – 9:30&nbsp;<i>PM</i></span>
-<span class="event">{% session_link(url="/recitals/faythe-freese/") %}Concert: Faythe Freese{% end %} – {% location_link() %}Grace Cathedral{% end %}</span>
+<span class="event">{% session_link(url="/recitals/faythe-freese/") %}Faythe Freese{% end %} – {% location_link() %}Grace Cathedral{% end %}</span>
 <span class="time">10:00&nbsp;<i>PM</i> – 12:00&nbsp;<i>AM</i></span>
 <span class="event">Exhibits open – {% location_link() %}Marriott Marquis{% end %}</span>
 </div>
@@ -127,7 +127,7 @@ show_toc = true
 <span class="time">9:00&nbsp;<i>AM</i> – 12:00&nbsp;<i>PM</i></span>
 <span class="event">Exhibits open – {% location_link() %}Marriott Marquis{% end %}</span>
 <span class="time">9:00&nbsp;<i>AM</i> – 11:45&nbsp;<i>AM</i></span>
-<span class="event">{% session_link(url="/workshops/mission-dolores-tour-and-choral-workshop/") %}Tour and Choral Workshop Mission Dolores{% end %}</span>
+<span class="event">{% session_link(url="/workshops/mission-dolores-tour-and-choral-workshop/") %}Mission Dolores Tour and Choral Workshop{% end %}</span>
 <span class="time">9:00&nbsp;<i>AM</i> – 9:45&nbsp;<i>AM</i></span>
 <span class="event">
   <details id="workshops-4">
@@ -193,11 +193,11 @@ show_toc = true
 <span class="time">2:45&nbsp;<i>PM</i> – 3:30&nbsp;<i>PM</i></span>
 <span class="event"><span class="group">[Group F]</span> {% session_link(url="/recitals/group-f-rashaan-rori-allwood-2-45-pm/") %}Rashaan Rori Allwood{% end %} – {% location_link() %}St. Dominic’s{% end %}</span>
 <span class="time">4:00&nbsp;<i>PM</i> – 5:30&nbsp;<i>PM</i></span>
-<span class="event">{% session_link(url="/sessions/ago-national-business-meeting/") %}National Business Meeting{% end %} – {% location_link() %}Marriott Marquis{% end %}</span>
+<span class="event">{% session_link(url="/sessions/ago-national-business-meeting/") %}AGO National Business Meeting{% end %} – {% location_link() %}Marriott Marquis{% end %}</span>
 <span class="time">5:30&nbsp;<i>PM</i> – 7:30&nbsp;<i>PM</i></span>
 <span class="event">Dinner (on your own)</span>
 <span class="time">8:00&nbsp;<i>PM</i> – 9:30&nbsp;<i>PM</i></span>
-<span class="event">{% session_link(url="/recitals/shin-young-lee-olivier-latry-with-the-berkeley-symphony/") %}Concert: Olivier Latry & Shin-Young Lee with the Berkeley Symphony{% end %} – {% location_link() %}St. Ignatius{% end %}</span>
+<span class="event">{% session_link(url="/recitals/shin-young-lee-olivier-latry-with-the-berkeley-symphony/") %}Shin-Young Lee & Olivier Latry with the Berkeley Symphony{% end %} – {% location_link() %}St. Ignatius{% end %}</span>
 <span class="time">10:00&nbsp;<i>PM</i> – 12:00&nbsp;<i>AM</i></span>
 <span class="event">Exhibits open – {% location_link() %}Marriott Marquis{% end %}</span>
 </div>
@@ -206,23 +206,23 @@ show_toc = true
 
 <div class="schedule">
 <span class="time">9:00&nbsp;<i>AM</i> – 9:45&nbsp;<i>AM</i></span>
-<span class="event">{% session_link(url="/recitals/abigail-crafton-alexander-leonardi-owen-tellinghuisen-rising-stars/") %}Concert: Abigail Crafton, Alexander Leonardi, and Owen Tellinghuisen [Rising Stars]{% end %} – {% location_link() %}First Congregational Church, Berkeley{% end %}<br>Made possible by a generous grant from Michael Quimby, President, Quimby Pipe Organs, Inc.</span>
+<span class="event">{% session_link(url="/recitals/abigail-crafton-alexander-leonardi-owen-tellinghuisen-rising-stars/") %}Abigail Crafton, Alexander Leonardi, & Owen Tellinghuisen [Rising Stars]{% end %} – {% location_link() %}First Congregational Church, Berkeley{% end %}<br>Made possible by a generous grant from Michael Quimby, President, Quimby Pipe Organs, Inc.</span>
 <span class="time">9:00&nbsp;<i>AM</i> – 9:45&nbsp;<i>AM</i></span>
-<span class="event">{% session_link(url="/recitals/douglas-cleveland-9-00-am/") %}Concert: Douglas Cleveland{% end %} – {% location_link() %}St. Mark’s Episcopal Church, Berkeley{% end %}<br>Commissioned Piece: Mason Prize</span>
+<span class="event">{% session_link(url="/recitals/douglas-cleveland-9-00-am/") %}Douglas Cleveland{% end %} – {% location_link() %}St. Mark’s Episcopal Church, Berkeley{% end %}<br>Commissioned piece: Mason Prize</span>
 <span class="time">9:00&nbsp;<i>AM</i> – 9:45&nbsp;<i>AM</i></span>
-<span class="event">{% session_link(url="/recitals/joey-fala-9-00-am/") %}Concert: Joey Fala{% end %} – {% location_link() %}First Church of Christ, Scientist, Berkeley{% end %}</span>
+<span class="event">{% session_link(url="/recitals/joey-fala-9-00-am/") %}Joey Fala{% end %} – {% location_link() %}First Church of Christ, Scientist, Berkeley{% end %}</span>
 <span class="time">9:00&nbsp;<i>AM</i> – 9:45&nbsp;<i>AM</i></span>
-<span class="event">{% session_link(url="/recitals/diane-meredith-belcher-9-00-am/") %}Concert: Diane Meredith Belcher{% end %} – {% location_link() %}St. John’s Presbyterian Church, Berkeley{% end %}</span>
+<span class="event">{% session_link(url="/recitals/diane-meredith-belcher-9-00-am/") %}Diane Meredith Belcher{% end %} – {% location_link() %}St. John’s Presbyterian Church, Berkeley{% end %}</span>
 <span class="time">9:15&nbsp;<i>AM</i> – 11:15&nbsp;<i>AM</i></span>
-<span class="event">{% session_link(url="/recitals/james-kealey-robert-horton-2022-ncoi-nyacop-winners/") %}Concert: Robert Horton & James Kealey (2022 NCOI & NYACOP Winners){% end %} – {% location_link() %}UU Church of Berkeley{% end %}<br>Commissioned piece: Iain Farrington [played by James Kealey]</span>
+<span class="event">{% session_link(url="/recitals/james-kealey-robert-horton-2022-ncoi-nyacop-winners/") %}Robert Horton & James Kealey (2022 NCOI & NYACOP Winners){% end %} – {% location_link() %}UU Church of Berkeley{% end %}<br>Commissioned piece: Iain Farrington [played by James Kealey]</span>
 <span class="time">10:45&nbsp;<i>AM</i> – 11:30&nbsp;<i>AM</i></span>
-<span class="event">{% session_link(url="/recitals/nathan-elsbernd-trevor-good-marshall-joos-rising-stars/") %}Concert: Nathan Elsbernd, Trevor Good, & Marshall Joos (Rising Stars){% end %} – {% location_link() %}First Congregational Church, Berkeley{% end %}<br>Made possible by a generous grant from Michael Quimby, President, Quimby Pipe Organs, Inc.</span>
+<span class="event">{% session_link(url="/recitals/nathan-elsbernd-trevor-good-marshall-joos-rising-stars/") %}Nathan Elsbernd, Trevor Good, & Marshall Joos (Rising Stars){% end %} – {% location_link() %}First Congregational Church, Berkeley{% end %}<br>Made possible by a generous grant from Michael Quimby, President, Quimby Pipe Organs, Inc.</span>
 <span class="time">10:45&nbsp;<i>AM</i> – 11:30&nbsp;<i>AM</i></span>
-<span class="event">{% session_link(url="/recitals/douglas-cleveland-10-45-am/") %}Concert: Douglas Cleveland{% end %} – {% location_link() %}St. Mark’s Episcopal Church, Berkeley{% end %}<br>Commissioned Piece: Mason Prize</span>
+<span class="event">{% session_link(url="/recitals/douglas-cleveland-10-45-am/") %}Douglas Cleveland{% end %} – {% location_link() %}St. Mark’s Episcopal Church, Berkeley{% end %}<br>Commissioned piece: Mason Prize</span>
 <span class="time">10:45&nbsp;<i>AM</i> – 11:30&nbsp;<i>AM</i></span>
-<span class="event">{% session_link(url="/recitals/joey-fala-10-45-am/") %}Concert: Joey Fala{% end %} – {% location_link() %}First Church of Christ, Scientist, Berkeley{% end %}</span>
+<span class="event">{% session_link(url="/recitals/joey-fala-10-45-am/") %}Joey Fala{% end %} – {% location_link() %}First Church of Christ, Scientist, Berkeley{% end %}</span>
 <span class="time">10:45&nbsp;<i>AM</i> – 11:30&nbsp;<i>AM</i></span>
-<span class="event">{% session_link(url="/recitals/diane-meredith-belcher-10-45-am/") %}Concert: Diane Meredith Belcher{% end %} – {% location_link() %}St. John’s Presbyterian Church, Berkeley{% end %}</span>
+<span class="event">{% session_link(url="/recitals/diane-meredith-belcher-10-45-am/") %}Diane Meredith Belcher{% end %} – {% location_link() %}St. John’s Presbyterian Church, Berkeley{% end %}</span>
 <span class="time">from 11:30&nbsp;<i>AM</i></span>
 <span class="event">Travel to hotel</span>
 <span class="time">12:00&nbsp;<i>PM</i> – 4:00&nbsp;<i>PM</i></span>
@@ -270,19 +270,19 @@ show_toc = true
 
 <div class="schedule">
 <span class="time">9:00&nbsp;<i>AM</i> – 10:00&nbsp;<i>AM</i></span>
-<span class="event">{% session_link(url="/worship/episcopal-morning-prayer-mary-beth-bennett/") %}Episcopal Worship Service: Mary Beth Bennett{% end %} – {% location_link() %}Grace Cathedral{% end %}<br>Commissioned Pieces: ECS Prize; David Conte</span>
+<span class="event">{% session_link(url="/worship/episcopal-morning-prayer-mary-beth-bennett/") %}Episcopal Worship Service: Mary Beth Bennett{% end %} – {% location_link() %}Grace Cathedral{% end %}<br>Commissioned pieces: ECS Prize; David Conte</span>
 <span class="time">9:00&nbsp;<i>AM</i> – 10:00&nbsp;<i>AM</i></span>
 <span class="event">{% session_link(url="/worship/african-american-baptist-worship-service-stephen-price-patrick-alston/") %}African American Baptist Worship Service: Stephen Price & Patrick Alston{% end %} – {% location_link() %}Third Baptist Church{% end %}<br>Commissioned piece: Eurydice Osterman</span>
 <span class="time">9:00&nbsp;<i>AM</i> – 10:00&nbsp;<i>AM</i></span>
-<span class="event">{% session_link(url="/recitals/weicheng-zhao/") %}Concert: Weicheng Zhao{% end %} – {% location_link() %}St. Luke’s Episcopal Church{% end %}</span>
+<span class="event">{% session_link(url="/recitals/weicheng-zhao/") %}Weicheng Zhao{% end %} – {% location_link() %}St. Luke’s Episcopal Church{% end %}</span>
 <span class="time">11:30&nbsp;<i>AM</i> – 12:15&nbsp;<i>PM</i> </span>
-<span class="event">{% session_link(url="/recitals/annette-richards/") %}Concert: Annette Richards{% end %} – {% location_link() %}All Saints Episcopal Church, Palo Alto{% end %}</span>
+<span class="event">{% session_link(url="/recitals/annette-richards/") %}Annette Richards{% end %} – {% location_link() %}All Saints Episcopal Church, Palo Alto{% end %}</span>
 <span class="time">11:30&nbsp;<i>AM</i> – 12:15&nbsp;<i>PM</i></span>
-<span class="event">{% session_link(url="/recitals/jonathan-moyer/") %}Concert: Jonathan Moyer{% end %} – {% location_link() %}St. Bede’s Episcopal Church, Menlo Park{% end %}</span>
+<span class="event">{% session_link(url="/recitals/jonathan-moyer/") %}Jonathan Moyer{% end %} – {% location_link() %}St. Bede’s Episcopal Church, Menlo Park{% end %}</span>
 <span class="time">11:30&nbsp;<i>AM</i> – 12:15&nbsp;<i>PM</i></span>
-<span class="event">{% session_link(url="/recitals/anne-laver/") %}Concert: Anne Laver{% end %} – {% location_link() %}St. Mark’s Episcopal Church, Palo Alto{% end %}<br>Commissioned piece: Jessica Meyer</span>
+<span class="event">{% session_link(url="/recitals/anne-laver/") %}Anne Laver{% end %} – {% location_link() %}St. Mark’s Episcopal Church, Palo Alto{% end %}<br>Commissioned piece: Jessica Meyer</span>
 <span class="time">11:30&nbsp;<i>AM</i> – 12:15&nbsp;<i>PM</i></span>
-<span class="event">{% session_link(url="/recitals/monica-czausz-berney/") %}Concert: Monica Czausz Berney{% end %} – {% location_link() %}First Congregational Church, Palo Alto{% end %}</span>
+<span class="event">{% session_link(url="/recitals/monica-czausz-berney/") %}Monica Czausz Berney{% end %} – {% location_link() %}First Congregational Church, Palo Alto{% end %}</span>
 <span class="time">11:30&nbsp;<i>AM</i> – 12:15&nbsp;<i>PM</i></span>
 <span class="event">{% session_link(url="/workshops/the-tudor-organ-at-stanford/") %}Workshop-Demonstration: The Tudor Organ (Robert Huw Morgan){% end %} – {% location_link() %}Stanford Memorial Church{% end %}</span>
 <span class="time">12:15&nbsp;<i>PM</i> – 1:15&nbsp;<i>PM</i></span>
@@ -290,7 +290,7 @@ show_toc = true
 <span class="time">1:45&nbsp;<i>PM</i> – 2:15&nbsp;<i>PM</i></span>
 <span class="event">{% session_link(url="/recitals/carillon-performance/") %}Carillon concert (Timothy Zerlang){% end %} – {% location_link() %}outdoors at Stanford{% end %}</span>
 <span class="time">2:30&nbsp;<i>PM</i> – 3:45&nbsp;<i>PM</i></span>
-<span class="event">{% session_link(url="/recitals/kimberly-marshall/") %}Concert: Kimberly Marshall{% end %} – {% location_link() %}Stanford Memorial Church{% end %}<br>Sponsored by Ed and Mary Jennings<br>Commissioned piece: Errollyn Wallen<br>Underwritten by Ed and Mary Jennings</span>
+<span class="event">{% session_link(url="/recitals/kimberly-marshall/") %}Kimberly Marshall{% end %} – {% location_link() %}Stanford Memorial Church{% end %}<br>Sponsored by Ed and Mary Jennings<br>Commissioned piece: Errollyn Wallen<br>Underwritten by Ed and Mary Jennings</span>
 <span class="time">5:00&nbsp;<i>PM</i> – 7:30&nbsp;<i>PM</i></span>
 <span class="event">Dinner (on your own)</span>
 <span class="time">7:30&nbsp;<i>PM</i> – 10:30&nbsp;<i>PM</i></span>
