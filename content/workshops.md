@@ -9,6 +9,8 @@ aliases = [
 
 <div class="workshops">
 
+**Note:** Workshops can also be viewed in the [Schedule](/schedule/).
+
 {{ workshop(
   name="Deliberate Practice for the Mind and Body of the Organist",
   presenter="Katelyn Emerson"
