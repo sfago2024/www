@@ -1015,10 +1015,10 @@ table {
 
       display: flex;
       align-items: center;
+    }
 
-      &.big {
-        padding: 0.2em 1.25em;
-      }
+    img {
+      max-width: 300px;
     }
   }
 }
