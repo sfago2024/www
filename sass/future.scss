@@ -786,7 +786,6 @@ table {
     grid-column: 2;
 
     &>.group {
-      font-weight: 450;
       font-variant: small-caps;
     }
   }
@@ -804,6 +803,22 @@ table {
 
     svg {
       color: var(--icon-gray);
+    }
+  }
+
+  .session-link {
+    color: inherit;
+    font-weight: 450;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  details {
+    .session-link {
+      color: var(--link);
     }
   }
 }
