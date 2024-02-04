@@ -622,6 +622,15 @@ table {
   }
 }
 
+.registration-rates {
+  margin-top: 1rem;
+
+  .expired {
+    color: var(--text-gray);
+    text-decoration: line-through;
+  }
+}
+
 .partner-organizations {
   padding: 0 2rem;
 
