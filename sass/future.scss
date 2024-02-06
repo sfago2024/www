@@ -388,6 +388,7 @@ strong {
   border: solid 1px var(--bg);
   padding: 0.5em 1rem;
   margin: 1rem;
+  scroll-margin-top: 1rem;
 
   &:target {
     @keyframes blink {
