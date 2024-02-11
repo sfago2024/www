@@ -16,7 +16,9 @@ show_toc = true
 Consider extending your stay! The AGO group hotel rate of $169 per night is available both before
 and after the convention dates, from June 23 through July 10. Before and after the convention, take
 the opportunity to enjoy San Francisco sights, neighborhoods, and restaurants, as well as sports
-events, museums, shopping, and concerts. And this year SF Pride is June 29–30, 2024.
+events, museums, shopping, and concerts. For more information, visit the
+{% external_link(href="https://www.sftravel.com/") %}San Francisco Travel Association{% end %}.
+And this year SF Pride is June 29–30, 2024.
 
 # Hotel
 
