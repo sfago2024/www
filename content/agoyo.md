@@ -31,6 +31,12 @@ Houston Chapter Young Organists Scholarship for Conventions
 
 ## Suzanne and Mark Anderson Convention Housing Scholarship for Young Professionals {#suzanne-and-mark-anderson-scholarship}
 
+**The application deadline for this scholarship has passed.**
+
+<details>
+<summary>Details</summary>
+<div class="content">
+
 The Suzanne and Mark Anderson Convention Housing Scholarships for Young Professionals covers hotel
 costs for young professionals staying at the convention hotel during the SF 2024 AGO National
 Convention.
@@ -58,17 +64,19 @@ share a double-occupancy room.
 Essays will be evaluated anonymously. The five individuals with the highest-ranking essays will be
 awarded the scholarship.
 
-<div class="apply-now-box">
-<a class="fancy-button" href="https://forms.gle/WSt2HGWEG5YZbtpb6" rel="external" target="_blank">Apply now</a>
-
-**Application deadline: February 15, 2024.**
-
 </div>
+</details>
 
 Scholarship winners will be notified on March 7, 2024, and will have until March 15, 2024, to
 accept. Declined scholarships will be offered to the next highest-ranking applicants.
 
 ## Houston Chapter Young Organists Scholarship for Conventions {#houston-chapter-scholarship}
+
+**The application deadline for this scholarship has passed.**
+
+<details>
+<summary>Details</summary>
+<div class="content">
 
 Full-time students ages 16–29 are invited to apply for the Houston Chapter Young Organists
 Scholarship for Conventions. Ten individuals will be awarded registration costs and housing for
@@ -93,12 +101,8 @@ parent or guardian. This accompanying individual will receive complimentary regi
 Essays will be evaluated anonymously. The ten individuals with the highest-ranking essays will be
 awarded the scholarship.
 
-<div class="apply-now-box">
-<a class="fancy-button" href="https://forms.gle/DBk2DkAy17Tn6DP99" rel="external" target="_blank">Apply now</a>
-
-**Application deadline: February 15, 2024.**
-
 </div>
+</details>
 
 Scholarship winners will be notified on March 7, 2024, and will have until March 15, 2024, to
 accept. Declined scholarships will be offered to the next highest-ranking applicants.
