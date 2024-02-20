@@ -102,21 +102,21 @@ show_toc = true
 <span class="time">12:00&nbsp;<i>PM</i> – 1:30&nbsp;<i>PM</i></span>
 <span class="event">Lunch (on your own) and travel to Oakland</span>
 <span class="time">2:00&nbsp;<i>PM</i> – 2:45&nbsp;<i>PM</i></span>
-<span class="event"><span class="group">[Group A]</span> {% session_link(url="/recitals/group-a-dong-ill-shin-2-00-pm/") %}Dong-Ill Shin{% end %} – {% location_link() %}Cathedral of Christ the Light, Oakland{% end %}<br>Commissioned piece: Texu Kim</span>
+<span class="event"><span class="group">[Group A]</span> {% session_link(url="/recitals/group-a-dong-ill-shin-2-00-pm/") %}Dong-Ill Shin{% end %} – {% location_link() %}Cathedral of Christ the Light, Oakland{% end %}<br>Commissioned piece: Texu Kim<br>Generously sponsored by a grant from Létourneau Organs</span>
 <span class="event"><span class="group">[Group B]</span> choice of:</span>
-<span class="event">{% session_link(url="/recitals/group-b-nicole-keller-2-00-pm/") %}Nicole Keller{% end %} – {% location_link() %}First Presbyterian Church, Oakland{% end %}<br>Commissioned piece: Carl Rütti</span>
+<span class="event">{% session_link(url="/recitals/group-b-nicole-keller-2-00-pm/") %}Nicole Keller{% end %} – {% location_link() %}First Presbyterian Church, Oakland{% end %}<br>Commissioned piece: Carl Rütti<br>Generously sponsored by a grant from Rosales Organ Builders</span>
 <span class="event">{% session_link(url="/recitals/group-b-chanticleer-2-00-pm/") %}Chanticleer{% end %} – {% location_link() %}St. Paul’s Episcopal Church, Oakland{% end %}</span>
 <span class="event">{% session_link(url="/worship/group-b-roman-catholic-worship-service-2-00-pm/") %}Roman Catholic Worship Service: Jennifer Pascual{% end %} – {% location_link() %}Our Lady of Lourdes, Oakland{% end %}</span>
 <span class="time">3:30&nbsp;<i>PM</i> – 4:15&nbsp;<i>PM</i></span>
 <span class="event"><span class="group">[Group A]</span> choice of:</span>
-<span class="event">{% session_link(url="/recitals/group-a-nicole-keller-3-30-pm/") %}Nicole Keller{% end %} – {% location_link() %}First Presbyterian Church, Oakland{% end %}<br>Commissioned piece: Carl Rütti</span>
+<span class="event">{% session_link(url="/recitals/group-a-nicole-keller-3-30-pm/") %}Nicole Keller{% end %} – {% location_link() %}First Presbyterian Church, Oakland{% end %}<br>Commissioned piece: Carl Rütti<br>Generously sponsored by a grant from Rosales Organ Builders</span>
 <span class="event">{% session_link(url="/recitals/group-a-chanticleer-3-30-pm/") %}Chanticleer{% end %} – {% location_link() %}St. Paul’s Episcopal Church, Oakland{% end %}</span>
 <span class="event">{% session_link(url="/worship/group-a-roman-catholic-worship-service-3-30-pm/") %}Roman Catholic Worship Service: Jennifer Pascual{% end %} – {% location_link() %}Our Lady of Lourdes, Oakland{% end %}</span>
-<span class="event"><span class="group">[Group B]</span> {% session_link(url="/recitals/group-b-dong-ill-shin-3-30-pm/") %}Dong-Ill Shin{% end %} – {% location_link() %}Cathedral of Christ the Light, Oakland{% end %}<br>Commissioned piece: Texu Kim</span>
+<span class="event"><span class="group">[Group B]</span> {% session_link(url="/recitals/group-b-dong-ill-shin-3-30-pm/") %}Dong-Ill Shin{% end %} – {% location_link() %}Cathedral of Christ the Light, Oakland{% end %}<br>Commissioned piece: Texu Kim<br>Generously sponsored by a grant from Létourneau Organs</span>
 <span class="time">4:30&nbsp;<i>PM</i> – 7:30&nbsp;<i>PM</i></span>
 <span class="event">Dinner (on your own)</span>
 <span class="time">8:00&nbsp;<i>PM</i> – 9:30&nbsp;<i>PM</i></span>
-<span class="event">{% session_link(url="/recitals/faythe-freese/") %}Faythe Freese{% end %} – {% location_link() %}Grace Cathedral{% end %}</span>
+<span class="event">{% session_link(url="/recitals/faythe-freese/") %}Faythe Freese{% end %} – {% location_link() %}Grace Cathedral{% end %}<br>Generously sponsored by a special projects grant from the Indianapolis & San Francisco Chapters of the AGO</span>
 <span class="time">10:00&nbsp;<i>PM</i> – 12:00&nbsp;<i>AM</i></span>
 <span class="event">Exhibits open – {% location_link() %}Marriott Marquis{% end %}</span>
 </div>
@@ -177,7 +177,7 @@ show_toc = true
 <span class="event">Lunch (on your own) and travel to venues</span>
 <span class="header">Afternoon concerts: Choose one Group; walk between venues.</span>
 <span class="time">1:30&nbsp;<i>PM</i> – 2:15&nbsp;<i>PM</i></span>
-<span class="event"><span class="group">[Group C]</span> {% session_link(url="/recitals/group-c-ken-cowan-1-30-pm/") %}Ken Cowan{% end %} – {% location_link() %}Trinity&thinsp;+&thinsp;St. Peter’s{% end %}<br>Sponsored by Schoenstein & Co.</span>
+<span class="event"><span class="group">[Group C]</span> {% session_link(url="/recitals/group-c-ken-cowan-1-30-pm/") %}Ken Cowan{% end %} – {% location_link() %}Trinity&thinsp;+&thinsp;St. Peter’s{% end %}<br>Made possible by a generous grant from Schoenstein & Co.</span>
 <span class="time">1:30&nbsp;<i>PM</i> – 2:15&nbsp;<i>PM</i></span>
 <span class="event"><span class="group">[Group D]</span> {% session_link(url="/recitals/group-d-peter-sykes-1-30-pm/") %}Peter Sykes{% end %} – {% location_link() %}St. Mark’s Lutheran{% end %}</span>
 <span class="time">1:30&nbsp;<i>PM</i> – 2:15&nbsp;<i>PM</i></span>
@@ -187,7 +187,7 @@ show_toc = true
 <span class="time">2:45&nbsp;<i>PM</i> – 3:30&nbsp;<i>PM</i></span>
 <span class="event"><span class="group">[Group C]</span> {% session_link(url="/recitals/group-c-peter-sykes-2-45-pm/") %}Peter Sykes{% end %} – {% location_link() %}St. Mark’s Lutheran{% end %}</span>
 <span class="time">2:45&nbsp;<i>PM</i> – 3:30&nbsp;<i>PM</i></span>
-<span class="event"><span class="group">[Group D]</span> {% session_link(url="/recitals/group-d-ken-cowan-2-45-pm/") %}Ken Cowan{% end %} – {% location_link() %}Trinity&thinsp;+&thinsp;St. Peter’s{% end %}<br>Sponsored by Schoenstein & Co. </span>
+<span class="event"><span class="group">[Group D]</span> {% session_link(url="/recitals/group-d-ken-cowan-2-45-pm/") %}Ken Cowan{% end %} – {% location_link() %}Trinity&thinsp;+&thinsp;St. Peter’s{% end %}<br>Made possible by a generous grant from Schoenstein & Co.</span>
 <span class="time">2:45&nbsp;<i>PM</i> – 3:30&nbsp;<i>PM</i></span>
 <span class="event"><span class="group">[Group E]</span> {% session_link(url="/recitals/group-e-aaron-tan-2-45-pm/") %}Aaron Tan{% end %} – {% location_link() %}Congregation Sherith Israel{% end %}</span>
 <span class="time">2:45&nbsp;<i>PM</i> – 3:30&nbsp;<i>PM</i></span>
@@ -290,7 +290,7 @@ show_toc = true
 <span class="time">1:45&nbsp;<i>PM</i> – 2:15&nbsp;<i>PM</i></span>
 <span class="event">{% session_link(url="/recitals/carillon-performance/") %}Carillon concert (Timothy Zerlang){% end %} – {% location_link() %}outdoors at Stanford{% end %}</span>
 <span class="time">2:30&nbsp;<i>PM</i> – 3:45&nbsp;<i>PM</i></span>
-<span class="event">{% session_link(url="/recitals/kimberly-marshall/") %}Kimberly Marshall{% end %} – {% location_link() %}Stanford Memorial Church{% end %}<br>Sponsored by Ed and Mary Jennings<br>Commissioned piece: Errollyn Wallen<br>Underwritten by Ed and Mary Jennings</span>
+<span class="event">{% session_link(url="/recitals/kimberly-marshall/") %}Kimberly Marshall{% end %} – {% location_link() %}Stanford Memorial Church{% end %}<br>Made possible by a generous gift from Ed and Mary Jennings<br>Commissioned piece: Errollyn Wallen<br>Generously underwritten by Ed and Mary Jennings</span>
 <span class="time">5:00&nbsp;<i>PM</i> – 7:30&nbsp;<i>PM</i></span>
 <span class="event">Dinner (on your own)</span>
 <span class="time">7:30&nbsp;<i>PM</i> – 10:30&nbsp;<i>PM</i></span>
