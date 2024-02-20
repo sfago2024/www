@@ -87,7 +87,6 @@ wide = true
   <li>Houston</li>
   <li>Orange County</li>
   <li>Palomar</li>
-  <li>Hoston</li>
   <li>Beaumont</li>
   <li>Albuquerque</li>
   <li>Piedmont, NC</li>
@@ -95,6 +94,9 @@ wide = true
   <li>Long Beach</li>
   <li>SE Minnesota</li>
   <li>Portland</li>
+  <li>Seattle</li>
+  <li>Colorado Springs</li>
+  <li>Southern Arizona chapters</li>
 </ul>
 
 **San Francisco Select Circle Donors**
