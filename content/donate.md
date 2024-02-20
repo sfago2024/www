@@ -75,3 +75,11 @@ The AGO 2024 National Convention is a special Project of the San Francisco and
 Palo Alto Chapters of the American Guild of Organists, a 501(c)(3) organization.
 Contributions to this event are tax-deductible to the fullest extent of the law.
 </p>
+
+<div class="sponsors-container">
+
+**SF AGO 2024 proudly recognizes our convention sponsors — we are very grateful for your support!**
+
+{{ sponsors() }}
+
+</div>
