@@ -79,6 +79,7 @@ wide = true
 <ul class="sponsors">
   <li><img src="/img/sponsors/letourneau.png" alt="Orgues Létourneau" style="aspect-ratio:300/113"></li>
   <li><img src="/img/sponsors/schoenstein.png" alt="Schoenstein & Co." style="aspect-ratio:600/160"></li>
+  <li><img src="/img/sponsors/rosales.png" alt="Rosales Organ Builders" style="aspect-ratio:450/140"></li>
 </ul>
 
 **AGO Chapter Sponsors:**
