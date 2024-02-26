@@ -40,9 +40,9 @@ show_toc = true
 <span class="time">3:30&nbsp;<i>PM</i> – 5:00&nbsp;<i>PM</i></span>
 <span class="event">Visionary Leadership: Chapter Officer Training<br>(open to anyone serving on a chapter board)</span>
 <span class="time">7:00&nbsp;<i>PM</i> – 7:30&nbsp;<i>PM</i></span>
-<span class="event">{% session_link(url="/worship/opening-worship-in-the-reform-jewish-tradition/") %}Organ Prelude: David Higgs{% end %} – {% location_link() %}Congregation Emanu-El{% end %}</span>
+<span class="event">{% session_link(url="/worship/opening-worship-in-the-reform-jewish-tradition/") %}Organ Prelude: David Higgs{% end %} – {% location_link() %}Congregation Sherith Israel{% end %}</span>
 <span class="time">7:30&nbsp;<i>PM</i> – 9:00&nbsp;<i>PM</i></span>
-<span class="event">{% session_link(url="/worship/opening-worship-in-the-reform-jewish-tradition/") %}Jewish Worship Service: David Higgs{% end %} – {% location_link() %}Congregation Emanu-El{% end %}<br>Commissioned piece: Melissa Dunphy</span>
+<span class="event">{% session_link(url="/worship/opening-worship-in-the-reform-jewish-tradition/") %}Opening Worship in the Reform Jewish Tradition{% end %} – {% location_link() %}Congregation Sherith Israel{% end %}<br>Commissioned piece: Melissa Dunphy</span>
 <span class="time">9:30&nbsp;<i>PM</i> – 12:00&nbsp;<i>AM</i></span>
 <span class="event">Grand Opening of Exhibit Hub – {% location_link() %}Marriott Marquis{% end %}</span>
 </div>

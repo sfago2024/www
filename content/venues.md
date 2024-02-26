@@ -42,14 +42,6 @@ wide = true
 <div class="small">
 
 {{ venue(
-  name="Congregation Emanu-El",
-  city="San&nbsp;Francisco",
-  img="/img/venues/Emanu-El.jpeg",
-  organ="EM Skinner, 1924",
-  stoplist="https://pipeorgandatabase.org/organ/22967"
-) }}
-
-{{ venue(
   name="St. Ignatius Parish",
   city="San&nbsp;Francisco",
   img="/img/venues/St. Ignatius.webp",
