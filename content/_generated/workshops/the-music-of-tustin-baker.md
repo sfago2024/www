@@ -16,6 +16,6 @@ aliases = ["/sessions/the-music-of-tustin-baker/","/future/workshops/the-music-o
 </ul>
 <h2>Description</h2>
 
-Jeremy Filsell discusses the music of British composer and organist Reginald Tustin Baker (1900-1966).
+<div class="ag87-crtemvc-hsbk"><div class="css-vsf5of"><p class="carina-rte-public-DraftStyleDefault-block">Jeremy Filsell discusses the music of British composer and organist Reginald Tustin Baker (1900-1966).</p></div></div>
 
 

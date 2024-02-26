@@ -12,6 +12,6 @@ aliases = ["/future/sessions/ago-national-business-meeting/"]
 04:00 PM – 05:30 PM</p>
 <h2>Description</h2>
 
-Join us for the updates and news from the AGO including the installation of the 2024–25 National Council and Board of Regional Councillors!
+<div class="ag87-crtemvc-hsbk"><div class="css-vsf5of"><p class="carina-rte-public-DraftStyleDefault-block">Join us for the updates and news from the AGO including the installation of the 2024–25 National Council and Board of Regional Councillors!</p></div></div>
 
 

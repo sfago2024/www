@@ -16,6 +16,6 @@ aliases = ["/sessions/oxford-university-press-choral-and-organ-reading-session/"
 </ul>
 <h2>Description</h2>
 
-Oxford University Press (OUP) is the world's leading university press with the widest global presence. Our academic publishing programme serves scholars, teachers and researchers, publishing important and rigorous research and scholarship across subject areas stretching from History to Life Sciences to Economics. This choral reading session will feature some highlights from their catalogue that will be particularly useful in worship.
+<div class="ag87-crtemvc-hsbk"><div class="css-vsf5of"><p class="carina-rte-public-DraftStyleDefault-block">Oxford University Press (OUP) is the world's leading university press with the widest global presence. Our academic publishing programme serves scholars, teachers and researchers, publishing important and rigorous research and scholarship across subject areas stretching from History to Life Sciences to Economics. This choral reading session will feature some highlights from their catalogue that will be particularly useful in worship.</p></div></div>
 
 
