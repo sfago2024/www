@@ -20,7 +20,7 @@ show_toc = true
 * New innovative {% anchor_link(href="#exhibit-map") %}exhibit hub design{% end %}
 * Grand Opening on Sunday evening @ 9:30 pm
 * One full registration with transportation with booth purchase
-* See our {% pdf_link(href="/attachments/AGO 2024 Exhibits - V12.pdf") %}Exhibitor Kit{% end %} for details
+* See our {% pdf_link(href="/attachments/AGO 2024 Exhibits - V13.pdf") %}Exhibitor Kit{% end %} for details
 
 </div>
 
@@ -73,7 +73,7 @@ You can also see exhibit hours in the <a href="/schedule/">schedule</a>.
 
 <img class="full-width-image" style="aspect-ratio: 842 / 909" src="/attachments/exhibits-map-20240212.png">
 
-Find more information in the {% pdf_link(href="/attachments/AGO 2024 Exhibits - V12.pdf") %}Exhibitor Kit{% end %}.
+Find more information in the {% pdf_link(href="/attachments/AGO 2024 Exhibits - V13.pdf") %}Exhibitor Kit{% end %}.
 
 Information about shipping, storage, and equipment moving is available from {{ contact(name="Curtin Convention", slug="curtin-convention-exposition-services-inc") }}, the official Exhibits Service Contractor and official provider to the American Guild of Organists for this convention.
 
