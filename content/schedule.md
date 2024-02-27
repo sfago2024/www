@@ -102,7 +102,7 @@ show_toc = true
 <span class="time">12:00&nbsp;<i>PM</i> – 1:30&nbsp;<i>PM</i></span>
 <span class="event">Lunch (on your own) and travel to Oakland</span>
 <span class="time">2:00&nbsp;<i>PM</i> – 2:45&nbsp;<i>PM</i></span>
-<span class="event"><span class="group">[Group A]</span> {% session_link(url="/recitals/group-a-dong-ill-shin-2-00-pm/") %}Dong-Ill Shin{% end %} – {% location_link() %}Cathedral of Christ the Light, Oakland{% end %}<br>Commissioned piece: Texu Kim<br>Generously sponsored by a grant from Létourneau Organs</span>
+<span class="event"><span class="group">[Group A]</span> {% session_link(url="/recitals/group-a-dong-ill-shin-2-00-pm/") %}Dong-Ill Shin{% end %} – {% location_link() %}Cathedral of Christ the Light, Oakland{% end %}<br>Commissioned piece: Texu Kim<br>Generously sponsored by a grant from Létourneau Pipe Organs</span>
 <span class="event"><span class="group">[Group B]</span> choice of:</span>
 <span class="event">{% session_link(url="/recitals/group-b-nicole-keller-2-00-pm/") %}Nicole Keller{% end %} – {% location_link() %}First Presbyterian Church, Oakland{% end %}<br>Commissioned piece: Carl Rütti<br>Generously sponsored by a grant from Rosales Organ Builders</span>
 <span class="event">{% session_link(url="/recitals/group-b-chanticleer-2-00-pm/") %}Chanticleer{% end %} – {% location_link() %}St. Paul’s Episcopal Church, Oakland{% end %}</span>
@@ -112,7 +112,7 @@ show_toc = true
 <span class="event">{% session_link(url="/recitals/group-a-nicole-keller-3-30-pm/") %}Nicole Keller{% end %} – {% location_link() %}First Presbyterian Church, Oakland{% end %}<br>Commissioned piece: Carl Rütti<br>Generously sponsored by a grant from Rosales Organ Builders</span>
 <span class="event">{% session_link(url="/recitals/group-a-chanticleer-3-30-pm/") %}Chanticleer{% end %} – {% location_link() %}St. Paul’s Episcopal Church, Oakland{% end %}</span>
 <span class="event">{% session_link(url="/worship/group-a-roman-catholic-worship-service-3-30-pm/") %}Roman Catholic Worship Service: Jennifer Pascual{% end %} – {% location_link() %}Our Lady of Lourdes, Oakland{% end %}</span>
-<span class="event"><span class="group">[Group B]</span> {% session_link(url="/recitals/group-b-dong-ill-shin-3-30-pm/") %}Dong-Ill Shin{% end %} – {% location_link() %}Cathedral of Christ the Light, Oakland{% end %}<br>Commissioned piece: Texu Kim<br>Generously sponsored by a grant from Létourneau Organs</span>
+<span class="event"><span class="group">[Group B]</span> {% session_link(url="/recitals/group-b-dong-ill-shin-3-30-pm/") %}Dong-Ill Shin{% end %} – {% location_link() %}Cathedral of Christ the Light, Oakland{% end %}<br>Commissioned piece: Texu Kim<br>Generously sponsored by a grant from Létourneau Pipe Organs</span>
 <span class="time">4:30&nbsp;<i>PM</i> – 7:30&nbsp;<i>PM</i></span>
 <span class="event">Dinner (on your own)</span>
 <span class="time">8:00&nbsp;<i>PM</i> – 9:30&nbsp;<i>PM</i></span>
