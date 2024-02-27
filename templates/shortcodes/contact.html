@@ -1,1 +1,1 @@
-<a class="contact-link" href="{% if href %}{{ href }}{% endif %}#{{ name | slugify }}">{{ name }}<span style="white-space: nowrap;">&#8239;{% include "shortcodes/icon_contact.html" %}</span></a>
+<a class="contact-link" href="{% if href %}{{ href }}{% endif %}#{% if slug %}{{ slug }}{% else %}{{ name | slugify }}{% endif %}">{{ name }}<span style="white-space: nowrap;">&#8239;{% include "shortcodes/icon_contact.html" %}</span></a>

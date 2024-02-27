@@ -75,6 +75,13 @@ You can also see exhibit hours in the <a href="/schedule/">schedule</a>.
 
 Find more information in the {% pdf_link(href="/attachments/AGO 2024 Exhibits - V12.pdf") %}Exhibitor Kit{% end %}.
 
+Information about shipping, storage, and equipment moving is available from {{ contact(name="Curtin Convention", slug="curtin-convention-exposition-services-inc") }}, the official Exhibits Service Contractor and official provider to the American Guild of Organists for this convention.
+
+{% contact_card(name="Curtin Convention & Exposition Services, Inc.") %}
+<a href="mailto:info@curtinconvention.com">info@curtinconvention.com</a><br>
+<a href="tel:+14158837818">415.883.7818</a> (9–5 PST Monday–Friday)
+{% end %}
+
 ## Exhibitors
 
 <table>
