@@ -183,17 +183,17 @@ show_toc = true
 <span class="time">1:30&nbsp;<i>PM</i> – 2:15&nbsp;<i>PM</i></span>
 <span class="event"><span class="group">[Group E]</span> {% session_link(url="/recitals/group-e-rashaan-rori-allwood-1-30-pm/") %}Rashaan Rori Allwood{% end %} – {% location_link() %}St. Dominic’s{% end %}</span>
 <span class="time">1:30&nbsp;<i>PM</i> – 2:15&nbsp;<i>PM</i></span>
-<span class="event"><span class="group">[Group F]</span> {% session_link(url="/recitals/group-f-aaron-tan-1-30-pm/") %}Aaron Tan{% end %} – {% location_link() %}Congregation Sherith Israel{% end %}</span>
+<span class="event"><span class="group">[Group F]</span> {% session_link(url="/recitals/group-f-aaron-tan-1-30-pm/") %}Aaron Tan{% end %} – {% location_link() %}Calvary Presbyterian{% end %}</span>
 <span class="time">2:45&nbsp;<i>PM</i> – 3:30&nbsp;<i>PM</i></span>
 <span class="event"><span class="group">[Group C]</span> {% session_link(url="/recitals/group-c-peter-sykes-2-45-pm/") %}Peter Sykes{% end %} – {% location_link() %}St. Mark’s Lutheran{% end %}</span>
 <span class="time">2:45&nbsp;<i>PM</i> – 3:30&nbsp;<i>PM</i></span>
 <span class="event"><span class="group">[Group D]</span> {% session_link(url="/recitals/group-d-ken-cowan-2-45-pm/") %}Ken Cowan{% end %} – {% location_link() %}Trinity&thinsp;+&thinsp;St. Peter’s{% end %}<br>Made possible by a generous grant from Schoenstein & Co.</span>
 <span class="time">2:45&nbsp;<i>PM</i> – 3:30&nbsp;<i>PM</i></span>
-<span class="event"><span class="group">[Group E]</span> {% session_link(url="/recitals/group-e-aaron-tan-2-45-pm/") %}Aaron Tan{% end %} – {% location_link() %}Congregation Sherith Israel{% end %}</span>
+<span class="event"><span class="group">[Group E]</span> {% session_link(url="/recitals/group-e-aaron-tan-2-45-pm/") %}Aaron Tan{% end %} – {% location_link() %}Calvary Presbyterian{% end %}</span>
 <span class="time">2:45&nbsp;<i>PM</i> – 3:30&nbsp;<i>PM</i></span>
 <span class="event"><span class="group">[Group F]</span> {% session_link(url="/recitals/group-f-rashaan-rori-allwood-2-45-pm/") %}Rashaan Rori Allwood{% end %} – {% location_link() %}St. Dominic’s{% end %}</span>
 <span class="time">4:00&nbsp;<i>PM</i> – 5:30&nbsp;<i>PM</i></span>
-<span class="event">{% session_link(url="/sessions/ago-national-business-meeting/") %}AGO National Business Meeting{% end %} – {% location_link() %}Marriott Marquis{% end %}</span>
+<span class="event">{% session_link(url="/sessions/ago-national-business-meeting/") %}AGO National Business Meeting{% end %} – {% location_link() %}Congregation Sherith Israel{% end %}</span>
 <span class="time">5:30&nbsp;<i>PM</i> – 7:30&nbsp;<i>PM</i></span>
 <span class="event">Dinner (on your own)</span>
 <span class="time">8:00&nbsp;<i>PM</i> – 9:30&nbsp;<i>PM</i></span>
