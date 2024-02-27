@@ -71,7 +71,7 @@ You can also see exhibit hours in the <a href="/schedule/">schedule</a>.
 
 # Exhibit Map
 
-<img class="full-width-image" style="aspect-ratio: 842 / 909" src="/attachments/exhibits-map-20240212.png">
+<img class="full-width-image" style="aspect-ratio: 842 / 909" src="/attachments/exhibits-map-20240226.png">
 
 Find more information in the {% pdf_link(href="/attachments/AGO 2024 Exhibits - V13.pdf") %}Exhibitor Kit{% end %}.
 
@@ -94,7 +94,7 @@ Information about shipping, storage, and equipment moving is available from {{ c
 </thead>
 <tbody>
 <tr>
-  <td>2025 Conventions</td>
+  <td>2025 Regional Conventions</td>
   <td>404</td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@ Information about shipping, storage, and equipment moving is available from {{ c
   <td>403</td>
 </tr>
 <tr>
-  <td>Acis Productions</td>
+  <td>Acis</td>
   <td>309</td>
 </tr>
 <tr>
@@ -110,7 +110,7 @@ Information about shipping, storage, and equipment moving is available from {{ c
   <td>306</td>
 </tr>
 <tr>
-  <td>AGO Young Organists (AGOYO)</td>
+  <td>AGOYO</td>
   <td>TBD</td>
 </tr>
 <tr>
@@ -118,16 +118,16 @@ Information about shipping, storage, and equipment moving is available from {{ c
   <td>200, 201</td>
 </tr>
 <tr>
-  <td>Artisan Classic Organ Inc.</td>
-  <td>202 & Demo Room</td>
+  <td>Artisan Classic Organ, Inc.</td>
+  <td>202</td>
+</tr>
+<tr>
+  <td>Augsburg Fortress</td>
+  <td>504, 505</td>
 </tr>
 <tr>
   <td>Breitkopf & Haertel</td>
   <td>500</td>
-</tr>
-<tr>
-  <td>John-Paul Buzard Pipe Organ Builders</td>
-  <td>412, 417</td>
 </tr>
 <tr>
   <td>Canadian International Organ Competition</td>
@@ -146,7 +146,7 @@ Information about shipping, storage, and equipment moving is available from {{ c
   <td>317</td>
 </tr>
 <tr>
-  <td>Dobson Pipe Organ Builders, ltd.</td>
+  <td>Dobson Pipe Organ Builders, Ltd.</td>
   <td>413, 414</td>
 </tr>
 <tr>
@@ -174,12 +174,12 @@ Information about shipping, storage, and equipment moving is available from {{ c
   <td>502, 503, 602</td>
 </tr>
 <tr>
-  <td>Longwood Gardens</td>
-  <td>100</td>
+  <td>John-Paul Buzard Pipe Organ Builders</td>
+  <td>412, 417</td>
 </tr>
 <tr>
-  <td>The Lorenz Corporation</td>
-  <td>400, 401, 402</td>
+  <td>Longwood Gardens</td>
+  <td>100</td>
 </tr>
 <tr>
   <td>Meta Organworks</td>
@@ -190,8 +190,12 @@ Information about shipping, storage, and equipment moving is available from {{ c
   <td>TBD</td>
 </tr>
 <tr>
-  <td>Ortloff Organ Company, LLC</td>
+  <td>Ortloff Organ Company</td>
   <td>308</td>
+</tr>
+<tr>
+  <td>Oxford University Press</td>
+  <td>501</td>
 </tr>
 <tr>
   <td>Ruth and Clarence Mader Scholarship Fund</td>
@@ -202,8 +206,8 @@ Information about shipping, storage, and equipment moving is available from {{ c
   <td>300</td>
 </tr>
 <tr>
-  <td>STEAM/Orgelkids Program</td>
-  <td>TBD</td>
+  <td>The Lorenz Corporation</td>
+  <td>400, 401, 402</td>
 </tr>
 <tr>
   <td>The Royal College of Organists</td>
