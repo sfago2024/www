@@ -84,11 +84,12 @@ Information about shipping, storage, and equipment moving is available from {{ c
 
 ## Exhibitors
 
-<table>
+<script defer src="/sortable.min.js"></script>
+<table class="sortable asc">
 <thead>
 <tr>
-  <th><strong>Exhibitor</strong></th>
-  <th><strong>Booth Assignment</strong></th>
+  <th class="default-sort"><strong>Exhibitor</strong></th>
+  <th class="numeric"><strong>Booth Assignment</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -218,6 +219,15 @@ Information about shipping, storage, and equipment moving is available from {{ c
 </tr>
 </tbody>
 </table>
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    document.querySelectorAll(".sortable .default-sort").forEach(
+       (e) => {
+        e.click();
+      }
+    );
+  });
+</script>
 
 # Contact Us
 
