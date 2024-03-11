@@ -71,7 +71,7 @@ You can also see exhibit hours in the <a href="/schedule/">schedule</a>.
 
 # Exhibit Map
 
-<img class="full-width-image" style="aspect-ratio: 842 / 909" src="/attachments/exhibits-map-20240226.png">
+<img class="full-width-image" style="aspect-ratio: 842 / 909" src="/attachments/exhibits-map-20240310.png">
 
 Find more information in the {% pdf_link(href="/attachments/AGO 2024 Exhibits - V13.pdf") %}Exhibitor Kit{% end %}.
 
@@ -94,11 +94,11 @@ Information about shipping, storage, and equipment moving is available from {{ c
 </thead>
 <tbody>
 <tr>
-  <td>2025 Regional Conventions</td>
+  <td>2025 AGO Conventions</td>
   <td>404</td>
 </tr>
 <tr>
-  <td>2026 National Convention</td>
+  <td>2026 AGO National Convention – St. Louis</td>
   <td>403</td>
 </tr>
 <tr>
@@ -110,7 +110,7 @@ Information about shipping, storage, and equipment moving is available from {{ c
   <td>306</td>
 </tr>
 <tr>
-  <td>AGOYO</td>
+  <td>AGO Young Organists (AGOYO)</td>
   <td>TBD</td>
 </tr>
 <tr>
@@ -186,7 +186,7 @@ Information about shipping, storage, and equipment moving is available from {{ c
   <td>203</td>
 </tr>
 <tr>
-  <td>Music Teachers National Association (MTNA)</td>
+  <td>Music Teachers National Association</td>
   <td>TBD</td>
 </tr>
 <tr>
@@ -198,6 +198,10 @@ Information about shipping, storage, and equipment moving is available from {{ c
   <td>501</td>
 </tr>
 <tr>
+  <td>Rodgers Instruments US LLC – Global Organ Group</td>
+  <td>110</td>
+</tr>
+<tr>
   <td>Ruth and Clarence Mader Scholarship Fund</td>
   <td>407</td>
 </tr>
@@ -206,8 +210,16 @@ Information about shipping, storage, and equipment moving is available from {{ c
   <td>300</td>
 </tr>
 <tr>
+  <td>STEAM/Orgelkids Program</td>
+  <td>TBD</td>
+</tr>
+<tr>
   <td>The Lorenz Corporation</td>
   <td>400, 401, 402</td>
+</tr>
+<tr>
+  <td>The Hampson Albert Sisler Foundation, Inc.</td>
+  <td>406, 411</td>
 </tr>
 <tr>
   <td>The Royal College of Organists</td>
@@ -215,7 +227,7 @@ Information about shipping, storage, and equipment moving is available from {{ c
 </tr>
 <tr>
   <td>Viscount North America</td>
-  <td>Demo Room</td>
+  <td>114</td>
 </tr>
 <tr>
   <td>Yale Institute of Sacred Music</td>
