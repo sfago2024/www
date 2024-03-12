@@ -118,8 +118,12 @@ Information about shipping, storage, and equipment moving is available from {{ c
   <td>200, 201</td>
 </tr>
 <tr>
-  <td>Artisan Classic Organ, Inc.</td>
+  <td>Classic MIDI Works</td>
   <td>202</td>
+</tr>
+<tr>
+  <td>Classic Viscount Organs</td>
+  <td>Demo Room</td>
 </tr>
 <tr>
   <td>Augsburg Fortress</td>
@@ -227,7 +231,7 @@ Information about shipping, storage, and equipment moving is available from {{ c
 </tr>
 <tr>
   <td>Viscount North America</td>
-  <td>114</td>
+  <td>114, Demo Room</td>
 </tr>
 <tr>
   <td>Yale Institute of Sacred Music</td>
