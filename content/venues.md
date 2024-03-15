@@ -227,6 +227,22 @@ wide = true
   stoplist="https://pipeorgandatabase.org/organ/52795"
 ) }}
 
+{{ venue(
+  name="Calvary Presbyterian Church",
+  city="San&nbsp;Francisco",
+  img="/img/venues/Calvary Presbyterian.jpeg",
+  organ="Swain & Kates, 2001",
+  stoplist="https://pipeorgandatabase.org/instruments/65098"
+) }}
+
+{{ venue(
+  name="St. Luke’s Episcopal Church",
+  city="San&nbsp;Francisco",
+  img="/img/venues/St. Luke_s.jpeg",
+  organ="Marc Austin, 1995",
+  stoplist="https://pipeorgandatabase.org/instruments/35594"
+) }}
+
 </div>
 
 </div>
