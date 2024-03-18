@@ -71,7 +71,7 @@ You can also see exhibit hours in the <a href="/schedule/">schedule</a>.
 
 # Exhibit Map
 
-<img class="full-width-image" style="aspect-ratio: 842 / 909" src="/attachments/exhibits-map-20240312.png">
+<img class="full-width-image" style="aspect-ratio: 842 / 909" src="/attachments/exhibits-map-20240318.png">
 
 Find more information in the {% pdf_link(href="/attachments/AGO 2024 Exhibits - V13.pdf") %}Exhibitor Kit{% end %}.
 
@@ -94,8 +94,12 @@ Information about shipping, storage, and equipment moving is available from {{ c
 </thead>
 <tbody>
 <tr>
-  <td>2025 AGO Conventions</td>
-  <td>404</td>
+  <td>2025 AGO Convention – Fort Worth</td>
+  <td>415</td>
+</tr>
+<tr>
+  <td>2025 AGO Convention – Phoenix</td>
+  <td>416</td>
 </tr>
 <tr>
   <td>2026 AGO National Convention – St. Louis</td>
@@ -158,6 +162,10 @@ Information about shipping, storage, and equipment moving is available from {{ c
   <td>303, 304</td>
 </tr>
 <tr>
+  <td>French Press</td>
+  <td>310</td>
+</tr>
+<tr>
   <td>Foley-Baker, Inc.</td>
   <td>313</td>
 </tr>
@@ -212,6 +220,10 @@ Information about shipping, storage, and equipment moving is available from {{ c
 <tr>
   <td>Ruth and Clarence Mader Scholarship Fund</td>
   <td>407</td>
+</tr>
+<tr>
+  <td>Saint Thomas Choir School</td>
+  <td>305</td>
 </tr>
 <tr>
   <td>Selah Publishing Co., Inc.</td>
