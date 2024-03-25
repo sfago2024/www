@@ -43,6 +43,7 @@ registrations.
 * Months of visibility on convention website
 * Your logo spanning the globe when on the tote bag
 * See our {% pdf_link(href="/attachments/AGO 2024 Media Kit.pdf") %}Media Kit{% end %} for details
+* *Program book deadline extended!* Submissions accepted through April 10.
 
 </div>
 
