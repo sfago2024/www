@@ -1,9 +1,7 @@
 function displayAdAndLogPageview() {
   const ads = [
-    {name: 'sfago2024-placeholder', extension: 'png', url: 'https://www.sfago2024.org/advertise-exhibit/#maury-a-castro'},
+    // {name: 'sfago2024-placeholder', extension: 'png', url: 'https://www.sfago2024.org/advertise-exhibit/#maury-a-castro'},
     {name: 'barenreiter', extension: 'jpg', url: 'https://www.barenreiter.us/products/bach-the-complete-organ-works-barenreiter?_pos=1&_psq=Bach+Organ+Works&_ss=e&_v=1.0'},
-    {name: 'barenreiter', extension: 'jpg', url: 'https://www.barenreiter.us/products/bach-the-complete-organ-works-barenreiter?_pos=1&_psq=Bach+Organ+Works&_ss=e&_v=1.0'},
-    {name: 'yale-ism', extension: 'jpg', url: 'https://ism.yale.edu/'},
     {name: 'yale-ism', extension: 'jpg', url: 'https://ism.yale.edu/'},
   ];
   let ad = ads[Math.floor(Math.random() * ads.length)];
