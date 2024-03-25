@@ -22,6 +22,8 @@
   <li>Seattle</li>
   <li>Colorado Springs</li>
   <li>Southern Arizona chapters</li>
+  <li>Sacramento Valley</li>
+  <li>San Jose</li>
 </ul>
 
 **San Francisco Select Circle Donors**
