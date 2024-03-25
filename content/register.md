@@ -36,40 +36,40 @@ application to secure the reduced rate for the convention.
     <tr>
       <th></th>
       <th class="expired"><strong>Super Saver</strong><br>Through 1/31/24</th>
-      <th class="current"><strong>Early</strong><br>2/1/24&thinsp;–&thinsp;3/15/24</th>
-      <th><strong>Regular</strong><br>3/16/24&thinsp;–&thinsp;6/30/24</th>
+      <th class="expired"><strong>Early</strong><br>2/1/24&thinsp;–&thinsp;3/15/24</th>
+      <th class="current"><strong>Regular</strong><br>3/16/24&thinsp;–&thinsp;6/30/24</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong>Member – Regular</strong></td>
       <td class="expired">$595</td>
-      <td class="current">$645</td>
-      <td>$695</td>
+      <td class="expired">$645</td>
+      <td class="current">$695</td>
     </tr>
     <tr>
       <td><strong>Member – Special</strong><br>(disabled or age&thinsp;&ge;&thinsp;65)</td>
       <td class="expired">$570</td>
-      <td class="current">$620</td>
-      <td>$670</td>
+      <td class="expired">$620</td>
+      <td class="current">$670</td>
     </tr>
     <tr>
       <td><strong>Young Organist</strong><br>(age&thinsp;&lt;&thinsp;30)</td>
       <td class="expired">$395</td>
+      <td class="expired">$395</td>
       <td class="current">$395</td>
-      <td>$395</td>
     </tr>
     <tr>
       <td><strong>Spouse/<wbr>Partner</strong></td>
       <td class="expired">$570</td>
-      <td class="current">$620</td>
-      <td>$670</td>
+      <td class="expired">$620</td>
+      <td class="current">$670</td>
     </tr>
     <tr>
       <td><strong>Non-member</strong></td>
       <td class="expired">$645</td>
-      <td class="current">$695</td>
-      <td>$745</td>
+      <td class="expired">$695</td>
+      <td class="current">$745</td>
     </tr>
   </tbody>
 </table>
