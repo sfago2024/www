@@ -72,7 +72,7 @@ You can also see exhibit hours in the <a href="/schedule/">schedule</a>.
 
 # Exhibit Map
 
-<img class="full-width-image" style="aspect-ratio: 842 / 909" src="/attachments/exhibits-map-20240319.png">
+<img class="full-width-image" style="aspect-ratio: 842 / 909" src="/attachments/exhibits-map-20240403.png">
 
 Find more information in the {% pdf_link(href="/attachments/AGO 2024 Exhibits - V13.pdf") %}Exhibitor Kit{% end %}.
 
@@ -105,6 +105,10 @@ Information about shipping, storage, and equipment moving is available from {{ c
 <tr>
   <td>2026 AGO National Convention – St. Louis</td>
   <td>403</td>
+</tr>
+<tr>
+  <td>ACFEA Tour Consultants</td>
+  <td>314</td>
 </tr>
 <tr>
   <td>Acis</td>
@@ -249,6 +253,10 @@ Information about shipping, storage, and equipment moving is available from {{ c
 <tr>
   <td>Viscount North America</td>
   <td>114, Demo Room</td>
+</tr>
+<tr>
+  <td>Westminster Choir College of Rider University</td>
+  <td>315</td>
 </tr>
 <tr>
   <td>Yale Institute of Sacred Music</td>
