@@ -72,7 +72,7 @@ You can also see exhibit hours in the <a href="/schedule/">schedule</a>.
 
 # Exhibit Map
 
-<img class="full-width-image" style="aspect-ratio: 842 / 909" src="/attachments/exhibits-map-20240403.png">
+<img class="full-width-image" style="aspect-ratio: 842 / 909" src="/attachments/exhibits-map-20240412.png">
 
 Find more information in the {% pdf_link(href="/attachments/AGO 2024 Exhibits - V13.pdf") %}Exhibitor Kit{% end %}.
 
@@ -119,6 +119,10 @@ Information about shipping, storage, and equipment moving is available from {{ c
   <td>306</td>
 </tr>
 <tr>
+  <td>AGO Headquarters</td>
+  <td>AGO Lounge</td>
+</tr>
+<tr>
   <td>AGO Young Organists (AGOYO)</td>
   <td>TBD</td>
 </tr>
@@ -141,6 +145,10 @@ Information about shipping, storage, and equipment moving is available from {{ c
 <tr>
   <td>Breitkopf & Haertel</td>
   <td>500</td>
+</tr>
+<tr>
+  <td>Calvin Taylor Publishing</td>
+  <td>404</td>
 </tr>
 <tr>
   <td>Canadian International Organ Competition</td>
@@ -196,7 +204,7 @@ Information about shipping, storage, and equipment moving is available from {{ c
 </tr>
 <tr>
   <td>Longwood Gardens</td>
-  <td>100</td>
+  <td>116</td>
 </tr>
 <tr>
   <td>Meta Organworks</td>
@@ -220,7 +228,11 @@ Information about shipping, storage, and equipment moving is available from {{ c
 </tr>
 <tr>
   <td>Rodgers Instruments US LLC – Global Organ Group</td>
-  <td>110</td>
+  <td>111</td>
+</tr>
+<tr>
+  <td>Royal College of Organists</td>
+  <td>405</td>
 </tr>
 <tr>
   <td>Ruth and Clarence Mader Scholarship Fund</td>
@@ -245,10 +257,6 @@ Information about shipping, storage, and equipment moving is available from {{ c
 <tr>
   <td>The Hampson Albert Sisler Foundation, Inc.</td>
   <td>406, 411</td>
-</tr>
-<tr>
-  <td>The Royal College of Organists</td>
-  <td>405</td>
 </tr>
 <tr>
   <td>Viscount North America</td>
