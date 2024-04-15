@@ -45,7 +45,7 @@ wide = true
   name="St. Ignatius Parish",
   city="San&nbsp;Francisco",
   img="/img/venues/St. Ignatius.webp",
-  organ="",
+  organ="Hupalo & Repasky, 2024",
   stoplist=""
 ) }}
 
@@ -239,7 +239,7 @@ wide = true
   name="St. Luke’s Episcopal Church",
   city="San&nbsp;Francisco",
   img="/img/venues/St. Luke_s.jpeg",
-  organ="Marc Austin, 1995",
+  organ="Aeolian-Skinner, 1959",
   stoplist="https://pipeorgandatabase.org/instruments/35594"
 ) }}
 
