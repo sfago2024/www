@@ -46,7 +46,8 @@ wide = true
   city="San&nbsp;Francisco",
   img="/img/venues/St. Ignatius.webp",
   organ="Hupalo & Repasky, 2024",
-  stoplist=""
+  stoplist="/attachments/St. Ignatius Rebuild Specs.pdf",
+  stoplistpdf=true
 ) }}
 
 {{ venue(
