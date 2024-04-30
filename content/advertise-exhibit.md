@@ -72,7 +72,7 @@ You can also see exhibit hours in the <a href="/schedule/">schedule</a>.
 
 # Exhibit Map
 
-<img class="full-width-image" style="aspect-ratio: 842 / 909" src="/attachments/exhibits-map-20240412.png">
+<img class="full-width-image" style="aspect-ratio: 842 / 909" src="/attachments/exhibits-map-20240429.png">
 
 Find more information in the {% pdf_link(href="/attachments/AGO 2024 Exhibits - V13.pdf") %}Exhibitor Kit{% end %}.
 
@@ -124,7 +124,7 @@ Information about shipping, storage, and equipment moving is available from {{ c
 </tr>
 <tr>
   <td>AGO Young Organists (AGOYO)</td>
-  <td>TBD</td>
+  <td>115</td>
 </tr>
 <tr>
   <td>Allen Organ Company</td>
@@ -215,8 +215,16 @@ Information about shipping, storage, and equipment moving is available from {{ c
   <td>311</td>
 </tr>
 <tr>
-  <td>Music Teachers National Association</td>
-  <td>TBD</td>
+  <td>Music Giveaway</td>
+  <td>604, 605</td>
+</tr>
+<tr>
+  <td>Music Teachers National Association (MTNA)</td>
+  <td>603</td>
+</tr>
+<tr>
+  <td>Orgelkids</td>
+  <td>601</td>
 </tr>
 <tr>
   <td>Ortloff Organ Company</td>
@@ -248,7 +256,7 @@ Information about shipping, storage, and equipment moving is available from {{ c
 </tr>
 <tr>
   <td>STEAM/Orgelkids Program</td>
-  <td>TBD</td>
+  <td>600</td>
 </tr>
 <tr>
   <td>The Lorenz Corporation</td>
