@@ -9,21 +9,30 @@
 **AGO Chapter Sponsors:**
 
 <ul class="sponsors">
+  <li>Albuquerque</li>
+  <li>Atlanta</li>
+  <li>Beaumont</li>
+  <li>Boston</li>
+  <li>Colorado Springs</li>
+  <li>Delaware</li>
+  <li>Fort Worth</li>
+  <li>Greater Kansas City</li>
+  <li>Greater Lansing, MI</li>
   <li>Houston</li>
+  <li>Long Beach</li>
   <li>Orange County</li>
   <li>Palomar</li>
-  <li>Beaumont</li>
-  <li>Albuquerque</li>
   <li>Piedmont, NC</li>
-  <li>Greater Lansing, MI</li>
-  <li>Long Beach</li>
-  <li>SE Minnesota</li>
   <li>Portland</li>
-  <li>Seattle</li>
-  <li>Colorado Springs</li>
-  <li>Southern Arizona chapters</li>
+  <li>Richmond</li>
+  <li>SE Minnesota</li>
   <li>Sacramento Valley</li>
+  <li>San Diego</li>
+  <li>San Francisco</li>
   <li>San Jose</li>
+  <li>Seattle</li>
+  <li>Southern Arizona chapters</li>
+  <li>Wichita</li>
 </ul>
 
 **San Francisco Select Circle Donors**
