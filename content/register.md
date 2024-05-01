@@ -71,10 +71,21 @@ application to secure the reduced rate for the convention.
       <td class="expired">$695</td>
       <td class="current">$745</td>
     </tr>
+    <tr>
+      <td><strong>Daily</strong></td>
+      <td class="expired">N/A</td>
+      <td class="expired">N/A</td>
+      <td class="current">$345</td>
+    </tr>
   </tbody>
 </table>
 
 Bus transportation between convention events is **included** in all registration rates.
+
+## Daily Registration
+
+Daily registration (Monday, Tuesday, Wednesday, or Thursday) is now available, priced at $345,
+including program book, bus transportation, and lunch (Thursday only).
 
 ## Model Financial Support Request Letter to Employer
 
@@ -83,7 +94,7 @@ Asking your employer for funds to attend the convention? You may download and ad
 support request letter{% end %}
 for your use when requesting financial support to attend the 2024 AGO National Convention.
 
-# Partner organizations
+# Partner Organizations
 
 Member registration rates are available to current members of the following organizations:
 
@@ -111,7 +122,6 @@ Member registration rates are available to current members of the following orga
   <li>The Hymn Society </li>
   <li>UCCMA</li>
 </ul>
-
 
 # Cancellation and Refund Policy
 
@@ -163,4 +173,20 @@ and include the word "reception" in the subject line.
 
 {% contact_card(name="Valerie Franzen") %}
 <a href="mailto:vfranzen@agohq.org">vfranzen@agohq.org</a>
+{% end %}
+
+# Tickets for Public Concerts
+
+<div class="action-panel">
+<p><strong>Click this button to purchase tickets for public concerts:</strong></p>
+<a class="fancy-button" href="https://sfago2024.eventbrite.com" rel="external" target="_blank">Purchase tickets online</a><br>
+</div>
+
+Ticket sales for the two concerts open to the public&thinsp;—&thinsp;Faythe Freese (July 2) and Janette Fishell
+(July 3)&thinsp;—&thinsp;are now available through Eventbrite ({% external_link(href="https://sfago2024.eventbrite.com") %}sfago2024.eventbrite.com{% end %}). We have also
+set aside a number of complimentary tickets for students (school, college, or studying music with a
+teacher). For more information, please contact {{ contact(name="Mark Lieu") }}.
+
+{% contact_card(name="Mark Lieu", position="Tickets Coordinator") %}
+<a href="mailto:tickets@sfago2024.org">tickets@sfago2024.org</a><br>
 {% end %}
