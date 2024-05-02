@@ -184,7 +184,7 @@ and include the word "reception" in the subject line.
 
 Ticket sales for the two concerts open to the public&thinsp;—&thinsp;Faythe Freese (July 2) and Janette Fishell
 (July 3)&thinsp;—&thinsp;are now available through Eventbrite ({% external_link(href="https://sfago2024.eventbrite.com") %}sfago2024.eventbrite.com{% end %}). We have also
-set aside a number of complimentary tickets for students (school, college, or studying music with a
+set aside a number of **complimentary tickets for students** (school, college, or studying music with a
 teacher). For more information, please contact {{ contact(name="Mark Lieu") }}.
 
 {% contact_card(name="Mark Lieu", position="Tickets Coordinator") %}

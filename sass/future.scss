@@ -262,6 +262,31 @@ body {
   }
 }
 
+.announcement-banner {
+  display: block;
+  margin-top: -1.3rem;
+  margin-bottom: 1.3rem;
+  position: relative;
+  z-index: 3;
+
+  background-color: var(--bg-secondary);
+  color: black;
+  font-size: 0.9em;
+  font-weight: 450;
+  padding: 0.75em 0.5em;
+  text-align: center;
+  text-decoration: none;
+
+  &.shadow {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  }
+
+  .click-for-more {
+    text-decoration: underline;
+    font-weight: 350;
+  }
+}
+
 .link-green {
   color: var(--green);
 }

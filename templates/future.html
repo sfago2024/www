@@ -40,7 +40,7 @@
       <div class="menu-button">{% include "shortcodes/icon_hamburger.html" %} Menu</div>
       <a class="search-button mobile">{% include "shortcodes/icon_search.html" %}</a>
     </div>
-    <nav class="main-menu{% if obj.extra.menu_shadow %} shadow{% endif %}">
+    <nav class="main-menu{% if obj.extra.menu_shadow and not obj.extra.announcement %} shadow{% endif %}">
       {% include "shortcodes/menu_links.html" %}
       <a class="search-button desktop">{% include "shortcodes/icon_search.html" %}</a>
     </nav>
@@ -53,6 +53,11 @@
         </div>
       </div>
     </div>
+    {% if obj.extra.announcement %}
+    <a class="announcement-banner{% if obj.extra.menu_shadow %} shadow{% endif %}" href="{{ obj.extra.announcement_url }}">
+      <p>{{ obj.extra.announcement}} <span class="click-for-more">Click for more info.</span></p>
+    </a>
+    {% endif %}
   </div>
   {% if not obj.extra.hide_ad %}
   <div class="ad mobile">

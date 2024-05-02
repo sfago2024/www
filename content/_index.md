@@ -7,6 +7,8 @@ aliases = ["/future/"]
 hide_ad = true
 menu_shadow = true
 wide = true
+announcement = "New! Tickets now available for concerts open to the public: Faythe Freese (July 2) and Janette Fishell (July 3)."
+announcement_url = "/register/#tickets-for-public-concerts"
 +++
 
 <div class="home-outer">
