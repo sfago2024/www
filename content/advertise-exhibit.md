@@ -72,7 +72,7 @@ You can also see exhibit hours in the <a href="/schedule/">schedule</a>.
 
 # Exhibit Map
 
-<img class="full-width-image" style="aspect-ratio: 842 / 909" src="/attachments/exhibits-map-20240429.png">
+<img class="full-width-image" style="aspect-ratio: 842 / 909" src="/attachments/exhibits-map-20240507.png">
 
 Find more information in the {% pdf_link(href="/attachments/AGO 2024 Exhibits - V13.pdf") %}Exhibitor Kit{% end %}.
 
@@ -131,12 +131,8 @@ Information about shipping, storage, and equipment moving is available from {{ c
   <td>200, 201</td>
 </tr>
 <tr>
-  <td>Classic MIDI Works</td>
-  <td>202</td>
-</tr>
-<tr>
-  <td>Classic Viscount Organs</td>
-  <td>Demo Room</td>
+  <td>Austin Organs Inc.</td>
+  <td>316</td>
 </tr>
 <tr>
   <td>Augsburg Fortress</td>
@@ -161,6 +157,14 @@ Information about shipping, storage, and equipment moving is available from {{ c
 <tr>
   <td>Church Music Institute</td>
   <td>301</td>
+</tr>
+<tr>
+  <td>Classic MIDI Works</td>
+  <td>202</td>
+</tr>
+<tr>
+  <td>Classic Viscount Organs</td>
+  <td>Demo Room</td>
 </tr>
 <tr>
   <td>Concert Artist Cooperative</td>
