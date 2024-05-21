@@ -227,7 +227,7 @@ Information about shipping, storage, and equipment moving is available from {{ c
   <td>603</td>
 </tr>
 <tr>
-  <td>Orgelkids</td>
+  <td>Orgelkids, USA</td>
   <td>601</td>
 </tr>
 <tr>
@@ -259,8 +259,12 @@ Information about shipping, storage, and equipment moving is available from {{ c
   <td>300</td>
 </tr>
 <tr>
-  <td>STEAM/Orgelkids Program</td>
+  <td>STEAM Pipeworks</td>
   <td>600</td>
+</tr>
+<tr>
+  <td>Syracuse University</td>
+  <td>113</td>
 </tr>
 <tr>
   <td>The Lorenz Corporation</td>
