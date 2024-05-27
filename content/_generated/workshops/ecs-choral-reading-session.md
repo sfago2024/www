@@ -16,6 +16,6 @@ aliases = ["/sessions/ecs-choral-reading-session/","/future/workshops/ecs-choral
 </ul>
 <h2>Description</h2>
 
-ECS Publishing Group, which encapsulates EC Schirmer, MorningStar, Galaxy, Aureole, Arsis Audio, and Canticle Distributing publishes music across all genres and instrumentation. Representing a large number of West Coast composers, this reading session will feature local works alongside other exciting choral pieces.
+<div class="ag87-crtemvc-hsbk"><div class="css-vsf5of"><p class="carina-rte-public-DraftStyleDefault-block">ECS Publishing Group, which encapsulates EC Schirmer, MorningStar, Galaxy, Aureole, Arsis Audio, and Canticle Distributing publishes music across all genres and instrumentation. Representing a large number of West Coast composers, this reading session will feature local works alongside other exciting choral pieces.</p></div></div>
 
 

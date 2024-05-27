@@ -14,4 +14,8 @@ aliases = ["/sessions/david-higgs-master-class/","/future/workshops/david-higgs-
 <ul>
 <li><a href="/performers/david-higgs/">David Higgs</a></li>
 </ul>
+<h2>Description</h2>
+
+<div class="ag87-crtemvc-hsbk"><div class="css-vsf5of"><p class="carina-rte-public-DraftStyleDefault-block">Sponsored by the Sacramento Valley Chapter, AGO</p></div></div>
+
 
