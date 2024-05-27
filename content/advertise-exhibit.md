@@ -72,7 +72,7 @@ You can also see exhibit hours in the <a href="/schedule/">schedule</a>.
 
 # Exhibit Map
 
-<img class="full-width-image" style="aspect-ratio: 842 / 909" src="/attachments/exhibits-map-20240507.png">
+<img class="full-width-image" style="aspect-ratio: 842 / 909" src="/attachments/exhibits-map-20240527.png">
 
 Find more information in the {% pdf_link(href="/attachments/AGO 2024 Exhibits - V13.pdf") %}Exhibitor Kit{% end %}.
 
