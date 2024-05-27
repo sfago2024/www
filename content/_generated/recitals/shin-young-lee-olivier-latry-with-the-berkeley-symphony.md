@@ -15,7 +15,7 @@ aliases = ["/recitals/shin-young-lee-olivier-latry-with-the-berkeley-symphony-or
 <li><a href="/performers/olivier-latry/">Olivier Latry</a></li>
 <li><a href="/performers/shin-young-lee/">Shin-Young Lee</a></li>
 <li><a href="/performers/berkeley-symphony/">Berkeley Symphony</a></li>
-<li><a href="/performers/joseph-young/">Joseph Young</a></li>
+<li><a href="/performers/ming-luke/">Ming Luke</a></li>
 </ul>
 <h2>Description</h2>
 
