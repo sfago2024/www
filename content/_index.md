@@ -8,7 +8,7 @@ hide_ad = true
 menu_shadow = true
 wide = true
 announcement = "New! Tickets now available for concerts open to the public: Faythe Freese (July 2) and Janette Fishell (July 3)."
-announcement_url = "/register/#tickets-for-public-concerts"
+announcement_url = "https://sfago2024.eventbrite.com"
 +++
 
 <div class="home-outer">
