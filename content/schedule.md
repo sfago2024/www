@@ -39,8 +39,6 @@ show_toc = true
 <span class="event">NYACOP Finals – {% location_link() %}Lakeside Presbyterian{% end %}</span>
 <span class="time">3:30&nbsp;<i>PM</i> – 5:00&nbsp;<i>PM</i></span>
 <span class="event">Visionary Leadership: Chapter Officer Training<br>(open to anyone serving on a chapter board)</span>
-<span class="time">6:30&nbsp;<i>PM</i></span>
-<span class="event">Final bus departure from hotel to Congregation Sherith Israel</span>
 <span class="time">7:00&nbsp;<i>PM</i> – 7:30&nbsp;<i>PM</i></span>
 <span class="event">{% session_link(url="/worship/opening-worship-in-the-reform-jewish-tradition/") %}Organ Prelude: David Higgs{% end %} – {% location_link() %}Congregation Sherith Israel{% end %}</span>
 <span class="time">7:30&nbsp;<i>PM</i> – 9:00&nbsp;<i>PM</i></span>
