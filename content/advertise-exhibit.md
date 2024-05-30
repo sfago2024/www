@@ -187,7 +187,7 @@ Information about shipping, storage, and equipment moving is available from {{ c
   <td>409, 410</td>
 </tr>
 <tr>
-  <td>Fred Bock Music Company</td>
+  <td>Fred Bock Music Company/<wbr>Hal Leonard/<wbr>Boosey & Hawkes</td>
   <td>204, 205</td>
 </tr>
 <tr>
