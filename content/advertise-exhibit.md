@@ -72,7 +72,7 @@ You can also see exhibit hours in the <a href="/schedule/">schedule</a>.
 
 # Exhibit Map
 
-<img class="full-width-image" style="aspect-ratio: 842 / 909" src="/attachments/exhibits-map-20240527.png">
+<img class="full-width-image" style="aspect-ratio: 842 / 909" src="/attachments/exhibits-map-20240529.png">
 
 Find more information in the {% pdf_link(href="/attachments/AGO 2024 Exhibits - V13.pdf") %}Exhibitor Kit{% end %}.
 
@@ -139,10 +139,6 @@ Information about shipping, storage, and equipment moving is available from {{ c
   <td>504, 505</td>
 </tr>
 <tr>
-  <td>Breitkopf & Haertel</td>
-  <td>500</td>
-</tr>
-<tr>
   <td>Calvin Taylor Publishing</td>
   <td>404</td>
 </tr>
@@ -164,7 +160,7 @@ Information about shipping, storage, and equipment moving is available from {{ c
 </tr>
 <tr>
   <td>Classic Viscount Organs</td>
-  <td>Demo Room</td>
+  <td>Demo Room (Salon 4–6)</td>
 </tr>
 <tr>
   <td>Concert Artist Cooperative</td>
@@ -276,7 +272,7 @@ Information about shipping, storage, and equipment moving is available from {{ c
 </tr>
 <tr>
   <td>Viscount North America</td>
-  <td>114, Demo Room</td>
+  <td>114, Demo Room (Nob Hill A–C)</td>
 </tr>
 <tr>
   <td>Westminster Choir College of Rider University</td>
