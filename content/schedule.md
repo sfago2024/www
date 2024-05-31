@@ -106,7 +106,6 @@ show_toc = true
 <span class="event"><span class="group">[Group B]</span> choice of:</span>
 <span class="event">{% session_link(url="/recitals/group-b-nicole-keller-2-00-pm/") %}Nicole Keller{% end %} – {% location_link() %}First Presbyterian Church, Oakland{% end %}<br><span class="sponsor">Generously sponsored by a gift from Rosales Organ Builders</span><br>Commissioned piece: Carl Rütti</span>
 <span class="event">{% session_link(url="/recitals/group-b-chanticleer-2-00-pm/") %}Chanticleer{% end %} – {% location_link() %}St. Paul’s Episcopal Church, Oakland{% end %}</span>
-<span class="event">{% session_link(url="/worship/group-b-roman-catholic-worship-service-2-00-pm/") %}Roman Catholic Worship Service: Jennifer Pascual{% end %} – {% location_link() %}Our Lady of Lourdes, Oakland{% end %}</span>
 <span class="time">3:30&nbsp;<i>PM</i> – 4:15&nbsp;<i>PM</i></span>
 <span class="event"><span class="group">[Group A]</span> choice of:</span>
 <span class="event">{% session_link(url="/recitals/group-a-nicole-keller-3-30-pm/") %}Nicole Keller{% end %} – {% location_link() %}First Presbyterian Church, Oakland{% end %}<br>Commissioned piece: Carl Rütti<br>Generously sponsored by a gift from Rosales Organ Builders</span>
@@ -183,17 +182,13 @@ show_toc = true
 <span class="time">1:30&nbsp;<i>PM</i> – 2:15&nbsp;<i>PM</i></span>
 <span class="event"><span class="group">[Group D]</span> {% session_link(url="/recitals/group-d-peter-sykes-1-30-pm/") %}Peter Sykes{% end %} – {% location_link() %}St. Mark’s Lutheran{% end %}</span>
 <span class="time">1:30&nbsp;<i>PM</i> – 2:15&nbsp;<i>PM</i></span>
-<span class="event"><span class="group">[Group E]</span> {% session_link(url="/recitals/group-e-rashaan-rori-allwood-1-30-pm/") %}Rashaan Rori Allwood{% end %} – {% location_link() %}St. Dominic’s{% end %}</span>
-<span class="time">1:30&nbsp;<i>PM</i> – 2:15&nbsp;<i>PM</i></span>
-<span class="event"><span class="group">[Group F]</span> {% session_link(url="/recitals/group-f-aaron-tan-1-30-pm/") %}Aaron Tan{% end %} – {% location_link() %}Calvary Presbyterian{% end %}</span>
+<span class="event"><span class="group">[Group E]</span> {% session_link(url="/recitals/group-e-rashaan-rori-allwood-1-30-pm/") %}Rashaan Rori Allwood{% end %} – {% location_link() %}Old First Presbyterian{% end %}</span>
 <span class="time">2:45&nbsp;<i>PM</i> – 3:30&nbsp;<i>PM</i></span>
 <span class="event"><span class="group">[Group C]</span> {% session_link(url="/recitals/group-c-peter-sykes-2-45-pm/") %}Peter Sykes{% end %} – {% location_link() %}St. Mark’s Lutheran{% end %}</span>
 <span class="time">2:45&nbsp;<i>PM</i> – 3:30&nbsp;<i>PM</i></span>
 <span class="event"><span class="group">[Group D]</span> {% session_link(url="/recitals/group-d-ken-cowan-2-45-pm/") %}Ken Cowan{% end %} – {% location_link() %}Trinity&thinsp;+&thinsp;St. Peter’s{% end %}<br><span class="sponsor">Generously sponsored by a gift from Schoenstein & Co.</span></span>
 <span class="time">2:45&nbsp;<i>PM</i> – 3:30&nbsp;<i>PM</i></span>
 <span class="event"><span class="group">[Group E]</span> {% session_link(url="/recitals/group-e-aaron-tan-2-45-pm/") %}Aaron Tan{% end %} – {% location_link() %}Calvary Presbyterian{% end %}</span>
-<span class="time">2:45&nbsp;<i>PM</i> – 3:30&nbsp;<i>PM</i></span>
-<span class="event"><span class="group">[Group F]</span> {% session_link(url="/recitals/group-f-rashaan-rori-allwood-2-45-pm/") %}Rashaan Rori Allwood{% end %} – {% location_link() %}St. Dominic’s{% end %}</span>
 <span class="time">4:00&nbsp;<i>PM</i> – 5:30&nbsp;<i>PM</i></span>
 <span class="event">{% session_link(url="/sessions/ago-national-business-meeting/") %}AGO National Business Meeting{% end %} – {% location_link() %}Congregation Sherith Israel{% end %}</span>
 <span class="time">5:30&nbsp;<i>PM</i> – 7:30&nbsp;<i>PM</i></span>
@@ -286,7 +281,7 @@ show_toc = true
 <span class="time">11:30&nbsp;<i>AM</i> – 12:15&nbsp;<i>PM</i></span>
 <span class="event">{% session_link(url="/recitals/jonathan-moyer/") %}Jonathan Moyer{% end %} – {% location_link() %}St. Bede’s Episcopal Church, Menlo Park{% end %}</span>
 <span class="time">11:30&nbsp;<i>AM</i> – 12:15&nbsp;<i>PM</i></span>
-<span class="event">{% session_link(url="/recitals/anne-laver/") %}Anne Laver{% end %} – {% location_link() %}St. Mark’s Episcopal Church, Palo Alto{% end %}<br>Commissioned piece: Natalie Draper</span>
+<span class="event">{% session_link(url="/recitals/anne-laver/") %}Anne Laver{% end %} – {% location_link() %}St. Mark’s Episcopal Church, Palo Alto{% end %}<br>Commissioned pieces: Jessica Meyer, Natalie Draper</span>
 <span class="time">11:30&nbsp;<i>AM</i> – 12:15&nbsp;<i>PM</i></span>
 <span class="event">{% session_link(url="/recitals/monica-czausz-berney/") %}Monica Czausz Berney{% end %} – {% location_link() %}First Congregational Church, Palo Alto{% end %}</span>
 <span class="time">11:30&nbsp;<i>AM</i> – 12:15&nbsp;<i>PM</i></span>
