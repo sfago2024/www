@@ -22,6 +22,7 @@
   <li>Las Cruces</li>
   <li>Long Beach</li>
   <li>Orange County</li>
+  <li>Palo Alto/Peninsula</li>
   <li>Palomar</li>
   <li>Piedmont, NC</li>
   <li>Portland</li>
