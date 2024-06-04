@@ -7,7 +7,7 @@ aliases = ["/future/"]
 hide_ad = true
 menu_shadow = true
 wide = true
-announcement = "Tickets are now available for concerts open to the public:"
+announcement = """<b>New!</b> Several convention offerings are now open to the public, including free programs. <u>Check our Eventbrite page</u> to see what’s available."""
 announcement_url = "https://sfago2024.eventbrite.com"
 +++
 

@@ -286,19 +286,14 @@ body {
 
   background-color: var(--bg-secondary);
   color: black;
-  font-size: 0.9em;
-  font-weight: 450;
+  /* font-size: 0.9em; */
+  font-weight: 350;
   padding: 0.75em 0.5em;
   text-align: center;
   text-decoration: none;
 
   &.shadow {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-  }
-
-  .click-for-more {
-    text-decoration: underline;
-    font-weight: 350;
   }
 }
 

@@ -56,7 +56,7 @@
     </div>
     {% if obj.extra.announcement %}
     <a class="announcement-banner{% if obj.extra.menu_shadow %} shadow{% endif %}" href="{{ obj.extra.announcement_url }}"{% if obj.extra.announcement_url is starting_with("https:") %} rel="external" target="_blank"{% endif %}>
-      <p>{{ obj.extra.announcement}} <span class="click-for-more">Click to purchase tickets.</span></p>
+      <p>{{ obj.extra.announcement | safe }}</p>
     </a>
     {% endif %}
   </div>
