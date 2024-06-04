@@ -1,6 +1,6 @@
 <div class="venue" id="{{ name | slugify }}">
 <img src="{{ img }}">
 <strong>{{ name | safe }}</strong>{% if city %}, {{ city | safe }}{% endif %}
-{% if organ %}<br><span class="organ">{% if stoplist %}<a class="subtle" href="{{ stoplist }}" rel="external" target="_blank">{% endif %}{{ organ | safe }}{% if stoplistpdf %}&#8239;{% include "shortcodes/icon_filetype_pdf.html" %}</a>{% elif stoplist %}&#8239;{% include "shortcodes/icon_pipes.html" %}</a>{% endif %}</span>{% endif %}
+{% if organ %}<br><span class="organ">{% if stoplist %}<a class="subtle" href="{{ stoplist }}" rel="external" target="_blank">{% endif %}{{ organ | safe }}{% if stoplistpdf %}&#8239;{% include "shortcodes/icon_filetype_pdf.html" %}</a>{% else %}&#8239;{% include "shortcodes/icon_pipes.html" %}</a>{% endif %}</span>{% endif %}
 {% if organ2 %}<br><span class="organ">{% if stoplist2 %}<a class="subtle" href="{{ stoplist2 }}" rel="external" target="_blank">{% endif %}{{ organ2 | safe }}{% endif %}{% if stoplist2 %}&#8239;{% include "shortcodes/icon_pipes.html" %}</a></span>{% endif %}
 </div>

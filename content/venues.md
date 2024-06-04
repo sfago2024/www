@@ -85,14 +85,6 @@ wide = true
 ) }}
 
 {{ venue(
-  name="St. Dominic’s Catholic Church",
-  city="San&nbsp;Francisco",
-  img="/img/venues/St. Dominic_s.jpeg",
-  organ="Walker hybrid, 2020",
-  stoplist="https://stdominics.org/organs"
-) }}
-
-{{ venue(
   name="Trinity&thinsp;+&thinsp;St. Peter’s Episcopal Church",
   city="San&nbsp;Francisco",
   img="/img/venues/Trinity+St. Peter_s.jpeg",
@@ -242,6 +234,14 @@ wide = true
   img="/img/venues/St. Luke_s.jpeg",
   organ="Aeolian-Skinner, 1959",
   stoplist="https://pipeorgandatabase.org/instruments/35594"
+) }}
+
+{{ venue(
+  name="Old First Presbyterian Church",
+  city="San&nbsp;Francisco",
+  img="/img/venues/Old First.jpeg",
+  organ="Visscher & Associates, 1995",
+  stoplist=""
 ) }}
 
 </div>
