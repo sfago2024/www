@@ -13,6 +13,7 @@ aliases = ["/sessions/opening-worship-in-the-reform-jewish-tradition/","/future/
 <h2>Presenters</h2>
 <ul>
 <li><a href="/composers/melissa-dunphy/">Melissa Dunphy</a></li>
+<li><a href="/performers/rachel-policar/">Rachel Policar</a></li>
 <li><a href="/performers/david-higgs/">David Higgs</a></li>
 </ul>
 <h2>Description</h2>
