@@ -199,6 +199,21 @@ body {
       background-color: var(--bg);
     }
   }
+
+  .back-to-app-button {
+    flex-basis: 100%;
+
+    display: none;
+    cursor: pointer;
+    padding: 0.25em;
+    padding-left: 1rem;
+
+    text-decoration: none;
+
+    &.active {
+      background-color: var(--bg);
+    }
+  }
 }
 
 .main-menu {

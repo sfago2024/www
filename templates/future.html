@@ -37,6 +37,7 @@
   </header>
   <div class="menu-container">
     <div class="menu-button-container{% if obj.extra.menu_shadow %} shadow{% endif %}">
+      <a class="back-to-app-button" href="https://mobile-event.cvent.me/RmnsEt21kJb?eventId=910aaf29-14d4-4586-a56f-bd0b3b2c31c0&feature=openEvent&environment=production">{% include "shortcodes/icon_back_arrow.html" %} Return to app</a>
       <div class="menu-button">{% include "shortcodes/icon_hamburger.html" %} Menu</div>
       <a class="search-button mobile">{% include "shortcodes/icon_search.html" %}</a>
     </div>
@@ -115,11 +116,11 @@
       "DOMContentLoaded",
       (e) => {
         let container = document.querySelector(".menu-container");
-        let button = document.querySelector(".menu-button");
+        let menuButton = document.querySelector(".menu-button");
         let menu = document.querySelector(".main-menu");
-        button.addEventListener("click",
+        menuButton.addEventListener("click",
           (e) => {
-            if (button.classList.toggle("active")) {
+            if (menuButton.classList.toggle("active")) {
               menu.style.display = "flex";
               container.scrollIntoView({block: "nearest"});
             } else {
@@ -164,6 +165,12 @@
             }
           }
         );
+
+        const params = new URLSearchParams(window.location.search);
+        if (params.get("app")) {
+          document.querySelector(".back-to-app-button").style.display = "block";
+          menuButton.style.display = "none";
+        }
       }
     )
   </script>
