@@ -13,25 +13,17 @@ aliases = [
 show_toc = true
 +++
 
-Consider extending your stay! The AGO group hotel rate of $169 per night is available both before
-and after the convention dates, from June 27 through July 7, subject to availability. Before
-and after the convention, take the opportunity to enjoy San Francisco sights, neighborhoods, and
-restaurants, as well as sports events, museums, shopping, and concerts. For more information, visit
-the
+Consider extending your stay! Before and after the convention, take the opportunity to enjoy San
+Francisco sights, neighborhoods, and restaurants, as well as sports events, museums, shopping, and
+concerts. For more information, visit the
 {% external_link(href="https://www.sftravel.com/") %}San Francisco Travel Association{% end %}.
 And this year SF Pride is June 29–30, 2024.
 
 # Hotel
 
 <div class="action-panel">
-<a class="fancy-button" href="https://book.passkey.com/e/50643191" rel="external" target="_blank">Make hotel reservations</a>
 
-**Convention rate: $169/night**
-
-**Reservations must be made by June 9, 2024.**
-
-Be sure to use only this link to book your room, to secure your reservation and avoid booking
-problems and extra charges.
+**The deadline (June 9, 2024) to make hotel reservations at the convention rate has passed,** but you can still visit the {% external_link(href="https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/overview/") %}San Francisco Marriott Marquis{% end %} website to check for avaialability at the hotel's regular rates.
 
 </div>
 
