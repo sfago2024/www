@@ -67,6 +67,7 @@ show_toc = true
       <li>{% session_link(url="/workshops/wayne-leupold-organ-reading-session/") %}Wayne Leupold – Organ Reading Session{% end %}</li>
       <li>{% session_link(url="/workshops/new-organ-chorales-in-the-schübler-tradition/") %}“New” Organ Chorales in the Schübler Tradition{% end %}</li>
       <li>{% session_link(url="/workshops/to-please-and-to-astonish-creative-programming/") %}“To Please and to Astonish”: Creative Programming{% end %}</li>
+      <li>{% session_link(url="/workshops/choral-musicianship-reading-for-singers-analysis-for-conductors/") %}Choral Musicianship: Reading for Singers; Analysis for Conductors (part 1){% end %}</li>
     </ul>
   </details>
 </span>
@@ -81,6 +82,7 @@ show_toc = true
       <li>{% session_link(url="/workshops/from-ipad-to-organ-tech-tips/") %}From iPad to Organ — Tech Tips{% end %}</li>
       <li>{% session_link(url="/workshops/meditations-on-the-nativity/") %}Meditations on the Nativity{% end %}</li>
       <li>{% session_link(url="/workshops/mr-skinner-s-legacy/") %}Mr. Skinner’s Legacy{% end %}</li>
+      <li>{% session_link(url="/workshops/choral-musicianship-reading-for-singers-analysis-for-conductors/") %}Choral Musicianship: Reading for Singers; Analysis for Conductors (part 2){% end %}</li>
     </ul>
   </details>
 </span>
