@@ -28,7 +28,7 @@ And this year SF Pride is June 29–30, 2024.
 
 **Convention rate: $169/night**
 
-**Reservations must be made by June 9, 2024.**
+**Reservations must be made by ~~June 9~~ June 15, 2024.**
 
 Be sure to use only this link to book your room, to secure your reservation and avoid booking
 problems and extra charges.
