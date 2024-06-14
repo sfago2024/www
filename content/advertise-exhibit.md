@@ -72,7 +72,7 @@ You can also see exhibit hours in the <a href="/schedule/">schedule</a>.
 
 # Exhibit Map
 
-<img class="full-width-image" style="aspect-ratio: 842 / 909" src="/attachments/exhibits-map-20240529.png">
+<img class="full-width-image" style="aspect-ratio: 842 / 909" src="/attachments/exhibits-map-20240614.png">
 
 Find more information in the {% pdf_link(href="/attachments/AGO 2024 Exhibits - V13.pdf") %}Exhibitor Kit{% end %}.
 
@@ -129,6 +129,10 @@ Information about shipping, storage, and equipment moving is available from {{ c
 <tr>
   <td>Allen Organ Company</td>
   <td>200, 201</td>
+</tr>
+<tr>
+  <td>Association of Lutheran Church Musicians</td>
+  <td>112</td>
 </tr>
 <tr>
   <td>Austin Organs Inc.</td>
