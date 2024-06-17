@@ -14,12 +14,14 @@ show_toc = true
 # Thursday, June 27
 
 <div class="schedule">
+<span class="time">10:00&nbsp;<i>AM</i> – 5:15&nbsp;<i>PM</i></span>
 <span class="event">NYACOP Semifinals – {% location_link() %}Sunnyvale Presbyterian{% end %}</span>
 </div>
 
 # Friday, June 28
 
 <div class="schedule">
+<span class="time">9:00&nbsp;<i>AM</i> – 3:00&nbsp;<i>PM</i></span>
 <span class="event">NCOI Semifinals – {% location_link() %}Trinity&thinsp;+&thinsp;St. Peter’s{% end %}</span>
 </div>
 
