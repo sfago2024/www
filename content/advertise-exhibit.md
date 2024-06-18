@@ -72,9 +72,9 @@ You can also see exhibit hours in the <a href="/schedule/">schedule</a>.
 
 # Exhibit Map
 
-<img class="full-width-image" style="aspect-ratio: 842 / 909" src="/attachments/exhibits-map-20240616.png">
+<img class="full-width-image" style="aspect-ratio: 842 / 909" src="/attachments/exhibits-map-20240617.png">
 
-Find more information in the {% pdf_link(href="/attachments/AGO 2024 Exhibits - V13.pdf") %}Exhibitor Kit{% end %}.
+**Please note that exhibit booths are now sold out.** Find more information in the {% pdf_link(href="/attachments/AGO 2024 Exhibits - V13.pdf") %}Exhibitor Kit{% end %}.
 
 Information about shipping, storage, and equipment moving is available from {{ contact(name="Curtin Convention", slug="curtin-convention-exposition-services-inc") }}, the official Exhibits Service Contractor and official provider to the American Guild of Organists for this convention.
 
