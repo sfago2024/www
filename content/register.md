@@ -194,4 +194,4 @@ teacher). For more information, please contact {{ contact(name="Mark Lieu") }}.
 
 # Church Services & Concerts
 
-Download the {% docx_link(href="/attachments/AGO 2024 Services and Concerts.docx") %}list of Services and Concerts{% end %} to view details of church services on Sunday, June 30, and of various concerts occurring during the week.
+See {% external_link(href="https://docs.google.com/document/d/13PVyjq0ewI_RXkFUYAYhrwhr3c0iKgo0pYQxOLTf2ME/edit?usp=sharing") %}Church Services & Concerts during SF AGO 2024{% end %} for details of church services on Sunday, June 30, and of various concerts occurring during the week.
