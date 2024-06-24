@@ -2,7 +2,7 @@
 title = '''Monica Berney - board the BLUE bus'''
 path = '''/recitals/monica-berney/'''
 template = "future.html"
-aliases = ["/sessions/monica-berney/","/future/recitals/monica-berney/","/future/sessions/monica-berney/"]
+aliases = ["/recitals/monica-czausz-berney", "/sessions/monica-berney/","/future/recitals/monica-berney/","/future/sessions/monica-berney/"]
 +++
 
 <h1>Monica Berney - board the BLUE bus</h1>
