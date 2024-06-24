@@ -1,11 +1,11 @@
 +++
-title = '''African American Baptist Worship Service - Stephen Price & Patrick Alston'''
+title = '''African American Baptist Worship Service - Stephen Price & Patrick Alston - board RED bus, 7:30-8:30'''
 path = '''/worship/african-american-baptist-worship-service-stephen-price-patrick-alston/'''
 template = "future.html"
 aliases = ["/sessions/african-american-baptist-worship-service-stephen-price-patrick-alston/","/future/worship/african-american-baptist-worship-service-stephen-price-patrick-alston/","/future/sessions/african-american-baptist-worship-service-stephen-price-patrick-alston/"]
 +++
 
-<h1>African American Baptist Worship Service - Stephen Price & Patrick Alston</h1>
+<h1>African American Baptist Worship Service - Stephen Price & Patrick Alston - board RED bus, 7:30-8:30</h1>
 
 <h2>Date/Time</h2>
 <p>Thursday, July 04, 2024<br>
@@ -18,6 +18,6 @@ aliases = ["/sessions/african-american-baptist-worship-service-stephen-price-pat
 </ul>
 <h2>Description</h2>
 
-<div class="ag87-crtemvc-hsbk"><div class="css-vsf5of"><p class="carina-rte-public-DraftStyleDefault-block"><span style="color: rgb(0,0,0);">This jubilant service will be in the tradition of the African-American church experience. This service will be eclectic in nature featuring the use of the organ in the rich tradition of music in the Black church from Classical to Gospel music. You will not want to miss this rich once-in-a-lifetime experience! <span style="font-weight: bold;"> </span></span></p><p style="text-align:center;" class="carina-rte-public-DraftStyleDefault-block"><span style="color: rgb(0,0,0);">WORLD PREMIERE</span></p><p class="carina-rte-public-DraftStyleDefault-block"><span style="color: rgb(0,0,0);">Psalm 23--Eurydice Osterman (b. 1950)</span></p><p style="text-align:center;" class="carina-rte-public-DraftStyleDefault-block"><span style="color: rgb(0,0,0);"><span style="font-style: italic;">Commissioned by the San Francisco 2024 National Convention</span></span></p><p class="carina-rte-public-DraftStyleDefault-block"><span style="color: rgb(0,0,0);"><span style="font-weight: bold;"><span style="font-style: italic;">Generously sponsored in part by gifts from the Seattle Chapter of the AGO and Third Baptist Church.</span></span></span></p></div></div>
+<div class="ag87-crtemvc-hsbk"><div class="css-vsf5of"><p class="carina-rte-public-DraftStyleDefault-block"><span style="font-weight: bold;">Order of Worship available at the door</span></p><p class="carina-rte-public-DraftStyleDefault-block"><span style="color: rgb(0,0,0);">This jubilant service will be in the tradition of the African-American church experience. This service will be eclectic in nature featuring the use of the organ in the rich tradition of music in the Black church from Classical to Gospel music. You will not want to miss this rich once-in-a-lifetime experience! <span style="font-weight: bold;"> </span></span></p><p style="text-align:center;" class="carina-rte-public-DraftStyleDefault-block"><span style="color: rgb(0,0,0);">WORLD PREMIERE</span></p><p class="carina-rte-public-DraftStyleDefault-block"><span style="color: rgb(0,0,0);">Psalm 23--Eurydice Osterman (b. 1950)</span></p><p style="text-align:center;" class="carina-rte-public-DraftStyleDefault-block"><span style="color: rgb(0,0,0);"><span style="font-style: italic;">Commissioned by the San Francisco 2024 National Convention</span></span></p><p class="carina-rte-public-DraftStyleDefault-block"><span style="color: rgb(0,0,0);"><span style="font-weight: bold;"><span style="font-style: italic;">Generously sponsored in part by gifts from the Seattle Chapter of the AGO and Third Baptist Church.</span></span></span></p></div></div>
 
 

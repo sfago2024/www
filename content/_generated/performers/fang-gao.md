@@ -7,7 +7,7 @@ aliases = ["/people/fang-gao/","/future/performers/fang-gao/","/future/people/fa
 
 <h1>Fang Gao</h1>
 
-<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/a47ca4b78ee14f2ea325443df69b02a9.png">
+<img class="speaker-photo" src="https://custom.cvent.com/C3A4539B19F74ABCB6FCE437F6BC0A74/files/event/910aaf2914d44586a56fbd0b3b2c31c0/88e1a98b57694fe99c8adaf4f4bdb02b.png">
 <h2>Biography</h2>
 <p>Fang Gao breathes life into her passion and love for music through captivating performances on both baroque and modern violins. Born in Tianjin, China, Ms. Gao started her modern violin studies at the age of four. She received the Master of Music Degree in Violin Performance at the Tianjin Conservatory of Music in 2011. During her time in China, she served as a faculty member at the Wenning Guan Studio for Strings and Musical Arts, Tianjin Conservatory of Music and also taught at the Tianjin Sunshine School of Arts. Additionally, she was a member of the Tianjin TEDA Symphony Orchestra.
 

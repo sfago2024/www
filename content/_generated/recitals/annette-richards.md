@@ -1,11 +1,11 @@
 +++
-title = '''Annette Richards'''
+title = '''Annette Richards - board the RED bus'''
 path = '''/recitals/annette-richards/'''
 template = "future.html"
 aliases = ["/sessions/annette-richards/","/future/recitals/annette-richards/","/future/sessions/annette-richards/"]
 +++
 
-<h1>Annette Richards</h1>
+<h1>Annette Richards - board the RED bus</h1>
 
 <h2>Date/Time</h2>
 <p>Thursday, July 04, 2024<br>

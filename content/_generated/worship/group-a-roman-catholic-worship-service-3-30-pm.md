@@ -1,11 +1,11 @@
 +++
-title = '''[GROUP A] Roman Catholic Worship Service (3:30 PM)'''
+title = '''[GROUP A] Roman Catholic Worship Service (3:30 PM) - Board the YELLOW bus from Cathedral'''
 path = '''/worship/group-a-roman-catholic-worship-service-3-30-pm/'''
 template = "future.html"
 aliases = ["/sessions/group-a-roman-catholic-worship-service-3-30-pm/","/future/worship/group-a-roman-catholic-worship-service-3-30-pm/","/future/sessions/group-a-roman-catholic-worship-service-3-30-pm/"]
 +++
 
-<h1>[GROUP A] Roman Catholic Worship Service (3:30 PM)</h1>
+<h1>[GROUP A] Roman Catholic Worship Service (3:30 PM) - Board the YELLOW bus from Cathedral</h1>
 
 <h2>Date/Time</h2>
 <p>Monday, July 01, 2024<br>
@@ -16,6 +16,6 @@ aliases = ["/sessions/group-a-roman-catholic-worship-service-3-30-pm/","/future/
 </ul>
 <h2>Description</h2>
 
-A Dominican-style service of Vespers at Our Lady of Lourdes Parish in Oakland, led by the friars of St. Albert’s Priory, in collaboration with organist Jennifer Pascual, of St. Patrick’s Cathedral, New York, and a male schola. Jennifer was recently awarded Pastoral Musician of the Year for 2023 by the National Association of Pastoral Musicians.
+<div class="ag87-crtemvc-hsbk"><div class="css-vsf5of"><p class="carina-rte-public-DraftStyleDefault-block"><span style="font-weight: bold;">Order of Worship available at the door</span></p><p class="carina-rte-public-DraftStyleDefault-block">A Dominican-style service of Vespers at Our Lady of Lourdes Parish in Oakland, led by the friars of St. Albert’s Priory, in collaboration with organist Jennifer Pascual, of St. Patrick’s Cathedral, New York, and a male schola. Jennifer was recently awarded Pastoral Musician of the Year for 2023 by the National Association of Pastoral Musicians.</p></div></div>
 
 

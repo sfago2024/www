@@ -1,11 +1,11 @@
 +++
-title = '''[GROUP B] Nicole Keller (2:00 PM)'''
+title = '''[GROUP B] Nicole Keller (2:00 PM) - Board the BLUE bus from 12:30-1:30 pm'''
 path = '''/recitals/group-b-nicole-keller-2-00-pm/'''
 template = "future.html"
 aliases = ["/sessions/group-b-nicole-keller-2-00-pm/","/future/recitals/group-b-nicole-keller-2-00-pm/","/future/sessions/group-b-nicole-keller-2-00-pm/"]
 +++
 
-<h1>[GROUP B] Nicole Keller (2:00 PM)</h1>
+<h1>[GROUP B] Nicole Keller (2:00 PM) - Board the BLUE bus from 12:30-1:30 pm</h1>
 
 <h2>Date/Time</h2>
 <p>Monday, July 01, 2024<br>

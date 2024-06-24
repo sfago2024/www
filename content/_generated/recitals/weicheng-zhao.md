@@ -1,11 +1,11 @@
 +++
-title = '''Weicheng Zhao'''
+title = '''Weicheng Zhao - board the BLUE bus from 7:30-8:30 am'''
 path = '''/recitals/weicheng-zhao/'''
 template = "future.html"
 aliases = ["/sessions/weicheng-zhao/","/future/recitals/weicheng-zhao/","/future/sessions/weicheng-zhao/"]
 +++
 
-<h1>Weicheng Zhao</h1>
+<h1>Weicheng Zhao - board the BLUE bus from 7:30-8:30 am</h1>
 
 <h2>Date/Time</h2>
 <p>Thursday, July 04, 2024<br>

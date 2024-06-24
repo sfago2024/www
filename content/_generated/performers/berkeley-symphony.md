@@ -2,7 +2,7 @@
 title = '''Berkeley Symphony'''
 path = '''/performers/berkeley-symphony/'''
 template = "future.html"
-aliases = ["/performers/berkeley-symphony-orchestra/","/people/berkeley-symphony/","/people/berkeley-symphony-orchestra/","/future/performers/berkeley-symphony-orchestra/","/future/people/berkeley-symphony-orchestra/"]
+aliases = ["/performers/berkeley-symphony-orchestra/","/people/berkeley-symphony/","/people/berkeley-symphony-orchestra/","/future/performers/berkeley-symphony/","/future/performers/berkeley-symphony-orchestra/","/future/people/berkeley-symphony/","/future/people/berkeley-symphony-orchestra/"]
 +++
 
 <h1>Berkeley Symphony</h1>

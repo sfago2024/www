@@ -1,11 +1,11 @@
 +++
-title = '''Jonathan Moyer'''
+title = '''Jonathan Moyer - board the RED bus'''
 path = '''/recitals/jonathan-moyer/'''
 template = "future.html"
 aliases = ["/sessions/jonathan-moyer/","/future/recitals/jonathan-moyer/","/future/sessions/jonathan-moyer/"]
 +++
 
-<h1>Jonathan Moyer</h1>
+<h1>Jonathan Moyer - board the RED bus</h1>
 
 <h2>Date/Time</h2>
 <p>Thursday, July 04, 2024<br>

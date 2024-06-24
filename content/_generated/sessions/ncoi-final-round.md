@@ -9,7 +9,7 @@ aliases = ["/future/sessions/ncoi-final-round/"]
 
 <h2>Date/Time</h2>
 <p>Monday, July 01, 2024<br>
-09:00 AM – 10:00 AM</p>
+09:00 AM – 12:30 PM</p>
 <h2>Description</h2>
 
 <div class="ag87-crtemvc-hsbk"><div class="css-vsf5of"><p class="carina-rte-public-DraftStyleDefault-block">National Competition in Organ Improvisation</p></div></div>

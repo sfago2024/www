@@ -1,11 +1,11 @@
 +++
-title = '''James Kealey & Robert Horton (2022 NCOI & NYACOP Winners)'''
-path = '''/recitals/james-kealey-robert-horton-2022-ncoi-nyacop-winners/'''
+title = '''James Kealey & Robert Horton (2022 NYACOP & NCOI Winners) - board the YELLOW bus from 7:15-8:15 am'''
+path = '''/recitals/james-kealey-robert-horton-2022-nyacop-ncoi-winners/'''
 template = "future.html"
-aliases = ["/sessions/james-kealey-robert-horton-2022-ncoi-nyacop-winners/","/future/recitals/james-kealey-robert-horton-2022-ncoi-nyacop-winners/","/future/sessions/james-kealey-robert-horton-2022-ncoi-nyacop-winners/"]
+aliases = ["/recitals/james-kealey-robert-horton-2022-ncoi-nyacop-winners/","/sessions/james-kealey-robert-horton-2022-nyacop-ncoi-winners/","/sessions/james-kealey-robert-horton-2022-ncoi-nyacop-winners/","/future/recitals/james-kealey-robert-horton-2022-nyacop-ncoi-winners/","/future/recitals/james-kealey-robert-horton-2022-ncoi-nyacop-winners/","/future/sessions/james-kealey-robert-horton-2022-nyacop-ncoi-winners/","/future/sessions/james-kealey-robert-horton-2022-ncoi-nyacop-winners/"]
 +++
 
-<h1>James Kealey & Robert Horton (2022 NCOI & NYACOP Winners)</h1>
+<h1>James Kealey & Robert Horton (2022 NYACOP & NCOI Winners) - board the YELLOW bus from 7:15-8:15 am</h1>
 
 <h2>Date/Time</h2>
 <p>Wednesday, July 03, 2024<br>

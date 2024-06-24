@@ -1,11 +1,11 @@
 +++
-title = '''Walking tour of Chinatown'''
+title = '''Walking tour of Chinatown - meet at the Hospitality Desk at 9:15'''
 path = '''/workshops/walking-tour-of-chinatown/'''
 template = "future.html"
-aliases = ["/workshops/walking-tour-of-chinatown-sold-out/","/sessions/walking-tour-of-chinatown/","/sessions/walking-tour-of-chinatown-sold-out/","/future/workshops/walking-tour-of-chinatown-sold-out/","/future/sessions/walking-tour-of-chinatown-sold-out/"]
+aliases = ["/workshops/walking-tour-of-chinatown-sold-out/","/sessions/walking-tour-of-chinatown/","/sessions/walking-tour-of-chinatown-sold-out/","/future/workshops/walking-tour-of-chinatown/","/future/workshops/walking-tour-of-chinatown-sold-out/","/future/sessions/walking-tour-of-chinatown/","/future/sessions/walking-tour-of-chinatown-sold-out/"]
 +++
 
-<h1>Walking tour of Chinatown</h1>
+<h1>Walking tour of Chinatown - meet at the Hospitality Desk at 9:15</h1>
 
 <h2>Date/Time</h2>
 <p>Monday, July 01, 2024<br>

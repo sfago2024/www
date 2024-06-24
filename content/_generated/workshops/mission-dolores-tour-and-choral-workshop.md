@@ -1,11 +1,11 @@
 +++
-title = '''Mission Dolores Tour and Choral Workshop'''
+title = '''Mission Dolores Tour and Choral Workshop - Buses board from 8:15-8:45 am'''
 path = '''/workshops/mission-dolores-tour-and-choral-workshop/'''
 template = "future.html"
 aliases = ["/sessions/mission-dolores-tour-and-choral-workshop/","/future/workshops/mission-dolores-tour-and-choral-workshop/","/future/sessions/mission-dolores-tour-and-choral-workshop/"]
 +++
 
-<h1>Mission Dolores Tour and Choral Workshop</h1>
+<h1>Mission Dolores Tour and Choral Workshop - Buses board from 8:15-8:45 am</h1>
 
 <h2>Date/Time</h2>
 <p>Tuesday, July 02, 2024<br>

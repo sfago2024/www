@@ -1,11 +1,11 @@
 +++
-title = '''Abigail Crafton, Alexander Leonardi, & Owen Tellinghuisen (Rising Stars)'''
+title = '''Abigail Crafton, Alexander Leonardi, & Owen Tellinghuisen (Rising Stars) - board RED bus 7:15-8:15'''
 path = '''/recitals/abigail-crafton-alexander-leonardi-owen-tellinghuisen-rising-stars/'''
 template = "future.html"
 aliases = ["/sessions/abigail-crafton-alexander-leonardi-owen-tellinghuisen-rising-stars/","/future/recitals/abigail-crafton-alexander-leonardi-owen-tellinghuisen-rising-stars/","/future/sessions/abigail-crafton-alexander-leonardi-owen-tellinghuisen-rising-stars/"]
 +++
 
-<h1>Abigail Crafton, Alexander Leonardi, & Owen Tellinghuisen (Rising Stars)</h1>
+<h1>Abigail Crafton, Alexander Leonardi, & Owen Tellinghuisen (Rising Stars) - board RED bus 7:15-8:15</h1>
 
 <h2>Date/Time</h2>
 <p>Wednesday, July 03, 2024<br>

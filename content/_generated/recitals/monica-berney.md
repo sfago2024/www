@@ -1,11 +1,11 @@
 +++
-title = '''Monica Berney'''
+title = '''Monica Berney - board the BLUE bus'''
 path = '''/recitals/monica-berney/'''
 template = "future.html"
 aliases = ["/sessions/monica-berney/","/future/recitals/monica-berney/","/future/sessions/monica-berney/"]
 +++
 
-<h1>Monica Berney</h1>
+<h1>Monica Berney - board the BLUE bus</h1>
 
 <h2>Date/Time</h2>
 <p>Thursday, July 04, 2024<br>

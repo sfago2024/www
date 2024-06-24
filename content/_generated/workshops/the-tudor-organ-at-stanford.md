@@ -1,15 +1,15 @@
 +++
-title = '''The Tudor Organ at Stanford'''
+title = '''The Tudor Organ at Stanford - board the RED bus'''
 path = '''/workshops/the-tudor-organ-at-stanford/'''
 template = "future.html"
 aliases = ["/sessions/the-tudor-organ-at-stanford/","/future/workshops/the-tudor-organ-at-stanford/","/future/sessions/the-tudor-organ-at-stanford/"]
 +++
 
-<h1>The Tudor Organ at Stanford</h1>
+<h1>The Tudor Organ at Stanford - board the RED bus</h1>
 
 <h2>Date/Time</h2>
 <p>Thursday, July 04, 2024<br>
-11:30 AM – 12:15 PM</p>
+12:00 PM – 12:45 PM</p>
 <h2>Presenters</h2>
 <ul>
 <li><a href="/presenters/robert-huw-morgan/">Robert Huw Morgan</a></li>
