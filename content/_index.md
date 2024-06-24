@@ -56,7 +56,7 @@ announcement_url = "https://sfago2024.eventbrite.com"
 
 * 63 workshops covering a wide range of topics.
 
-* Walking tours of Chinatown and The Castro, as well as opportunity to visit the San Francisco Museum of Modern Art (SFMOMA) and Mission Dolores.
+* Walking tours of Chinatown and The Castro, as well as opportunity to visit Museum of the African Diaspora and Mission Dolores.
 
 * Nine sessions presented by national AGO staff.
 
