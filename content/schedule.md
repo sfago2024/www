@@ -299,5 +299,5 @@ show_toc = true
 <span class="time">5:00&nbsp;<i>PM</i> – 7:30&nbsp;<i>PM</i></span>
 <span class="event">Dinner (on your own); Hospitality open</span>
 <span class="time">7:30&nbsp;<i>PM</i> – 10:30&nbsp;<i>PM</i></span>
-<span class="event">{% session_link(url="/recitals/closing-reception/") %}Final reception{% end %} – {% location_link() %}Marriott Marquis{% end %} (entertainment at 8:00, 9:00, 10:00)<br><span class="sponsor">Sponsored in part by a gift from the San Francisco Chapter of the AGO</span></span>
+<span class="event">{% session_link(url="/recitals/closing-reception/") %}Final reception{% end %} – {% location_link() %}Marriott Marquis{% end %}<br><span class="sponsor">Sponsored in part by a gift from the San Francisco Chapter of the AGO</span><br>Weicheng Zhao and Fang Gao will perform on the Electone and violin at 8:00 and 9:00</span>
 </div>
