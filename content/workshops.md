@@ -319,7 +319,7 @@ aliases = [
 ) }}
 
 {{ workshop(
-  name="Visit to SFMOMA – SOLD OUT",
+  name="Visit to Museum of the African Diaspora",
   presenter=""
 ) }}
 
