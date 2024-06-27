@@ -288,7 +288,7 @@ show_toc = true
 <span class="event">{% session_link(url="/recitals/anne-laver/") %}Anne Laver{% end %} – {% location_link() %}St. Mark’s Episcopal Church, Palo Alto{% end %}<br>Commissioned pieces: Jessica Meyer, Natalie Draper</span>
 <span class="time">11:30&nbsp;<i>AM</i> – 12:15&nbsp;<i>PM</i></span>
 <span class="event">{% session_link(url="/recitals/monica-czausz-berney/") %}Monica Czausz Berney{% end %} – {% location_link() %}First Congregational Church, Palo Alto{% end %}</span>
-<span class="time">11:30&nbsp;<i>AM</i> – 12:15&nbsp;<i>PM</i></span>
+<span class="time">12:00&nbsp;<i>PM</i> – 12:45&nbsp;<i>PM</i></span>
 <span class="event">{% session_link(url="/workshops/the-tudor-organ-at-stanford/") %}Workshop-Demonstration: The Tudor Organ (Robert Huw Morgan){% end %} – {% location_link() %}Stanford Memorial Church{% end %}</span>
 <span class="time">12:15&nbsp;<i>PM</i> – 1:15&nbsp;<i>PM</i></span>
 <span class="event">BOX LUNCH at each recital venue</span>
