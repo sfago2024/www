@@ -75,8 +75,6 @@ aliases = [
 
 {{ performer(name="Robert Horton") }}
 
-{{ performer(name="Sara LeMesh") }}
-
 {{ performer(name="Stephen Price") }}
 
 {{ performer(name="Trevor Good") }}
