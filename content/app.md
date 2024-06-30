@@ -13,12 +13,9 @@ menu_shadow = true
 
 # Mobile App
 
-
 <div class="app-instructions">
 
-## Get help
-
-If you need help, ask at the convention tech or hospitality desks.
+If you need help, ask at the <a href="/information/#hospitality-desk">Hospitality desk</a>.
 
 ## Sign in
 
