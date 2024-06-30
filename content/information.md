@@ -32,7 +32,7 @@ aliases = [
 <strong>Location:</strong> Lobby level, by the escalator
 
 <strong>Hours:</strong>
-* Sunday: noon to midnight
+* Sunday: <span class="time">12 <i>PM</i></span> – <span class="time">12 <i>AM</i></span>
 * Monday: <span class="time">8 <i>AM</i></span> – <span class="time">7 <i>PM</i></span>
 * Tuesday: <span class="time">8 <i>AM</i></span> – <span class="time">7 <i>PM</i></span>
 * Wednesday: <span class="time">8 <i>AM</i></span> – <span class="time">7 <i>PM</i></span>
