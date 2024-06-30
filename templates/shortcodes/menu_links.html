@@ -1,13 +1,14 @@
-<a href="{{ config.base_url }}">Home</a>
-<a href="{{ config.base_url }}/register/"{% if current_path == "/register/" %}class="active"{% endif %}>Register</a>
+<a href="{{ config.base_url }}" class="larger">Home</a>
+<a href="{{ config.base_url }}/information/" class="larger {% if current_path == "/information/" %} active{% endif %}">Information</a>
+<a href="{{ config.base_url }}/schedule/" class="larger {% if current_path == "/schedule/" %} active{% endif %}">Schedule</a>
 <span></span>
-<a href="{{ config.base_url }}/schedule/"{% if current_path == "/schedule/" %}class="active"{% endif %}>Schedule</a>
 <a href="{{ config.base_url }}/venues/"{% if current_path == "/venues/" %}class="active"{% endif %}>Venues</a>
 <a href="{{ config.base_url }}/performers/"{% if current_path == "/performers/" %}class="active"{% endif %}>Performers</a>
 <a href="{{ config.base_url }}/composers/"{% if current_path == "/composers/" %}class="active"{% endif %}>Composers</a>
 <a href="{{ config.base_url }}/workshops/"{% if current_path == "/workshops/" %}class="active"{% endif %}>Workshops</a>
-<a href="{{ config.base_url }}/hotel-travel/"{% if current_path == "/hotel-travel/" %}class="active"{% endif %}>Hotel/Travel</a>
-<a href="{{ config.base_url }}/agoyo/"{% if current_path == "/agoyo/" %}class="active"{% endif %}>AGOYO</a>
 <span></span>
+<a href="{{ config.base_url }}/register/"{% if current_path == "/register/" %}class="active"{% endif %}>Register</a>
 <a href="{{ config.base_url }}/donate/"{% if current_path == "/donate/" %}class="active"{% endif %}>Donate</a>
 <a href="{{ config.base_url }}/advertise-exhibit/"{% if current_path == "/advertise-exhibit/" %}class="active"{% endif %}>Advertise/Exhibit</a>
+<a href="{{ config.base_url }}/hotel-travel/"{% if current_path == "/hotel-travel/" %}class="active"{% endif %}>Hotel/Travel</a>
+<a href="{{ config.base_url }}/agoyo/"{% if current_path == "/agoyo/" %}class="active"{% endif %}>AGOYO</a>
