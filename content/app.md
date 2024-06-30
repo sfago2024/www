@@ -15,7 +15,7 @@ menu_shadow = true
 
 <div class="app-instructions">
 
-If you need help, ask at the <a href="/information/#hospitality-desk">Hospitality desk</a>.
+If you need help, ask at the <a href="/information/#hospitality-desk">Hospitality desk</a> or the registration Tech Table (across from the registration desk).
 
 ## Sign in
 
@@ -24,6 +24,18 @@ If you need help, ask at the <a href="/information/#hospitality-desk">Hospitalit
 2. Open the app, and search for the event name <strong>AGO 2024 San Francisco</strong>.
 
 3. Sign in by entering your name and the email address you used to register. Check this email for a verification code from "SF AGO 2024 Registrar" to finish signing in.
+
+## Enable push notifications
+
+To receive timely information about buses and other convention events, you can opt in to receiving push notifications on your mobile device.
+
+1. Tap the profile icon (upper right).
+
+2. Tap **Settings**.
+
+3. Tap **Notifications**.
+
+4. Tap the switch beside **Allow notifications** and accept the permission prompt from your device.
 
 ## Your schedule
 
