@@ -29,7 +29,7 @@ aliases = [
 
 ## Hospitality Desk
 
-<strong>Location:</strong> Lobby level, by the escalator
+<strong>Location:</strong> Lobby level, by the escalators
 
 <strong>Hours:</strong>
 * Sunday: <span class="time">12 <i>PM</i></span> – <span class="time">12 <i>AM</i></span>
@@ -37,5 +37,9 @@ aliases = [
 * Tuesday: <span class="time">8 <i>AM</i></span> – <span class="time">7 <i>PM</i></span>
 * Wednesday: <span class="time">8 <i>AM</i></span> – <span class="time">7 <i>PM</i></span>
 * Thursday: <span class="time">8 <i>AM</i></span> – <span class="time">10 <i>AM</i></span>, <span class="time">5 <i>PM</i></span> – <span class="time">7 <i>PM</i></span>
+
+## Bus Directions
+
+Please visit the Hospitality Desk (hotel's lobby level, by the escalators) for directions to buses.
 
 </div>
