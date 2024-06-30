@@ -36,6 +36,11 @@
     </div>
   </header>
   <div class="menu-container">
+    {% if obj.extra.show_information_button %}
+    <a class="information-button-container" href="/information/">
+      Shortcut: <span class="information-button">Convention Information</span>
+    </a>
+    {% endif %}
     <div class="menu-button-container{% if obj.extra.menu_shadow %} shadow{% endif %}">
       <a class="back-to-app-button" href="https://mobile-event.cvent.me/RmnsEt21kJb?eventId=910aaf29-14d4-4586-a56f-bd0b3b2c31c0&feature=openEvent&environment=production">{% include "shortcodes/icon_back_arrow.html" %} Return to app</a>
       <div class="menu-button">{% include "shortcodes/icon_hamburger.html" %} Menu</div>
