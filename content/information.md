@@ -42,4 +42,8 @@ aliases = [
 
 Please visit the Hospitality Desk (hotel's lobby level, by the escalators) for directions to buses.
 
+## Events open to the public
+
+Visit {% external_link(href="https://sfago2024.eventbrite.com") %}our Eventbrite page{% end %} for a full list of convention events that are open to the public.
+
 </div>
