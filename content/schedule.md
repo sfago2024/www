@@ -119,7 +119,12 @@ show_toc = true
 <span class="time">4:30&nbsp;<i>PM</i> – 7:30&nbsp;<i>PM</i></span>
 <span class="event">Dinner (on your own)</span>
 <span class="time">8:00&nbsp;<i>PM</i> – 9:30&nbsp;<i>PM</i></span>
-<span class="event">{% session_link(url="/recitals/faythe-freese/") %}Faythe Freese{% end %} – {% location_link() %}Grace Cathedral{% end %}<br><span class="sponsor">Generously co-sponsored by special projects grants from the Boston, Indianapolis, and San Francisco Chapters of the AGO, and by Karen Hastings-Flegel</span></span>
+<span class="event">{% session_link(url="/recitals/faythe-freese/") %}Faythe Freese{% end %} – {% location_link() %}Grace Cathedral{% end %}<br><span class="sponsor">Generously co-sponsored by special projects grants from the Boston, Indianapolis, and San Francisco Chapters of the AGO, and by Karen Hastings-Flegel</span>
+  <details class="schedule-note">
+    <summary>(Note: July 1 performance)</summary>
+    <p>This July 1 performance is specifically for convention attendees. There is a repeat performance on July 2 intended for the public. Tickets for the July 2 performance are available through {% external_link(href="https://sfago2024.eventbrite.com/") %}Eventbrite{% end %}.</p>
+  </details>
+</span>
 <span class="time">10:00&nbsp;<i>PM</i> – 12:00&nbsp;<i>AM</i></span>
 <span class="event">Exhibits open – {% location_link() %}Marriott Marquis{% end %}</span>
 </div>

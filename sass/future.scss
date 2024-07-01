@@ -958,6 +958,11 @@ table {
       color: var(--link);
     }
   }
+
+  .schedule-note {
+    color: var(--line-blue);
+    font-style: italic;
+  }
 }
 
 .speaker-photo {
