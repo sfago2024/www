@@ -45,12 +45,6 @@ To receive timely information about buses and other convention events, you can o
 
    <strong>Warning:</strong> Avoid tapping on the check-mark icons in the corner of events; doing so will *remove the event from your schedule*.
 
-## Restaurant recommendations
-
-1. Tap the hamburger menu (rightmost icon in the bottom bar).
-
-2. Tap on <strong>Restaurants near the Marriott Marquis</strong>.
-
 </div>
 
 <div class="ad mobile midpage">

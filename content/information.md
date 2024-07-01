@@ -5,7 +5,7 @@ aliases = [
   "/info/",
 ]
 [extra]
-show_toc = true
+hide_ad = true
 +++
 
 <div class="information">
@@ -47,5 +47,9 @@ show_toc = true
 ## Bus Directions
 
 Please visit the Hospitality Desk (hotel's lobby level, by the escalators) for directions to buses.
+
+<div class="ad mobile midpage">
+  <div class="ad-container mobile"><a class="ad-link"><img></a></div>
+</div>
 
 </div>
