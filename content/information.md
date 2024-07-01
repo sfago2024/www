@@ -4,6 +4,8 @@ template = "future.html"
 aliases = [
   "/info/",
 ]
+[extra]
+show_toc = true
 +++
 
 <div class="information">
@@ -15,6 +17,10 @@ aliases = [
 * <a href="/app/">Mobile App Instructions</a>
 
 * {% external_link(href="https://docs.google.com/document/d/1ouvLMw1uYo-S8z9i1WcRe57ThKpI-U_k9JZm6fX06YU/edit") %}Frequently Asked Questions{% end %}
+
+* {% external_link(href="https://sfago2024.eventbrite.com") %}Events open to the public{% end %}
+
+* {% pdf_link(href="/attachments/Restaurants near the Marriott Marquis.pdf") %}Restaurants near the Marriott Marquis{% end %}
 
 </div>
 
@@ -41,9 +47,5 @@ aliases = [
 ## Bus Directions
 
 Please visit the Hospitality Desk (hotel's lobby level, by the escalators) for directions to buses.
-
-## Events open to the public
-
-Visit {% external_link(href="https://sfago2024.eventbrite.com") %}our Eventbrite page{% end %} for a full list of convention events that are open to the public.
 
 </div>
