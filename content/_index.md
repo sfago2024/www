@@ -7,7 +7,6 @@ aliases = ["/future/"]
 hide_ad = true
 menu_shadow = true
 wide = true
-show_information_button = true
 +++
 
 <div class="home-outer">
