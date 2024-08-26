@@ -57,7 +57,7 @@ If you are interested in sharing a hotel room at SF AGO 2024, please email {{ co
 and include the word "roommate" in the subject line.
 
 {% contact_card(name="Valerie Franzen") %}
-<a href="mailto:vfranzen@agohq.org">vfranzen@agohq.org</a>
+<a class="disabled">[contact removed post-event]</a>
 {% end %}
 
 # Travel by Air

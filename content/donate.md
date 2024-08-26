@@ -50,18 +50,14 @@ organization. Please see our
 Need more information? Please contact {{ contact(name="Brian Larsen") }}.
 </p>
 {% contact_card(name="Brian Larsen", position="Gifts & Grants Chair") %}
-<a href="mailto:donate@sfago2024.org">donate@sfago2024.org</a><br>
-<a href="tel:+16504859179">650.485.9179</a>
+<a class="disabled">[contact removed post-event]</a>
 {% end %}
 
 <p class="no-justify">
 Want to mail a check? Please make it out to <em>SF AGO 2024</em> and mail it to:
 </p>
 {% contact_card(name="SF AGO 2024") %}
-<address>
-PO Box 3546<br>
-San Leandro, CA 94578-0546
-</address>
+<a class="disabled">[contact removed post-event]</a>
 {% end %}
 
 <p style="font-size: 0.9em; font-style: italic">

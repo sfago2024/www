@@ -79,8 +79,7 @@ You can also see exhibit hours in the <a href="/schedule/">schedule</a>.
 Information about shipping, storage, and equipment moving is available from {{ contact(name="Curtin Convention", slug="curtin-convention-exposition-services-inc") }}, the official Exhibits Service Contractor and official provider to the American Guild of Organists for this convention.
 
 {% contact_card(name="Curtin Convention & Exposition Services, Inc.") %}
-<a href="mailto:info@curtinconvention.com">info@curtinconvention.com</a><br>
-<a href="tel:+14158837818">415.883.7818</a> (9–5 PST Monday–Friday)
+<a class="disabled">[contact removed post-event]</a>
 {% end %}
 
 ## Exhibitors
@@ -303,5 +302,5 @@ Information about shipping, storage, and equipment moving is available from {{ c
 **Questions about exhibits or advertising?** Contact {{ contact(name="Maury A. Castro") }}.
 
 {% contact_card(name="Maury A. Castro", position="Advertising Manager") %}
-<a href="mailto:maury.castro@agohq.org">maury.castro@agohq.org</a>
+<a class="disabled">[contact removed post-event]</a>
 {% end %}

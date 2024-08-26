@@ -135,8 +135,7 @@ The 2024 AGO National Convention hopes everyone who registers for the conference
 Cancellation requests should be sent to {{ contact(name="Paul Ellison") }}.
 
 {% contact_card(name="Paul Ellison", position="Registrar") %}
-<a href="mailto:registrar@sfago2024.org">registrar@sfago2024.org</a><br>
-<a href="tel:+14152051241">415.205.1241</a>
+<a class="disabled">[contact removed post-event]</a>
 {% end %}
 
 # Check Payments
@@ -144,10 +143,7 @@ Cancellation requests should be sent to {{ contact(name="Paul Ellison") }}.
 If paying by check, please mail your check to:
 
 {% contact_card(name="SF AGO 2024") %}
-<address>
-PO Box 3546<br>
-San Leandro, CA 94578-0546
-</address>
+<a class="disabled">[contact removed post-event]</a>
 {% end %}
 
 # Offline Registration
@@ -163,7 +159,7 @@ If you have further questions or need help filling out the form, please contact
 {{ contact(name="Rani Fischer") }}.
 
 {% contact_card(name="Rani Fischer", position="Volunteer Coordinator") %}
-<a href="mailto:volunteer@sfago2024.org">volunteer@sfago2024.org</a>
+<a class="disabled">[contact removed post-event]</a>
 {% end %}
 
 # Receptions – Alumni, Denominational, and Corporate
@@ -173,7 +169,7 @@ receptions during the convention. For more information, please contact {{ contac
 and include the word "reception" in the subject line.
 
 {% contact_card(name="Valerie Franzen") %}
-<a href="mailto:vfranzen@agohq.org">vfranzen@agohq.org</a>
+<a class="disabled">[contact removed post-event]</a>
 {% end %}
 
 # Tickets for Public Concerts
@@ -189,7 +185,7 @@ set aside a number of **complimentary tickets for students** (school, college, o
 teacher). For more information, please contact {{ contact(name="Mark Lieu") }}.
 
 {% contact_card(name="Mark Lieu", position="Tickets Coordinator") %}
-<a href="mailto:tickets@sfago2024.org">tickets@sfago2024.org</a><br>
+<a class="disabled">[contact removed post-event]</a>
 {% end %}
 
 # Church Services & Concerts

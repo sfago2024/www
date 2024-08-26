@@ -553,8 +553,9 @@ a {
   fill: var(--link);
 
   &.disabled {
-    color: #c0c0c0;
+    color: var(--icon-gray);
     cursor: default;
+    fill: var(--icon-gray);
     text-decoration: underline dashed;
   }
 

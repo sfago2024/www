@@ -22,27 +22,27 @@ aliases = [
 	</tr>
 	<tr>
 		<td>Problems or omissions on website</td>
-		<td>{% external_link(href="https://form.asana.com/?k=UyBvVekL26LMx9D_DooCxQ&d=1205562629066489") %}Report a website issue{% end %}</td>
+		<td>{% disabled_link() %}Report a website issue{% end %}</td>
 	</tr>
 	<tr>
 		<td>Registration</td>
-		<td>{{ contact(href="/register/", name="Paul Ellison") }}</td>
+		<td>{% disabled_person_link() %}Paul Ellison{% end %}</td>
 	</tr>
 	<tr>
 		<td>Donations</td>
-		<td>{{ contact(href="/donate/", name="Brian Larsen") }}</td>
+		<td>{% disabled_person_link() %}Brian Larsen{% end %}</td>
 	</tr>
 	<tr>
 		<td>Advertising/Exhibits</td>
-		<td>{{ contact(href="/advertise-exhibit/", name="Maury A. Castro") }}</td>
+		<td>{% disabled_person_link() %}Maury A. Castro{% end %}</td>
 	</tr>
 	<tr>
 		<td>Volunteers</td>
-		<td>{% external_link(href="https://forms.gle/sTJAS18rVyu3R4me8") %}Sign up to volunteer{% end %} / {{ contact(href="/register/", name="Rani Fischer") }}</td>
+		<td>{% disabled_link() %}Sign up to volunteer{% end %} / {% disabled_person_link() %}Rani Fischer{% end %}</td>
 	</tr>
 	<tr>
 		<td>Receptions</td>
-		<td>{{ contact(href="/register/", name="Valerie Franzen") }}</td>
+		<td>{% disabled_person_link() %}Valerie Franzen{% end %}</td>
 	</tr>
 </tbody>
 </table>
