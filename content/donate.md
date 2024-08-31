@@ -39,7 +39,8 @@ for more information.
 
 <div class="action-panel">
 <p><strong>Make a secure, online donation:</strong></p>
-<a class="fancy-button" href="https://secure.lglforms.com/form_engine/s/eeqTdDjnVWroSixHUABwOA" rel="external">Donate now</a>
+<a class="disabled fancy-button">Donate now</a>
+<p>(Donations are no longer accepted post-event)</p>
 </div>
 
 We have many opportunities for sponsorship that create amazing exposure for your company or
@@ -47,17 +48,17 @@ organization. Please see our
 {% pdf_link(href="/attachments/AGO 2024 Sponsor.pdf") %}Sponsorship Brochure{% end %}</a>.
 
 <p class="no-justify">
-Need more information? Please contact {{ contact(name="Brian Larsen") }}.
+Need more information? Please contact {% disabled_person_link() %}Brian Larsen{% end %}.
 </p>
 {% contact_card(name="Brian Larsen", position="Gifts & Grants Chair") %}
-<a class="disabled">[contact removed post-event]</a>
+<a class="disabled">[contact info removed post-event]</a>
 {% end %}
 
 <p class="no-justify">
 Want to mail a check? Please make it out to <em>SF AGO 2024</em> and mail it to:
 </p>
 {% contact_card(name="SF AGO 2024") %}
-<a class="disabled">[contact removed post-event]</a>
+<a class="disabled">[contact info removed post-event]</a>
 {% end %}
 
 <p style="font-size: 0.9em; font-style: italic">

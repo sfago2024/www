@@ -69,7 +69,7 @@ wide = true
 </p>
 
 <p class="ready-to-register">
-  <a href="/register/">Ready to register? Click here.</a>
+  <a class="disabled" href="/register/">[Registration closed post-event]</a>
 </p>
 
 <div class="sponsors-container">

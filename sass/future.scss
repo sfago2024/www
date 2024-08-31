@@ -434,7 +434,11 @@ summary {
     a {
       color: inherit;
 
-      &:hover {
+      &.disabled {
+        color: var(--icon-gray);
+      }
+
+      &:hover:not(.disabled) {
         color: var(--link);
       }
     }

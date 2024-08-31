@@ -53,11 +53,11 @@ reservations at this rate (June 15, 2024) has passed.
 
 ## Looking for a roommate?
 
-If you are interested in sharing a hotel room at SF AGO 2024, please email {{ contact(name="Valerie Franzen") }}
+If you are interested in sharing a hotel room at SF AGO 2024, please email {% disabled_person_link() %}Valerie Franzen{% end %}
 and include the word "roommate" in the subject line.
 
 {% contact_card(name="Valerie Franzen") %}
-<a class="disabled">[contact removed post-event]</a>
+<a class="disabled">[contact info removed post-event]</a>
 {% end %}
 
 # Travel by Air
@@ -70,16 +70,7 @@ and
 ## Alaska Airlines 5% Discount
 
 SF AGO 2024 has partnered with Alaska Airlines to provide a 5% discount on most domestic flights
-to/from San Francisco. To use the discount, visit
-{% external_link(href="https://www.alaskaair.com/planbook?lid=form:use-discount-code") %}alaskaair.com{% end %}
-and enter the Discount Code **`ECMK222`** when searching for flights. The discount will be applied
-to any flights meeting the contract parameters; click the **`?`** icon next to the discount
-code box to view a detailed description of the rules.
-
-If you have questions about the Discount Code, please contact the Group Desk at 800-445-4435. You
-and your guests may also use the Discount Code by calling Alaska Airlines Group Desk; however, a
-$15.00 per person service fee will apply. Alaska Airlines Group Desk hours of operation are Monday–
-Friday 6am–6pm PST, Saturday 7:30am–6pm PST, closed Sunday.
+to/from San Francisco. <a class="disabled">[Discount code information removed post-event]</a>
 
 # Public Transportation
 

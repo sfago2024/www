@@ -31,7 +31,10 @@ complimentary personal registration at the same time. If your purchase earns you
 complimentary registration, you'll be contacted with discount codes to use for the additional
 registrations.
 
-<!----><a class="fancy-button" href="https://cvent.me/51d9XL?rt=6B6Nfs2wRkOnExmEXBYmYA&RefId=sfago2024.org%2Fexhibit" rel="external" target="_blank">Purchase exhibit space</a>
+<!----><a class="disabled fancy-button">Purchase exhibit space</a>
+
+(Registration is now closed)
+
 </div>
 
 **Why advertise at SF AGO 2024?**
@@ -52,7 +55,10 @@ registrations.
 Advertising can be purchased during the registration process, or you
 can use this button to purchase advertising *without* convention registration:
 
-<!----><a class="fancy-button" href="https://cvent.me/ZnoZLw?rt=GJT4bzbOv0S-wVSLdNVddw&RefId=sfago2024.org%2Fadvertise" rel="external" target="_blank">Purchase advertising only</a>
+<!----><a class="disabled fancy-button">Purchase advertising only</a>
+
+(Registration is now closed)
+
 </div>
 
 # Exhibit Hours
@@ -76,10 +82,10 @@ You can also see exhibit hours in the <a href="/schedule/">schedule</a>.
 
 **Please note that exhibit booths are now sold out.** Find more information in the {% pdf_link(href="/attachments/AGO 2024 Exhibits - V13.pdf") %}Exhibitor Kit{% end %}.
 
-Information about shipping, storage, and equipment moving is available from {{ contact(name="Curtin Convention", slug="curtin-convention-exposition-services-inc") }}, the official Exhibits Service Contractor and official provider to the American Guild of Organists for this convention.
+Information about shipping, storage, and equipment moving is available from {% disabled_person_link() %}Curtin Convention{% end %}, the official Exhibits Service Contractor and official provider to the American Guild of Organists for this convention.
 
 {% contact_card(name="Curtin Convention & Exposition Services, Inc.") %}
-<a class="disabled">[contact removed post-event]</a>
+<a class="disabled">[contact info removed post-event]</a>
 {% end %}
 
 ## Exhibitors
@@ -299,8 +305,8 @@ Information about shipping, storage, and equipment moving is available from {{ c
 
 # Contact Us
 
-**Questions about exhibits or advertising?** Contact {{ contact(name="Maury A. Castro") }}.
+**Questions about exhibits or advertising?** Contact {% disabled_person_link() %}Maury A. Castro{% end %}.
 
 {% contact_card(name="Maury A. Castro", position="Advertising Manager") %}
-<a class="disabled">[contact removed post-event]</a>
+<a class="disabled">[contact info removed post-event]</a>
 {% end %}

@@ -27,7 +27,8 @@ application to secure the reduced rate for the convention.
 
 <div class="action-panel">
 <p><strong>Click this button to register for AGO 2024 San Francisco:</strong></p>
-<a class="fancy-button" href="https://cvent.me/xdER8R?rt=NADRUV8wnEW6fR5Niy5H6g&RefId=sfago2024.org%2Fregister" rel="external" target="_blank">Register online</a><br>
+<a class="disabled fancy-button">Register online</a><br>
+<p>(Registration is now closed)</p>
 </div>
 
 # Registration Rates
@@ -38,7 +39,7 @@ application to secure the reduced rate for the convention.
       <th></th>
       <th class="expired"><strong>Super Saver</strong><br>Through 1/31/24</th>
       <th class="expired"><strong>Early</strong><br>2/1/24&thinsp;–&thinsp;3/15/24</th>
-      <th class="current"><strong>Regular</strong><br>3/16/24&thinsp;–&thinsp;6/30/24</th>
+      <th class="expired"><strong>Regular</strong><br>3/16/24&thinsp;–&thinsp;6/30/24</th>
     </tr>
   </thead>
   <tbody>
@@ -46,37 +47,37 @@ application to secure the reduced rate for the convention.
       <td><strong>Member – Regular</strong></td>
       <td class="expired">$595</td>
       <td class="expired">$645</td>
-      <td class="current">$695</td>
+      <td class="expired">$695</td>
     </tr>
     <tr>
       <td><strong>Member – Special</strong><br>(disabled or age&thinsp;&ge;&thinsp;65)</td>
       <td class="expired">$570</td>
       <td class="expired">$620</td>
-      <td class="current">$670</td>
+      <td class="expired">$670</td>
     </tr>
     <tr>
       <td><strong>Young Organist</strong><br>(age&thinsp;&lt;&thinsp;30)</td>
       <td class="expired">$395</td>
       <td class="expired">$395</td>
-      <td class="current">$395</td>
+      <td class="expired">$395</td>
     </tr>
     <tr>
       <td><strong>Spouse/<wbr>Partner</strong></td>
       <td class="expired">$570</td>
       <td class="expired">$620</td>
-      <td class="current">$670</td>
+      <td class="expired">$670</td>
     </tr>
     <tr>
       <td><strong>Non-member</strong></td>
       <td class="expired">$645</td>
       <td class="expired">$695</td>
-      <td class="current">$745</td>
+      <td class="expired">$745</td>
     </tr>
     <tr>
       <td><strong>Daily</strong></td>
       <td class="expired">N/A</td>
       <td class="expired">N/A</td>
-      <td class="current">$345</td>
+      <td class="expired">$345</td>
     </tr>
   </tbody>
 </table>
@@ -132,10 +133,10 @@ The 2024 AGO National Convention hopes everyone who registers for the conference
 
 * Registration canceled **on or after May 16, 2024,** will *NOT* receive a refund. *Registration fees may be transferred to another individual;* the invoice for the new registration will be revised to reflect the new registrant's membership status.
 
-Cancellation requests should be sent to {{ contact(name="Paul Ellison") }}.
+Cancellation requests should be sent to {% disabled_person_link() %}Paul Ellison{% end %}.
 
 {% contact_card(name="Paul Ellison", position="Registrar") %}
-<a class="disabled">[contact removed post-event]</a>
+<a class="disabled">[contact info removed post-event]</a>
 {% end %}
 
 # Check Payments
@@ -143,49 +144,50 @@ Cancellation requests should be sent to {{ contact(name="Paul Ellison") }}.
 If paying by check, please mail your check to:
 
 {% contact_card(name="SF AGO 2024") %}
-<a class="disabled">[contact removed post-event]</a>
+<a class="disabled">[contact info removed post-event]</a>
 {% end %}
 
 # Offline Registration
 
-If you're unable to register online, please contact {{ contact(name="Paul Ellison") }}.
+If you're unable to register online, please contact {% disabled_person_link() %}Paul Ellison{% end %}.
 
 # Volunteer
 
 Looking to connect with more people at SF AGO 2024? Opportunities exist before, during, and after
 the convention. If you're interested in helping, please
-{% external_link(href="https://forms.gle/sTJAS18rVyu3R4me8") %}fill out our Volunteer Form{% end %}.
+{% disabled_link() %}fill out our Volunteer Form{% end %}.
 If you have further questions or need help filling out the form, please contact
-{{ contact(name="Rani Fischer") }}.
+{% disabled_person_link() %}Rani Fischer{% end %}.
 
 {% contact_card(name="Rani Fischer", position="Volunteer Coordinator") %}
-<a class="disabled">[contact removed post-event]</a>
+<a class="disabled">[contact info removed post-event]</a>
 {% end %}
 
 # Receptions – Alumni, Denominational, and Corporate
 
 Building community is integral to the AGO Mission. As such, opportunities are available to host
-receptions during the convention. For more information, please contact {{ contact(name="Valerie Franzen") }}
+receptions during the convention. For more information, please contact {% disabled_person_link() %}Valerie Franzen{% end %}
 and include the word "reception" in the subject line.
 
 {% contact_card(name="Valerie Franzen") %}
-<a class="disabled">[contact removed post-event]</a>
+<a class="disabled">[contact info removed post-event]</a>
 {% end %}
 
 # Tickets for Public Concerts
 
 <div class="action-panel">
 <p><strong>Click this button to purchase tickets for public concerts:</strong></p>
-<a class="fancy-button" href="https://sfago2024.eventbrite.com" rel="external" target="_blank">Purchase tickets online</a><br>
+<a class="disabled fancy-button">Purchase tickets online</a><br>
+<p>(Ticket sales are now closed)</p>
 </div>
 
 Ticket sales for the two concerts open to the public&thinsp;—&thinsp;Faythe Freese (July 2) and Janette Fishell
 (July 3)&thinsp;—&thinsp;are now available through Eventbrite ({% external_link(href="https://sfago2024.eventbrite.com") %}sfago2024.eventbrite.com{% end %}). We have also
 set aside a number of **complimentary tickets for students** (school, college, or studying music with a
-teacher). For more information, please contact {{ contact(name="Mark Lieu") }}.
+teacher). For more information, please contact {% disabled_person_link() %}Mark Lieu{% end %}.
 
 {% contact_card(name="Mark Lieu", position="Tickets Coordinator") %}
-<a class="disabled">[contact removed post-event]</a>
+<a class="disabled">[contact info removed post-event]</a>
 {% end %}
 
 # Church Services & Concerts
